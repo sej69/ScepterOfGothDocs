@@ -1,0 +1,1612 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><HTML 
+xmlns="http://www.w3.org/1999/xhtml"><HEAD>
+<META content="text/html; charset=windows-1252" http-equiv="Content-Type">
+<META name="GENERATOR" content="MSHTML 9.00.8112.16457">
+<META name="author" content="David A. Wheeler">
+<META name="date" content="2012–05–25"><TITLE>Scepter of Goth</TITLE></HEAD>
+<BODY>
+<DIV id="header">
+<H1 class="title">Scepter of Goth</H1>
+<H3 class="author">David A. Wheeler</H3>
+<H4 class="date">2012–05–25</H4></DIV>
+<DIV id="TOC">
+<UL>
+  <LI><A href="#history"><SPAN class="toc-section-number">1</SPAN> History</A>
+  <UL>
+    <LI><A href="#early-history"><SPAN class="toc-section-number">1.1</SPAN> 
+    Early history</A></LI>
+    <LI><A href="#first-commercial-deployment"><SPAN 
+    class="toc-section-number">1.2</SPAN> First commercial deployment</A></LI>
+    <LI><A href="#interplay"><SPAN class="toc-section-number">1.3</SPAN> 
+    InterPlay</A></LI>
+    <LI><A href="#influence-on-later-systems"><SPAN 
+    class="toc-section-number">1.4</SPAN> Influence on later systems</A></LI>
+  </UL></LI>
+  <LI><A href="#dunjon-masters-dungeon-masters-or-dms"><SPAN class="toc-section-number">2</SPAN> 
+  Dunjon Masters (Dungeon Masters or DMs)</A>
+  <UL>
+    <LI><A href="#expectation-of-online-dms"><SPAN 
+    class="toc-section-number">2.1</SPAN> Expectation of online DMs</A></LI>
+    <LI><A href="#attributes"><SPAN class="toc-section-number">2.2</SPAN> 
+    Attributes</A></LI>
+    <LI><A href="#handling-resets"><SPAN class="toc-section-number">2.3</SPAN> 
+    Handling resets</A></LI></UL></LI>
+  <LI><A href="#user-experience"><SPAN class="toc-section-number">3</SPAN> User 
+  Experience</A>
+  <UL>
+    <LI><A href="#basic-mechanics-and-commands"><SPAN 
+    class="toc-section-number">3.1</SPAN> Basic Mechanics and Commands</A></LI>
+    <LI><A href="#player-vs.player"><SPAN class="toc-section-number">3.2</SPAN> 
+    Player vs.&nbsp;Player</A></LI>
+    <LI><A href="#worlds"><SPAN class="toc-section-number">3.3</SPAN> 
+    Worlds</A></LI>
+    <LI><A href="#examples"><SPAN class="toc-section-number">3.4</SPAN> 
+    Examples</A></LI></UL></LI>
+  <LI><A href="#dunjon-master-dm-commands"><SPAN 
+  class="toc-section-number">4</SPAN> Dunjon Master (DM) Commands</A>
+  <UL>
+    <LI><A href="#dm-only-commands"><SPAN class="toc-section-number">4.1</SPAN> 
+    DM-only commands</A></LI>
+    <LI><A href="#basic-edit-commands"><SPAN 
+    class="toc-section-number">4.2</SPAN> Basic *edit commands</A></LI>
+    <LI><A href="#room-parameters"><SPAN class="toc-section-number">4.3</SPAN> 
+    Room parameters</A></LI>
+    <LI><A href="#player-parameters"><SPAN class="toc-section-number">4.4</SPAN> 
+    Player parameters</A>
+    <UL>
+      <LI><A href="#general-parameters"><SPAN 
+      class="toc-section-number">4.4.1</SPAN> General parameters</A></LI>
+      <LI><A href="#basic-statistics"><SPAN 
+      class="toc-section-number">4.4.2</SPAN> Basic statistics</A></LI>
+      <LI><A href="#skills-and-experience"><SPAN 
+      class="toc-section-number">4.4.3</SPAN> Skills and experience</A></LI>
+      <LI><A href="#class-values"><SPAN class="toc-section-number">4.4.4</SPAN> 
+      Class values</A></LI>
+      <LI><A href="#leveling-through-experience-points"><SPAN class="toc-section-number">4.4.5</SPAN> 
+      Leveling through experience points</A></LI></UL></LI>
+    <LI><A href="#monster-parameters"><SPAN 
+    class="toc-section-number">4.5</SPAN> Monster parameters</A>
+    <UL>
+      <LI><A href="#basic"><SPAN class="toc-section-number">4.5.1</SPAN> 
+      Basic</A></LI>
+      <LI><A href="#primary"><SPAN class="toc-section-number">4.5.2</SPAN> 
+      Primary</A></LI>
+      <LI><A href="#secondary"><SPAN class="toc-section-number">4.5.3</SPAN> 
+      Secondary</A></LI>
+      <LI><A href="#experience"><SPAN class="toc-section-number">4.5.4</SPAN> 
+      Experience</A></LI></UL></LI>
+    <LI><A href="#object-parameters"><SPAN class="toc-section-number">4.6</SPAN> 
+    Object parameters</A>
+    <UL>
+      <LI><A href="#armor"><SPAN class="toc-section-number">4.6.1</SPAN> 
+      Armor</A></LI>
+      <LI><A href="#card"><SPAN class="toc-section-number">4.6.2</SPAN> 
+      Card</A></LI>
+      <LI><A href="#containerchest"><SPAN 
+      class="toc-section-number">4.6.3</SPAN> Container/Chest</A></LI>
+      <LI><A href="#door"><SPAN class="toc-section-number">4.6.4</SPAN> 
+      Door</A></LI>
+      <LI><A href="#key"><SPAN class="toc-section-number">4.6.5</SPAN> 
+      Key</A></LI>
+      <LI><A href="#magicaldevice-magdevice"><SPAN 
+      class="toc-section-number">4.6.6</SPAN> Magicaldevice (magdevice)</A></LI>
+      <LI><A href="#money"><SPAN class="toc-section-number">4.6.7</SPAN> 
+      Money</A></LI>
+      <LI><A href="#portal"><SPAN class="toc-section-number">4.6.8</SPAN> 
+      Portal</A></LI>
+      <LI><A href="#scroll"><SPAN class="toc-section-number">4.6.9</SPAN> 
+      Scroll</A></LI>
+      <LI><A href="#shield"><SPAN class="toc-section-number">4.6.10</SPAN> 
+      Shield</A></LI>
+      <LI><A href="#teleport-teleportdevice"><SPAN 
+      class="toc-section-number">4.6.11</SPAN> Teleport / 
+      Teleportdevice</A></LI>
+      <LI><A href="#treasure"><SPAN class="toc-section-number">4.6.12</SPAN> 
+      Treasure</A></LI>
+      <LI><A href="#weapon-blunt-pole-sharp-thrust"><SPAN class="toc-section-number">4.6.13</SPAN> 
+      Weapon (blunt, pole, sharp, thrust)</A></LI></UL></LI>
+    <LI><A href="#indexeslists"><SPAN class="toc-section-number">4.7</SPAN> 
+    Indexes/lists</A></LI>
+    <LI><A href="#magic"><SPAN class="toc-section-number">4.8</SPAN> 
+    Magic</A></LI></UL></LI>
+  <LI><A href="#other-information"><SPAN class="toc-section-number">5</SPAN> 
+  Other information</A>
+  <UL>
+    <LI><A href="#all-possible-user-commands"><SPAN 
+    class="toc-section-number">5.1</SPAN> All possible user commands</A></LI>
+    <LI><A href="#attack-hit-calculation"><SPAN 
+    class="toc-section-number">5.2</SPAN> Attack hit calculation</A></LI>
+  </UL></LI>
+  <LI><A href="#references"><SPAN class="toc-section-number">6</SPAN> 
+  References</A></LI></UL></DIV>
+<P><STRONG>Scepter of Goth</STRONG>, also spelled <STRONG>Sceptre of 
+Goth</STRONG>, was the first commercial multi-user <A title="Role-playing game" 
+href="http://en.wikipedia.org/wiki/Role-playing_game">role-playing game 
+(RPG)</A> and the first commercial multi-user <A title="MUD" href="http://en.wikipedia.org/wiki/MUD">MUD</A>. 
+It was originally written by Alan E. Klietz and used simple text interaction (in 
+the style of Zork). Although other settings were implemented with the software, 
+it usually implemented a fantasy setting in the fictional city of “Boldhome”. 
+Scepter of Goth influenced many <A title="Multiplayer game" href="http://en.wikipedia.org/wiki/Multiplayer_game">multiplayer 
+games</A> that came after it, particularly the <A title="Swords of Chaos" href="http://en.wikipedia.org/wiki/Swords_of_Chaos">Swords 
+of Chaos</A> and <EM>Mordor</EM> series of MUDs. Scepter can be seen as one of 
+the key ancestors of today’s massively multiplayer online role-playing games (<A 
+title="MMORPG" href="http://en.wikipedia.org/wiki/MMORPG">MMORPGs</A>).</P>
+<P>I was the lead Scepter developer for InterPlay in the mid–1980s, where I 
+modified it, maintained it, and added various capabilities to it. However, a lot 
+of information about Scepter of Goth has disappeared from the Internet since 
+InterPlay folded. I have repeatedly requested for permission to post historical 
+records, to no avail.</P>
+<P>I think Scepter of Goth was an important part of the history of gaming. So 
+here I will try to record some of that information, for posterity. From here on 
+I’ll refer to myself in the third person, to make it easy for people who want to 
+cut and paste quotes. (Exception: I’ll refer to myself as “I” in the “Dunjon 
+Master (DM) Commands” section.)</P>
+<H1 id="history"><A href="#TOC"><SPAN class="header-section-number">1</SPAN> 
+History</A></H1>
+<H2 id="early-history"><A href="#TOC"><SPAN 
+class="header-section-number">1.1</SPAN> Early history</A></H2>
+<P>In 1978 Alan E. Klietz wrote a multi-player game called <EM>Milieu</EM> using 
+Multi-Pascal on a <A title="CDC Cyber" href="http://en.wikipedia.org/wiki/CDC_Cyber">CDC 
+Cyber</A> operated by the <A title="MECC" href="http://en.wikipedia.org/wiki/MECC">Minnesota 
+Educational Computing Consortium</A>. The MECC CDC Cyber was used by some high 
+school students and some state colleges in <A title="Minnesota" href="http://en.wikipedia.org/wiki/Minnesota">Minnesota</A> 
+for educational purposes. Most CDC mainframes had only “128K words (60 bit 
+words) of memory and 110/300 baud teletypes or modems.” Playing on a faster 
+connection, 2400 BPS or the rare 9600 BPS could give some advantages in game 
+play. It was inspired by the single-player computer games <EM><A title="Colossal Cave Adventure" 
+href="http://en.wikipedia.org/wiki/Colossal_Cave_Adventure">Colossal Cave 
+Adventure</A></EM> and <EM><A title="Zork" href="http://en.wikipedia.org/wiki/Zork">Zork</A></EM>, 
+as well as <A title="Role-playing game" href="http://en.wikipedia.org/wiki/Role-playing_game">non-computer 
+RPGss</A> such as <EM><A title="Dungeons &amp; Dragons" href="http://en.wikipedia.org/wiki/Dungeons_&amp;_Dragons">Dungeons 
+&amp; Dragons</A></EM>.</P>
+<P>This date is confirmed by Michael J. Tresca’s <A href="http://books.google.com/books?id=8H8bzqj6S4sC&amp;pg=PA114&amp;lpg=PA114#v=onepage&amp;q&amp;f=false">The 
+Evolution of Fantasy Role-Playing Games</A> page 114 which states that, “Alan E. 
+Klietz produced Milieu in 1978. High school students across Minnesota were given 
+access to the mainframe for educational purposes.”</P>
+<P>Milieu may have been the first multi-player role-playing game (RPG) in the 
+world. The other contender for that role is Multi-User Dungeon (MUD), developed 
+in the UK by Richard Bartle; it was also developed in 1978. Bill Wisner believes 
+that Milieu probably predates MUD (Wisner). However, it is especially difficult 
+to determine which came first. Thus, as best can be determined, both Milieu and 
+MUD should be identified as the first multi-player RPGs in the world.</P>
+<H2 id="first-commercial-deployment"><A href="#TOC"><SPAN class="header-section-number">1.2</SPAN> 
+First commercial deployment</A></H2>
+<P>Klietz ported Milieu to an IBM XT in <A title="1983" href="http://en.wikipedia.org/wiki/1983">1983</A>, 
+naming the new port Scepter of Goth. Scepter of Goth supported 10 to 16 
+simultaneous users, typically connecting in by modem, and ran on the <A title="QNX" 
+href="http://en.wikipedia.org/wiki/QNX">QNX</A> operating system (a Unix-like 
+operating system) on an IBM XT running at 4.77MHz. It was programmed in the <A 
+title="C (programming language)" href="http://en.wikipedia.org/wiki/C_(programming_language)">C 
+programming language</A>, using non-portable QNX extensions for 8086/80286 
+memory segmentation.</P>
+<P>Scepter of Goth was the first commercial multi-player RPG in the world, 
+because it was running and had paying customers in 1983. Michael J. Tresca’s <A 
+href="http://books.google.com/books?id=8H8bzqj6S4sC&amp;pg=PA114&amp;lpg=PA114#v=onepage&amp;q&amp;f=false">The 
+Evolution of Fantasy Role-Playing Games</A> page 114 states that, “Klietz 
+transitioned the game to an IBM XT in 1983, which supported up to 16 players 
+simultaneously over the modem, and renamed it Scepter of Goth. It was the first 
+commercial MUD, run by GamBit.” <A href="http://www.mud.co.uk/richard/imucg5.htm">Richard 
+Bartle also notes that Milieu was ported to an IBM XT in 1983 and renamed as 
+Scepter of Goth.</A> Bob Alberti recalls putting in a Christmas theme in 1983 
+where the town mayor was changed to Santa, orcs became rapid reindeer, and so 
+on. The players were officially called playtesters, but these playtesters paid 
+to play Scepter, so Scepter was clearly commercially available in 1983 (Per an 
+unpublished email from Bob Alberti Jr. to David A. Wheeler dated 
+2012–05–20).</P>
+<P>Other commercial contenders came later. The first commercial implementation 
+of Essex MUD (the other likely contender) wasn’t up until 1984 by Compunet. 
+CompuNet was a UK-based network primarily for Commodore 64 users, which licensed 
+MUD1 and ran it from late 1984 until 1987. <A title="Richard Bartle" href="http://en.wikipedia.org/wiki/Richard_Bartle">Richard 
+Bartle</A>’s <EM><A title="MUD1" 
+href="http://en.wikipedia.org/wiki/MUD1">MUD1</A></EM> was running at Essex in 
+1983, but not with paying customers. Note that Klietz was unaware of MUD1 at the 
+time Scepter of Goth was initially developed; this is why it was initially 
+difficult to figure out which came first. Mark Peterson’s “Realm of Angmar” 
+started as a clone of Scepter, and it appeared in 1984, so clearly Scepter came 
+first. Another early commercial multi-player RPG was <A title="Island of Kesmai" 
+href="http://en.wikipedia.org/wiki/Island_of_Kesmai">Island of Kesmai</A>, a 
+multiplayer RPG that used roguelike pseudo-graphics, but Kesmai wasn’t launched 
+on CompuServe until 1985 (significantly after Scepter). In short, Scepter of 
+Goth was the first commercial multi-player RPG in the US.</P>
+<P>Scepter was first owned and run by GamBit (of Minneapolis, Minnesota), 
+founded by at least Klietz, Bob Alberti (Senior), and Bob Alberti (Junior). 
+Scepter of Goth was handled as a franchising business: franchisees paid for the 
+right to run the system in a certain area, and a system was provided to them. 
+Franchisees then administered the system and collected fees from users. Users 
+would then dial in to play; while a franchisee could accept calls from outside 
+their local phone call area, the extra charges this imposed on users meant that 
+users tended to use the franchisee that was local or at least closest to them. 
+Each franchisee would set their rates; most charged a certain fee per hour 
+(typically $2-$4 per hour), since only a limited number of users could play 
+simultaneously. GamBit also had an unfinished advanced MUD by Klietz called 
+Screenplay, but this was never widely deployed. <A title="GamBit History" href="http://albatross.org/images/20100801Gambit/pss.php">A 
+history of GamBit</A> shows some of the key documents from GamBit’s history.</P>
+<H2 id="interplay"><A href="#TOC"><SPAN class="header-section-number">1.3</SPAN> 
+InterPlay</A></H2>
+<P>GamBit’s assets, including Scepter and Screenplay, were then sold to 
+InterPlay (of Fairfax, Virginia). InterPlay continued to sell franchises as well 
+as maintaining its own nationwide chat system (ProtoCall). InterPlay’s lead 
+Scepter developer <A title="David A. Wheeler" href="http://en.wikipedia.org/wiki/David_A._Wheeler">David 
+A. Wheeler</A> modified and maintained Scepter, adding a number of capabilities 
+and fixing various bugs to improve its stability.</P>
+<P>As a result of this franchising business model, several Scepter of Goth 
+systems ended up running in various locations, including at least ones in the 
+following locations: Minneapolis, Minnesota; Austin, Texas; Chicago, Illinois; 
+Ottawa, Canada; Fairfax, Virginia; West Valley City, Utah; and Bowie, Maryland. 
+The system also included electronic mail, bulletin boards, a separate chat 
+system, and some other facilities, but the game itself was the primary draw for 
+its users. At a time when most Bulletin Board Systems (BBSs) only allowed one 
+person to log in at a time, larger dial-in services had few interactive 
+services, and Internet access was rare, Scepter was a startling new development 
+to many. It was also accessible to anyone, not just those at one or two 
+universities, so it was seen and used by a variety of people.</P>
+<P>Unfortunately, Interplay president Denny Flanders was charged and eventually 
+convicted for tax evasion (for actions unrelated to the company), and was 
+sentenced to jail. Although InterPlay could show that its revenue was increasing 
+and when it would start turning a profit, the venture capitalists who had funded 
+InterPlay were not willing to wait, and pulled their remaining funds. Once the 
+funds were pulled, InterPlay immediately went bankrupt, and Scepter was no 
+longer widely available.</P>
+<H2 id="influence-on-later-systems"><A href="#TOC"><SPAN class="header-section-number">1.4</SPAN> 
+Influence on later systems</A></H2>
+<P>Scepter influenced other work that followed after it. In particular:</P>
+<UL>
+  <LI>One of the later Sceptre of Goth licensees was a company started by Rob 
+  Denton, <A title="Matt Firor" 
+  href="http://en.wikipedia.org/wiki/Matt_Firor">Matt Firor</A>, Don Campbell, 
+  and others, which was slated to run in the Atlanta area. Because of financial 
+  problems at InterPlay, the system was never installed, prompting Denton, 
+  Firor, and Campbell to write their own text-based, multi-user online game 
+  named <EM>Tempest</EM> - later renamed <EM>Darkness Falls</EM>. Their company, 
+  Interesting Systems, eventually merged with another company to form <A title="Mythic Entertainment" 
+  href="http://en.wikipedia.org/wiki/Mythic_Entertainment">Mythic 
+  Entertainment</A>, and <EM>Darkness Falls</EM> became the codebase for 
+  Mythic’s 2001 worldwide hit MMORPG, <EM><A title="Dark Age of Camelot" href="http://en.wikipedia.org/wiki/Dark_Age_of_Camelot">Dark 
+  Age of Camelot</A></EM>.</LI>
+  <LI>Mark Peterson was “hooked on Scepter of Goth” in 1984, and after running 
+  out of money playing Scepter he wrote his own. His first MUD, <EM>The Realm of 
+  Angmar</EM>, was written in Pascal in 1984, and began as a clone of Scepter of 
+  Goth, though soon he added his own ideas. This was ported to Unix, then to an 
+  Apple ][ in assembly language (renamed <EM>Angbar</EM>), rewritten in C on 
+  Xenix as <EM>Angmar</EM>. It was then rewritten to run on DOS to be compatible 
+  with the MajorBBS (and other BBSs of the time) and renamed <A title="Swords of Chaos" 
+  href="http://en.wikipedia.org/wiki/Swords_of_Chaos">Swords of Chaos</A>, which 
+  for many years was a successful commercial MUD sold to various BBS operators 
+  until widespread Internet access eclipsed local BBS systems.</LI>
+  <LI>Brett Vickers developed the noncommercial MUD <EM>Quest for Mordor</EM>, 
+  and specifically noted Scepter of Goth as his inspiration. Keegan states that 
+  “the authors of <EM>Mordor</EM> adapted ideas from Scepter of Goth for their 
+  publicly distributed (in 1993) mud server software.” That MUD in turn spawned 
+  other MUDs such as <EM>Darbonne</EM>, <EM>Chalacyn Nights</EM> and 
+  <EM>Isengard</EM>. Brett Vickers eventually joined Arenanet, developers of the 
+  MMORPG <EM><A title="Guild Wars" href="http://en.wikipedia.org/wiki/Guild_Wars">Guild 
+  Wars</A></EM>.</LI>
+  <LI>Tom Zelinski (InterPlay vice-president) and Susan Zelinski (another of 
+  InterPlay’s employees) co-founded the company <A title="Simutronics" href="http://en.wikipedia.org/wiki/Simutronics">Simutronics</A> 
+  with <A title="David Whatley" href="http://en.wikipedia.org/wiki/David_Whatley">David 
+  Whatley</A>. Simutronics went on to develop a number of multiplayer games. 
+  This includes various versions of <EM><A title="GemStone IV" href="http://en.wikipedia.org/wiki/GemStone_IV">GemStone</A></EM>, 
+  which was originally accessed through General Electric’s internet service 
+  provider GEnie, later was accessible through AOL, Prodigy, and CompuServe, and 
+  eventually on Simutronics’ own systems.</LI>
+  <LI><A title="J. Todd Coleman" href="http://en.wikipedia.org/wiki/J._Todd_Coleman">J. 
+  Todd Coleman</A> was an assistant DM on the Austin-based installation of 
+  Scepter of Goth. In college, Todd teamed up with Josef Hall and James Nance to 
+  create <EM>ChaosMUD</EM> (a <A title="Dikumud" href="http://en.wikipedia.org/wiki/Dikumud">dikumud</A> 
+  derivative), and the three of them subsequently founded both <A title="Wolfpack Studios" 
+  href="http://en.wikipedia.org/wiki/Wolfpack_Studios">Wolfpack Studios</A>, 
+  (the company that created <EM><A title="Shadowbane" href="http://en.wikipedia.org/wiki/Shadowbane">Shadowbane</A></EM> 
+  and was acquired by <A title="Ubi Soft Entertainment" href="http://en.wikipedia.org/wiki/Ubi_Soft_Entertainment">Ubi 
+  Soft Entertainment</A> in 2003) and KingsIsle Entertainment, the creators of 
+  the children’s MMO <EM><A title="Wizard101" href="http://en.wikipedia.org/wiki/Wizard101">Wizard101</A></EM>.</LI>
+  <LI><EM><A title="Meridian 59" 
+  href="http://en.wikipedia.org/wiki/Meridian_59">Meridian 59</A></EM>, the 
+  first commercial, 3D massively multiplayer game, was inspired by Scepter of 
+  Goth. (Kirmse)</LI></UL>
+<P>Many MUDs and MMORPGs, commercial and noncommercial, are inspired by and use 
+ideas from a variety of sources to develop their own work — including ideas from 
+Scepter. In particular, Scepter helped demonstrate that it was possible to 
+develop such multi-player games, and that there was a demand for them.</P>
+<H1 id="dunjon-masters-dungeon-masters-or-dms"><A href="#TOC"><SPAN class="header-section-number">2</SPAN> 
+Dunjon Masters (Dungeon Masters or DMs)</A></H1>
+<P>Those few people who had the privileged status “Dunjon Master” (now more 
+typically spelled as “Dungeon Master”, and always abbreviated DM) could execute 
+a set of special privileged commands that modified the game’s status. DMs could 
+create, modify attributes (including location), or remove rooms, objects, 
+monsters (non-player characters), and players (collectively called “things”). 
+These commands were typically used to create new or modified areas for the 
+players to explore, so that the players (paying customers) would have a reason 
+to keep returning.</P>
+<P>DM status was not earned through play, but had to be specially granted by the 
+system’s administrators. Typically the franchise owner, and a very few others, 
+would have this status. DMs operated as referees, and the difference between a 
+good and bad franchise often depended on the capabilities of the DMs.</P>
+<H2 id="expectation-of-online-dms"><A href="#TOC"><SPAN class="header-section-number">2.1</SPAN> 
+Expectation of online DMs</A></H2>
+<P>The expectation (at least by InterPlay) was that at least one DM would be 
+online most of the time while players were connected. DMs would be alerted of 
+certain events, or do occasional spot-checks, and were expected to occasionally 
+act in ways that would make the paying players’ experience more fun. The DMs 
+typically did not constantly monitor the system, but would be alerted when 
+certain actions occurred. For example, rooms could be set so that DMs would be 
+automatically notified when a player entered them. Other actions, such as making 
+a wish, would also alert DMs (so the DM could determine how to respond to the 
+wish). DMs could then perform a variety of actions. For example, they could make 
+it appear that a monster could fully understand language and have the monster 
+perform arbitrary actions. DMs could also create monsters and objects on the fly 
+to create an interesting setting. DMs could essentially take control of 
+monsters-making them do and say as the DM pleases. Many DMs were very benevolent 
+and acclimated newbies to the MUD. Many DMs spent their time creating new worlds 
+and monsters as well. If a DM had anticipated a complex action, the DM could 
+execute a script of their own design on command.</P>
+<P>DMs’ occasional actions made the game appear far more varied and 
+“intelligent” than any software could manage by itself.</P>
+<H2 id="attributes"><A href="#TOC"><SPAN 
+class="header-section-number">2.2</SPAN> Attributes</A></H2>
+<P>Scepter was not fully programmable by the DMs, or even by the franchisees 
+(who only received the executable files). Instead, rooms, monsters, players, and 
+objects had a large set of attributes that could be set by DMs; these values 
+influenced the underlying engine. On the positive side, this made it fairly easy 
+for non-programmers to create situations as complex as the underlying software 
+would permit. However, this also meant that many complicated scenarios could not 
+be implemented by the system itself, but instead would have to be implemented by 
+online DMs. This limitation was in part because of the limited computing power 
+available at the time, and was one of the limitations removed by the 
+never-completed ScreenPlay.</P>
+<P>The game did support a number of settable attributes that was extensive for a 
+game of its time; combinations of attributes were used to achieve various useful 
+effects. Monster attributes included block (tries to prevent player from leaving 
+the room), follow (follows the player), guard (completely prevents player from 
+picking up anything in the room), magic (cannot be harmed by non-magic weapons), 
+spell casting (can cast spells), undead (can be turned), and rust (weakens 
+player’s primary weapon or armor). The object type had many different subtypes 
+(such as door, key, armor, weapon, teleport device, money, chest, and so on), 
+and each subtype had a set of attributes peculiar to that subtype. For example, 
+a teleport device had the attribute for where it would teleport to, and 
+(optionally) what room the user had to be in before it would work; this meant 
+that players would need to decipher clues on where they had to go to use the 
+device.</P>
+<P>All things had the attribute “description”, the text shown when looking at 
+the thing. Descriptions could be multivalued; a description beginning with the 
+slash character “/” was followed by multiple descriptions, each separated by a 
+slash. When a multivalued description was to be displayed, one of the values was 
+randomly chosen. Multivalued descriptions were used to vary the descriptions so 
+that they would not be so repetitive. This feature was also used to simulate 
+examining an object: if there were 4 identical descriptions for an object, plus 
+a different description that gave a clue, then a user might need to look at an 
+object several times before obtaining the clue.</P>
+<H2 id="handling-resets"><A href="#TOC"><SPAN 
+class="header-section-number">2.3</SPAN> Handling resets</A></H2>
+<P>In any MUD, a major challenge is handling resets. In Scepter, when a player 
+entered a room that was not in memory, the room would be loaded into memory and 
+set as necessary, with any (live) monster stored in the room (a “permanent” 
+monster) set to their maximum health. Once a player no longer was in a room, it 
+would be eventually retired from memory and that status would be saved back to 
+disk. “Permanent” monsters that were still alive were written back. If a DM 
+directly placed a permanent monster in a room, and the monster died, it simply 
+stayed dead without any automatic reset; if a DM wanted to revive the monster, 
+the DM had to send a command to do it.</P>
+<P>Scepter was designed to allow easy displays of settings (for later 
+reloading), so DMs would often simply store in a file the commands to reset a 
+given area, and then load that file when they wished to reset an area. This was 
+consistent with the notion that DMs were often online anyway; the goal was to 
+simply make it easy for DMs to issue the commands to reset an area when the DM 
+determined that was the right thing to do. Rooms could be set to periodically 
+generate a random monster from a list (which would not be permanent), and 
+monsters could be set to generate a set of treasures when killed, and these 
+lists were separately maintained. Thus, a room in an “ice castle” might point to 
+a list of different cold-related monsters, and killing the monster might produce 
+one of a set of cold-related treasures.</P>
+<H1 id="user-experience"><A href="#TOC"><SPAN 
+class="header-section-number">3</SPAN> User Experience</A></H1>
+<H2 id="basic-mechanics-and-commands"><A href="#TOC"><SPAN class="header-section-number">3.1</SPAN> 
+Basic Mechanics and Commands</A></H2>
+<P>Scepter had <EM><A title="Dungeons &amp; Dragons" href="http://en.wikipedia.org/wiki/Dungeons_&amp;_Dragons">Dungeons 
+&amp; Dragons</A></EM>-like role-playing, combat, character classes, and levels. 
+The normal classes were cleric, fighter, lady (female only), magic-user, 
+paladin, ranger, and thief; it also had the special classes assassin and 
+barbarian, which could not be directly selected by players. As with other 
+similar games, killing monsters or obtaining certain items gave a player 
+“experience points”, and a sufficient number of experience points would grant 
+the player’s character a higher level (which granted more hit points and power). 
+Combat occurred blow-by-blow; if a player’s “vitality” (also termed hit points) 
+dropped below zero, they died; death would cause the character to lose one or 
+two levels, and reappear at the standard starting point for the game. Vitality 
+would slowly regenerate until it reached maximum vitality; the maximum vitality 
+increased when a level was gained.</P>
+<P>Typical single-player adventure game text commands were accepted, such as 
+“north” to go north, “get X” to get object X, “inventory” to show the list of 
+current carried items, “drop X” to drop carried item X, and “attack X” to attack 
+monster or player X. The command “follow X” would cause the player to follow 
+player or monster X; this command was used to form groups of players.</P>
+<P>The game had a built-in system for magic. Casting a spell required a certain 
+number of “magic points”, which like vitality slowly regenerated up to a maximum 
+number of magic points for the character. Some spells could only be cast by 
+certain character classes, and a character could not cast a spell until they had 
+“learned” it (from a scroll or another character). Casting a spell also required 
+entering a chant (a text phrase); a DM might occasionally change a chant, making 
+the spell unusable to everyone until the characters had figured out the new 
+chant (typically by solving riddles in adventures). The most powerful spell 
+(castable only by high-level mages) was “wish”, which permanently cost one point 
+of constitution and sent the wish’s text to a DM to determine how to respond to 
+it. DMs were obligated to maintain game balance, and Scepter’s lack of 
+programmability meant some wishes could not be exactly granted, but wishes to 
+create a specially powerful weapon, or to create an extraordinary magical “home” 
+for the player and/or his friends, could indeed be granted.</P>
+<H2 id="player-vs.player"><A href="#TOC"><SPAN 
+class="header-section-number">3.2</SPAN> Player vs.&nbsp;Player</A></H2>
+<P>Scepter had several mechanisms to prevent powerful player characters from 
+constantly killing significantly weaker player characters. Such killing was 
+considered very undesirable because it would drive paying customers away; 
+players would generally complain about “unfair” fights. Some rooms were set as 
+being “safe rooms” (where players could not attack each other), including the 
+locations where new players began. Some doors had attributes that limited the 
+minimum and maximum levels of characters who could go through them. Scepter also 
+had a mechanisms to penalize certain kinds of player-on-player killing. In 
+earlier versions, player-killing was occasionally followed by creation of an 
+unkillable monster called the “Revenant”, who would attack the killer until the 
+other player was also dead. In later versions, if a player with a much higher 
+level killed another player’s character, a “ghost” of the low-level character 
+with power equal to the killer would appear and attack the killer; no experience 
+points were granted for killing the ghost.</P>
+<H2 id="worlds"><A href="#TOC"><SPAN class="header-section-number">3.3</SPAN> 
+Worlds</A></H2>
+<P>The typical setting used in Scepter of Goth was a fantasy setting involving 
+the town of Boldhome and outlying areas. Adventurers would meet in Boldhome, buy 
+or sell equipment, and set out to adventure. Dungeon Masters would occasionally 
+create new areas in which to adventure, or modify those areas. One oft-used 
+motif in many franchises was that the primary shop (“Sharkeys”) was considered 
+illegal by the Boldhome authorities, so it was constantly being closed by the 
+Boldhome police and reopening somewhere else, requiring players to look for 
+clues for its new location. (The typical notice said, “By Order of the Boldhome 
+Police: This illegal establishment has been closed…”). Boldhome included a 
+newspaper stand; the newspaper reported various things including obituaries 
+(noteworthy deaths, including text by the player about his character’s demise). 
+Other important locations included a combat arena and training areas for each 
+class.</P>
+<P>Before its closing, InterPlay worked with <A title="Margaret Weis" href="http://en.wikipedia.org/wiki/Margaret_Weis">Margaret 
+Weis</A> and <A title="Tracy Hickman" href="http://en.wikipedia.org/wiki/Tracy_Hickman">Tracy 
+Hickman</A> to create a <EM><A title="Dragonlance" href="http://en.wikipedia.org/wiki/Dragonlance">Dragonlance</A></EM>-based 
+environment, but this was never as popular as the Boldhome environment.</P>
+<P>Many areas were explicitly designed to require multi-character groups. Areas 
+might be designed so that a set of different classes was required to succeed, or 
+only a low-level character could get a key (while only a high-level character 
+would succeed against a certain monster). This was often accomplished by 
+inserting portals into the area; portals could be set to require specific class, 
+or to require minimum and maximum levels. This encouraged the formation and 
+sustainment of groups.</P>
+<P>Typical Scepter games involved a mixture of combat and puzzle-solving, with 
+players talking with each other and working together so they could succeed. 
+Puzzle-solving was considered an important part of Scepter games, and these 
+puzzles were supported by several mechanisms. For example:</P>
+<UL>
+  <LI>One object type was the “portal”, an object that you could “go” to (or 
+  “enter”). If its attribute “invisible” was set to true, the only way to know 
+  what to “enter” would be to examine clues from the room description (or from 
+  elsewhere).</LI>
+  <LI>Teleport devices could be set to only work in a given room… and since 
+  there were many rooms, figuring out clues was necessary.</LI>
+  <LI>Doors might be locked, requiring the acquisition of a key.</LI>
+  <LI>The DMs could change the chant of one or more of the spells, and then set 
+  clues for determining what the new chant was; until the players could find the 
+  new chant, they could not use the spells.</LI>
+  <LI>Scepter supported variant descriptions, so talking with monsters several 
+  times might occasionally yield up clues.</LI>
+  <LI>In later versions of Scepter, players could “say” words to monsters (such 
+  as the bartender), and monsters could have certain responses set to occur 
+  based on the appearance of certain keywords in speech to them (including 
+  replying with speech or giving items). This simple mechanism made it possible 
+  to have complex puzzles and riddles with the limited computing capabilities of 
+  the day: riddles could be posed (such as in room descriptions, object 
+  descriptions, or by monsters), and the player would have to figure out what to 
+  say and who to say it to… possibly in a long chain.</LI></UL>
+<H2 id="examples"><A href="#TOC"><SPAN class="header-section-number">3.4</SPAN> 
+Examples</A></H2>
+<P>On May 15, 2012, Alan E. Kleitz sent to me (David A. Wheeler) a few sample 
+transcripts that showed some examples of Scepter in operation. These are 
+available here: <A title="Sample 1" 
+href="./scepter-sample1.txt">scepter-sample1</A>, <A title="Sample 2" href="./scepter-sample2.txt">scepter-sample2</A>, 
+and <A title="Example" href="./scepter-example.txt">scepter-example</A>.</P>
+<H1 id="dunjon-master-dm-commands"><A href="#TOC"><SPAN class="header-section-number">4</SPAN> 
+Dunjon Master (DM) Commands</A></H1>
+<P>This section describes the various commands available to DMs, in particular 
+the various parameters (attributes) that could be set to create various effects. 
+This material is based on “The Dunjon Master’s Editor User Manual” by Interplay, 
+Inc., copyright 1985–1986.</P>
+<P>I (David A. Wheeler) don’t have the rights to release the manual, sadly. 
+However, I believe I have the rights to release the material below. Although 
+copyright covers expression, facts themselves cannot be copyrighted. I have 
+rewritten the material in this section so that it is expressed differently, and 
+merely describes some of the same facts. Even if was determined that this 
+material overlapped another’s copyright, I believe that sharing this material is 
+a fair use, per 17 U.S.C. § 107. It is released for purposes of criticism, 
+comment news reporting, teaching, scholarship, and research. Here are comments 
+about how it meets the four parts of fair use:</P>
+<UL>
+  <LI>“The purpose and character of the use, including whether such use is of a 
+  commercial nature or is for nonprofit educational purposes” — this is not 
+  released in a commercial nature, but for nonprofit educational purposes, and 
+  in particular, enabling the recording of information for the future. I make no 
+  money out of releasing this.</LI>
+  <LI>“The nature of the copyrighted work” — Again, facts are not copyrightable, 
+  and this section describes facts of a particular system that is historically 
+  important in its field.</LI>
+  <LI>“The amount and substantiality of the portion used in relation to the 
+  copyrighted work as a whole” — This section does not cover all of the original 
+  material; substantial parts are missing.</LI>
+  <LI>“The effect of the use upon the potential market for or value of the 
+  copyrighted work.” — As of 2011 it’s hard to imagine this has any potential 
+  market. Many MUDs are available for free, and have been for over 20 years, and 
+  they are now far more capable than Scepter. AberMUD, the first open source 
+  software MUD, was released in 1987. Text-based MUDs in general have been 
+  completely eclipsed by graphical role-playing games, anyway, so there’s 
+  practically no commercial value in these kinds of systems at all. In any case, 
+  a description of the mechanics of a work like this does not reduce the value 
+  of the work itself; this simply describes the capabilities of a historical 
+  system, instead of competing with it.</LI></UL><!-- The DM commands are a user interface and application programming interface (API).  It was used as an API, because DMs would record commands in this language in a file, and re-run them.  <a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1325104">"A Sum Greater than its Parts?: Copyright Protection for Application Program Interfaces" by Efthimios Parasidis (Saint Louis University - School of Law), Texas Intellectual Property Law Journal, Vol. 14, pp. 59-90, 2005</a> discusses copyright law as it applies to APIs.  -->
+<P>Scepter of Goth underwent continual change, so this is really information at 
+an arbitrary point of time late in its development. It’s not even really 
+consistent, e.g., sometimes “Barbarian” is listed as a class — and sometimes it 
+is not.</P>
+<H2 id="dm-only-commands"><A href="#TOC"><SPAN 
+class="header-section-number">4.1</SPAN> DM-only commands</A></H2>
+<P>Users could type in normal commands like “get OBJECT” or “north”. A DM had a 
+player character, but that character had the “ZZ” (aka DM) parameter set so that 
+the player had a long list of additional privileges.</P>
+<P>DMs had a number of additional special commands, all beginning with “*”. 
+These were:</P>
+<UL>
+  <LI>*abort: abort program.</LI>
+  <LI>*bloat: Set bloat threshold (maximum memory for a room cluster)</LI>
+  <LI>*clean: Clean memory (erases random items in rooms)</LI>
+  <LI>*close: Close game, normal players can’t join. DMs can join.</LI>
+  <LI>*dayfile: Prints important events.</LI>
+  <LI>*edit: Enter “edit” mode.</LI>
+  <LI>*file: Display character files</LI>
+  <LI>*invisible: Makes DM (mostly) invisible to players; mainly, the DM isn’t 
+  directly visible to other players in the same room.</LI>
+  <LI>*monspeed: Number of seconds between monster speed, typically 4–8 seconds. 
+  If no number given as a parameter, the current speed is shown.</LI>
+  <LI>*nonexistant: Turns on/off nonexistant. A non-existant DM can’t normally 
+  be detected by any player. The “nuaers” command listed the total number of 
+  people, and thus unintentionally exposed nonexistent DMs, but this bug was was 
+  not broadcast to players.</LI>
+  <LI>*open: Allows players to play, reverting *close.</LI>
+  <LI>*panic: Instantly shut down without saving, intended for use if memory is 
+  corrupted.</LI>
+  <LI>*say: Print a message, without any of the prefix identification that would 
+  normally happen.</LI>
+  <LI>*send: Send a message without prefix.</LI>
+  <LI>*test: Only allows normal players with PL (playtest)=true. See *open and 
+  *close.</LI>
+  <LI>*update: Clean up files, like *clean.</LI>
+  <LI>*yell: Send a message without prefix.</LI></UL>
+<P>The most important command was *edit, which entered a mode that let DMs make 
+arbitrary changes to the world (a DM could create, delete, modify or show 
+anything).</P>
+<P>Scepter by itself was limited in what it could do, but a common DM trick was 
+to use *nonexistant and then wait for players to do something “interesting”. For 
+example, some rooms were set as NO=true (notify); a DM would be alerted when a 
+player entered that room (such as a bar or a quest end). The DM could then use 
+*send, *say, and *yell to display interesting responses, as well as the *edit 
+commands to change things in interesting ways. A good DM, by doing this 
+judiciously, could make it really fun to play.</P>
+<H2 id="basic-edit-commands"><A href="#TOC"><SPAN 
+class="header-section-number">4.2</SPAN> Basic *edit commands</A></H2>
+<P>The *edit command entered the Scepter Editor, which let DMs show and change 
+the world at run time. This had four basic commands: create, delete, modify, and 
+show.</P>
+<P>Here are the commands, and some examples:</P>
+<UL>
+  <LI>create TYPE NAME LOCATION [[,] STATS]: Create something (index, monster, 
+  object, character file). TYPE could be object, file, or monster. LOCATION 
+  might be a “in ROOM-NUMBER”, “in CONTAINER-NAME [in ROOM-NUMBER]”, “on 
+  NAME-OF-PLAYER-OR-MONSTER [in ROOM-NUMBER]”, and so on.
+  <UL>
+    <LI><TT>create monster orc in 35 lvl=4,hi=30</TT> (this is a specific 
+    example)</LI>
+    <LI><TT>create monster NAME in ROOM# STATS</TT> (how to create a 
+    monster)</LI>
+    <LI><TT>create obj NAME on PLAYER-NAME, STATS</TT> (how to create an object 
+    on an active player)</LI>
+    <LI><TT>create obj NAME file PLAYER-NAME USER-INDEX, STATS</TT> (how to 
+    create an object on an inactive player)</LI></UL></LI>
+  <LI>delete TYPE NAME LOCATION: Delete something (object, monster, room, 
+  character file)
+  <UL>
+    <LI><TT>del mon NAME ROOM#</TT></LI></UL></LI>
+  <LI>modify TYPE NAME LOCATION, STATS: Modify something (description line, 
+  random monster/object, character, monster, room)
+  <UL>
+    <LI><TT>mod room ROOM#, STATS</TT></LI>
+    <LI><TT>mod mon NAME in ROOM#, STATS</TT></LI>
+    <LI><TT>mod obj NAME in ROOM#, STATS</TT></LI></UL></LI>
+  <LI>show TYPE NAME LOCATION: Show the attributes of something (character, 
+  index, random monster/object, description index)
+  <UL>
+    <LI><TT>show room ROOM#</TT></LI>
+    <LI><TT>show mon NAME in ROOM#</TT></LI></UL></LI></UL>
+<P>I believe LOCATION could be omitted, in which case the location was the 
+current room. I believe you had to put a comma before any statistics if you did 
+this, so that it wouldn’t be interpreted as a location; e.g., <TT>create monster 
+orc, lvl=4, hi=30</TT>. This may have been a later addition.</P>
+<P>Show had a “brief mode” and a “verbose mode”. The verbose mode would show 
+everything in detail, and was good for new DMs, but the brief mode is what DMs 
+normally used. The brief mode would show the data in the form that could be used 
+to re-create the object, so you could capture that in a file for later 
+reuse.</P>
+<P>When creating or modifying things, a DM would set the statistics (aka 
+parameters or attributes) that would cause the desired result. So you needed to 
+know about the various attributes you could set.</P>
+<P>There were several main types, especially player, monster, room, object. The 
+“object” type had a parameter that was confusingly named TY (type), which 
+determined the subtype of the object. I will list the room parameters first, 
+since they are the simplest.</P>
+<H2 id="room-parameters"><A href="#TOC"><SPAN 
+class="header-section-number">4.3</SPAN> Room parameters</A></H2>
+<P>Here were the room parameters:</P>
+<UL>
+  <LI>AM= : anti-magic. Default false. If true, no player magic works in the 
+  room.</LI>
+  <LI>DI= : description index. Default 0. Room description; this is the number 
+  of the edescrp description file to print as the room description.</LI>
+  <LI>EN= : encounter time. Default 0 (no encounter). The time between random 
+  encounters.</LI>
+  <LI>ET= : encounter type. Default 0. The random monster index to use to 
+  determine the monster that is created in a random encounter.</LI>
+  <LI>N=, S=, E=, W=, U=, D=, OUT= : direction. Default=0. The number of the 
+  room north, south, east, west, up, down, out; 0 means “no exit that way”. 
+  There was no built-in “in”.</LI>
+  <LI>NO= : notify DM. Default false. If true, all logged-in DMs will be 
+  notified on player entry of the room.</LI>
+  <LI>SA= : safe haven. Default false. If true, no combat actions/spells can be 
+  used in the room. Used in some areas of town, so that low-level characters 
+  have a chance.</LI></UL>
+<P>Room numbers varied from 1 to 4095, and rooms weren’t really created, they 
+were just modified.</P>
+<P>Rooms 1–30 were special and never left memory:</P>
+<UL>
+  <LI>1: New players arrive here.</LI>
+  <LI>3: Drinks purchased here.</LI>
+  <LI>4: You can buy a newspaper here.</LI>
+  <LI>5: Player jail.</LI>
+  <LI>7: Kidnapped players are put here.</LI>
+  <LI>8: Pawn shop.</LI>
+  <LI>9: Guests arrive here. Scepter supported “guests” who typically weren’t 
+  paying; this let them see some of the game, without getting to play it all 
+  without paying for it.</LI>
+  <LI>10: Weapon shop.</LI>
+  <LI>13: Combat arena.</LI>
+  <LI>17: Players resurrected to here.</LI>
+  <LI>18: Weapon repair.</LI></UL>
+<P>One of the gimmicks in the game was that Sharkey’s (the shop) was illegal, so 
+it was always getting closed and then re-opened somewhere else. This set up 
+endless questing to find the shop. One of the description files at one point 
+read:</P>
+<BLOCKQUOTE>
+  <P>By Order of the Boldhome Police: This illegal establishment has been 
+  closed. Anyone attempting to open this door will be killed by a trap. Signed: 
+  Boldhome Chief Guardsman.</P></BLOCKQUOTE>
+<P>Another read:</P>
+<BLOCKQUOTE>
+  <P>Reward: Sharkeys opened temporarily in the backroom of the mercantile! He 
+  has been shut down again. A reward of 10 gold pieces is offered for 
+  information leading to his PERMANENT capture! Boldhome Police</P></BLOCKQUOTE>
+<H2 id="player-parameters"><A href="#TOC"><SPAN 
+class="header-section-number">4.4</SPAN> Player parameters</A></H2>
+<H3 id="general-parameters"><A href="#TOC"><SPAN 
+class="header-section-number">4.4.1</SPAN> General parameters</A></H3>
+<UL>
+  <LI>AC= : Armor class, range –10..99, default 10. Lower values are 
+  better.</LI>
+  <LI>AG= : Assassin’s guild member, true/false, default false. Players who are 
+  members of this guild are charged extra (in-game) fees, but in return, they 
+  receive a bonus when they hide or backstab, and will not be lynched if their 
+  piety is too low.</LI>
+  <LI>BR= : Brief mode, true/false, default false. If true, player sees brief 
+  info.</LI>
+  <LI>CL= : Class. Maybe assassin<EM>, barbarian</EM>, caretaker<EM>, cleric, 
+  fighter, lady (female only), magic-user, paladin, ranger, thief, town 
+  mayor</EM>. The starred classes must be set by a DM; players cannot simply 
+  become them.</LI>
+  <LI>EC= : Echo mode, true/false, default false.</LI>
+  <LI>EV= : Evil, true/false, default false. Monsters will not attack the 
+  player. The DM manual says, “NEVER tell players that this is available. Use it 
+  to create situations…”.</LI>
+  <LI>FA= : Fatigue points, range 0..999, default 10. Battle damage is 
+  subtracted from fatigue, then vitality. Regenerates with time up to MF.</LI>
+  <LI>HD= : Hidden mode, true/false, default false. Set on players who try to 
+  hide using the HIDE command.</LI>
+  <LI>IV= : Invisible, true/false, default false. For DMs, who can use 
+  *invisible to set this on themselves.</LI>
+  <LI>LVL= : Level, range 0..31, default 1.</LI>
+  <LI>MA= : Magic points, range 0..999, default 10. Used to cast spells. 
+  Regenerates with time.</LI>
+  <LI>MB= : Message blocking, true/false, set when a player is blocking other 
+  players’ messages.</LI>
+  <LI>MF= : Maximum fatigue (FA), default 10.</LI>
+  <LI>MM= : Maximum magic points (MA), range 0..999, default 10.</LI>
+  <LI>MO= : Money, default 0. Current amount of money.</LI>
+  <LI>MV= : Maximum vitality (VI).</LI>
+  <LI>NA= : Player name.</LI>
+  <LI>NO= : Nonexistent, true/false, default false. If true, cannot be seen. The 
+  DM command *nonexist turns this on for that DM.</LI>
+  <LI>PL= : Playtester, true/false, default false. If true, can access the game 
+  when it is in playtesting mode.</LI>
+  <LI>PO= : Poisoned, true/false, default false.</LI>
+  <LI>RO= : Room#, range 1..4095. Changing this teleports the player.</LI>
+  <LI>SE= : Sex, m/f, default m.</LI>
+  <LI>SL= : Spell limit, range 0..5, default 0. Remaining number of 
+  specially-limited spells that can be cast today. This number is reset each 
+  day. The specially-limited spells are appeal, bless, curse, disintegrate, 
+  identify, teleport, and wish.</LI>
+  <LI>TG= : Thieves’ guild member, true/false, default false. In-game fees 
+  charged, in return for which members receive bonuses when they try to hide, 
+  backstab, picklock, and steal.</LI>
+  <LI>TL= : Talk limit, range 0..31, default 0. Limits the number of broadcast 
+  messages.</LI>
+  <LI>VI= : Vitality points, range 0..999, default 10. Maximum number of 
+  vitality points. Regenerates with time, up to MV.</LI>
+  <LI>WE= : Weight, range 0..5000. Computed automatically.</LI>
+  <LI>ZZ= : DM, one of Master DM / DM / Associate DM / none. Only master DMs can 
+  change this value.</LI></UL>
+<P>One odd thing about Scepter is that the privilege of being a DM was not 
+connected to a person/user, but to a player-character via the ZZ parameter.</P>
+<H3 id="basic-statistics"><A href="#TOC"><SPAN 
+class="header-section-number">4.4.2</SPAN> Basic statistics</A></H3>
+<UL>
+  <LI>ST= : Strength, range –127..127, default 11.</LI>
+  <LI>IN= : Intelligence, range –127..127, default 11.</LI>
+  <LI>DX= : Dexterity, range –127..127, default 11.</LI>
+  <LI>PI= : Piety, range –127..127, default 11.</LI>
+  <LI>CO= : Constitution, range –127..127, default 11.</LI></UL>
+<H3 id="skills-and-experience"><A href="#TOC"><SPAN class="header-section-number">4.4.3</SPAN> 
+Skills and experience</A></H3>
+<UL>
+  <LI>BS= : Blunt skill, range 0..7, default 0.</LI>
+  <LI>PS= : Pole skill, range 0..7, default 0.</LI>
+  <LI>SS= : Sharp skill, range 0..7, default 0.</LI>
+  <LI>TS= : Thurst skill, range 0..7, default 0.</LI>
+  <LI>EXP= : Experience, range 0..16000, default 0. Number of experience points 
+  remaining until next level achieved</LI></UL>
+<H3 id="class-values"><A href="#TOC"><SPAN 
+class="header-section-number">4.4.4</SPAN> Class values</A></H3>
+<P>Some key statistics (vitality, fatigue, and magic) were primarily assigned 
+based on the class and level. Note that the “hit points” of other games are, in 
+Scepter of Goth, two values for players (fatigue + vitality). A level 1 player 
+would have certain stats, and these values would be added at each level. So a 
+level 5 player would have 5 times the default values of the level 1 player, for 
+a given class. For example, a level 6 fighter should have vitality= 6 * 8 = 48, 
+fatigue= 6 * 14 = 84, magic= 6 * 2 = 12, so here’s how the DM could reset the 
+stats of online player “fred”:</P>
+<BLOCKQUOTE>
+  <P>modify player fred, MV=48,VI=48,MF=84,FA=84,MM=12,MA=12</P></BLOCKQUOTE>
+<P>The following table shows the values for each class:</P>
+<TABLE>
+  <COLGROUP>
+  <COL width="21%">
+  <COL width="26%">
+  <COL width="25%">
+  <COL width="25%">
+  <THEAD>
+  <TR class="header">
+    <TH align="left">Class</TH>
+    <TH align="left">VI (vitality) / MV</TH>
+    <TH align="left">FA (fatigue) / MF</TH>
+    <TH align="left">MA (magic) / MM</TH></TR></THEAD>
+  <TBODY>
+  <TR class="odd">
+    <TD align="left">Barbarian</TD>
+    <TD align="left">10</TD>
+    <TD align="left">15</TD>
+    <TD align="left">1</TD></TR>
+  <TR class="even">
+    <TD align="left">Cleric</TD>
+    <TD align="left">7</TD>
+    <TD align="left">11</TD>
+    <TD align="left">4</TD></TR>
+  <TR class="odd">
+    <TD align="left">Fighter</TD>
+    <TD align="left">8</TD>
+    <TD align="left">14</TD>
+    <TD align="left">2</TD></TR>
+  <TR class="even">
+    <TD align="left">Lady</TD>
+    <TD align="left">6</TD>
+    <TD align="left">9</TD>
+    <TD align="left">3</TD></TR>
+  <TR class="odd">
+    <TD align="left">Magic User</TD>
+    <TD align="left">7</TD>
+    <TD align="left">10</TD>
+    <TD align="left">5</TD></TR>
+  <TR class="even">
+    <TD align="left">Paladin</TD>
+    <TD align="left">11</TD>
+    <TD align="left">8</TD>
+    <TD align="left">3</TD></TR>
+  <TR class="odd">
+    <TD align="left">Ranger</TD>
+    <TD align="left">7</TD>
+    <TD align="left">11</TD>
+    <TD align="left">3</TD></TR>
+  <TR class="even">
+    <TD align="left">Thief</TD>
+    <TD align="left">7</TD>
+    <TD align="left">10</TD>
+    <TD align="left">3</TD></TR></TBODY></TABLE>
+<H3 id="leveling-through-experience-points"><A href="#TOC"><SPAN class="header-section-number">4.4.5</SPAN> 
+Leveling through experience points</A></H3>
+<TABLE>
+  <COLGROUP>
+  <COL width="19%">
+  <COL width="19%">
+  <THEAD>
+  <TR class="header">
+    <TH align="left">Level</TH>
+    <TH align="left">Experience</TH></TR></THEAD>
+  <TBODY>
+  <TR class="odd">
+    <TD align="left">1</TD>
+    <TD align="left">0</TD></TR>
+  <TR class="even">
+    <TD align="left">2</TD>
+    <TD align="left">512</TD></TR>
+  <TR class="odd">
+    <TD align="left">3</TD>
+    <TD align="left">1024</TD></TR>
+  <TR class="even">
+    <TD align="left">4</TD>
+    <TD align="left">2048</TD></TR>
+  <TR class="odd">
+    <TD align="left">5</TD>
+    <TD align="left">4096</TD></TR>
+  <TR class="even">
+    <TD align="left">6</TD>
+    <TD align="left">8192</TD></TR></TBODY></TABLE>
+<P>The required experience points continue to double up to 21st level. A player 
+can’t go beyond level 21 just through the game mechanics.</P>
+<H2 id="monster-parameters"><A href="#TOC"><SPAN 
+class="header-section-number">4.5</SPAN> Monster parameters</A></H2>
+<P>Monsters, aka non-player characters (NPCs), had many parameters. A key 
+parameter was PE (permanent); monsters from random encounters had PE=false, and 
+eventually got erased if a room has no players, while permanent monsters got 
+saved to disk. If a player attacks it, key parameters included HI (hit points) 
+and LVL (level).</P>
+<P>The monster parameters were typically grouped into basic, primary, and 
+secondary parameters.</P>
+<H3 id="basic"><A href="#TOC"><SPAN class="header-section-number">4.5.1</SPAN> 
+Basic</A></H3>
+<UL>
+  <LI>EXP= : Experience, range 0..64000, default 100. Experience points awarded 
+  to the killers of the monsters. When there were multiple attackers, attackers 
+  all receive a fair fraction of this, and the individual who kills the monster 
+  receives a bonus.</LI>
+  <LI>HI= : Hits (hit points), range 0..1023, default 10. Monsters with a less 
+  than 40% of their maximum (MH) may flee.</LI>
+  <LI>LVL= : Level, range 0..64, default 1.</LI>
+  <LI>MH= : Maximum hit points, range 0..1023. Monsters with RE=true will 
+  regenerate hit points HI up to this number.</LI>
+  <LI>NA= : Name.</LI>
+  <LI>PAR= : Parley, range 0..39, default 0. Defines how the monster reacts to 
+  the TALK and PARLEY commands.</LI>
+  <LI>PE= : Permanent, true/false, default true when set by DM (default false if 
+  generated by a random encounter). If PE=false, monster may be deleted some 
+  time after there is no player in the room. If PE=true, after there is no 
+  player in the room, eventually it will have its hit points set to 
+  maximum.</LI>
+  <LI>TR= : Treasure type, default 0 (no treasure). Identifies which treasure 
+  index (the treasure index had a list of up to 6 possibilities).</LI></UL>
+<P>Parley settings included: - 0 : No reaction - 1 : Sell object (from treasure 
+list) - 2 : Negative reaction - 3 : Positive reaction - 10: Teleport player to 
+one of the rooms in 30–300.</P>
+<H3 id="primary"><A href="#TOC"><SPAN class="header-section-number">4.5.2</SPAN> 
+Primary</A></H3>
+<UL>
+  <LI>AS= : Assistance, true/false, default false. If attacked by a player, 
+  player loses primary weapon by town guard and may be placed in prison. 
+  Intended for protecting townspeople.</LI>
+  <LI>AT= : Attack last aggressor, true/false, default false. If false, keeps 
+  attacking whoever attacked it first. If true, attacks whoever attacked it 
+  last.</LI>
+  <LI>BL= : Block, true/false, default false. if true, 50% of the time will 
+  prevent an attacked player from leaving the room.</LI>
+  <LI>DE= : Defend, true/false, true. If DE=false and AT=false, won’t defend 
+  itself.</LI>
+  <LI>FL= : Flee, true/false, default false. May flee.</LI>
+  <LI>FD= : Follow, true/false, default false. Follows player it’s 
+  attacking.</LI>
+  <LI>FR= : Fast reaction, true/false, default false. If true, attacks players 
+  immediately.</LI>
+  <LI>GU= : Guard, true/false, false. Players may not pick up objects in the 
+  room.</LI>
+  <LI>MO= : Moral, true/false, false. If true, will attack impious characters 
+  (piety less than 7), preferring the lowest piety.</LI>
+  <LI>NK= : No kill, true/false, default false. If true, players will be told 
+  that they “changed their minds” if they try to attack.</LI>
+  <LI>SR= : Slow reaction, true/false, false. If true, hesitates 1–10 seconds 
+  before attacking.</LI></UL>
+<H3 id="secondary"><A href="#TOC"><SPAN 
+class="header-section-number">4.5.3</SPAN> Secondary</A></H3>
+<UL>
+  <LI>AM= : Anti-magic, true/false, default false. Immune to spells.</LI>
+  <LI>DR= : Level drain, true/false, default false. Drains a level, 50% of the 
+  time, from a player on hit.</LI>
+  <LI>IN= : Invisible, true/false, default false. Can’t see monster, “to hit” 
+  has a 20% penalty.</LI>
+  <LI>KI= : Kidnap, true/false, default false. If true, a player with fatigue=0 
+  will be kidnapped to room 7. Kidnapping monster will be placed in the room 
+  connected to the door in room 7.</LI>
+  <LI>MA= : Magic, true/false, default false. Immune to non-magical weapon 
+  attack.</LI>
+  <LI>PO= : Poison, true/false, default false. On hit, may poison player.</LI>
+  <LI>RE= : Regenerate, true/false, default false. Regenerates hit points during 
+  attack.</LI>
+  <LI>SP= : Spell casting, true/false, default false. Can cast these spells: 
+  poison, fireball, lightning, or befuddle.</LI>
+  <LI>UN= : Undead, true/false, default false. Vulnerable to TURN command 
+  (clerics can use this).</LI>
+  <LI>RU= : Rust, true/false, default false. Weakens player armor or primary 
+  weapon (deducts strikes or hits)</LI></UL>
+<H3 id="experience"><A href="#TOC"><SPAN 
+class="header-section-number">4.5.4</SPAN> Experience</A></H3>
+<P>There were various guidelines for setting the EXP value. The suggested 
+guideline was to set the experience point value as:</P>
+<BLOCKQUOTE>
+  <P>EXP = HP + Table(level) + bonus</P></BLOCKQUOTE>
+<P>Where Table(level) converts the monster level to experience as follows:</P>
+<TABLE>
+  <COLGROUP>
+  <COL width="19%">
+  <COL width="19%">
+  <THEAD>
+  <TR class="header">
+    <TH align="left">Level</TH>
+    <TH align="left">Experience</TH></TR></THEAD>
+  <TBODY>
+  <TR class="odd">
+    <TD align="left">1</TD>
+    <TD align="left">10</TD></TR>
+  <TR class="even">
+    <TD align="left">2</TD>
+    <TD align="left">20</TD></TR>
+  <TR class="odd">
+    <TD align="left">3</TD>
+    <TD align="left">30</TD></TR>
+  <TR class="even">
+    <TD align="left">4</TD>
+    <TD align="left">40</TD></TR>
+  <TR class="odd">
+    <TD align="left">5</TD>
+    <TD align="left">50</TD></TR>
+  <TR class="even">
+    <TD align="left">6</TD>
+    <TD align="left">90</TD></TR>
+  <TR class="odd">
+    <TD align="left">7</TD>
+    <TD align="left">200</TD></TR>
+  <TR class="even">
+    <TD align="left">8</TD>
+    <TD align="left">300</TD></TR>
+  <TR class="odd">
+    <TD align="left">9</TD>
+    <TD align="left">1000</TD></TR>
+  <TR class="even">
+    <TD align="left">10</TD>
+    <TD align="left">2000</TD></TR>
+  <TR class="odd">
+    <TD align="left">11 or more</TD>
+    <TD align="left">3000</TD></TR></TBODY></TABLE>
+<P>The recommended bonus is based on the number of:</P>
+<UL>
+  <LI>Primary attributes (PAs): Block, follow, guard, fastreact, moralreact, 
+  flee, undead, rust, steal</LI>
+  <LI>Secondary attributes (SAs): Magic, Antimagic, spellcasting, invisible, 
+  regenerate, level drain, poison, kidnap</LI></UL>
+<TABLE>
+  <COLGROUP>
+  <COL width="22%">
+  <COL width="45%">
+  <THEAD>
+  <TR class="header">
+    <TH align="left">Monster level</TH>
+    <TH align="left">Bonus</TH></TR></THEAD>
+  <TBODY>
+  <TR class="odd">
+    <TD align="left">1–5</TD>
+    <TD align="left">(PA + 2 * SA) * (HP / 10)</TD></TR>
+  <TR class="even">
+    <TD align="left">6–8</TD>
+    <TD align="left">(PA + 2 * SA) * (HP / 10) * 2</TD></TR>
+  <TR class="odd">
+    <TD align="left">9 or more</TD>
+    <TD align="left">(PA + 2 * SA) * (HP / 10) * 6</TD></TR></TBODY></TABLE>
+<H2 id="object-parameters"><A href="#TOC"><SPAN 
+class="header-section-number">4.6</SPAN> Object parameters</A></H2>
+<P>Two parameters controlled object names:</P>
+<UL>
+  <LI>NA= : Name. The form is “NOUN, ADJECTIVE %s PREDICATE”. So “sword, rusty 
+  %s” would print as “rusty sword” and “bag, small %s of silver” would print as 
+  “small bag of silver”.</LI>
+  <LI>AR= : Article, a/an/the/some/none.</LI></UL>
+<P>All objects had the following parameters:</P>
+<UL>
+  <LI>CA= : Carry, true/false, default true. If true, can be taken.</LI>
+  <LI>DI= : Description index, range 0..32565, default 0 (no long description). 
+  The number of edescrp (description index) for use as its long 
+  description.</LI>
+  <LI>INV= : Invisible, true/false, default false. Hidden from view (may be 
+  found via SEARCH).</LI>
+  <LI>PE= : Permanent, true/false, default true (default false if created as 
+  random treasure). If permanent, sticks around (saved to disk) after all 
+  players leave the room.</LI>
+  <LI>TY= : Object type, see below.</LI>
+  <LI>WE= : Weight, 0..1000, default 5. Heavy doors/chests are harder to 
+  smash.</LI></UL>
+<P>Objects have an “object type” TY (which is confusing, because things have a 
+basic type as well: object, monster, player, room). The object types are: armor, 
+blunt (weapon), card, chests/containers, door, key, magdevice (aka 
+magicaldevice), misc, money, none, pole (weapon), portal, scroll, sharp 
+(weapon), shield, teleportdevice, thrust (weapon), treasure.</P>
+<P>Note that many items had limited uses. Armor had armor hits (AH), magic 
+devices had charges left (CH), and so on. This ensured that players weren’t 
+all-powerful, and thus made things more interesting.</P>
+<P>The following describes the parameters for each object type.</P>
+<H3 id="armor"><A href="#TOC"><SPAN class="header-section-number">4.6.1</SPAN> 
+Armor</A></H3>
+<UL>
+  <LI>AR= : Armor factor, range –10..99. Each point provides 5% more 
+  protection.</LI>
+  <LI>AH= : Armor hits (left), range 0..500, default 50. The number of hits left 
+  that it can take.</LI></UL>
+<H3 id="card"><A href="#TOC"><SPAN class="header-section-number">4.6.2</SPAN> 
+Card</A></H3>
+<P>This is a special magical device used by DMs that allows the user to teleport 
+to any person in the game. It’s not intended for use by players.</P>
+<P>It is activated using:</P>
+<BLOCKQUOTE>
+  <P>use card on PLAYER</P></BLOCKQUOTE>
+<H3 id="containerchest"><A href="#TOC"><SPAN 
+class="header-section-number">4.6.3</SPAN> Container/Chest</A></H3>
+<UL>
+  <LI>CC= : Container closed, true/false, default false.</LI>
+  <LI>CL= : Container lock type, range 0..1000, default 0 (no lock). The last 
+  digit indicated how hard it was to break (1=easy through 0=impossible). The 
+  rest differentiated locks.</LI>
+  <LI>CT= : Chest trap, range 0..50, default 0 (no trap). When the container is 
+  opened or unlocked, this determines the trap that might go off. Thieves are 
+  better at avoiding traps; the formula to avoid the trap is DEX - random(6) 
+  &gt; (CL mod 10), but for thieves their DEX was multiplied by 2 in this 
+  equation.</LI>
+  <LI>PO= : Number of contained objects. Should not be edited.</LI></UL>
+<H3 id="door"><A href="#TOC"><SPAN class="header-section-number">4.6.4</SPAN> 
+Door</A></H3>
+<P>See also portal objects. The larger the weight, the harder it is to SMASH. If 
+the door is not magic (MA=false) then a magic-user may be able to get through 
+using the PASSDOOR spell. If a door is magical, has lock type of 1000, and 
+weighs 1000 pounds, then it cannot be opened by any player.</P>
+<P>Doors are seen on both sides.</P>
+<UL>
+  <LI>DC= : Door closed, true/false, default false.</LI>
+  <LI>DL= : Door lock type, range 0..1000, default 0 (no lock). See container 
+  parameter CL.</LI>
+  <LI>DT= : Door trap type, range 0..50, default 0 (no trap), see container 
+  parameter CT.</LI>
+  <LI>TO= : Room number that the door connects to.</LI></UL>
+<H3 id="key"><A href="#TOC"><SPAN class="header-section-number">4.6.5</SPAN> 
+Key</A></H3>
+<P>Traps are not triggered if they are opened with a matching key. A special key 
+is the DM master key (UL=1000); a key with this UL value unlocks any locked door 
+or container.</P>
+<UL>
+  <LI>UL= : Unlock, range 0..1000, default 0. Must match the container CL or 
+  door DL exactly, or, if the key’s last digit is zero, must match the rest of 
+  the CL or DL. Thus, a key with a digit ending in 0 is a master key for a range 
+  of locks.</LI></UL>
+<H3 id="magicaldevice-magdevice"><A href="#TOC"><SPAN class="header-section-number">4.6.6</SPAN> 
+Magicaldevice (magdevice)</A></H3>
+<P>These were used for magic wands, potions, and similar spell-casting devices. 
+If a player says drink OBJECT, the item affects the player. There is no 
+intelligence or level requirement on the use of a magical device.</P>
+<UL>
+  <LI>MA= : Magic, true/false, default false. True if magical.</LI>
+  <LI>SP= : Spell number, range 1..17. 1:vigor, 2:heal, 3:fireball, 4:lightning, 
+  5:hurt, 6:curepoison, 7:disintegrate, 8:befuddle, 9:teleport, 10:wish, 
+  11:passdoor, 12:enchant, 13:bless, 14:protection, 15:curse, 16:poison, 
+  17:intoxicate.</LI>
+  <LI>CH= : Charges left, range 0..100, default 1. Every use reduced this by 1, 
+  and for use it has to have at least one charge.</LI></UL>
+<P>This example creates a 2-charge fireball wand:</P>
+<BLOCKQUOTE>
+  <P>create obj wand in chest in 
+  3001,ty=magdevice,magic=true,spell=3,value=1000,charges=2</P></BLOCKQUOTE>
+<H3 id="money"><A href="#TOC"><SPAN class="header-section-number">4.6.7</SPAN> 
+Money</A></H3>
+<UL>
+  <LI>MU= : Money multiplier, range 1..127. Copper=1, silver=20, electrum=50, 
+  gold=100, platinum=127. This converts to shillings.</LI></UL>
+<H3 id="portal"><A href="#TOC"><SPAN class="header-section-number">4.6.8</SPAN> 
+Portal</A></H3>
+<P>Portals are one-way connectors. You can then GO or ENTER a portal. A portal 
+needs a TO value. See also door objects.</P>
+<UL>
+  <LI>TO= : Room number that the portal connects to, no default. When a player 
+  types “go PORTAL_NAME”, this is the room the player ends up in.</LI>
+  <LI>MN= : Minimum level allowed through, default 0 (no minimum). Useful for 
+  keeping out low-level players.</LI>
+  <LI>MX= : Maximum level allowed through, default 0 (no maximum). Useful for 
+  keeping out high-level players.</LI></UL>
+<H3 id="scroll"><A href="#TOC"><SPAN class="header-section-number">4.6.9</SPAN> 
+Scroll</A></H3>
+<P>These use the DI parameter, described above.</P>
+<P>Players can use EXAMINE to figure out what the scroll will do. A player can 
+READ a scroll to cast a spell (on a player, monster, or object). Once read, the 
+scroll disappears (a scroll is basically a one-charge item). Scroll minimums for 
+intelligence and level are somewhat lower than spell-casting, but if they are 
+not met, nothing happens (the scroll is not ruined).</P>
+<H3 id="shield"><A href="#TOC"><SPAN class="header-section-number">4.6.10</SPAN> 
+Shield</A></H3>
+<UL>
+  <LI>SF= : Shield factor, range –10..99. Like armor AR, each point provides 5% 
+  more protection.</LI>
+  <LI>SH= : Shield hits left, range 0..5000, default 50. Like armor AH.</LI></UL>
+<H3 id="teleport-teleportdevice"><A href="#TOC"><SPAN class="header-section-number">4.6.11</SPAN> 
+Teleport / Teleportdevice</A></H3>
+<P>These are sometimes used like special keys to access special areas like the 
+Thieves’ lair. Usually the departure room is set, so it will only work from one 
+room; the player may need to work out clues to figure out where a teleportdevice 
+works.</P>
+<UL>
+  <LI>TO= : To where (room#).</LI>
+  <LI>RO= : Departure room#, default 1 (0=works anywhere).</LI></UL>
+<P>A teleport device need not be magical.</P>
+<P>The teleport device sends the recipient to exactly one room, and perhaps from 
+only room, while the teleport spell sends the recipient to a random room between 
+30 and 300.</P>
+<H3 id="treasure"><A href="#TOC"><SPAN 
+class="header-section-number">4.6.12</SPAN> Treasure</A></H3>
+<UL>
+  <LI>VA= : Value, range 0..54000, default 0. Value in shillings.</LI></UL>
+<H3 id="weapon-blunt-pole-sharp-thrust"><A href="#TOC"><SPAN class="header-section-number">4.6.13</SPAN> 
+Weapon (blunt, pole, sharp, thrust)</A></H3>
+<UL>
+  <LI>MI= : Minimum hit damage, range 0..127, default 0.</LI>
+  <LI>MH= : Maximum hit damage, range 0..127, default 0.</LI>
+  <LI>SL= : Strikes left, range 0..512, default 100. When it hits zero, the 
+  weapon breaks.</LI>
+  <LI>WP= : Weapon plus, range –127..127 (was –10..99), default 0. Each plus 
+  adds 5% to the hit probability.</LI></UL>
+<P>Players have skills in each of the four types of weapon. Weapons can be 
+repaired (i.e., have strikesleft increase) at the repair shop (room 18) as long 
+as “strikesleft” is more than 0. There’s a 50% chance that the repair will be 
+botched if the weapon is magical or has MH more than 30.</P>
+<H2 id="indexeslists"><A href="#TOC"><SPAN 
+class="header-section-number">4.7</SPAN> Indexes/lists</A></H2>
+<P>A DM can create/modify/show/delete a “description”, which is just an indexed 
+string of text typically used for long descriptions. Description #1 is the login 
+text, description 101 is the spell chant for vigor, and rooms have description 
+numbers of room#+10000. If slashes are in a description, it is treated as a 
+separator, and a random one of the separated descriptions is selected on each 
+use. A “” can be used to insert newline. So to change the long description of 
+room #123: &gt; modify description 10123 “/in a dark alley./”</P>
+<P>A DM can create/modify/show/delete an “mlist”, which is a number-indexed list 
+of monster attributes. Each mlist entry sets up a monster for a random 
+encounter. Monster #1 is special; it is the “revenant” to counter 
+player-killers. You can set monster mlist #240 like this:</P>
+<BLOCKQUOTE>
+  <P>modify mlist 240,NA=bear, …</P></BLOCKQUOTE>
+<P>The revenant (mlist #1) by default had these settings:</P>
+<BLOCKQUOTE>
+  <P>NA=revenant,LVL=1,HI=30,MH=30,DEF=T,BL=T,FO=T,GU=T,ATK=T,… 
+  PE=F,EXP=25,UN=T,DRAIN=T,RUS=T,TR=0</P></BLOCKQUOTE>
+<P>A DM can create/modify/show/delete an “mindex”, which is a number-indexed a 
+list of 1–6 numbers. Each of those numbers refers to an mlist entry (above). 
+Typically you would then set a room’s ENCOUNTER value to this mindex value.</P>
+<BLOCKQUOTE>
+  <P>modify mindex 10 241,242</P></BLOCKQUOTE>
+<P>Using mlist and mindex makes it easy to create a lot of randomness that still 
+makes sense.</P>
+<P>Similarly, a DM can create/modify/show/delete an “olist” which is a 
+number-indexed list of attributes to set an object, and an “oindex” which lists 
+1–6 olists when an object shows up randomly. These are often used for treasure; 
+a monster would have its TREASURE value set to an oindex; the oindex in turn 
+lists 1–6 different possible treasures as olist values. (Of course, if a monster 
+already carries specific items, then those items become available to others if 
+the monster dies.) Olist items 1–20 are for sale in the weapon shop; olist items 
+21–40 are reserved for sale in the (never implemented) magic shop.</P>
+<H2 id="magic"><A href="#TOC"><SPAN class="header-section-number">4.8</SPAN> 
+Magic</A></H2>
+<P>The spells in basic Scepter are:</P>
+<OL style="list-style-type: decimal;">
+  <LI>Vigor. Restores 6 * caster_level fatigue points. Uses 3 MP (magic points), 
+  requires 10 INT.</LI>
+  <LI>Heal. Restores 3 * caster_level vitality points. 6 MP. 10 INT, cleric 
+  level 2.</LI>
+  <LI>Fireball. Attack spell, min(3 * (lvl+1), int * 2) hp. 10 MP. 11 INT, mage 
+  level 2.</LI>
+  <LI>Lightning. Attack spell, min(20 + 2 * (lvl+1)) hp. 15 MP. 13 INT, mage 
+  level 4.</LI>
+  <LI>Hurt. Attack spell, 1–3 hp. Can be cast by anyone. Documentation isn’t 
+  consistent; some documents say it does 1–2 hp.</LI>
+  <LI>Curepoison. Cures player of poison. 6 MP. 9 INT, mage level 1.</LI>
+  <LI>Disintegrate. Most powerful attack spell, lvl * 2 + ran(5 * int). 20 MP, 
+  14 INT, can only be cast 5 times/day, mage level 5.</LI>
+  <LI>Befuddle. If player, paused 30 seconds; if monster, paused 3 * MONSPEED 
+  seconds. 15 MP. 11 INT.</LI>
+  <LI>Teleport. Randomly transported to a room# 30–300. 30 MP, 14 INT, mage 
+  level 5.</LI>
+  <LI>Wish. Sent to DM; DM then decides. 50 MP, 17 INT and costs a constitution 
+  point. Mage level 10.</LI>
+  <LI>Passdoor. Passes through any door where MAGIC=false. 20 MP, 13 INT, mage 
+  level 5.</LI>
+  <LI>Enchant. Makes object magical; it must be carryable. Doesn’t change the 
+  hit points. 20 MP, 13 INT, mage level 5.</LI>
+  <LI>Bless. Raise piety of someone else by 1. Can only be cast on a person of 
+  equal or lower level. 15 MP, 11 INT, cleric level 6.</LI>
+  <LI>Protect. Temporarily improve armor class by 1. 10 MP. 10 INT, mage level 
+  2.</LI>
+  <LI>Curse. Lower piety by 1. Target must be equal or below caster level. 10 
+  MP, 10 INT, mage level 5.</LI>
+  <LI>Poison. Poison someone. 10 MP. 10 INT, Mage level 4.</LI>
+  <LI>Intoxicate. Recipient is drunk for 60 seconds. 8 MP. 9 INT, Mage level 
+  3.</LI></OL>
+<P>There are also special commands:</P>
+<UL>
+  <LI>Identify. Find its true identity.</LI>
+  <LI>Turn. Turn undead monsters.</LI>
+  <LI>Appeal. Appeal to gods (DMs), costs 1 piety point.</LI></UL>
+<P>Only clerics can cast heal, bless, or turn. Only mages (magic-users) can cast 
+protect, disintegrate, enchant, or wish. An oddity is that mages could 
+curepoison at level 1, but clerics couldn’t until level 2.</P>
+<P>Here is when a given class can cast a given spell (“-” means never):</P>
+<TABLE>
+  <COLGROUP>
+  <COL width="24%">
+  <COL width="9%">
+  <COL width="13%">
+  <COL width="12%">
+  <COL width="29%">
+  <COL width="10%">
+  <THEAD>
+  <TR class="header">
+    <TH align="left">Spell</TH>
+    <TH align="left">Mage</TH>
+    <TH align="left">Fighter</TH>
+    <TH align="left">Cleric</TH>
+    <TH align="left">Paladin/Ranger/Lady</TH>
+    <TH align="left">Thief</TH></TR></THEAD>
+  <TBODY>
+  <TR class="odd">
+    <TD align="left">
+      <OL style="list-style-type: decimal;">
+        <LI>Vigor</LI></OL></TD>
+    <TD align="left">1</TD>
+    <TD align="left">1</TD>
+    <TD align="left">1</TD>
+    <TD align="left">1</TD>
+    <TD align="left">1</TD></TR>
+  <TR class="even">
+    <TD align="left">
+      <OL style="list-style-type: decimal;" start="2">
+        <LI>Heal</LI></OL></TD>
+    <TD align="left">-</TD>
+    <TD align="left">-</TD>
+    <TD align="left">2</TD>
+    <TD align="left">-</TD>
+    <TD align="left">-</TD></TR>
+  <TR class="odd">
+    <TD align="left">
+      <OL style="list-style-type: decimal;" start="3">
+        <LI>Fireball</LI></OL></TD>
+    <TD align="left">2</TD>
+    <TD align="left">6</TD>
+    <TD align="left">3</TD>
+    <TD align="left">4</TD>
+    <TD align="left">5</TD></TR>
+  <TR class="even">
+    <TD align="left">
+      <OL style="list-style-type: decimal;" start="4">
+        <LI>Lightning</LI></OL></TD>
+    <TD align="left">4</TD>
+    <TD align="left">8</TD>
+    <TD align="left">5</TD>
+    <TD align="left">6</TD>
+    <TD align="left">7</TD></TR>
+  <TR class="odd">
+    <TD align="left">
+      <OL style="list-style-type: decimal;" start="5">
+        <LI>Hurt</LI></OL></TD>
+    <TD align="left">1</TD>
+    <TD align="left">1</TD>
+    <TD align="left">1</TD>
+    <TD align="left">1</TD>
+    <TD align="left">1</TD></TR>
+  <TR class="even">
+    <TD align="left">
+      <OL style="list-style-type: decimal;" start="6">
+        <LI>Curepoison</LI></OL></TD>
+    <TD align="left">1</TD>
+    <TD align="left">5</TD>
+    <TD align="left">2</TD>
+    <TD align="left">3</TD>
+    <TD align="left">4</TD></TR>
+  <TR class="odd">
+    <TD align="left">
+      <OL style="list-style-type: decimal;" start="7">
+        <LI>Disintegrate</LI></OL></TD>
+    <TD align="left">5</TD>
+    <TD align="left">-</TD>
+    <TD align="left">-</TD>
+    <TD align="left">-</TD>
+    <TD align="left">-</TD></TR>
+  <TR class="even">
+    <TD align="left">
+      <OL style="list-style-type: decimal;" start="8">
+        <LI>Befuddle</LI></OL></TD>
+    <TD align="left">1</TD>
+    <TD align="left">5</TD>
+    <TD align="left">2</TD>
+    <TD align="left">3</TD>
+    <TD align="left">4</TD></TR>
+  <TR class="odd">
+    <TD align="left">
+      <OL style="list-style-type: decimal;" start="9">
+        <LI>Teleport</LI></OL></TD>
+    <TD align="left">5</TD>
+    <TD align="left">9</TD>
+    <TD align="left">6</TD>
+    <TD align="left">7</TD>
+    <TD align="left">8</TD></TR>
+  <TR class="even">
+    <TD align="left">
+      <OL style="list-style-type: decimal;" start="10">
+        <LI>Wish</LI></OL></TD>
+    <TD align="left">10</TD>
+    <TD align="left">-</TD>
+    <TD align="left">-</TD>
+    <TD align="left">-</TD>
+    <TD align="left">-</TD></TR>
+  <TR class="odd">
+    <TD align="left">
+      <OL style="list-style-type: decimal;" start="11">
+        <LI>Passdoor</LI></OL></TD>
+    <TD align="left">5</TD>
+    <TD align="left">9</TD>
+    <TD align="left">6</TD>
+    <TD align="left">7</TD>
+    <TD align="left">8</TD></TR>
+  <TR class="even">
+    <TD align="left">
+      <OL style="list-style-type: decimal;" start="12">
+        <LI>Enchant</LI></OL></TD>
+    <TD align="left">5</TD>
+    <TD align="left">-</TD>
+    <TD align="left">-</TD>
+    <TD align="left">-</TD>
+    <TD align="left">-</TD></TR>
+  <TR class="odd">
+    <TD align="left">
+      <OL style="list-style-type: decimal;" start="13">
+        <LI>Bless</LI></OL></TD>
+    <TD align="left">-</TD>
+    <TD align="left">-</TD>
+    <TD align="left">6</TD>
+    <TD align="left">-</TD>
+    <TD align="left">-</TD></TR>
+  <TR class="even">
+    <TD align="left">
+      <OL style="list-style-type: decimal;" start="14">
+        <LI>Protect</LI></OL></TD>
+    <TD align="left">2</TD>
+    <TD align="left">-</TD>
+    <TD align="left">-</TD>
+    <TD align="left">-</TD>
+    <TD align="left">-</TD></TR>
+  <TR class="odd">
+    <TD align="left">
+      <OL style="list-style-type: decimal;" start="15">
+        <LI>Curse</LI></OL></TD>
+    <TD align="left">5</TD>
+    <TD align="left">9</TD>
+    <TD align="left">6</TD>
+    <TD align="left">7</TD>
+    <TD align="left">8</TD></TR>
+  <TR class="even">
+    <TD align="left">
+      <OL style="list-style-type: decimal;" start="16">
+        <LI>Poison</LI></OL></TD>
+    <TD align="left">4</TD>
+    <TD align="left">8</TD>
+    <TD align="left">5</TD>
+    <TD align="left">6</TD>
+    <TD align="left">7</TD></TR>
+  <TR class="odd">
+    <TD align="left">
+      <OL style="list-style-type: decimal;" start="17">
+        <LI>Intoxicate</LI></OL></TD>
+    <TD align="left">3</TD>
+    <TD align="left">7</TD>
+    <TD align="left">4</TD>
+    <TD align="left">5</TD>
+    <TD align="left">6</TD></TR>
+  <TR class="even">
+    <TD align="left">Identify</TD>
+    <TD align="left">5</TD>
+    <TD align="left">9</TD>
+    <TD align="left">6</TD>
+    <TD align="left">7</TD>
+    <TD align="left">8</TD></TR>
+  <TR class="odd">
+    <TD align="left">Turn</TD>
+    <TD align="left">-</TD>
+    <TD align="left">-</TD>
+    <TD align="left">1</TD>
+    <TD align="left">-</TD>
+    <TD align="left">-</TD></TR></TBODY></TABLE>
+<P>A player must learn a spell before casting it, either by being taught the 
+spell or by examining a scroll. Once learned a spell is not forgotten. The 
+player must also type in the chant for a spell to cast it, which means the 
+player must also find out what the chant is. The default chants are:</P>
+<TABLE>
+  <COLGROUP>
+  <COL width="26%">
+  <COL width="73%">
+  <THEAD>
+  <TR class="header">
+    <TH align="left">Spell</TH>
+    <TH align="left">Chant</TH></TR></THEAD>
+  <TBODY>
+  <TR class="odd">
+    <TD align="left">
+      <OL style="list-style-type: decimal;">
+        <LI>Vigor</LI></OL></TD>
+    <TD align="left">I return vigor</TD></TR>
+  <TR class="even">
+    <TD align="left">
+      <OL style="list-style-type: decimal;" start="2">
+        <LI>Heal</LI></OL></TD>
+    <TD align="left">Thy wounds are mended!</TD></TR>
+  <TR class="odd">
+    <TD align="left">
+      <OL style="list-style-type: decimal;" start="3">
+        <LI>Fireball</LI></OL></TD>
+    <TD align="left">Ball of fire fly to thee!</TD></TR>
+  <TR class="even">
+    <TD align="left">
+      <OL style="list-style-type: decimal;" start="4">
+        <LI>Lightning</LI></OL></TD>
+    <TD align="left">I command you to glow with energy!</TD></TR>
+  <TR class="odd">
+    <TD align="left">
+      <OL style="list-style-type: decimal;" start="5">
+        <LI>Hurt</LI></OL></TD>
+    <TD align="left">Ouch! That hurt!</TD></TR>
+  <TR class="even">
+    <TD align="left">
+      <OL style="list-style-type: decimal;" start="6">
+        <LI>Curepoison</LI></OL></TD>
+    <TD align="left">Let thy fluids run pure!</TD></TR>
+  <TR class="odd">
+    <TD align="left">
+      <OL style="list-style-type: decimal;" start="7">
+        <LI>Disintegrate</LI></OL></TD>
+    <TD align="left">I disrupt they molecular structure!</TD></TR>
+  <TR class="even">
+    <TD align="left">
+      <OL style="list-style-type: decimal;" start="8">
+        <LI>Befuddle</LI></OL></TD>
+    <TD align="left">Be thou confused utterly!</TD></TR>
+  <TR class="odd">
+    <TD align="left">
+      <OL style="list-style-type: decimal;" start="9">
+        <LI>Teleport</LI></OL></TD>
+    <TD align="left">Let me go to someplace new!</TD></TR>
+  <TR class="even">
+    <TD align="left">
+      <OL style="list-style-type: decimal;" start="10">
+        <LI>Wish</LI></OL></TD>
+    <TD align="left">This is the last time I want to change this chant!</TD></TR>
+  <TR class="odd">
+    <TD align="left">
+      <OL style="list-style-type: decimal;" start="11">
+        <LI>Passdoor</LI></OL></TD>
+    <TD align="left">I refuse to be stopped!</TD></TR>
+  <TR class="even">
+    <TD align="left">
+      <OL style="list-style-type: decimal;" start="12">
+        <LI>Enchant</LI></OL></TD>
+    <TD align="left">I infuse you with magical dweomer!</TD></TR>
+  <TR class="odd">
+    <TD align="left">
+      <OL style="list-style-type: decimal;" start="13">
+        <LI>Bless</LI></OL></TD>
+    <TD align="left">Your soul is now pure again!</TD></TR>
+  <TR class="even">
+    <TD align="left">
+      <OL style="list-style-type: decimal;" start="14">
+        <LI>Protect</LI></OL></TD>
+    <TD align="left">You are being watched!</TD></TR>
+  <TR class="odd">
+    <TD align="left">
+      <OL style="list-style-type: decimal;" start="15">
+        <LI>Curse</LI></OL></TD>
+    <TD align="left">I denigrate thee for all to see!</TD></TR>
+  <TR class="even">
+    <TD align="left">
+      <OL style="list-style-type: decimal;" start="16">
+        <LI>Poison</LI></OL></TD>
+    <TD align="left">May thy blood fester in thy veins!</TD></TR>
+  <TR class="odd">
+    <TD align="left">
+      <OL style="list-style-type: decimal;" start="17">
+        <LI>Intoxicate</LI></OL></TD>
+    <TD align="left">More than one hundred proof!</TD></TR></TBODY></TABLE>
+<H1 id="other-information"><A href="#TOC"><SPAN 
+class="header-section-number">5</SPAN> Other information</A></H1>
+<H2 id="all-possible-user-commands"><A href="#TOC"><SPAN class="header-section-number">5.1</SPAN> 
+All possible user commands</A></H2>
+<P>Here is the full list of possible player commands: accept, appeal, attack, 
+backstab, block, break, bribe, brief, buy, cast, catalog, circle, climb, clock, 
+close, d (down), down, draw, drink, drop, e, east, echo, end, enter, examine, 
+exit, experience, feint, file, follow, get, go, health, help, hide, hint, hit, 
+hold, identify, information, inventory, kill, leave, list, lock, look, lose, n, 
+north, offer, open, out, panic, parley, parry, pawn, picklock, put, quit, read, 
+repair, return, run, s, save, say, search, sell, send, smash, south, status, 
+steal, strike, suicide, take, talk, teach, thrust, track, train, turn, u, 
+unlock, up, use, w, wear, west, where, who, wield, yell.</P>
+<H2 id="attack-hit-calculation"><A href="#TOC"><SPAN class="header-section-number">5.2</SPAN> 
+Attack hit calculation</A></H2>
+<P>Attack hits were determined as follows: if random(20) &gt; level(player) - 
+level(monster) + 10 + factor, then hit, else miss. There is an 8% chance of 
+double damage in an attack, and 1% chance of a fumble. The factor is computed as 
+follows (added unless stated otherwise):</P>
+<UL>
+  <LI>Weapon plus (added)</LI>
+  <LI>Strength/6</LI>
+  <LI>Skill percentile/10</LI>
+  <LI>1 if player is paladin and monster is hostile</LI>
+  <LI>1 if player is a fighter</LI>
+  <LI>2 if player is level 1</LI>
+  <LI>–4 if monster is invisible</LI>
+  <LI>-level(player)/2 if player is parrying</LI>
+  <LI>+level(player) if thrusting (but subtract level(player) from fatigue)</LI>
+  <LI>5 if backstabbing and hidden</LI>
+  <LI>–5 if backstabbing and not hidden, monster gets double damage on next 
+  attack</LI></UL>
+<P>I’m sure that armor class affected this too.</P>
+<H1 id="references"><A href="#TOC"><SPAN class="header-section-number">6</SPAN> 
+References</A></H1>
+<UL>
+  <LI>(Keegan) <A href="http://mk.ucant.org/info/classification_muds.html">A 
+  Classification of MUDs</A> by Martin Keegan, Grandmaster Data Services Ltd, 
+  Cambridge, U.K.</LI>
+  <LI>(Kirmse, Andrew) Kirmse, Andrew. <A href="http://web.archive.org/web/20060916185745/ieatcode.com/meridian/">“Meridian 
+  59”</A>. <EM>Andrew Kirmse’s Web page</EM>. Archived from <A href="http://ieatcode.com/meridian/">the 
+  original</A> on 2006–09–16. <A href="http://web.archive.org/web/20060916185745/ieatcode.com/meridian/">http://web.archive.org/web/20060916185745/ieatcode.com/meridian/</A>. 
+  Retrieved 2010–05–02.</LI>
+  <LI>(Klietz 1992) Klietz, Alan. Jan 20 1992. Scepter - the first MUD? 
+  http://groups.google.com/group/rec.games.mud/msg/e423bcf6cf93d73b</LI>
+  <LI>(Woolcock) <A href="http://www.topmudsites.com/article08.shtml">An 
+  Introduction to MUDs</A> by Richard Woolcock</LI>
+  <LI>(Wisner) Wisner, Bill (1990–06–29). “A brief (and very incomplete) history 
+  of MUDs”. alt.mud. 
+  http://groups.google.com/group/rec.games.mud/msg/6ac0255fe640074e This notes 
+  that “Milieu was originally written for a CDC Cyber owned by the Minnesota 
+  Educational Computer Consortium. High school students from around the state 
+  were given access to the machine for educational purposes; they often ended up 
+  writing chat programs and games instead. I am uncertain of the precise time 
+  frame, but I believe Milieu probably predates MUD.”</LI></UL>
+<P>This text is released under the Creative Commons Attribution-ShareAlike 
+License (CC-BY-SA).</P>
+<P>I wrote this material in the Markdown language, and then used pandoc to 
+convert it to HTML. <A href="scepter-of-goth.markdown">The markdown text is 
+available.</A></P>
+<P>The history of this text is complicated; I wrote most of the Wikipedia entry 
+of “Scepter of Goth”, and portions of the text above is derived from the 
+2011–09–17 version of that article. Since it’s all the CC-BY-SA license, it 
+doesn’t matter. This document has a lot of additional material based on “The 
+Dunjon Master’s Editor User Manual” by Interplay, Inc., copyright 1985–1986. I 
+don’t have the rights to release the manual, but facts cannot be copyrighted, so 
+I can release the facts of that manual even though I cannot release the manual 
+itself.</P></BODY></HTML>

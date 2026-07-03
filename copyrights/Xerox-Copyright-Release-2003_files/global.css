@@ -1,0 +1,177 @@
+body {
+	margin: 0px; padding: 0px; color: rgb(35, 54, 64); font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 12px; -ms-scrollbar-face-color: rgb(56, 87, 102); -ms-scrollbar-3dlight-color: rgb(51, 51, 51); -ms-scrollbar-shadow-color: rgb(27, 46, 57); -ms-scrollbar-highlight-color: rgb(130, 150, 159); -ms-scrollbar-darkshadow-color: rgb(51, 51, 51); -ms-scrollbar-arrow-color: rgb(255, 255, 255); -ms-scrollbar-track-color: rgb(204, 204, 204); background-color: rgb(255, 255, 255);
+}
+a:link {
+	color: rgb(153, 0, 0); text-decoration: none;
+}
+a:visited {
+	color: rgb(0, 66, 118); text-decoration: none;
+}
+a:hover {
+	color: rgb(204, 0, 0); text-decoration: none;
+}
+.main_txt {
+	color: rgb(35, 54, 64); line-height: 18px; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 12px;
+}
+.title_txt {
+	color: rgb(0, 51, 51); line-height: 25px; font-family: Georgia, Times New Roman, Helvetica, sans-serif; font-size: 20px; font-weight: bold;
+}
+.hdr_txt {
+	color: rgb(35, 54, 64); font-family: Georgia, Times New Roman, Helvetica, sans-serif; font-size: 14px; font-weight: bold;
+}
+.subhdr_txt {
+	color: rgb(35, 54, 64); font-family: Georgia, Times New Roman, Helvetica, sans-serif; font-size: 12px; font-weight: bold;
+}
+ul {
+	padding: 0px; margin-left: 1.2em; list-style-type: disc; list-style-position: outside;
+}
+li {
+	padding-left: 0.2em;
+}
+.rule {
+	border: 0px solid currentColor; border-image: none; height: 1px; color: rgb(153, 0, 0); background-color: rgb(153, 0, 0);
+}
+.table {
+	background-color: rgb(255, 255, 255);
+}
+.table_hdr {
+	color: rgb(255, 255, 255); font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; background-color: rgb(56, 87, 102);
+}
+.table_txt {
+	color: rgb(35, 54, 64); font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px;
+}
+.row_1 {
+	background-color: rgb(255, 255, 255);
+}
+.row_2 {
+	background-color: rgb(218, 225, 229);
+}
+.row_3 {
+	color: rgb(255, 255, 255); background-color: rgb(130, 150, 159);
+}
+.reminder {
+	color: rgb(35, 54, 64); font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px;
+}
+.nav_txt {
+	color: rgb(153, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; text-decoration: none;
+}
+.notes {
+	background-color: rgb(107, 138, 153);
+}
+.notes_txt {
+	color: rgb(255, 255, 255); font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px;
+}
+.notes_txt a {
+	color: rgb(255, 255, 255);
+}
+.notes_txt a:link {
+	color: rgb(255, 255, 255);
+}
+.notes_txt a:visited {
+	color: rgb(255, 255, 255);
+}
+.notes_txt a:hover {
+	color: rgb(221, 221, 221);
+}
+.caption {
+	color: rgb(35, 54, 64); font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-style: italic;
+}
+.footer_txt {
+	color: rgb(35, 54, 64); font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px;
+}
+.footer_txt a {
+	color: rgb(0, 51, 51);
+}
+.footer_txt a:link {
+	color: rgb(0, 51, 51);
+}
+.footer_txt a:visited {
+	color: rgb(0, 51, 51);
+}
+.footer_txt a:hover {
+	color: rgb(153, 51, 0);
+}
+.footer_address {
+	color: rgb(35, 54, 64); font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px;
+}
+.lev3_title {
+	color: rgb(255, 255, 255); font-family: Georgia, Times New Roman, Helvetica, sans-serif; font-size: 14px; font-weight: bold;
+}
+.law_txt {
+	color: rgb(35, 54, 64); font-family: Georgia, Times New Roman, Helvetica, sans-serif; font-size: 13px;
+}
+.contact_table {
+	background-color: rgb(238, 238, 238);
+}
+hr {
+	border: 0px solid currentColor; border-image: none; height: 1px; color: rgb(153, 0, 0); background-color: rgb(153, 0, 0);
+}
+ol {
+	padding: 2px;
+}
+h1 {
+	color: rgb(0, 51, 51); font-family: Georgia, Times New Roman, Times, serif; font-size: 12pt;
+}
+h2 {
+	color: rgb(0, 51, 51); font-family: Georgia, Times New Roman, Times, serif; font-size: 11pt;
+}
+h3 {
+	color: rgb(0, 51, 51); font-family: Georgia, Times New Roman, Times, serif; font-size: 10pt;
+}
+h4 {
+	color: rgb(0, 51, 51); font-family: Georgia, Times New Roman, Times, serif; font-size: 9pt;
+}
+h5 {
+	color: rgb(0, 51, 51); font-family: Georgia, Times New Roman, Times, serif; font-size: 8pt;
+}
+h6 {
+	color: rgb(0, 51, 51); font-family: Georgia, Times New Roman, Times, serif; font-size: 8pt; font-style: italic;
+}
+li {
+	list-style-position: outside;
+}
+th {
+	border: rgb(102, 102, 102); border-image: none; color: rgb(255, 255, 255); background-color: rgb(153, 102, 0);
+}
+table {
+	font-size: 10pt;
+}
+.box {
+	border-width: 1px; border-color: rgb(153, 102, 51) rgb(204, 204, 204) rgb(204, 204, 204) rgb(153, 102, 51); width: 180px; height: 15px; line-height: 11px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; margin-top: 2px;
+}
+.shaded_row {
+	background-color: rgb(218, 225, 229);
+}
+.superhead {
+	font-size: 18pt; font-weight: bold;
+}
+.indented_block {
+	margin-left: 10px;
+}
+.third-level-head {
+	color: rgb(255, 255, 255); font-family: Georgia, Times New Roman, Times, serif; font-size: 15px;
+}
+.shaded-text-box {
+	background-color: rgb(204, 204, 153);
+}
+.border {
+	border-width: thin; border-color: rgb(153, 153, 102) currentColor currentColor;
+}
+.noborder {
+	border: 0px currentColor; border-image: none;
+}
+.mem_hdr {
+	color: rgb(0, 0, 0); font-family: Times New Roman, Times, serif; font-size: 12px;
+}
+.mem_txt {
+	color: rgb(0, 0, 0); font-family: Times New Roman, Times, serif; font-size: 14px;
+}
+p.indent {
+	text-indent: 2em;
+}
+p.noindent {
+	text-indent: 0px;
+}
+.breaknews {
+	color: rgb(102, 102, 102); font-family: Arial, Helvetica, sans-serif; font-size: 16px; font-style: normal; text-decoration: none;
+}

@@ -1,0 +1,2806 @@
+Username: guest
+Password: 
+Login: guest, on account 001-0003, using tty3.
+2400 baud access.
+No account entries for guest.
+Welcome to the A.R.T. Menu. v2.3
+
+               Welcome to Austin Recreational Timesharing
+
+    This  is  a  multi-user  system  designed  for  communication  and
+ recreational computing.   You are currently logged in on the courtesy
+ 'Guest' account.
+
+    Guests are limited to 20 minutes of connect time, depending on the
+ system load.  Some features of the system are not  available  to  the
+ Guest  account, since there are no restrictions on who uses it. Also,
+ since a person using this account is  not  registered,  there  is  no
+ provision  for posting messages to public boards or saving characters
+ in the Scepter game.  You can however go to the Post Office chat in
+ the Talk Parlor, play  Adventure,  Mazewar  or  Sokoban and visit the
+ town of Port Haven in Scepter.
+
+    Two very  useful  commands  are  'help'  and  'list'.  With  these
+ commands,  from  the  main  menu  you  can  explore  complete  online
+ documentation for all of the features of the system. You can also use
+ 'help'  and  'list' from within most of the programs available on ART
+ (in  the  Talk Parlor, use '/list') to learn more about that specific
+ program.
+
+    Information about getting an account on a trial basis is available
+ in the Post Office (Mail program).  You can apply for a trial account
+ by using the 'comment' command in Mail, or you can get a subscription
+ form in the  Talk  Parlor, by typing  '/form',  or in the help system
+ with the command 'help subscribing application'.
+
+    We look forward to hearing from you and hope you enjoy your visit!
+
+
+You are now logged into A.R.T..
+
+
+    Now appearing on ART...Dungeon!  The original adventure
+    in the dungeons of Zork. See the announce board in mail
+    for more information or just type 'dungeon' and enjoy!
+
+Name          Time on   tty Port    Act Indx Task
+Guest_3       9:15:10 am  3 $term0  001-0003 Main menu     2400 baud
+
+ 
+Type 'help' for help.
+
+
+The featured programs are:
+
+   Command      Program description
+   --------   --------------------------------------------
+   Adventure   The original adventure in Colossal Cave
+   Dungeon     The original dungeon of Zork
+   Intrigue    Dominate the world in Foreign Intrigue
+   Mail        The ART Post Office (boards and Email)
+   Mazewar     Hunt down other players in Mazewars
+   Scepter     The Scepter of Goth (multi-player adventure)
+   Sokoban     40 different levels of mazes to solve
+   Talk        The ART Discussion Parlour
+
+Or choose one of these commands:
+
+account     adventure   ansinews    block       brief       
+bye         charge      clock       credit      download    
+dungeon     exit        files       goodbye     help        
+intrigue    list        logoff      mail        mazewar     
+news        password    scepter     send        set-option  
+sokoban     talk        upload      users       where       
+who         
+
+Type 'list' to list these commands.
+
+Menu Command: 
+
+Menu Command: list
+
+The featured programs are:
+
+   Command      Program description
+   --------   --------------------------------------------
+   Adventure   The original adventure in Colossal Cave
+   Dungeon     The original dungeon of Zork
+   Intrigue    Dominate the world in Foreign Intrigue
+   Mail        The ART Post Office (boards and Email)
+   Mazewar     Hunt down other players in Mazewars
+   Scepter     The Scepter of Goth (multi-player adventure)
+   Sokoban     40 different levels of mazes to solve
+   Talk        The ART Discussion Parlour
+
+Or choose one of these commands:
+
+account     adventure   ansinews    block       brief       
+bye         charge      clock       credit      download    
+dungeon     exit        files       goodbye     help        
+intrigue    list        logoff      mail        mazewar     
+news        password    scepter     send        set-option  
+sokoban     talk        upload      users       where       
+who         
+
+Menu Command: qho
+"qho" is not a command; type 'list' for a list.
+
+Menu Command: who
+User not found.
+Command format:
+  Who is <name>?
+
+
+Menu Command: where
+Name          Time on   tty Port    Act Indx Task
+Guest_3       9:15:10 am  3 $term0  001-0003 Main menu     2400 baud
+
+Menu Command: scepter
+Initiating scepter, please wait.
+Scepter is ready!
+ 
+Entering Port Haven, pop:60 and highly variable.
+ Ver:1.4, Mode: o (Run 6802)
+
+What guild do you wish to join?
+Your choices:
+
+Fighter or Ranger or Cleric or
+Paladin or Magic-User or Thief,
+or you could choose the role of Lady
+
+
+Class? f
+(Presetting guest character attributes to all 11's)
+Now choose your best weapon style, from:
+
+Sharp, Thrust, Blunt, or Pole.
+
+
+(Clerics, for religious reasons, may only use Blunt or Pole)
+
+Skill? s
+Choose your character's alignment.
+
+Those of LAWFUL alignment can neither attack,
+nor be attacked by, any other player character.
+
+Those of CHAOTIC alignment can both attack, and
+be attacked by, other players of CHAOTIC alignment.
+
+Thieves must be of CHAOTIC alignment to steal from
+other players. Only CHAOTIC players can be robbed.
+
+
+Alignment? l
+
+Notice:
+
+
+There is a fleeting quality to the world around you.
+
+The ways of power that once felt familiar and safe now seem elusive and
+taunting, and the very air seems heavy and ominous, as when the birds gather
+to fly south for the winter.
+
+
+### Please welcome Guest_3, of the Fighter's Guild.
+You're in the Entrance Plaza.  New adventurer's can
+learn more about the game in the Adventurer's Guild.
+
+To enter the guildhall, type GO GUILD.
+
+Experienced adventurer's can go directly to Port Haven.
+
+You see the Adventurer's Guild and Port Haven.
+
+Action? who
+
+Name        Act-Indx S Lastcmd     Class
+Guest_3     001-0003   who         Grunt
+Action? look
+You're in the Entrance Plaza.  New adventurer's can
+learn more about the game in the Adventurer's Guild.
+
+To enter the guildhall, type GO GUILD.
+
+Experienced adventurer's can go directly to Port Haven.
+
+You see the Adventurer's Guild and Port Haven.
+
+Action? go giuld
+That object isn't here!
+Action? go guild
+You're in the foyer of the Adventurer's Guildhall.
+Hallways, illuminated by torches, lead in all directions.
+
+You can travel through any obvious exit, by typing the unique
+abbreviation for that direction (eg. n,s,e,w,u,d,out).
+Obvious exits are north, south, east, west, up, down and out.
+You see a bulletin board, a rate sheet, a short note and 
+a magnificent mural.
+
+Action? read note
+
+ Type 'Help' for help,
+ Type 'quit' to quit
+
+Action? read sheet
+Art charges by the week or by the month.
+
+One week costs $5,
+while a month is $15.
+
+
+Action? read mural
+The mural depicts an ancient city, engulfed
+in flames and yet shrouded by darkness.
+
+A plaque on the wall bears these words...
+
+          "Farewell to Boldhome"
+Action? look
+You're in the foyer of the Adventurer's Guildhall.
+Hallways, illuminated by torches, lead in all directions.
+
+You can travel through any obvious exit, by typing the unique
+abbreviation for that direction (eg. n,s,e,w,u,d,out).
+Obvious exits are north, south, east, west, up, down and out.
+You see a bulletin board, a rate sheet, a short note and 
+a magnificent mural.
+
+Action? read board
+
+A.R.T. Info Line:
+
+ 327-0005  - Ask for Sham
+
+Call in case of emergencies, account
+problems, credit problems, etc.
+
+For more info, type NEWS at the main menu prompt.
+
+Action? news
+Not understood.
+
+Action? out
+You're in the Entrance Plaza.  New adventurer's can
+learn more about the game in the Adventurer's Guild.
+
+To enter the guildhall, type GO GUILD.
+
+Experienced adventurer's can go directly to Port Haven.
+
+You see the Adventurer's Guild and Port Haven.
+
+Action? look
+You're in the Entrance Plaza.  New adventurer's can
+learn more about the game in the Adventurer's Guild.
+
+To enter the guildhall, type GO GUILD.
+
+Experienced adventurer's can go directly to Port Haven.
+
+You see the Adventurer's Guild and Port Haven.
+
+Action? w
+There is no way to go in that direction.
+Action? s
+There is no way to go in that direction.
+Action? n
+There is no way to go in that direction.
+Action? e
+There is no way to go in that direction.
+Action? go haven
+That object isn't here!
+Action? go port
+You feel a strange force push you away from Port Haven.
+Action? go guild
+You're in the foyer of the Adventurer's Guildhall.
+Hallways, illuminated by torches, lead in all directions.
+
+You can travel through any obvious exit, by typing the unique
+abbreviation for that direction (eg. n,s,e,w,u,d,out).
+Obvious exits are north, south, east, west, up, down and out.
+You see a bulletin board, a rate sheet, a short note and 
+a magnificent mural.
+
+Action? look
+You're in the foyer of the Adventurer's Guildhall.
+Hallways, illuminated by torches, lead in all directions.
+
+You can travel through any obvious exit, by typing the unique
+abbreviation for that direction (eg. n,s,e,w,u,d,out).
+Obvious exits are north, south, east, west, up, down and out.
+You see a bulletin board, a rate sheet, a short note and 
+a magnificent mural.
+
+Action? n
+You're within the Adventurer's Guild. The walls
+are decorated with intricately woven tapestries.
+
+You can learn more about the inhabitants and
+objects found in Port Haven, by LOOKing at them.
+Obvious exits are south.
+You see many tapestries.
+
+There is a weaver here.
+
+You see Guest_5's body.
+
+Action? examine body
+It's Guest_5's body.
+Action? look at weaver
+It's a weaver, first to fifth level.
+You see a magic aura!
+It appears self-righteous!
+Action? hit weaver
+An unknown force grips your mind, and stays your blow against the weaver.
+Action? read tapest
+The tapestries depict the heroic deeds
+of men and women, both real and imagined.
+Action? out
+There is no way to go in that direction.
+Action? look
+You're within the Adventurer's Guild. The walls
+are decorated with intricately woven tapestries.
+
+You can learn more about the inhabitants and
+objects found in Port Haven, by LOOKing at them.
+Obvious exits are south.
+You see many tapestries.
+
+There is a weaver here.
+
+You see Guest_5's body.
+
+Action? s
+You're in the foyer of the Adventurer's Guildhall.
+Hallways, illuminated by torches, lead in all directions.
+
+You can travel through any obvious exit, by typing the unique
+abbreviation for that direction (eg. n,s,e,w,u,d,out).
+Obvious exits are north, south, east, west, up, down and out.
+You see a bulletin board, a rate sheet, a short note and 
+a magnificent mural.
+
+Action? s
+You're in the grand meeting hall of the guild.
+Here, the business of the guild is conducted
+in animated debate!
+
+You may find that both information and treasure
+may be offered by the inhabitants of Port Haven,
+if you TALK to them.
+Obvious exits are north.
+There are two adventurers and a trader here.
+
+Action? talk to trader
+The trader starts talking about the weather.
+Action? talk to trader
+The trader starts talking about the weather.
+Action? talk to adventu
+Adventurer #2 says, "Never go into battle without
+WIELDing or USing your weapon Guest_3! Be sure to
+do so again should you stumble or fumble, and of
+course after logins and file updates!"
+Action? talk to adventurer#1
+Adventurer #1 says, "Never go into battle without
+WIELDing or USing your weapon Guest_3! Be sure to
+do so again should you stumble or fumble, and of
+course after logins and file updates!"
+Action? out
+There is no way to go in that direction.
+Action? n
+You're in the foyer of the Adventurer's Guildhall.
+Hallways, illuminated by torches, lead in all directions.
+
+You can travel through any obvious exit, by typing the unique
+abbreviation for that direction (eg. n,s,e,w,u,d,out).
+Obvious exits are north, south, east, west, up, down and out.
+You see a bulletin board, a rate sheet, a short note and 
+a magnificent mural.
+
+Action? e
+You're in the 'game' room. Young adventurer's
+eager to earn membership in the guild, gather
+here to practice their skills in mock combat.
+
+You must WEAR your armor and USE or WIELD your
+shield and weapon if you hope to survive in combat.
+Obvious exits are west.
+Action? i
+That abbreviation is not unique.
+Action? invent
+Your inventory includes the following objects:
+Nothing.
+Action? w
+You're in the foyer of the Adventurer's Guildhall.
+Hallways, illuminated by torches, lead in all directions.
+
+You can travel through any obvious exit, by typing the unique
+abbreviation for that direction (eg. n,s,e,w,u,d,out).
+Obvious exits are north, south, east, west, up, down and out.
+You see a bulletin board, a rate sheet, a short note and 
+a magnificent mural.
+
+Action? w
+You're in the guild storeroom.
+
+You may find more than one creature or object
+of the same name in a room or in your inventory.
+You can refer to a specific member of such a group
+by appending a number sign and a number to the name.
+Obvious exits are east.
+You see chest#1 and chest#2.
+
+There are two guards here.
+
+Action? open chest#1
+It's already open!
+Action? look in chest#21
+I don't see a "chest" here.
+Action? look in chest#2
+This chest is battered and worn.
+It's empty.
+Action? look in chest#1
+It's chest#1.
+It's empty.
+Action? look at guard
+It's a guard, first to fifth level.
+Action? parley with guard
+Guard #2 recognizes you, "It's the great Guest_3 of Port Haven!
+By the stars be praised!"
+Action? parley with guard#1
+Guard #1 casts aspersions upon your origins and family history.
+Action? g
+That abbreviation is not unique.
+Action? e
+You're in the foyer of the Adventurer's Guildhall.
+Hallways, illuminated by torches, lead in all directions.
+
+You can travel through any obvious exit, by typing the unique
+abbreviation for that direction (eg. n,s,e,w,u,d,out).
+Obvious exits are north, south, east, west, up, down and out.
+You see a bulletin board, a rate sheet, a short note and 
+a magnificent mural.
+
+Action? d
+You're in the cellar of the guildhall. A single lamp,
+suspended by chains above the stairway, provides the
+only light.
+
+Many of the underground areas are unlit. It is wise to
+carry a torch or lamp, lest you become lost in the dark!
+Obvious exits are up.
+Action? u
+You're in the foyer of the Adventurer's Guildhall.
+Hallways, illuminated by torches, lead in all directions.
+
+You can travel through any obvious exit, by typing the unique
+abbreviation for that direction (eg. n,s,e,w,u,d,out).
+Obvious exits are north, south, east, west, up, down and out.
+You see a bulletin board, a rate sheet, a short note and 
+a magnificent mural.
+u
+Action? 
+You're in the guild library. Here, contained
+in the leather-bound parchment tomes which
+line the walls, is the complete accumulated
+knowledge of Port Haven.
+
+Extensive on-line help is available with the
+HELP command.
+Obvious exits are down.
+You see bookshelves lining the walls.
+
+Action? read book
+The books on the shelves bear titles such as:
+
+Help Combat
+Help Info
+Help Movement
+Help Objects
+
+and
+
+Help Spells
+
+Action? help combat
+
+Combat
+
+
+Choose one of the following subtopics:
+ attack      backstab    circle      feint       hit        
+ parry       thrust      BACK        QUIT
+
+Select Combat subtopic? circ
+
+   circle
+
+     Circling your opponent involves running round and round
+your opponent in  a  circle,  thus  causing  him  to  become
+disoriented.   It is a defensive move.
+
+     For example:
+
+          Do? CIRCLE WIZARDRESS
+          Ok
+          You circle her!
+
+     The chance of successfully disorienting your opponent depends
+on your dexterity.  
+
+     A player will be disoriented for 8 seconds.  A monster for
+two rounds.
+
+Choose one of the following subtopics:
+ attack      backstab    circle      feint       hit        
+ parry       thrust      BACK        QUIT
+
+Select Combat subtopic? attac
+
+   attack
+
+     This command lets you attack monsters or other players.
+
+     For example:
+
+          ATTACK BIBLO
+
+          HIT ORC
+
+          HIT ORC #2
+
+     The last example shows how to attack the second Orc in the
+room.  In general, a monster name or object name followed by
+a number will effect the nth monster or object.
+
+     Your chance of hitting or missing depends on     
+
+         - Your level
+         - Your strength
+         - Your weapon skill
+         - Your weapon bonus
+More...
+         - Your luck
+         - Their level
+         - Their dexterity
+         - Their armor class
+         - Their luck
+         - Extra factors (Invisiblity, combat style, surprise, 
+             special attacks, special defenses, etc.)
+
+     There are many styles of combat.  See the subtopics below.
+
+Choose one of the following subtopics:
+ attack      backstab    circle      feint       hit        
+ parry       thrust      BACK        QUIT
+
+Select Combat subtopic? parr
+
+   parry
+
+     A parry involves placing your weapon across  your  body
+in a defensive position to block the blows of your opponent.
+It  also  conserves  energy  and  prevents  loss  of fatigue
+points.
+
+     A parry reduces your  'to hit'  factor by 
+your_level/2+1.
+
+     For example:
+
+          Do? THRUST AT GOBLIN
+          You're too exhausted to strike!
+          Do? PARRY
+
+Choose one of the following subtopics:
+ attack      backstab    circle      feint       hit        
+ parry       thrust      BACK        QUIT
+
+Select Combat subtopic? 
+
+Please choose one of the following topics:
+ Characters  Combat      Examples    Info        Movement   
+ Objects     Spells      Lore        QUIT
+
+Select topic? combat
+
+Combat
+
+
+Choose one of the following subtopics:
+ attack      backstab    circle      feint       hit        
+ parry       thrust      BACK        QUIT
+
+Select Combat subtopic? backst
+
+   backstab
+
+     Backstabbing involves sneaking up behind an unsuspecting 
+victim to effect maximum damage.  For example:
+
+     Do? HIDE
+     You hide in the shadows.
+     You encounter a guard.
+     Do? BACKSTAB GUARD
+
+     You must be hidden for the backstab to be successful.  
+If  you  aren't  hidden or if the victim spies your approach,
+the backstab will certainly fail.
+
+     A successful backstab gives +5 to hit and +5 damage.
+
+     An unsuccessful backstab gives -5 to hit plus a free
+round for the victim.
+
+     You  will  lose piety points if you kill another player
+with a backstab.
+
+Choose one of the following subtopics:
+ attack      backstab    circle      feint       hit        
+ parry       thrust      BACK        QUIT
+
+Select Combat subtopic? thrust
+
+   thrust
+
+     A  thrust  involves  hurling  or  plunging  your weapon
+directly into your opponent to effect maximum damage.  It is
+frequently used as the 'coup de grace' of the battle.
+
+     The thrust is a very strenuous move  and  leaves  you  
+vulnerable to  a  counter-attack.    It  should be used with
+discretion.
+
+     A thrust gives you +min(your_level,4) to hit.
+
+     For example:
+
+         Do? HIT ELDOR
+         You hit Eldor for 3 fatigue points, and 13 vitality points!
+         Do? THRUST
+         You killed him!
+         ### Hacker, the Fighter, just killed Eldor mercilessly!
+
+     Attacking a player far below your own level is considered
+merciless.  Piety points are deducted from your total.
+More... 
+
+Choose one of the following subtopics:
+ attack      backstab    circle      feint       hit        
+ parry       thrust      BACK        QUIT
+
+Select Combat subtopic? feint
+
+   feint
+
+     A feint is involves lunging at your opponent and then 
+deflecting your blow at the last moment.  It can cause your
+opponent to flinch, duck, cover his eyes, etc.  Although
+feinting causes no damage it is still considered an offensive
+move.
+
+     For example:
+
+     Do? PARRY KNIGHT
+     You missed!
+     Do? FEINT
+     Didn't work!
+
+     A good feint requires a high dexterity.  A player will be
+disoriented for 10 seconds.  A monster for three rounds.
+
+Choose one of the following subtopics:
+ attack      backstab    circle      feint       hit        
+ parry       thrust      BACK        QUIT
+
+Select Combat subtopic? 
+
+Please choose one of the following topics:
+ Characters  Combat      Examples    Info        Movement   
+ Objects     Spells      Lore        QUIT
+
+Select topic? ch
+
+Characters
+
+
+Choose one of the following subtopics:
+ alignment   BACK        QUIT
+
+Select Characters subtopic? ali
+
+   alignment
+
+    Character alignment determines the types of
+interactions that are possible with other player
+characters. There are two possible alignments,
+LAWFUL and CHAOTIC. 
+
+
+
+
+
+Choose one of the following subtopics:
+ alignment   BACK        QUIT
+
+Select Characters subtopic? ali
+
+   alignment
+
+    Character alignment determines the types of
+interactions that are possible with other player
+characters. There are two possible alignments,
+LAWFUL and CHAOTIC. 
+
+
+
+
+
+Choose one of the following subtopics:
+ alignment   BACK        QUIT
+
+Select Characters subtopic? 
+
+Please choose one of the following topics:
+ Characters  Combat      Examples    Info        Movement   
+ Objects     Spells      Lore        QUIT
+
+Select topic? ob
+
+Objects
+
+
+Choose one of the following subtopics:
+ break       buy         close       draw        drink      
+ drop        get         hide        lock        picklock   
+ put         repair      return      smash       take       
+ unlock      use         BACK        QUIT
+
+Select Objects subtopic? break
+
+   break
+
+     This command involves smashing and breaking objects,
+and other assorted acts of vandalism.
+
+     For example, you can try to break down doors and smash
+open chests:
+
+
+          Do? BREAK THE DOOR
+          Bam!  You failed to break the door open!
+          Do? BREAK THE CHEST
+          Boom!  You break the chest open!
+
+     Certain doors and chests have traps that inflict damage
+on you when you try to break them.
+
+     Your chance of  successfully  breaking  something  open
+depends on:
+
+          - Your strength
+          - Weight of the object
+More...
+          - Random luck
+
+     You   have   to   wait   a  few  seconds  between  each
+unsuccessful attempt to break something open, so you can rub
+your bruised shoulder and  prepare for the next attempt.
+
+Choose one of the following subtopics:
+ break       buy         close       draw        drink      
+ drop        get         hide        lock        picklock   
+ put         repair      return      smash       take       
+ unlock      use         BACK        QUIT
+
+Select Objects subtopic? drop
+
+   drop
+
+     This command lets you drop things.
+
+     The format of the command is,
+
+          DROP <object>
+     or
+          DROP <object> IN <container>
+
+     Where <object> is the name of the object  you  wish  to
+drop,  and <container> is the optional name of the container
+to receive the object.  (The container must be open.)
+
+     You  can place a maximum of six objects in a container.
+If you  drop  a  container  and  leave  the  room,  it  will
+disappear  like  any  other object (unless it's a permanent
+container).
+
+     You cannot use a container  to  extend  the  number  of
+objects you  can save on your character.  
+
+More...
+     Containers may be nested within each other.
+
+     "PUT" is a synonym for "DROP".
+
+Choose one of the following subtopics:
+ break       buy         close       draw        drink      
+ drop        get         hide        lock        picklock   
+ put         repair      return      smash       take       
+ unlock      use         BACK        QUIT
+
+Select Objects subtopic? put
+
+   put
+
+     This command lets you drop things.
+
+     The format of the command is,
+
+          DROP <object>
+     or
+          DROP <object> IN <container>
+
+     Where <object> is the name of the object  you  wish  to
+drop,  and <container> is the optional name of the container
+to receive the object.  (The container must be open.)
+
+     You  can place a maximum of six objects in a container.
+If you  drop  a  container  and  leave  the  room,  it  will
+disappear  like  any  other object (unless it's a permanent
+container).
+
+     You cannot use a container  to  extend  the  number  of
+objects you  can save on your character.  
+
+More...
+     Containers may be nested within each other.
+
+     "PUT" is a synonym for "DROP".
+
+Choose one of the following subtopics:
+ break       buy         close       draw        drink      
+ drop        get         hide        lock        picklock   
+ put         repair      return      smash       take       
+ unlock      use         BACK        QUIT
+
+Select Objects subtopic? unlock
+
+   unlock
+
+     This command involves unlocking an object with a key.
+
+     The format of the command is:
+
+          UNLOCK <object> WITH <key>
+
+     For example,
+
+          You see a locked wooden door.
+          Do? UNLOCK THE DOOR WITH KEY#1
+          Key#1 doesn't work!
+          Do? UNLOCK DOOR WITH KEY#2
+          Ok
+
+     Certain keys will unlock certain kinds of locks.   Some
+keys will  open  only  one  lock.  Some keys will open many 
+kinds of locks.  
+
+     Often an object can be opened with only a single key.  
+Such a key would be very valuable, especially if the lock is
+More...
+tamper-proof.
+
+Choose one of the following subtopics:
+ break       buy         close       draw        drink      
+ drop        get         hide        lock        picklock   
+ put         repair      return      smash       take       
+ unlock      use         BACK        QUIT
+
+Select Objects subtopic? buy
+
+   buy
+
+     This command lets you purchase items at special places
+in town.
+
+     You can currently BUY items from:
+
+          - The Paperboy
+          - The Tavern
+          - The Weapon Shop
+          - The Magic Shop (not yet implemented)
+
+     The format of the command is,
+
+          BUY <item #>
+
+     Where  <item  #>  is the number of the item you wish to
+buy.   You can get a catalog of the available items for sale
+at a shop by using the CATALOG command.
+
+Choose one of the following subtopics:
+ break       buy         close       draw        drink      
+ drop        get         hide        lock        picklock   
+ put         repair      return      smash       take       
+ unlock      use         BACK        QUIT
+
+Select Objects subtopic? 
+
+Please choose one of the following topics:
+ Characters  Combat      Examples    Info        Movement   
+ Objects     Spells      Lore        QUIT
+
+Select topic? ob
+
+Objects
+
+
+Choose one of the following subtopics:
+ break       buy         close       draw        drink      
+ drop        get         hide        lock        picklock   
+ put         repair      return      smash       take       
+ unlock      use         BACK        QUIT
+
+Select Objects subtopic? get
+
+   get
+
+     This command lets you take things.
+
+     The format of the command is,
+
+          GET <object>
+     or
+          GET <object> FROM <container>
+
+     Where <object> is the name of the object  you  wish  to
+take,  and <container> is the optional name of the container.
+(The container must be open.)
+
+     "TAKE" is a synonym for "GET".
+
+     Some monsters will guard objects and prevent you from 
+taking them.
+
+Choose one of the following subtopics:
+ break       buy         close       draw        drink      
+ drop        get         hide        lock        picklock   
+ put         repair      return      smash       take       
+ unlock      use         BACK        QUIT
+
+Select Objects subtopic? repair
+
+   repair
+
+     This  command lets you repair a damaged weapon, shield,
+or armor at the Repair Shop.  You should occassionally visit
+the shop to keep your weapons in good shape.
+
+     The cost of repairing an object depends on it's value
+and the amount of damage it has suffered.
+
+     The  longer  you  delay  repairing  a  weapon, the more
+expensive it will be.  The repair shop cannot repair weapons
+that are completely wrecked.
+
+Choose one of the following subtopics:
+ break       buy         close       draw        drink      
+ drop        get         hide        lock        picklock   
+ put         repair      return      smash       take       
+ unlock      use         BACK        QUIT
+
+Select Objects subtopic? use
+
+   use
+
+     This command activates an object according to it's 
+function.
+
+     The format of the command is,
+
+          Use <object>
+
+
+     The effect depends on the type of object:
+
+          Weapon - Weapon is held in hand ready for combat.
+          Shield - Shield is held in hand ready for combat.
+          Armor  - Armor is put on.
+          Potion - Potion is swallowed.
+          Magic device - Device is activated.
+
+     This command has many synonyms, including "DRAW", "WEAR",
+"WIELD", "DRINK", and "HOLD".
+
+     Some examples:
+More...
+  
+          Do? WEAR ARMOR
+          You put on your armor.
+          Do? HOLD SHIELD
+          You hold up your oval shield.
+          Do? USE RING
+          **POOF** You are suddenly elsewhere!
+
+     Obviously, this command does a lot of things!
+
+Choose one of the following subtopics:
+ break       buy         close       draw        drink      
+ drop        get         hide        lock        picklock   
+ put         repair      return      smash       take       
+ unlock      use         BACK        QUIT
+
+Select Objects subtopic? close
+
+   close
+
+     The command lets you close things, for example,  
+
+          Do? CLOSE THE DOOR
+          Ok, you close it.
+          Do? CLOSE THE CHEST
+          Ok, you close it.
+
+     Certain objects have traps.  The traps are reset when
+you close the object, and are triggered if someone tries to
+open it without the proper key.
+
+Choose one of the following subtopics:
+ break       buy         close       draw        drink      
+ drop        get         hide        lock        picklock   
+ put         repair      return      smash       take       
+ unlock      use         BACK        QUIT
+
+Select Objects subtopic? hide
+
+   hide
+
+     This command let's you hide objects in a room. 
+
+     For example,
+
+          Do? HIDE RUBY
+
+     This command is only useful  for  permanent  objects,  
+because temporary objects will disappear from the room after
+you leave.
+
+     Other users won't find the hidden object until they use
+the SEARCH command.
+
+Choose one of the following subtopics:
+ break       buy         close       draw        drink      
+ drop        get         hide        lock        picklock   
+ put         repair      return      smash       take       
+ unlock      use         BACK        QUIT
+
+Select Objects subtopic? retu
+
+   return
+
+     The RETURN command let's you return weapons, armor,
+and shields to your pack.  All objects are automatically
+returned when you save your character.
+
+Choose one of the following subtopics:
+ break       buy         close       draw        drink      
+ drop        get         hide        lock        picklock   
+ put         repair      return      smash       take       
+ unlock      use         BACK        QUIT
+
+Select Objects subtopic? draw
+
+   draw
+
+     This command let's you draw a weapon in preparation for
+combat. 
+
+     For example,
+
+          You encounter a bear!
+          The bear attacks you!
+          Do? DRAW SWORD
+          Ok, you ready your weapon!
+          The Bear hits you for 4 fatigue points!
+          Do? ATTACK BEAR
+
+     A drawn weapon is plainly visible to everyone who looks
+at you.  
+
+
+Choose one of the following subtopics:
+ break       buy         close       draw        drink      
+ drop        get         hide        lock        picklock   
+ put         repair      return      smash       take       
+ unlock      use         BACK        QUIT
+
+Select Objects subtopic? lock
+
+   lock
+
+     This command let's you lock an object if you have the
+right key.  For example,
+
+          Do? LOCK CHEST WITH KEY
+          Ok, you lock it.
+          Do? HIDE CHEST
+          You carefully hide it where it won't be seen.
+
+     Once an object is locked, you can only open it by:
+
+          - Unlocking it with the same key
+          - Picking the lock
+          - Smashing it open
+
+     You can also use the PASSDOOR spell to walk through
+locked doors.
+
+Choose one of the following subtopics:
+ break       buy         close       draw        drink      
+ drop        get         hide        lock        picklock   
+ put         repair      return      smash       take       
+ unlock      use         BACK        QUIT
+
+Select Objects subtopic? smash
+
+   smash
+
+     This command involves smashing and breaking objects,
+and other assorted acts of vandalism.
+
+     For example, you can try to break down doors and smash
+open chests:
+
+
+          Do? BREAK THE DOOR
+          Bam!  You failed to break the door open!
+          Do? BREAK THE CHEST
+          Boom!  You break the chest open!
+
+     Certain doors and chests have traps that inflict damage
+on you when you try to break them.
+
+     Your chance of  successfully  breaking  something  open
+depends on:
+
+          - Your strength
+          - Weight of the object
+More...
+          - Random luck
+
+     You   have   to   wait   a  few  seconds  between  each
+unsuccessful attempt to break something open, so you can rub
+your bruised shoulder and  prepare for the next attempt.
+
+Choose one of the following subtopics:
+ break       buy         close       draw        drink      
+ drop        get         hide        lock        picklock   
+ put         repair      return      smash       take       
+ unlock      use         BACK        QUIT
+
+Select Objects subtopic? drink
+
+   drink
+
+     This command lets you drink magic potions.  You may 
+want to IDENTIFY the potion first before drinking it.  
+
+Choose one of the following subtopics:
+ break       buy         close       draw        drink      
+ drop        get         hide        lock        picklock   
+ put         repair      return      smash       take       
+ unlock      use         BACK        QUIT
+
+Select Objects subtopic? pick
+
+   picklock
+
+     This involves picking open the lock on an object. For
+example,
+
+          Do? OPEN THE VAULT
+          You can't; it's locked!
+          Do? PICKLOCK VAULT
+          You pick the lock open!
+          Oh no!, poison gas!
+
+     Certain objects have traps which are triggered if you
+try to pick the lock open. 
+
+     Your chance of successfully picking a lock open depends
+on:
+
+          - Your class (Thief)
+          - Your dexterity
+          - Your level
+          - The hardness of the lock
+
+More...
+     Some locks are easy to pick.  Some are very difficult.
+You will learn to tell them apart as you become proficient 
+in your thieving activities.
+
+     Thieves, of course, are the best lock pickers.
+
+Choose one of the following subtopics:
+ break       buy         close       draw        drink      
+ drop        get         hide        lock        picklock   
+ put         repair      return      smash       take       
+ unlock      use         BACK        QUIT
+
+Select Objects subtopic? 
+
+Please choose one of the following topics:
+ Characters  Combat      Examples    Info        Movement   
+ Objects     Spells      Lore        QUIT
+
+Select topic? spel
+
+Spells
+
+In Scepter, magic can be a tremendous aid or a major cause of damage.  Althoug
+some character classes can only use magic in a limited fashion, it is best for
+all characters to learn at least a small amount of magic in order to enhance
+their chances for survival.
+
+
+Choose one of the following subtopics:
+ cast        scrolls     BACK        QUIT
+
+Select Spells subtopic? cast
+
+   cast
+
+     One method of casting a spell is by uttering the spell's
+chant.  You must have learned the spell and have enough magic
+to cast a spell by chant, but no device or scroll is required.
+Some spells are restricted to certain classes when cast by
+chant.
+
+     For example:
+
+     Do? CAST KNIGHT
+     Enter chant? BURN TO A CRISP
+     You cast a fireball spell!
+     You hit it for 30 hit points!
+
+     If no monster or player name is specified after CAST, the
+spell will be cast on you.  The type of spell to be cast is
+determined from the chant entered.
+
+Choose one of the following subtopics:
+ cast        scrolls     BACK        QUIT
+
+Select Spells subtopic? scro
+
+   scrolls
+
+To learn a spell, you must either be taught it or gain control
+of its magic through study of a scroll.  Examining a scroll will
+tell you the chant needed to invoke the spell, and will give you
+the ability to cast the spell by chanting - if and only if you 
+are also of the right guild, of high enough level, and have
+enough magic.
+ 
+If you read a scroll, rather than examine it, you will cast the
+spell but you won't be able to see the chant inscribed on the 
+scroll.  If you are not normally able to invoke the spell, it is
+still probably that you could invoke it by reading the scroll anyway.
+For example, a fighter could read a scroll of healing and invoke
+a heal spell, although members of the fighters guild cannot cast
+the heal spell by chanting.
+
+
+Choose one of the following subtopics:
+ cast        scrolls     BACK        QUIT
+
+Select Spells subtopic? 
+
+Please choose one of the following topics:
+ Characters  Combat      Examples    Info        Movement   
+ Objects     Spells      Lore        QUIT
+
+Select topic? exam
+
+Examples
+
+N,S,E,W,UP,DOWN,OUT
+  Go in the specified direction.
+
+GO TO THE SHOP
+  Enter the shop.
+
+GET THE SWORD
+  Pick up the sword from the ground.
+
+PUT THE SWORD IN THE CHEST.
+  ..and place it inside the chest.
+
+CLOSE THE CHEST
+
+SAY "Hi there!"
+
+YELL "HELP!"
+  Yell to everyone in the current room and in all
+  adjacent rooms.
+
+More...
+TALK TO THE MERCHANT
+
+OFFER BIBLO THE ARMOR FOR 200 SHILLINGS
+
+CAST A FIREBALL ON THE BLOB
+
+BRIBE THE GUARD
+
+HIDE THE TREASURE CHEST
+
+SEARCH THE ROOM
+
+INFORMATION
+  Get information on your player's statistics.
+
+INVENTORY
+  Get an inventory of currently held objects.
+
+SAVE
+  Save your character.
+More...
+
+EXAMINE THE DOOR
+
+Please choose one of the following topics:
+ Characters  Combat      Examples    Info        Movement   
+ Objects     Spells      Lore        QUIT
+
+Select topic? lore
+
+Lore
+
+
+Choose one of the following subtopics:
+ City        Monsters    BACK        QUIT
+
+Select Lore subtopic? city
+
+   City
+
+
+Choose one of the following subtopics:
+ History     Economy     Geography   Gates       Streets    
+ BACK        QUIT
+
+Select Lore City subtopic? g
+
+      Geography
+
+
+                            Port Haven Geography
+
+      [ Compiled from the notes and writings of the Surveyor, R.T.S. ]
+
+The town is situation on an island in the mouth of the River Ember.  To the
+east is a forested mountain range which runs roughly north-south.  To the west
+is a vast plain that gradually rises toward a much more distant range of
+mountains.  Draining of the plain is to the east until the mountains are 
+encountered, whence it joins the south-flowing Ember.
+
+The island at the mouth of the river was once a segment of the mountain cliffs
+to the west, but an ancient earthquake broke loose a large segment of
+erosion-weakened rock which fell and blocked, temporarily, the river mouth.
+The lake which formed to the north was once large, but the river has worn
+outlets on either side of the island.
+
+The island itself is relatively high in the north -- natural cliffs along the
+lake side have been fortified by the city wall.  The southern side of the 
+island, particularly the south city wall, is alluvial deposit; low, flat and
+More...
+sandy.  The natural peninsula to the west and the man-made sea wall to the
+east help keep the port from silting up, but during the summer months a nasty
+sand bar can develop across the mouth of the bay.  Fortunately the sand bar
+is cleared out each winter by storms sweeping in from the southwest.
+
+The southwestern sector of the city wall contains the main city drainage
+outlet, which flows past the slums on one side and the swamp on the other.
+With the prevailing westerlies, all of the southern area of the island has a
+distinctive aroma.
+
+
+Choose one of the following subtopics:
+ History     Economy     Geography   Gates       Streets    
+ BACK        QUIT
+
+Select Lore City subtopic? gate
+
+      Gates
+
+Three large gates control access to the inner city.  To the south, a large
+gate gives access to the southern part of the island.  To the west a gate
+opens beside a bridge across the West Ember.  The gate to the east is near
+the East Ember Ferry.  Each gate has its own guardhouse; the South Gate's
+guardhouse is larger as it contains the City Guard barracks.
+
+Each gate has several names.  Officially they are known as the South, East
+and West gates.  However, being decorated with bas-relief sculpture to reflect
+their primary traffic, the townsfolk will often refer to them by the common
+names of Hero, Horse and Garden Gates.  At other times the gate names refer
+to the areas reached: Sea, Mountain and Plains Gates.
+
+The dwellers in the south of the island, outside the walls, occasionally make
+references to the Main Gate.  In addition, those high enough in society to 
+live within the city walls refer to the gates by what they bring in:  Fish,
+Traders and Farmers gates.
+
+Finally, although never brought up in polite company, there's the small gate
+in the city wall that is the outlet for sewage.  Officially it is named the
+Water Gate, but is vulgarly referred to as the Anus.  Because of its 
+More...
+association with things best not discussed, occasionally, a scandal
+surrounding an official's hidden corruption is referred to as his "water-gate.
+
+
+Choose one of the following subtopics:
+ History     Economy     Geography   Gates       Streets    
+ BACK        QUIT
+
+Select Lore City subtopic? econ
+
+      Economy
+
+
+                            Port Haven Economy  
+
+    [ Compiled from the notes and writings of the Surveyor, R.T.S. ]
+
+The city is a meeting place for three major economic elements.  One is the
+farmland of the plains; grain, cattle, fruit and vegetables arrive both 
+overland and by river barge, and are brought into the city by the West Gate.
+Caravans coming through the mountain pass bring luxury goods and exotic
+spices from the overland trade routes.  Ships eager to pick up cargo gather
+at the port, bringing gold and slaves from distant lands in exchange.
+
+The city's most important source of revenue are the markets, primarily the
+Farmers' and Traders' markets within the walls, to a lesser extent the Fish
+market near the Sea Wall, and unofficially - but still lucratively - the
+Slave market.  Taxes are gathered at the gate; market space is rented from 
+the city.  The East Ember Ferry is free for those on foot, but caravans must
+pay.  Ships not only pay for dock space but for anchorage within the bay.  
+Traders with particularly valuable consignments of goods in caravans or on
+ships are required to "hire" additional squads of city guards at inflated
+More...
+rates.
+
+The Cleric Sanctuary is a focus of farm-folks' pilgrimages, so it is near thei
+market.  The Mages' Guild often provides special guardians for caravans and is
+closer to the Trader's Gate.  The Fighters' Guild supplies manpower for the
+City Guard and the trader caravans.
+
+It is possible, though not common, for a slave sold off a trade ship to win hi
+freedom in the Arena and join the Fighters' Guild.  The Thieves' Guild provide
+an alternate route to the inner city; from their headquarters near the slums
+they are rumored to have secret underground passages throughout the island's
+rocky foundation.
+
+The Keep is the most heavily protected complex on the island.  It is the 
+residence of the nobility, as well as the center of the local government.
+Common knowledge has it that the city treasury is filled with fabulous wealth
+extracted from the endless trade.  It is also said that the treasure is guarde
+by a Demon from hell, but this rumor is very difficult to confirm.
+
+
+Choose one of the following subtopics:
+ History     Economy     Geography   Gates       Streets    
+ BACK        QUIT
+
+Select Lore City subtopic? 
+
+Choose one of the following subtopics:
+ City        Monsters    BACK        QUIT
+
+Select Lore subtopic? mon
+
+   Monsters
+
+
+Choose one of the following subtopics:
+ ALL         BRIEF       Arctic      Dragons     Mountains  
+ Underground Woodlands   BACK        QUIT
+
+Select Lore Monsters subtopic? all
+
+      ALL
+
+
+Choose one of the following subtopics:
+ CliffRoc    Glacier_hawk BACK        QUIT
+
+Select Lore Monsters ALL subtopic? cli
+
+         CliffRoc
+
+  The Cliff Roc is a large white and gray bird that populates the snowy
+mountains north of the trader's route.  The creature stands about 5' at the
+shoulder and has two distinct coats of feathers.  The undercoat is composed
+of soft, white downy feathers, and serves to keep the bird warm in cold climes
+The outer coat is composed of long white and gray feathers.  The feathers of
+Cliff Roc grow very slowly; thus, the bird almost never sheds its feathers.
+
+  The Cliff Rocs, so named for their tendency to nest along the outcroppings
+of cliffs and crags, are reputed to be the direct descendants of the avian
+mounts which once carried the ice sorcerers to the stronghold in the mountains
+During the sorcerer's rather abrupt stay at the stronghold, a few of the great
+birds escaped and found themselves in the wild misty mountains, where they had
+to adapt to an entirely different lifestyle.
+
+  The sorcerers had valued their mounts not only for their capability of
+carrying their riders over great distances through the air, but also for their
+fighting skills.  The birds were taught as fledglings to maim and kill upon
+command, but such training made them quite dangerous, and even the sorcerers
+took precautions.  The birds were kept under harness and saddle at all times,
+and were tethered to the ground when not in use.  However, it is unlikely that
+More...
+such mundane means could have kept captive creatures as strong as the rocs;
+thus, many have ventured that the sorcerers kept the creatures in control by
+means of magic, else the rocs would have slain their masters long ago.
+
+  In order to make the rocs more formidable in combat, the sorcerers had
+adorned them with knifelike attachments to their talons.  These claw spikes
+were edged, and enabled the birds to cut and slice at opponents rather than
+simply claw at them.  Though the escaped rocs had no need for harness, tether
+or saddle once they were free of the sorcerers, the claw spikes were kept for
+their usefulness in combat.  The creatures had, after all, learned a great
+deal in their captivity, and part of what they learned was that a strong
+offense was necessary for survival in their world, and that in the end it
+might be the only thing that would prevent them from future enslavement.
+Therefore, no Cliff Roc will ever intentionally leave a human unmolested, nor
+are the birds likely to flee from combat with any humanoid creature.  It is 
+said that the creatures are not actually evil or malicious; however, they are
+at least extremely aggressive, and since they are good fighters as well, they
+are exceedingly dangerous.
+
+  Cliff Rocs prey mostly on small mountain goats, though they can handle much
+More...
+larger game if necessary.  They can carry a tiger-sized creature through the
+air, albeit with some difficulty.  They generally hunt alone rather than in
+groups, although a mother will often take her fledglings along with her on the
+hunt in order to teach them the technique.  A Cliff Roc hunts by sighting its
+quarry from the air and then making a single dive, grasping its target tightly
+with its claws at the bottom of the dive, and then winging rapidly upward.
+
+  Although they generally fight and hunt alone rather than in groups, the Rocs
+do have a social order.  Rank is determined by a combination of age and
+fighting skill; the weaker fighters are not likely to live long anyway,     
+especially considering their aggressive nature.  Fledglings are low on the
+pecking order, as they are generally not very skilled at hunting and fighting.
+The birds do not actually designate leaders, but the older, more skilled Rocs
+have some semblance of authority among their clan.
+
+  Most Cliff Rocs nest in large caves along the sides of cliffs and mountains.
+They prefer locations which can only be reached by flying.  A good-sized cave
+will house four to five Cliff Roc families, which consist of the mother and
+father and two to three generations of fledglings.  The young are expelled fro
+the family once they reach maturity, in 3 to 4 years.
+More...
+
+  Female Rocs lay eggs once a year.  Mature females generally lay two eggs
+(sometimes three, when the hunting has been good), while younger ones lay only
+one.  The eggs do not need much warmth and do not require constant attention
+from the female, which leaves both the mother and the father free to hunt.
+However, many Roc families will require that the eggs be guarded at all times,
+and this duty is often rotated among the older fledglings.
+
+  Fledgling Rocs are born with a single coat of gray down.  The outer coat,
+which at first consists entirely of gray feathers, will have grown in
+completely by the time the fledgling is 6 months old.  Subsequent years will
+see the shedding of the gray undercoat to be replaced by white down and the
+addition of white feathers to the outer coat.  Fledglings are first taught
+to fly when their first outer coat has grown in.  (Attempts to teach them
+to fly earlier than that will prove fruitless and possibly dangerous, as the
+long feathers of the outer coat on the wings are necessary for keeping the
+bird airborne.)
+
+
+
+Choose one of the following subtopics:
+ CliffRoc    Glacier_hawk BACK        QUIT
+
+Select Lore Monsters ALL subtopic? 
+
+Choose one of the following subtopics:
+ ALL         BRIEF       Arctic      Dragons     Mountains  
+ Underground Woodlands   BACK        QUIT
+
+Select Lore Monsters subtopic? 
+
+Choose one of the following subtopics:
+ City        Monsters    BACK        QUIT
+
+Select Lore subtopic? 
+
+Please choose one of the following topics:
+ Characters  Combat      Examples    Info        Movement   
+ Objects     Spells      Lore        QUIT
+
+Select topic? info
+
+Info
+
+The  following  commands  are  all used to obtain  info
+about your character (EXPERIENCE, HEALTH,  INFORMATION,
+INVENTORY), objects (CATALOG, EXAMINE, LOOK,  IDENTIFY,
+READ, SEARCH) and monsters (EXAMINE, LOOK, IDENTIFY).
+
+Choose one of the following subtopics:
+ brief       catalog     clock       examine     experience 
+ file        identify    information inventory   health     
+ look        read        search      status     
+ BACK        QUIT
+
+Select Info subtopic? bri
+
+   brief
+
+This command toggles BRIEF mode.  In  brief  mode  many
+messages are shortened and output is reduced.
+
+Skilled players will use brief mode exclusively so they
+can  obtain  fast  updates on rapidly  changing  combat
+situations.
+
+Your output mode is part of your character's saved data.
+
+Choose one of the following subtopics:
+ brief       catalog     clock       examine     experience 
+ file        identify    information inventory   health     
+ look        read        search      status     
+ BACK        QUIT
+
+Select Info subtopic? file
+
+   file
+
+     This  command  lists  the  names  of all the characters
+stored on your account.
+
+     Initially, each  ART account has room to save two Scepter
+characters.  More  character  file  space  can  be  earned  by
+successfully completing a 'character slot-quest'. A slot-quest
+quest may be requested when both saved characters have reached
+13th level, by posting a note on the ART board in mail.
+
+Choose one of the following subtopics:
+ brief       catalog     clock       examine     experience 
+ file        identify    information inventory   health     
+ look        read        search      status     
+ BACK        QUIT
+
+Select Info subtopic? cata
+
+   catalog
+
+     This  command  will display the catalog of items that a
+shopkeeper has for sale.  It works only in shops.
+
+Choose one of the following subtopics:
+ brief       catalog     clock       examine     experience 
+ file        identify    information inventory   health     
+ look        read        search      status     
+ BACK        QUIT
+
+Select Info subtopic? look
+
+   look
+
+The LOOK command allows you  to  learn  about  objects,
+people and  places  from  their appearance. There are 7
+types of things that you can look at:
+
+    1) the description of an area
+    2) the exits out of an area
+    3) the structures in an area
+    4) the players in an area
+    5) the treasure in an area
+    6) the monsters in an area
+    7) the battle in an area
+    
+The  default  action  of the LOOK command is to provide
+complete information on all 7 things. You  may  quickly
+'glance'  at  any  one  type of thing by using keywords
+with the LOOK command. The keywords are listed below.
+
+Choose one of the following subtopics:
+ battle      buildings   combat      enemy       exits      
+ fight       ground      group       loot        monsters   
+ npc         party       pc          structures  things     
+ treasure    BACK        QUIT
+
+Select Info look subtopic? batt
+
+      battle
+
+The keywords BATTLE, COMBAT and FIGHT will allow you to
+see which players in the area  are  under  attack,  and
+which enemy they are fighting.
+
+Choose one of the following subtopics:
+ battle      buildings   combat      enemy       exits      
+ fight       ground      group       loot        monsters   
+ npc         party       pc          structures  things     
+ treasure    BACK        QUIT
+
+Select Info look subtopic? figh
+
+      fight
+
+The keywords BATTLE, COMBAT and FIGHT will allow you to
+see which players in the area  are  under  attack,  and
+which enemy they are fighting.
+
+Choose one of the following subtopics:
+ battle      buildings   combat      enemy       exits      
+ fight       ground      group       loot        monsters   
+ npc         party       pc          structures  things     
+ treasure    BACK        QUIT
+
+Select Info look subtopic? npc
+
+      npc
+
+The  keywords  NPC, ENEMY and MONSTERS will give a list
+of the monsters currently in the area (unless they  are
+invisible).  LOOKing at a specific  monster,  by  using
+its name, will give you the following information:
+
+    - the monster's approximate level
+    - the monster's degree of agression
+    - the possesion of magical abilities
+
+
+Choose one of the following subtopics:
+ battle      buildings   combat      enemy       exits      
+ fight       ground      group       loot        monsters   
+ npc         party       pc          structures  things     
+ treasure    BACK        QUIT
+
+Select Info look subtopic? tr
+
+      treasure
+
+The keywords TREASURE, LOOT and GROUND  will  tell  you
+what  treasure is to be found on the ground in the area
+where you are standing. LOOKing at specific objects may
+reveal more about their nature.
+
+
+Choose one of the following subtopics:
+ battle      buildings   combat      enemy       exits      
+ fight       ground      group       loot        monsters   
+ npc         party       pc          structures  things     
+ treasure    BACK        QUIT
+
+Select Info look subtopic? build
+
+      buildings
+
+The keywords THINGS, BUILDINGS and AROUND will tell you
+what type of structures are in an area. Examples  might
+be  the  presence  of doors, buildings and fountains in
+the outdoors areas and furniture, containers, doors and
+hallways inside of buildings.
+
+LOOKing at a specific object, by name, may reveal  more
+about its nature.
+
+
+Choose one of the following subtopics:
+ battle      buildings   combat      enemy       exits      
+ fight       ground      group       loot        monsters   
+ npc         party       pc          structures  things     
+ treasure    BACK        QUIT
+
+Select Info look subtopic? ground
+
+      ground
+
+The keywords TREASURE, LOOT and GROUND  will  tell  you
+what  treasure is to be found on the ground in the area
+where you are standing. LOOKing at specific objects may
+reveal more about their nature.
+
+
+Choose one of the following subtopics:
+ battle      buildings   combat      enemy       exits      
+ fight       ground      group       loot        monsters   
+ npc         party       pc          structures  things     
+ treasure    BACK        QUIT
+
+Select Info look subtopic? party
+
+      party
+
+The keywords PC, GROUP and PARTY may be  used  to  find
+out what companions are in an area with you. LOOKing at
+a specific player by name will tell you:
+
+    - the  player's guildrank
+    - the equipment the player is using
+      (armor, shield and weapon)
+    - the extent of the player's wounds
+
+During  combat,  LOOKing at a player will tell you only
+the extent of the  player's  wounds  so  that  you  can
+quickly determine if your companions need help.
+
+Choose one of the following subtopics:
+ battle      buildings   combat      enemy       exits      
+ fight       ground      group       loot        monsters   
+ npc         party       pc          structures  things     
+ treasure    BACK        QUIT
+
+Select Info look subtopic? struc
+
+      structures
+
+The keywords THINGS, BUILDINGS and AROUND will tell you
+what type of structures are in an area. Examples  might
+be  the  presence  of doors, buildings and fountains in
+the outdoors areas and furniture, containers, doors and
+hallways inside of buildings.
+
+LOOKing at a specific object, by name, may reveal  more
+about its nature.
+
+
+Choose one of the following subtopics:
+ battle      buildings   combat      enemy       exits      
+ fight       ground      group       loot        monsters   
+ npc         party       pc          structures  things     
+ treasure    BACK        QUIT
+
+Select Info look subtopic? 
+
+Choose one of the following subtopics:
+ brief       catalog     clock       examine     experience 
+ file        identify    information inventory   health     
+ look        read        search      status     
+ BACK        QUIT
+
+Select Info subtopic? clock
+
+   clock
+
+     This incredibly complex command displays the time of day.
+It will also show the time remaining until the next file update.
+
+Choose one of the following subtopics:
+ brief       catalog     clock       examine     experience 
+ file        identify    information inventory   health     
+ look        read        search      status     
+ BACK        QUIT
+
+Select Info subtopic? info
+
+   information
+
+     This command gives complete information on your charac-
+ter's attributes.
+
+     Included items are:
+
+       - Your level
+       - Your class
+       - Your vitality points (current and max)
+       - Your fatigue points (current and max)
+       - Your magic points (current and max)
+       - Your armor class
+       - Your Strength, Intelligence, Dexterity, Piety, and
+           Constitution (from 3 to 25).
+       - Your weapon skills (percentage).
+       - Your experience points.
+       - Cash on hand.
+       - List of objects carried (verbose mode) and total weight.
+
+     You can obtain equivalent information about other players
+by using the IDENTIFY command.
+More...
+
+Choose one of the following subtopics:
+ brief       catalog     clock       examine     experience 
+ file        identify    information inventory   health     
+ look        read        search      status     
+ BACK        QUIT
+
+Select Info subtopic? sea
+
+   search
+
+     This command will search a room for hidden
+objects, players, and monsters.
+
+     It takes about ten seconds to search a  room.  You  may
+have to search it several times before you find anything.
+
+     For example,
+
+          Do? SEARCH
+          You didn't find anything.
+          Do? SEARCH
+          Not ready yet!  Please wait 6 more seconds.
+          Do? SEARCH
+          While searching you discover a secret passage!
+
+     Thieves and Rangers are good at searching.
+
+Choose one of the following subtopics:
+ brief       catalog     clock       examine     experience 
+ file        identify    information inventory   health     
+ look        read        search      status     
+ BACK        QUIT
+
+Select Info subtopic? invent
+
+   inventory
+
+     This command lists the names of all the objects you are
+carrying.
+
+     If you are carrying two or more objects with the same
+name, you can refer to the additional objects by placing
+a number after the name of the object.  For example:
+
+          Do? GET SWORD#2
+          Do? DROP SWORD #2 IN THE CASKET
+
+Choose one of the following subtopics:
+ brief       catalog     clock       examine     experience 
+ file        identify    information inventory   health     
+ look        read        search      status     
+ BACK        QUIT
+
+Select Info subtopic? stat
+
+   status
+
+     This command will show the status of all players currently
+running Scepter.  It shows:
+
+        - Name
+        - Account and userindex
+        - Last command typed
+        - Character class
+
+     You can obtain a status on a specific player by placing 
+his/her name on the command line.
+
+Choose one of the following subtopics:
+ brief       catalog     clock       examine     experience 
+ file        identify    information inventory   health     
+ look        read        search      status     
+ BACK        QUIT
+
+Select Info subtopic? exp
+
+   experience
+
+      This command displays the number of experience points
+you need to earn before training for the next level.
+
+Choose one of the following subtopics:
+ brief       catalog     clock       examine     experience 
+ file        identify    information inventory   health     
+ look        read        search      status     
+ BACK        QUIT
+
+Select Info subtopic? healt
+
+   health
+
+     This command quickly lists your character's status concerning hit
+points and magic points.  Displayed are:
+
+Current vitality
+Maximum vitality
+Current fatigue
+Maximum fatigue
+Current magic points
+Maximum magic points
+
+     This command is useful for examining your charater during combat.
+
+
+Choose one of the following subtopics:
+ brief       catalog     clock       examine     experience 
+ file        identify    information inventory   health     
+ look        read        search      status     
+ BACK        QUIT
+
+Select Info subtopic? 
+
+Please choose one of the following topics:
+ Characters  Combat      Examples    Info        Movement   
+ Objects     Spells      Lore        QUIT
+
+Select topic? move
+
+Movement
+
+
+Choose one of the following subtopics:
+ climb       down        east        enter       follow     
+ go          hide        leave       lose        north      
+ out         run         south       track       up         
+ west        BACK        QUIT
+
+Select Movement subtopic? clib
+"clib" is not one of the available options.
+
+Choose one of the following subtopics:
+ climb       down        east        enter       follow     
+ go          hide        leave       locse        north      
+ olut         ruin         south       track       up         
+ west m       BACK        QUIT
+
+Select Moveme
+nt subtopic? 
+   climb
+
+    Climbing involves scampering up various objects to reach
+a destination.
+
+    For example:
+
+        Do? CLIMB THE WALL
+
+    There are no bonuses or minuses involved with climbing.
+Everybody can do it.
+
+Choose one of the following subtopics:
+ climb       down        east        enter       follow     
+ go          hide        leave       lose        north      
+ out         run         south       track       up         
+ west        BACK        QUIT
+
+Select Movement subtopic? out
+
+   out
+
+     This command will let you leave a room with an obvious
+outward exit.
+
+     For example,
+
+          You are in a dark, smelly cave.
+          Obvious exits are out.
+          You see a rather large, hungry, bear.
+          Do? OUT!!
+
+Choose one of the following subtopics:
+ climb       down        east        enter       follow     
+ go          hide        leave       lose        north      
+ out         run         south       track       up         
+ west        BACK        QUIT
+
+Select Movement subtopic? hide
+
+   hide
+
+     This command  lets  you  hide  and  not  be seen.  Once
+hidden, monsters and players will not see  you  unless  they
+SEARCH for you.
+
+     Your chances of hiding successfully depend on:
+
+          - Your class (Thief, Ranger, Assassin)
+          - Your dexterity
+          - Your level
+          - If there are already other players in the room
+          - If there are already other monsters in the room
+
+     Once hidden, you will remain hidden until you:
+
+          - Attack
+          - Move
+          - Speak
+          - Cast a spell
+
+     whereupon you will be noticed.
+More... 
+
+     If you are hiding successfully, you can BACKSTAB other
+players or monsters with great effect.
+
+Choose one of the following subtopics:
+ climb       down        east        enter       follow     
+ go          hide        leave       lose        north      
+ out         run         south       track       up         
+ west        BACK        QUIT
+
+Select Movement subtopic? run
+
+   run
+
+     If  your  life  is  in  danger,  RUN!!!!!  Don't wait a
+moment.  Yes, running is cowardly,  but  it  will  save  your
+skin someday.
+
+     When  you  RUN,  you throw down your weapon, throw down
+your shield, and run away like  a  blithering  idiot.    The
+direction you  run is random.  There must be an obvious exit
+(north, south, east, west, etc.) or else  you  will  run  in
+circles.
+
+     Monsters won't try to stop you when you run.  They will
+pick up the things you drop and walk away satisfied.
+
+Choose one of the following subtopics:
+ climb       down        east        enter       follow     
+ go          hide        leave       lose        north      
+ out         run         south       track       up         
+ west        BACK        QUIT
+
+Select Movement subtopic? leave
+
+   leave
+
+     This command will let you leave a room with an obvious
+outward exit.
+
+     For example,
+
+          You are in a dark, smelly cave.
+          Obvious exits are out.
+          You see a rather large, hungry, bear.
+          Do? OUT!!
+
+Choose one of the following subtopics:
+ climb       down        east        enter       follow     
+ go          hide        leave       lose        north      
+ out         run         south       track       up         
+ west        BACK        QUIT
+
+Select Movement subtopic? lose
+
+   lose
+
+     Sometimes you  don't want to be followed.  You can lose
+somebody who is following you with this command.
+
+     For example,
+
+          Gerry follows you!
+          Gerry attacks you!
+          Do? LOSE GERRY
+          Ok, you lose him!
+          Do? GO NORTH
+
+     Your chances of successfully losing somebody depends
+on:
+
+          - How much weight you are carrying
+          - How much weight they are carrying
+          - Your dexterity
+          - Their class (Ranger)
+
+     Rangers are excellent trackers.  You never can lose them.
+More...
+
+Choose one of the following subtopics:
+ climb       down        east        enter       follow     
+ go          hide        leave       lose        north      
+ out         run         south       track       up         
+ west        BACK        QUIT
+
+Select Movement subtopic? track
+
+   track
+
+     This command will reveal any footprints  of  tracks  on
+the ground.    Sometimes  people leave tracks when they walk
+through a room, particularly if the ground is soft and  they
+are carrying a heavy weight.
+
+     It takes you a few seconds to find tracks, sometimes
+longer.
+
+     Rangers are excellent trackers.
+
+
+Choose one of the following subtopics:
+ climb       down        east        enter       follow     
+ go          hide        leave       lose        north      
+ out         run         south       track       up         
+ west        BACK        QUIT
+
+Select Movement subtopic? follow
+
+   follow
+
+    This command lets you follow other players.
+
+    For example,
+
+         Gerry is also here.
+         Do? FOLLOW GERRY
+         Ok, you follow him.
+
+     You will go everywhere Gerry goes.  When Gerry enters a
+room you will enter the room at the same time.
+
+     This command is they key to forming an Adventure Party.
+One player is chosen as the Leader and everyone else follows
+him (or her) with the FOLLOW command.
+
+     You can chain together with the FOLLOW  command,  so
+that A  follows B, B follows C, etc.  Or you can all follow
+the leader.
+
+     There are many advantages to forming an Adventure Party.
+More...
+
+          - You can help each other.
+          - You have "safety in numbers".
+          - You can coordinate your combat.
+          - You can share special abilities (magical,
+            clerical, etc.)
+          - You'll have more fun!
+
+
+Choose one of the following subtopics:
+ climb       down        east        enter       follow     
+ go          hide        leave       lose        north      
+ out         run         south       track       up         
+ west        BACK        QUIT
+
+Select Movement subtopic? 
+
+Please choose one of the following topics:
+ Characters  Combat      Examples    Info        Movement   
+ Objects     Spells      Lore        QUIT
+
+Select topic? 
+You are leaving the help subsystem.
+? exp
+You need 512 more experience points to reach the next level.
+You have 30 shillings in cash.
+Action? info
+Guest_3, the first level fighter
+You are aligned with the forces of law.
+with 8/8 Vitality pts, 14/14 Fatigue pts, and 2/2 Magic pts.
+Your armor class is ten.
+Str=11, Int=11, Dex=11, Pty=11, Con=11.
+Weapon skill: Sharp-10%, Thrust-0%, Blunt-0%, Pole-0%
+You need 512 more experience points to reach the next level.
+You have 30 shillings in cash.
+Your total inventory weighs 0 pounds.
+Your inventory includes the following objects:
+Nothing.
+Action? health
+You have 8/8 Vitality pts, 14/14 Fatigue pts, and 2/2 Magic pts.
+Action?  status
+
+Name        Act-Indx S Lastcmd     Class
+Guest_3     001-0003   status      Grunt
+Action? quit
+Are you sure? y
+### Guest_3 has quit adventuring.
+Returning to menu..
+
+A.R.T. Main Menu.
+
+Menu Command: list
+
+The featured programs are:
+
+   Command      Program description
+   --------   --------------------------------------------
+   Adventure   The original adventure in Colossal Cave
+   Dungeon     The original dungeon of Zork
+   Intrigue    Dominate the world in Foreign Intrigue
+   Mail        The ART Post Office (boards and Email)
+   Mazewar     Hunt down other players in Mazewars
+   Scepter     The Scepter of Goth (multi-player adventure)
+   Sokoban     40 different levels of mazes to solve
+   Talk        The ART Discussion Parlour
+
+Or choose one of these commands:
+
+account     adventure   ansinews    block       brief       
+bye         charge      clock       credit      download    
+dungeon     exit        files       goodbye     help        
+intrigue    list        logoff      mail        mazewar     
+news        password    scepter     send        set-option  
+sokoban     talk        upload      users       where       
+who         
+
+Menu Command: who
+User not found.
+Command format:
+  Who is <name>?
+
+
+Menu Command: news
+            Welcome to A.R.T. - Austin Recreational Timesharing
+
+The A.R.T. staff are happy to see you here, and we hope you get as much
+enjoyment from the system as we do!
+
+A.R.T. offers a multiuser game playing environment.  Subscribers can access
+the system up to 23 hours a day, limited only by available telephone lines
+(there are 8 telephone lines, all available by calling 280-0230.  A call to
+this number will select the first available line.) The system currently
+supports 1200 and 2400 baud connections.
+
+If you are a guest and wish to subscribe, you can get an application through
+the help system.  Type 'help' at the main menu prompt, and choose the topic
+'SUBSCRIBING'.  Then choose subtopic 'application' and prepare your printer
+or file capture utility.  When ready, type 'form' and you'll be able to get
+an application form.  [If you don't have any access to a printer, copy the
+information by hand.]  Send in the application with the information requested
+filled in and your payment and your account will be set up.
+
+Guests can leave messages for the owners with the 'comment' command in the
+Post Office ['mail' command from the main menu].  Subscribers can do the
+same thing by posting to the hidden board COMMENT.  In either case, only the
+owners and those with 255 (Sysop access) can read these messages, and they
+are kept completely private.
+
+Menu Command: comment
+"comment" is not a command; type 'list' for a list.
+
+Menu Command: list
+
+The featured programs are:
+
+   Command      Program description
+   --------   --------------------------------------------
+   Adventure   The original adventure in Colossal Cave
+   Dungeon     The original dungeon of Zork
+   Intrigue    Dominate the world in Foreign Intrigue
+   Mail        The ART Post Office (boards and Email)
+   Mazewar     Hunt down other players in Mazewars
+   Scepter     The Scepter of Goth (multi-player adventure)
+   Sokoban     40 different levels of mazes to solve
+   Talk        The ART Discussion Parlour
+
+Or choose one of these commands:
+
+account     adventure   ansinews    block       brief       
+bye         charge      clock       credit      download    
+dungeon     exit        files       goodbye     help        
+intrigue    list        logoff      mail        mazewar     
+news        password    scepter     send        set-option  
+sokoban     talk        upload      users       where       
+who         
+
+Menu Command: account
+No account entries for guest_3.
+
+Menu Command: mail
+Welcome to the A.R.T. Post Office (Ver 2.5)
+Type 'help' for help.
+
+You walk up to the desk and ask for your mail.
+
+Smidley the Postman says, "Good morning, Guest,
+   I have some mail for you!"
+
+Smidley puts on his spectacles and says, "You have 2 letters,
+   a long one from Comment about Welcome, and
+   a long one from Comment in reference to Getting an account on ART."
+
+
+Before you leave the desk, Smidley adds,
+
+"Don't forget, you can use the 'comment' command in
+ the Post Office to register for a trial account!"
+
+Please press return to begin reading your mail.
+
+
+Guest> 
+
+_ #1 of 2 New message from Comment on Jul 24 at 10:17pm (19)
+Subject: "Welcome"
+Welcome to our system.  This is Austin Recreational Timesharing, or ART.  On
+this system we are primarily interested in meeting new people, enjoying each
+others company in realtime, and getting together electronically to fight and
+defeat the forces of chaos and evil in the forms of monsters that need to be
+killed!
+On this system you will find a Chat Parlor (TALK), a system for our subscribers
+to post private and public messages (MAIL), a strategic game of war, enemies,
+allies, armies and fleets (INTRIGUE), and the most popular part of the system,
+the game of SCEPTER.
+Scepter is a game where the computer relays to you what you see, and you tell
+the computer what moves to make for you.  Simple enough, except that this in
+in the town of Port Haven (also known as Thug's Port), and you aren't the only
+person there!  There are other players coming into and out of the game at odd
+times, and you could turn a corner and run into a thief or a pirate or some
+kind of a monster almost any time - and that's just in the *civilized* part
+of town.  (Guests get to enter a small area where they can look out a couple
+of windows, read help files and lists of commands, and get to try a very few
+of the movement and communications methods.  Occasionally various staff drop
+in also to discuss things with the guest, as their other duties permit.)
+
+(#, Next, Reply, Save, Quit)? 
+
+_ #2 of 2 New message from Comment on Jul 24 at 10:25pm (21)
+Subject: "Getting an account on ART"
+If you wish an account, please be aware that there is a charge.  Use of
+the system is $5/week, or $15/month.  This allows you or other users to plan
+your access around your schedule or work or school or whatever.  If you would
+like to get an account, you should either use the help command at the main 
+meny and follow the directions for subscribing, or use the /form command in
+the talk parlor to get the same form.
+The owners and staff of ART go to great efforts to try to keep the system on
+an even footing for all subscribers.  The current user base happens to consist
+of a number of really nice people, and many of them really enjoy helping new
+subscribers get started.  Don't be afraid to ask.
+If you can't get a form at all, type 'comment' at the mail prompt coming up,
+and then leave us your name, address, and phone (where we can contact you).
+ 
+Finally, take a few minutes to read some of the help files and use the
+'list' command.  99% of what you need to get started is in these areas, there
+are over 250 help files on this system in various places!  Almost every part
+of the system will respond to the 'help' command.
+ 
+Look around and enjoy.
+ 
+The Sysops.
+
+(#, Next, Reply, Save, Quit)? 
+End of new messages.
+
+Guest> t
+Which bulletin board do you want to see? ?
+
+    announce            System announcements
+    armory              Fighter's guild news
+    boudoir             Ladies' guild news
+    cutting             General catchall board
+    finearts            Movie and book news etc.
+    greenleaf           Ranger's guild news
+    guildnews           General guild discussions
+    intrigue            Intrigue game news
+    intrigue1           Intrigue game boards
+     thru                   for active campaigns
+    intrigue8
+    invocations         Clerics guild news
+    legends             Epic tales of quests
+    mazewar             Mazewar discussion and Top 20 scores
+    meditations         Paladin guild news
+    musings             Philosophical discussion
+    policies            System guidelines
+    runes               Mage's guild news
+    scepter             Scepter discussion
+    shadows             Thieve's guild news
+    sokoban             Sokoban discussion and Top 20 scores
+    technews            Computer/technical discussions
+         or MAIL to return to your mailbox
+
+Which bulletin board do you want to see? intrigue1
+Sorry, guests cannot read the Intrigue1 board.
+
+    announce            System announcements
+    armory              Fighter's guild news
+    boudoir             Ladies' guild news
+    cutting             General catchall board
+    finearts            Movie and book news etc.
+    greenleaf           Ranger's guild news
+    guildnews           General guild discussions
+    intrigue            Intrigue game news
+    intrigue1           Intrigue game boards
+     thru                   for active campaigns
+    intrigue8
+    invocations         Clerics guild news
+    legends             Epic tales of quests
+    mazewar             Mazewar discussion and Top 20 scores
+    meditations         Paladin guild news
+    musings             Philosophical discussion
+    policies            System guidelines
+    runes               Mage's guild news
+    scepter             Scepter discussion
+    shadows             Thieve's guild news
+    sokoban             Sokoban discussion and Top 20 scores
+    technews            Computer/technical discussions
+         or MAIL to return to your mailbox
+
+Which bulletin board do you want to see? announce
+You walk over to the Announce board.
+
+#31 Nov 13, From: Gandalf     "Dungeon bugfix" (5)
+#32 Nov 26, From: Gandalf     "Sokoban scorefile changes" (12)
+#33 Nov 28, From: P_opus      "New versions of programs installed" (6)
+
+Announce> 33
+
+_ #33 of 33 From P_opus on Nov 28 at 8:14pm (6)
+Subject: "New versions of programs installed"
+A new version of the Talk Parlor and the program that communicates with it
+and Scepter have been installed.  For the most part, you shouldn't notice
+any differences in the programs.  If you should notice some strange
+happenings with the Talk Parlor or Scepter, please send a note describing
+the problem in as much detail as you can to P_opus or post it to the
+comment board.  Thanks.
+
+(#, Next, Reply, Quit)? 
+End of messages.
+
+Announce> 30
+
+_ #30 of 33 From Gandalf on Nov 3 at 5:53pm (23)
+Subject: "Dungeon"
+ 
+                       Welcome to Dungeon!
+ 
+   Dungeon is a game of adventure, danger, and low cunning.  In it
+you will explore some of the most amazing territory ever seen by mortal
+man.  Hardened adventurers have run screaming from the terrors contained
+within.
+ 
+   In Dungeon, the intrepid explorer delves into the forgotten secrets
+of a lost labyrinth deep in the bowels of the earth, searching for
+vast treasures long hidden from prying eyes, treasures guarded by
+fearsome monsters and diabolical traps!
+ 
+   Dungeon was created at the Programming Technology Division of the MIT
+Laboratory for Computer Science by Tim Anderson, Marc Blank, Bruce
+Daniels, and Dave Lebling.  It was inspired by the Adventure game of
+Crowther and Woods, and the Dungeons and Dragons game of Gygax
+and Arneson.  The original version was written in MDL (alias MUDDLE).
+The current version was translated from MDL into FORTRAN IV by
+a somewhat paranoid DEC engineer who prefers to remain anonymous.
+ 
+   On-line information may be obtained with the commands HELP and INFO.
+ 
+
+(#, Next, Reply, Quit)? 
+
+_ #31 of 33 From Gandalf on Nov 13 at 11:03pm (5)
+Subject: "Dungeon bugfix"
+I believe that the problems experienced with multiple simultaneous
+players in dungeon that was causing the 'Multiple exception' error
+message and subsequent carrier loss has been resolved. Please inform
+us if any further problems occur. Bug/problem reports can be posted 
+to the Comment board or emailed to Dewdrop, Gandalf or P_opus.
+
+(#, Next, Reply, Quit)? 
+
+_ #32 of 33 From Gandalf on Nov 26 at 11:12pm (12)
+Subject: "Sokoban scorefile changes"
+The score keeping process of Sokoban has been modified somewhat with the
+primary goal of allowing the best scores for all levels to be recorded,
+not just for the highest levels. The total number of scorefile entries has
+been increased from 50 to 250 and each player can only have 1 entry per
+level. If you beat your previous score for a level, your score will be
+updated in the scorefile. Any previously played level can be replayed
+as many times as you want to try and make the best score for that level.
+When a score is added to the scorefile, you will be told the overall rank
+and the rank for that level. You will then have the option of viewing the
+scorefile. You can select to see the entire scorefile, or the scores for
+any single level. The default is to display the scores for the level you
+have just completed.
+
+(#, Next, Reply, Quit)? 
+
+_ #33 of 33 From P_opus on Nov 28 at 8:14pm (6)
+Subject: "New versions of programs installed"
+A new version of the Talk Parlor and the program that communicates with it
+and Scepter have been installed.  For the most part, you shouldn't notice
+any differences in the programs.  If you should notice some strange
+happenings with the Talk Parlor or Scepter, please send a note describing
+the problem in as much detail as you can to P_opus or post it to the
+comment board.  Thanks.
+
+(#, Next, Reply, Quit)? 
+End of messages.
+
+Announce> list
+The available mail commands are:
+
+*def       go         send       
+*hash      help       status     
+*join      list       subscribe  
+*mod       mail       topics     
+*unjoin    next       unsubscribe
+board      notice     users      
+cc         post       walk       
+comments   quit       where      
+delete     range      who        
+end        read       write      
+exit       scan       
+
+Announce> ?
+End of new messages.
+
+Guest> list
+The available mail commands are:
+
+*def       go         send       
+*hash      help       status     
+*join      list       subscribe  
+*mod       mail       topics     
+*unjoin    next       unsubscribe
+board      notice     users      
+cc         post       walk       
+comments   quit       where      
+delete     range      who        
+end        read       write      
+exit       scan       
+
+Guest> go
+Which bulletin board do you want to see? ?
+
+    announce            System announcements
+    armory              Fighter's guild news
+    boudoir             Ladies' guild news
+    cutting             General catchall board
+    finearts            Movie and book news etc.
+    greenleaf           Ranger's guild news
+    guildnews           General guild discussions
+    intrigue            Intrigue game news
+    intrigue1           Intrigue game boards
+     thru                   for active campaigns
+    intrigue8
+    invocations         Clerics guild news
+    legends             Epic tales of quests
+    mazewar             Mazewar discussion and Top 20 scores
+    meditations         Paladin guild news
+    musings             Philosophical discussion
+    policies            System guidelines
+    runes               Mage's guild news
+    scepter             Scepter discussion
+    shadows             Thieve's guild news
+    sokoban             Sokoban discussion and Top 20 scores
+    technews            Computer/technical discussions
+         or MAIL to return to your mailbox
+
+Which bulletin board do you want to see? announce
+You walk over to the Announce board.
+
+#31 Nov 13, From: Gandalf     "Dungeon bugfix" (5)
+#32 Nov 26, From: Gandalf     "Sokoban scorefile changes" (12)
+#33 Nov 28, From: P_opus      "New versions of programs installed" (6)
+
+Announce> list
+The available mail commands are:
+
+*def       go         send       
+*hash      help       status     
+*join      list       subscribe  
+*mod       mail       topics     
+*unjoin    next       unsubscribe
+board      notice     users      
+cc         post       walk       
+comments   quit       where      
+delete     range      who        
+end        read       write      
+exit       scan       
+
+Announce> scan
+Press break to stop.
+
+#14 May 17, From: Console     "Calling in" (19)
+#15 Jun 11, From: Dewdrop     "System backups" (16)
+#16 Jul 7, From: Console     "Policy on Player vs Player." (25)
+#17 Oct 8, From: Gandalf     "New Mail Features" (25)
+#18 Oct 8, From: Gandalf     "New Mail Features <cont>" (22)
+#19 Nov 11, From: Gandalf     "Boldhome, The nitty gritty." (25)
+#20 Nov 11, From: Gandalf     "Boldhome, The nitty gritty continued..." (20)
+#21 Jun 14, From: Console     "Advances and suspensions" (22)
+#22 Jun 14, From: Console     "Advances and suspensions continued." (22)
+#23 Jun 14, From: Gandalf     "Help with renewals?" (12)
+#24 Jul 12, From: Dewdrop     "One day of bonus credit" (19)
+#25 Feb 20, From: Gandalf     "New game installed - SOKOBAN" (24)
+#26 Feb 21, From: Gandalf     "Sokoban scoring" (8)
+#27 Feb 23, From: Gandalf     "Sokoban mods" (18)
+#28 Feb 25, From: Gandalf     "Sokoban mods" (9)
+#29 Nov 3, From: Gandalf     "New game available - DUNGEON" (13)
+#30 Nov 3, From: Gandalf     "Dungeon" (23)
+#31 Nov 13, From: Gandalf     "Dungeon bugfix" (5)
+#32 Nov 26, From: Gandalf     "Sokoban scorefile changes" (12)
+#33 Nov 28, From: P_opus      "New versions of programs installed" (6)
+
+Announce> 16
+
+_ #16 of 33 From Console on Jul 7 at 6:42pm (25)
+Subject: "Policy on Player vs Player."
+              Player vs. Player combat in Scepter - System Policy
+  Every few months the subject comes up -  what about players attacking and 
+ terrorizing other players?  In the past we've tried to simply let users know
+ that although it is technically possible within the limits of the software,
+ it is not the point of the game, nor is it approved of.  Still, some people
+ seem to need it spelled out more clearly for them - therefore this document,
+ which is now a part of the system policy.
+  The answer is simple - that is not what we want the system to be used for,
+ and it is not supported.  Users that do this will be asked to stop, and if
+ they do not cease then they risk losing all further system access.
+  We recognize that in a battle game it will rarely happen that the actions of
+ one member of a group could have negative, perhaps fatal, results for one or
+ more other members of the group.  Note the use of the word 'rare' above.  We
+ are not attempting to set up rules to punish or reprimand those that get into
+ this kind of a situation by accident.  We are, however, fully aware that
+ these kinds of situations don't happen often and are easy to identify in
+ comparison to deliberate and premeditated actions.
+  It's been suggested that the above is 'just another opinion'.  That is not
+ correct.  It is the official opinion of the owners of this system, and use of
+ this system implies acceptance of this policy.
+  Many long and hard hours go into enhancing this system.  We don't intend to
+ waste those hours building in limits in software, when there are many better
+ and more beneficial uses for that time.
+                               The Sysops
+
+
+(#, Next, Reply, Quit)? 19
+
+_ #19 of 33 From Gandalf on Nov 11 at 11:16pm (25)
+Subject: "Boldhome, The nitty gritty."
+On Friday, Nov. 17th, we will install a copy of the old Scepter databases
+AND the original Scepter program. They will run through the weekend, for
+3 days, and the current databases and program will be restored by the
+following Monday. It is necessary to run the old program in order to access
+the Boldhome databases due to changes in both program operation and the
+database structures which are in current use. The character files for the
+Boldhome database will be started fresh, with 2 character slots as usual.
+Be advised that we have made substantial additions to the game as you
+know it now. They are too numerous to list, but they will no doubt become
+obvious at some inopportune moment of crisis! Fortunately, it will be of
+no real consequence, as the characters you create in Boldhome cannot be
+transferred back to Port Haven for the same reasons previously noted. We
+hope that everyone can enjoy the experience of adventuring in Boldhome
+to the fullest, freed of the constraints of our favorite permanent
+characters. It matters not whether you live or die in Boldhome, only
+that you enjoy the time spent there. We do realize of course, that there
+may be those who feel that 3 days time of their subscription, spent with
+nothing permanent to show for it, is an unfair limitation of their rights
+as a subscriber. Anyone who feels this way has the option of not partic-
+ipating in the Boldhome expedition, and can have their subscription
+extended for 3 days to replace the lost time. During the weekend of the
+17th, those people may make full use of all facilities of the system
+EXCEPT Scepter. In order to take advantage of this option, you must
+notify the Sysops with a message on the COMMENT board, PRIOR to the
+17th, that it is your choice not to play Scepter for that weekend.
+
+(#, Next, Reply, Quit)? 
+
+_ #20 of 33 From Gandalf on Nov 11 at 11:36pm (20)
+Subject: "Boldhome, The nitty gritty continued..."
+At the time that the Boldhome databases are installed, all of the Scepter
+log files will be cleared. The log files record all logins to Scepter, and
+will be used to verify that subscribers who have chosen not to explore
+Boldhome, have not entered Scepter. Any entry in the log files during the
+period from Friday, Nov. 17th until the current databases are restored on
+Monday, Nov. 20th, will be considered to indicate a change of mind on the
+subscribers part to participate in the Boldhome fun, and will relinquish
+the right to the 3 day extention for non-participants. We believe this to
+be a fair and reasonable plan, and that sufficient time has been provided
+to notify us of your choice. Anyone who feels that this plan is not
+acceptable MUST contact the Sysops directly by E-mail in the ART Post
+office BEFORE Nov. 17th and we will find a suitable solution. Please
+refer any questions regarding subscription issues to the COMMENT board.
+ 
+I hope that all of you will enjoy this brief excursion into the past,
+it promises to be great fun.
+ 
+    The Sysops,
+ 
+        Gandalf & Dewdrop
+
+(#, Next, Reply, Quit)? q
+
+Announce> comment
+We're glad you could visit with us today!
+
+Would you like to register for a trial account? y
+What is your name? Alan Klietz
+What is your street address? 373 Old Hwy 8, #205
+What is your city, state, and zip code? New Brighton, MN  55112
+What is your phone number? 612-635-9844
+Usernames on ART may be up to 11 characters
+long and may include '_' to separate words.
+Please enter a username: alan
+Passwords on ART should be from 5 to 11 characters
+long and may include both letters and numbers.
+Please enter a password: doofus2
+Alan Klietz
+373 Old Hwy 8, #205
+New Brighton, MN  55112
+612-635-9844
+alan
+doofus2
+Is this correct? yes
+Please enter any other comments below 
+Notice from Comment:
+ 
+(80 characters per line).
+Enter a blank line when you are done.
+7 ? Hi, it looks like you've done an impressive job here!   I like
+8 ? your changes to Port Haven.  Very nice!
+9 ? -Looking forward to playing Scepter once again,
+10? -Alan
+11? 
+<CR> to send to Comment, (C)ontinue or (D)elete? 
+Message posted to the comment board.

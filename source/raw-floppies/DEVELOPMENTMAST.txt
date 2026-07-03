@@ -1,0 +1,9792 @@
+!B
+%%!B
+!B
+|bitmap
+!5!B
+~lib
+!5"B"
+cmds
+!5!BJ
+user
+!5"BZ
+sys
+!5!B
+~def
+!5
+tjou
+!5!B)
+data
+!5!B.
+err
+!5!B3
+help
+!B
+|directory
+!B
+|stdio.h
+!B
+|entry.o
+!B
+|share.o
+!B
+|getchar.o
+!B
+}printf.o
+!B
+}fprintf.o
+!B }bound_chk.o
+!B
+}pushdouble.o
+!B
+}abs.o
+"B
+control
+!Bd
+led
+P#
+!Bh
+led.init
+P$
+"B
+modval
+PS
+"B
+sh
+Pl
+"B%
+whog
+!B
+sys.debug
+"B
+charge
+"B
+sendmsg
+!B
+dos
+!5!B
+lib
+!5!BK
+aek
+!B
+directory
+!B
+time.o
+!B,~iosubs.o
+!B0~stringsubs.o
+!B4~help.o
+!B8~xtra_strcpy.o
+!B
+~acct_subs.o
+!B@~hashpw.o
+!B
+~acct_subs2.o
+!BI~set_glob.o
+printf.o
+ printf
+ error
+fprintf.o
+ fprintf
+ sprintf
+tsprintf.o
+ tsprintf
+fscanf.o
+ scanf
+ fscanf
+fread.o
+ fread
+ fwrite
+sscanf.o
+ sscanf
+tfscanf.o
+ tfscanf
+tsscanf.o
+ tsscanf
+getchar.o
+ getchar
+ putchar
+ ungetchar
+char_waiting.o
+ char_waiting
+get_attr.o
+ get_attr
+ set_attr
+ get_option
+ set_option
+fgetstr.o
+ getstr
+ fgetstr
+fgetline.o
+ getline
+ fgetline
+atof.o
+ atof
+atol.o
+ atol
+atoi.o
+ atoi
+atoh.o
+ atoh
+fmatch.o
+ fmatch
+substring.o
+ substring
+io.o
+ io_in
+ io_out
+ set_extra_seg
+ set_extra_segment
+fputs.o
+ puts
+ fputs
+envsav.o
+ envsav
+ envrest
+ setexit
+ reset
+cd.o
+ cd
+alloc_seg.o
+ alloc_segment
+ free_segment
+create.o
+ create
+ shell
+ chain
+fork.o
+ fork
+ wait
+rand.o
+ rand
+ srand
+read_blk.o
+ read_blk
+ write_blk
+copy.o
+ copy
+ zero
+equal.o
+ equal
+concat.o
+ concat
+fgets.o
+ gets
+ fgets
+truncate.o
+ 'truncate
+pushdouble.o
+ 'pushdouble
+ 'pushtos
+ 'pushtoslong
+bound_chk.o
+ 'bound_chk
+exc_handler.o
+ exc_handler
+ffuns.o
+ frec
+ ftty
+ feof
+ fdevno
+ wdlength
+abs.o
+ abs
+ max
+ min
+isfuns.o
+ isalpha
+ isdigit
+ islower
+ isupper
+ isspace
+ iswhite
+ tolower
+ toupper
+fseek.o
+ fseek
+nargs.o
+ nargs
+timer.o
+ sleep
+ abs_sleep
+ set_timer
+ker3.o
+ set_exception
+ escape_tty
+ hold
+ unhold
+ time_slice
+ tty_tid
+ task_info
+ force_ready
+ set_priority
+ set_user
+ set_slice
+ modify_flags
+ set_tty
+ tty_root_tid
+ker2.o
+ get_date
+ set_date
+ get_ticks
+ker1.o
+ receive
+ reply
+ attach
+ detach
+ await
+ signal
+ read_msg
+ write_msg
+ read_port
+ csignal
+share.o
+ send
+ strcat
+ strcmp
+ strcpy
+ strlen
+ calloc
+ malloc
+ realloc
+ cfree
+ free
+ breakable
+ unbreakable
+ abort
+ getc
+ putc
+ ungetc
+ fflush
+ fopen
+ fclose
+ fget
+ fput
+ fiseek
+ rewind
+ forward
+ tfprintf
+et_timer
+ker3.o
+ set_exception
+ escape_tty
+ hold
+ unhold
+ time_slice
+ tty_tid
+ task_info
+ force_ready
+ set_priority
+ set_user
+ set_slice
+ modify_flags
+ set_tty
+ tty_root_tid
+ker2.o
+ get_date
+ set_date
+ get_ticks
+ker1.o
+ receive
+ reply
+ attach
+ detach
+ await
+ signal
+ read_msg
+ write_msg
+ read_port
+ csignal
+share.o
+ send
+ strcat
+ strcmp
+ strcpy
+ strlen
+ calloc
+ malloc
+ realloc
+ cfree
+ free
+ breakable
+ un
+/*
+ * Standard C Library I/O definitions (stdio.h)
+ *
+ * Copyright (c) Quantum Software Systems Ltd. 1982
+ */
+#define FILE unsigned
+#define EOF -1
+#define NULL 0
+extern FILE *stdin, *stdout, *stderr;
+<My_tty>
+<Exc_allow>
+stack_base
+<Cmd_flags>
+<Break_count>
+<Exc_bits>
+<stdout>
+<stdin>
+<_Argv>
+<exit>
+<Ed_tid>
+SAVE
+prologue
+<Exc_pending>
+<Exc_permit>
+<User_spare>
+<User_sp>
+TEMP
+<stderr>
+<Dads_tid>
+epilogue
+<File_list>
+<My_priority>
+<End_of_free>
+<Error_status>
+<Free_list>
+<Code_flags>
+stk_overflow
+<User_num>
+<main>
+stk_limit
+<_Argc>
+<My_tid>
+<Exc_pc>
+<Exc_fp>
+<Exit_status>
+<User_ss>
+dO
+64
+62
+XUSQRVW
+_^ZY[]
+&"
+<Dads_tid>
+epilogue
+<File_list>
+<My_priority>
+<End_of_free>
+<Error_status>
+<Free_list>
+<Code_flags>
+stk_overflow
+<User_num>
+<main>
+stk_limit
+<_Argc>
+<My_tid>
+<Exc_pc>
+<Exc_
+<strlen>
+<fclose>
+<strcpy>
+<tfprintf>
+<calloc>
+<ungetc>
+<fopen>
+<free>
+<breakable>
+<strcat>
+<abort>
+<send>
+<unbreakable>
+<rewind>
+<fget>
+<cfree>
+<realloc>
+<malloc>
+<fflush>
+<fput>
+<getc>
+<putc>
+<forward>
+<strcmp>
+<fiseek>
+<ungetchar>
+<ungetc>
+<stdin>
+<stdout>
+<getchar>
+prologue
+<putchar>
+epilogue
+<getc>
+<putc>
+<error>
+<stdout>
+<exit>
+prologue
+<stderr>
+epilogue
+<printf>
+<fprintf>
+%r
+%r
+<sprintf>
+<fflush>
+<round_type>
+pushtoslong
+<strlen>
+<abort>
+pushtos
+ o
+epilogue
+<Code_flags>
+truncate
+ N
+prologue
+<fprintf>
+TEMP
+<putc>
+pushdouble
+ a
+<fprintf_ftoa>
+%t
+<-u
+0u
+-0
+.u;
+-0
+lu
+t<
+s#
+}#
+ a
+t=
+t7
+t1
+;F
+-u
+guM
+;F
+;F
+?0u
+)F
+gu
+~'
+;F
+gu
+;F
+}O
+;F
+}=
+;F
+gt
+tY
+CC;
+;F
+t"
+;F
+;F
+;F
+u 
+v0
+vQ
+ N
+0|
+2}
+6P
+bcdefgorsux
+fprintf: floating point requires 8087 co-processor
+n<
+u,
++^
+v 
+s5
+s6
+rT
+u8
+Dt
+w)
+@uY
+Ny
+CNy
+PP
+PU
+]X
+$@
+Y@
+.A
+cA
+ _
+vH7B
+mB
+4&
+7y
+AC
+W4vC
+Ngm
+Ny
+CNy
+PP
+PU
+]X
+$@
+Y@
+.A
+cA
+ _
+<abort>
+bound_chk
+Array index out of bounds
+pushtos
+pushtoslong
+TEMP
+pushdouble
+<abs>
+prologue
+epilogue
+<max>
+<min>
+;F
+;F
+!B
+}alloc_seg.o
+!B
+}atof.o
+!B
+}atoh.o
+P 
+!B"}atoi.o
+P!
+!B%}atol.o
+P"
+!B)}cd.o
+P#
+!B-}char_waiting.o
+P$
+!B1}concat.o
+P%
+!B5}copy.o
+P&
+!B9}create.o
+P)
+<free_segment>
+prologue
+<send>
+epilogue
+<alloc_segment>
+prologue
+TEMP
+epilogue
+<atof>
+<atoi>
+= t
+= u
+=+t
+=-u
+?+u
+=0|%
+=9
+-0
+=.u
+=0|1
+=9
+-0
+=et
+=Eu
+GW
+t%
+<stdin>
+<stdout>
+prologue
+<stderr>
+epilogue
+<atoh>
+0r
+9w
+-0
+ar
+fw
+-W
+Ar
+Fw
+-7
+prologue
+epilogue
+<atoi>
+= t
+= t
+=-t
+=+u
+=0|$
+=9
+?-u
+<atol>
+prologue
+TEMP
+epilogue
+= t
+= t
+=-t
+=+u
+=0|%
+=9
+-0
+?-u 
+<strlen>
+<strcpy>
+prologue
+<cd>
+<send>
+epilogue
+<char_waiting>
+prologue
+<send>
+epilogue
+prologue
+epilogue
+<concat>
+<zero>
+prologue
+epilogue
+<copy>
+<strlen>
+<shell>
+<strcpy>
+<chain>
+<Create_status>
+<exit>
+prologue
+<send>
+epilogue
+<My_priority>
+<create>
+ P
+t:
+/cmds/sh
++s
+/cmds/sh
++s
++t
+e>
+ P
+t:
+B>}envsav.o
+P*
+!BC}equal.o
+P+
+!BG}exc_handler.o
+P,
+!BL}ffuns.o
+P-
+!BP}fgetline.o
+P.
+!BT}fgets.o
+P/
+!BY}fgetstr.o
+P0
+!B]}fmatch.o
+P1
+!Ba}fork.o
+P2
+!Bf}fputs.o
+P4
+!Bl}fscanf.o
+<calloc>
+<envsav>
+<setexit>
+prologue
+<abort>
+<reset>
+epilogue
+<envrest>
+envsav: no memory
+prologue
+epilogue
+<equal>
+<Exc_allow>
+<exc_handler>
+<Exc_bits>
+prologue
+<Exc_permit>
+epilogue
+<Exc_pc>
+<fdevno>
+<feof>
+<wdlength>
+prologue
+epilogue
+<frec>
+<ftty>
+<stdin>
+<getline>
+prologue
+epilogue
+<fgetline>
+<getc>
++F
+<stdin>
+prologue
+epilogue
+<fgets>
+<gets>
+<getc>
+s!
++F
+<fgetstr>
+<getstr>
+<stdin>
+prologue
+epilogue
+<getc>
+s!
++F
++F
+prologue
+<fmatch>
+epilogue
+?*u,
+FP
+PV
+tw
+kG
+=^u
+?]t
+:F
+PO
+)WV
+CC;
+GF
+=*u
+*?[
+<wait>
+prologue
+<send>
+epilogue
+<nargs>
+<fork>
+<stdout>
+prologue
+epilogue
+<puts>
+<putc>
+<fputs>
+P:
+!Br}fseek.o
+P;
+!Bv}get_attr.o
+P=
+!B{}io.o
+P>
+!B
+}isfuns.o
+P?
+!B
+}ker1.o
+P@
+!B
+}ker2.o
+PA
+!B
+}ker3.o
+PB
+!B
+}nargs.o
+PC
+!B
+}rand.o
+PD
+!B
+}read_blk.o
+PF
+<scanf>
+<ungetc>
+<stdin>
+prologue
+<isdigit>
+<abort>
+<fscanf>
+TEMP
+epilogue
+<Code_flags>
+<tolower>
+<isspace>
+<getc>
+&x
+=%t
+=ru
+=*u
+t4
+=lu
+?[u-
+=^u
+?]u
+;F
+  
+t(
+  
+ P
+CC;
+t.
+t8
+u'A;N
+w!
+-u'
+u'
+0u"
+xt
+Xu
+tRR
+;N
+}D
+u9
+t 
++t
+-u
++u
+t;R
+t/
+-0
+tj
+.ue
+tGR
+t;
+-0
+et
+Eug
+-t
++u
+-u
+t2R
+t&
+uN
+t 
+  
+0|
+-0
+a|
+-W
+A|
+-7
+u8
+2}
+EP
+=^u
+tJ
+=]u
+;~
+u@
+-u)
+t 
+]t
+;F
+;F
+:F
+%r
+[bcdefgosux
+fscanf: floating point requires 8087 co-processor
+  
+0|
+-0
+a|
+-W
+A|
+-7
+u8
+2}
+EP
+=^u
+tJ
+=]u
+;~
+u@
+-u)
+t 
+]t
+;F
+;F
+:F
+%r
+[bcdefgosux
+<forward>
+TEMP
+<fseek>
+<rewind>
+epilogue
+prologue
+<fiseek>
+u 
+u 
+}P
+}}
+<get_option>
+<set_attr>
+<abort>
+<set_option>
+<get_attr>
+epilogue
+<send>
+prologue
+0P
+JP
+set_attr: not a device
+get_attr: not a device
+set_option: not a device
+get_option: not a device
+0P
+<set_extra_seg>
+<set_extra_segment>
+<io_in>
+<io_out>
+RU
+]Z
+RU
+]Z
+<islower>
+prologue
+<toupper>
+<isdigit>
+epilogue
+<isupper>
+<tolower>
+<isspace>
+<iswhite>
+<isalpha>
+A|
+Z~
+a|
+0|
+a|
+A|
+ t
+ t
+= 
+A|
+a|
+- 
+<csignal>
+<signal>
+<relay>
+<reply>
+<detach>
+<await>
+<attach>
+<read_port>
+<write_msg>
+<receive>
+<read_msg>
+<get_ticks>
+<set_date>
+<get_date>
+<modify_flags>
+<set_user>
+<set_slice>
+<tty_root_tid>
+<time_slice>
+<unhold>
+<set_exception>
+<hold>
+<task_info>
+<tty_tid>
+<set_priority>
+<set_tty>
+<force_ready>
+<escape_tty>
+<nargs>
+prologue
+epilogue
+<srand>
+<rand>
+#i
+<write_blk>
+prologue
+<send>
+epilogue
+<read_blk>
+<copy>
+!B
+}sscanf.o
+PL
+!B
+}substring.o
+PM
+!B
+}tfscanf.o
+PQ
+!B
+}timer.o
+PR
+!B
+}truncate.o
+PS
+!B
+}tsprintf.o
+PU
+!B
+}tsscanf.o
+PY
+!B
+}math.h
+PZ
+!B
+}io.h
+P^
+!B
+}dev.h
+Pb
+prologue
+<isdigit>
+<abort>
+TEMP
+<sscanf>
+epilogue
+<Code_flags>
+<tolower>
+<isspace>
+=%t
+=ru
+=*u
+t4
+=lu
+?[u-
+=^u
+?]u
+;F
+t$
+vP
+CC;
+t/
+vu
+t;
+u*A;N
+w$
+-u#
+u)
+0u$
+xt
+Xu
+tSR
+;N
+}E
+u9
+t 
++t
+-u 
++u
+t<R
+t0
+-0
+tl
+.ug
+tHR
+t<
+-0
+et
+Euj
+-t
++u
+-u
+t3R
+t'
+uI
+0|
+-0
+a|
+-W
+A|
+-7
+u8
+2}
+BP
+=^u
+tJ
+=]u
+;~
+u@
+-u)
+t 
+]t
+;F
+;F
+;F
+:F
+[bcdefgosux
+fscanf: floating point requires 8087 co-processor
+0|
+-0
+a|
+-W
+A|
+-7
+u8
+2}
+BP
+=^u
+tJ
+=]u
+;~
+u@
+-u)
+t 
+]t
+;F
+;F
+;F
+:F
+[bcdefgosux
+fscanf: fl
+<substring>
+prologue
+epilogue
+t&
+<tfscanf>
+<ungetc>
+prologue
+<isdigit>
+epilogue
+<tolower>
+<isspace>
+<getc>
+F(
+=%t
+=ru
+=*u
+t4
+?[u-
+=^u
+?]u
+;F
+t(
+CC;
+t.
+t8
+u'A;N
+w!
+-u'
+u'
+0u"
+xt
+Xu
+t2R
+;N
+}$
+0|
+-0
+a|
+-W
+A|
+-7
+=^u
+tJ
+=]u
+;~
+u@
+-u)
+t 
+]t
+;F
+;F
+;F
+:F
+[bcdosux
+xt
+Xu
+t2R
+;N
+}$
+0|
+-0
+a|
+-W
+A|
+-7
+=^u
+tJ
+=]u
+;~
+u@
+-u)
+t 
+]t
+;F
+<detach>
+prologue
+<abort>
+<send>
+epilogue
+<set_timer>
+<abs_sleep>
+<sleep>
+t5
+)F
+TIMER_ADMIN not present
+truncate
+<strlen>
+prologue
+epilogue
+<tsprintf>
+%t
+<-u
+0u
+-0
+.u;
+-0
+}"
+CC;
+;F
+t 
+;F
+;F
+;F
+v0
+0|
+bcdorsux
+CC;
+;F
+prologue
+<isdigit>
+epilogue
+<tolower>
+<isspace>
+<tsscanf>
+@(
+=%t
+=ru
+=*u
+t4
+?[u-
+=^u
+?]u
+;F
+t$
+CC;
+t/
+t;
+u*A;N
+w$
+-u#
+u)
+0u$
+xt
+Xu
+t3R
+;N
+}%
+0|
+-0
+a|
+-W
+A|
+-7
+=^u
+tJ
+=]u
+;~
+u@
+-u)
+t 
+]t
+;F
+;F
+;F
+:F
+[bcdosux
+xt
+Xu
+t3R
+;N
+}%
+0|
+-0
+a|
+-W
+A|
+-7
+=^u
+tJ
+=]u
+;~
+u@
+-u)
+t 
+]t
+;F
+extern double atof();
+extern double sqrt(), fabs();
+extern double exp(), exp2(), exp10(), cbrt(), pow();
+extern double log(), log2(), log10();
+extern double sin(), cos(), tan(), dpie();
+extern double asin(), acos(), atan(), atan2();
+extern double sinh(), cosh(), tanh();
+extern double asinh(), acosh(), atanh();
+extern double fix(), round(), ceil(), floor();
+extern ftos(), fnorm();
+extern double rnd();
+#define FHUGE  1.67e308
+#define LOGFHUGE 309
+/*
+ * Device types
+ */
+#define TYPE_FILE 0
+#define TYPE_DEVICE 1
+#define _READ  0x01
+#define _WRITE  0x02
+#define _APPEND  0x04
+#define _CREATE  0x04
+#define _EXECUTE 0x08
+#define _BLOCK  0x08
+#define _MODIFY  0x10
+#define _DIRECTORY 0x20
+#define _NEW  0x01
+#define _OLD  0x02
+#define _FILE  0x04
+#define _VERBOSE 0x08
+#define _QUIT  0x10
+#define _EOF  0x80
+#define _UNBUF  0x40
+#define _UNGOT  0x20
+#define _DIRTY  0x10
+#define _FILTHY  0x08
+#define _SLIMY  0x04
+#define _EOF_PENDING 0x08
+/*
+ * This is the basic IO control block. It is the minimum
+ * required information for IO transfers. The buffer is
+ * of variable length depending on the particular device.
+ */
+struct iocb {
+ struct iocb *_link;
+ char _unchar;
+ char _dev_type;
+ char _cmd_stat;
+ unsigned _arg[2];
+ char _flags;
+ char _dev_no;
+ int _index;
+ int _length;
+ char _buffer[0];
+ };
+struct msg_hdr {
+ char mtype;
+ unsigned marg[2];
+ char mflags;
+ char mdev_no;
+ int mindex;
+ int mlen;
+ char mbuf[0];
+ } ;
+#define FMSG_HDR sizeof(struct msg_hdr)
+/*
+ * Messages
+ */
+#define FILL  1
+#define EMPTY  2
+#define OPEN  3
+#define CLOSE  4
+#define SEEK  5
+#define REWIND  6
+#define FORWARD  7
+#define GET_ATTR 8
+#define SET_ATTR 9
+#define CLOSE_ALL 10
+#define ABORT_MSG 11
+#define CHAR_WAITING 12
+#define GET_OPTION 13
+#define SET_OPTION 14
+#define READ_BLK 13
+#define WRITE_BLK 14
+#define DISK_PROMPT 15
+#define LOAD  15
+#define CD   16
+#define NEW_OPTION 16
+#define PASS_CD  17
+#define DEFINE_DRIVER 18
+#define GET_SEARCH 19
+#define SET_SEARCH 20
+#define GET_DIR_ENTRY 21
+#define SET_DIR_ENTRY 22
+/*
+ * Replies
+ */
+#define ERROR    0x80
+#define OK     0
+#define RETRY    1
+#define READ_ERROR   2
+#define WRITE_ERROR   3
+#define FULL_DISK   4
+#define BAD_XTNT   5
+#define FILE_WRITE_ERROR 6
+#define BAD_FILE_NUMBER  7
+#define BAD_IOCB   8
+_OPTION 14
+#define READ_BLK 13
+#define WRITE_BLK 14
+#define DISK_PROMPT 15
+#define LOAD  15
+#define CD   16
+#define NEW_OPTION 16
+#define PASS_CD  17
+#define DEFINE_DRIVER 18
+#define GET_SEARCH 19
+#define SET_SEARCH 20
+/*
+ * TTY Options
+ */
+#define ECHO   0x01
+#define EDIT   0x02
+#define ETAB   0x04
+#define ERS    0x08
+#define EDEL   0x10
+#define IGATE   0x20
+#define XON_XOFF  0x40
+#define MAPCR   0x80
+#define OUTPUT_PAGED 0x100
+#define IFLOW   0x200
+#define POLL_PRINTER 0x400
+#define NUL  0x00
+#define ETX  0x03
+#define EOT  0x04
+#define BS  0x08
+#define HT  0x09
+#define LF  0x0a
+#define FF  0x0c
+#define CR  0x0d
+#define DC1  0x11
+#define DC3  0x13
+#define CAN  0x18
+#define RS  0x1e
+#define SP  0x20
+#define DEL  0x7f
+struct dev_entry {
+ char dev_name[6];
+ unsigned tty_options;
+ char tty_page;
+ char tty_type;
+ char tty_BREAK;
+ char tty_ESCAPE;
+ char tty_RUBOUT;
+ char tty_CANCEL;
+ char tty_EOT;
+ char tty_UP;
+ char tty_RIGHT;
+ char tty_DOWN;
+ char tty_LEFT;
+ char tty_HOME;
+ char tty_CLEAR;
+ char tty_FUNCTION;
+ char tty_INSERT;
+ char tty_DELETE;
+ unsigned tty_ioport;
+ } ;
+struct attr_msg {
+ char mtype;
+ char devno;
+ struct dev_entry tty_ent;
+ } ;
+struct abort_msg {
+ char mtype;
+ char my_tty;
+ unsigned exc_bits;
+ } ;
+/*
+ * Device Open Error types (top bit will be set)
+ */
+#define BAD_DEVICE   1
+#define BAD_MODE   2
+#define NO_BUF_SPACE  3
+/*
+ * definition of device types which are recognized by QUNIX
+ */
+#define DEV_LOW_RES  1  /* Low res graphics */
+#define DEV_GRAPHICS 2  /* High res graphics display */
+#define DEV_MONOCHROME 3  /* IBM Monochrome display */
+#define DEV_ASCII  4  /* dumb ASCII terminal */
+#define DEV_MX80  5  /* MX-80 printer */
+}fsys.h
+Pj
+!B
+}task.h
+Pw
+!B
+}task_msgs.h
+P{
+!B
+}ed.h
+!B
+}timer.h
+!B
+~fread.o
+sprintf.o
+PU
+!B
+}tsscanf.o
+PY
+!B
+}math.h
+PZ
+!B
+}io.h
+P^
+!B
+}dev.h
+#ifndef FMSG_HDR
+#include <io.h>
+#endif
+/*
+ * define file structure constants
+ */
+#define FBLK_SIZE 512
+#define FBLK_BITS 9
+#define XTNT_HDR 16
+#define BITMAP_BLK 2
+#define DISK_DESC_BLK 1
+#define MIN_FILE_SIZE 6
+#define MIN_INCREMENT 4
+#define RANGE_INCREMENTS 0x7c
+/*
+ * define bits in file status and attribute bytes
+ */
+#define _DIR_CHANGED 0x20
+#define _USED   0x40
+#define _FILE_BUSY  0x80
+/*
+ * define operating system constants
+ */
+#define NCPFN 16
+struct xtnt_hdr {
+ unsigned prev_xtnt;
+ unsigned ext_prev_xtnt;
+ unsigned next_xtnt;
+ unsigned ext_next_xtnt;
+ unsigned size_xtnt;
+ unsigned ext_size_xtnt;
+ unsigned bound_xtnt;
+ unsigned ext_bound_xtnt;
+ };
+struct dir_entry {
+ char fstat;
+ unsigned ffirst_xtnt;
+ unsigned ext_ffirst_xtnt;
+ unsigned flast_xtnt;
+ unsigned ext_flast_xtnt;
+ unsigned fnum_blks;
+ unsigned ext_fnum_blks;
+ unsigned fnum_xtnt;
+ char fowner;
+ char fspare[9];
+ char fperms;
+ char fattr;
+ unsigned fdate[2];
+ char fname[NCPFN + 1];
+ };
+struct dir_xtnt {
+ unsigned parent_xtnt;
+ unsigned dir_index;
+ struct dir_entry directory[0];
+ };
+struct disk_desc_blk {
+ unsigned parent_xtnt;
+ unsigned dir_index;
+ unsigned disk_id[2];
+ char unused[sizeof(struct dir_entry) - sizeof(disk_id)];
+ struct dir_entry disk_root_dir;
+ };
+struct file_iocb {
+ struct iocb _iocb;
+ char _drive;
+ char _mode;
+ char _owner;
+ char _fspare[3];
+ unsigned _first_xtnt;
+ unsigned _ext_first_xtnt;
+ unsigned _last_xtnt;
+ unsigned _ext_last_xtnt;
+ unsigned _num_blks;
+ unsigned _ext_num_blks;
+ unsigned _num_xtnt;
+ unsigned _cur_xtnt;
+ unsigned _ext_cur_xtnt;
+ unsigned _max_cnt;
+ unsigned _cur_blk_offset;
+ unsigned _parent_xtnt;
+ unsigned _ext_parent_xtnt;
+ int _dir_index;
+ int _temp;
+ unsigned _prev_xtnt;
+ unsigned _ext_prev_xtnt;
+ unsigned _next_xtnt;
+ unsigned _ext_next_xtnt;
+ unsigned _size_xtnt;
+ unsigned _ext_size_xtnt;
+ unsigned _bound_xtnt;
+ unsigned _ext_bound_xtnt;
+ char _data[512];
+ };
+struct file_desc {
+ char _Drive;
+ char _Mode;
+ char _Owner;
+ char _Fspare[3];
+ unsigned _First_xtnt;
+ unsigned _ext_First_xtnt;
+ unsigned _Last_xtnt;
+ unsigned _ext_Last_xtnt;
+ unsigned _Num_blks;
+ unsigned _ext_Num_blks;
+ unsigned _Num_xtnt;
+ unsigned _Cur_xtnt;
+ unsigned _ext_Cur_xtnt;
+ unsigned _Max_cnt;
+ unsigned _Cur_blk_offset;
+ unsigned _Parent_xtnt;
+ unsigned _ext_Parent_xtnt;
+ int _Dir_index;
+ int _Temp;
+ unsigned _Prev_xtnt;
+ unsigned _ext_Prev_xtnt;
+ unsigned _Next_xtnt;
+ unsigned _ext_Next_xtnt;
+ unsigned _Size_xtnt;
+ unsigned _ext_Size_xtnt;
+ unsigned _Bound_xtnt;
+ unsigned _ext_Bound_xtnt;
+ } ;
+struct file_entry {
+ struct file_desc fdesc;
+ char fflags;
+ unsigned user_tid;
+ } ;
+#define FILE_USED 1
+struct cd_entry {
+ char cur_owner;
+ char cur_drive;
+ unsigned cur_parent_xtnt;
+ unsigned cur_dir_index;
+ unsigned cur_disk_id[2];
+ } ;
+struct disk_entry {
+ char disk_type;
+ char disk_drv;
+ unsigned blk_offset;
+ unsigned num_sctrs;
+ unsigned sctr_cyl;
+ char sctr_trk;
+ char sctr_base;
+ unsigned ctl_addr;
+ char ctl_int;
+ char disk_filler[3];
+ } ;
+struct driver_entry {
+ unsigned driver_seg;
+ int (*disk_init) ();
+ int (*blk_read) ();
+ int (*blk_write) ();
+ } ;
+struct driver_msg {
+ char mtype;
+ char driver_type;
+ struct driver_entry drv_ent;
+ } ;
+/*
+ * define file status messages ("ored" with ERROR on return)
+ */
+#define UNABLE_TO_ACCESS 1
+#define FILE_BUSY   2
+#define NO_BUF_SPACE  3
+#define BAD_PATHNAME  4
+#define ATTRIBUTE_VIOLATION 5
+#define DISK_FULL   6
+#define NAME_TOO_LONG  7
+#define INVALID_DEVICE  8
+#define BAD_DRIVE_NUMBER 9
+#define PARTIAL_MATCH  10
+#define TOO_MANY_OPEN_FILES 11
+#define CORRUPT_DIRECTORY 12
+lk_read) ();
+ int (*blk_write) ();
+ } ;
+struct driver_msg {
+ char mtype;
+ char driver_type;
+ struct driver_entry drv_ent;
+ } ;
+/*
+ * define file status messages ("ored" with ERROR on return)
+ */
+#define UNABLE_TO_ACCESS 1
+#define FILE_BUSY   2
+#define NO_BUF_SPACE  3
+#define BAD_PATHNAME  4
+#define ATTRIBUTE_VIOLATION 5
+#define DISK_FULL   6
+#define NAME_TOO_LONG  7
+#define INVALID_DEVICE  8
+#define BAD_DRIVE_NUMBER 9
+#define PARTIAL_MATCH  10
+#define TOO_MANY_OPEN_FILES 11
+#define CORRUPT_DIRECTORY
+/*
+ * The following TIDs are reserved for the system tasks.
+ */
+#define TASK_ADMIN  1
+#define FSYS_ADMIN  2
+#define DEV_ADMIN  3
+#define IDLE   4
+#define NUM_BOOT_TASKS 4
+#define NUM_SYS_TASKS 4
+/*
+ * Kernel call types
+ */
+#define SEND   1
+#define RECEIVE   2
+#define REPLY   3
+#define ATTACH   4
+#define DETACH   5
+#define AWAIT   6
+#define SET_EXCEPTION 7
+#define ESCAPE_TTY  8
+#define SIGNAL   9
+#define HOLD   10
+#define UNHOLD   11
+#define TIME_SLICE  12
+#define TTY_TID   13
+#define TASK_INFO  14
+#define FORCE_READY  15
+#define GET_TIME  16
+#define SET_TIME  17
+#define GET_TICKS  18
+#define SET_PRIORITY 19
+#define SET_USER  20
+#define SET_SLICE  21
+#define READ_MSG  22
+#define WRITE_MSG  23
+#define READ_PORT  24
+#define CSIGNAL   25
+#define MODIFY_FLAGS 26
+#define SET_TTY   27
+#define TTY_ROOT_TID 28
+#define RELAY   29
+/*
+ * Task States
+ */
+#define DEAD   0
+#define READY   1
+#define SEND_BLOCKED 2
+#define RECEIVE_BLOCKED 3
+#define REPLY_BLOCKED 4
+#define HELD   5
+/*
+ * Task flag bits
+ */
+#define TO_BE_HELD  0x0001
+#define DOOMED   0x0002
+#define ESCAPED_SHELL 0x0004
+#define FETAL_SHELL  0x0008
+#define CONCURRENT  0x0010
+#define ADMIN   0x0020
+#define FIXED   0x0040 /* Shared by code flags */
+#define PRIVILEGED  0x0080 /* Shared by code flags */
+#define INFORM   0x0100
+#define WAIT   0x2000
+#define PART_NDP_SAVE 0x4000
+#define FULL_NDP_SAVE 0x8000
+/*
+ * Code record flag bits
+ */
+#define NEEDS_NDP  0x01
+#define SHAREABLE  0x02
+#define SET_OWNER  0x04
+/*
+ * System flags in sflags field
+ */
+#define NDP_INSTALLED 0x01
+#define PASSWORDS_ON 0x02
+#define SYSTEM_UP  0x04
+/*
+ * Accounting flag bits in account_flags field
+ */
+#define MAIL_WAITING 0x01 /* cleared when read */
+/*
+ * System port associations for hardware events
+ */
+#define CLOCK_EVENT  1
+#define TTY_EVENT  2
+#define DISK_EVENT  7
+#define PRINTER_EVENT 8
+/*
+ * System exception bits
+ */
+#define EXC_HANG_UP   0x0001
+#define EXC_BREAK   0x0002
+#define EXC_QUIT   0x0004
+#define EXC_FLOAT   0x0080
+#define EXC_KILL   0x0100
+#define EXC_MEM_VIOLATION 0x0400
+#define EXC_PRIV_VIOLATION 0x0800
+#define EXC_ALARM_CLOCK  0x2000
+#define EXC_TERM   0x4000
+#define EXC_DIV_ZERO  0x8000
+/*
+ Kernal constants
+ */
+#define PRIO_BITS   4
+#define NUM_PRIORITIES  (1 << PRIO_BITS)
+#define PRIO_MASK   (NUM_PRIORITIES - 1)
+#define MIN_USER_PRIORITY PRIO_MASK
+#define DEFLT_USER_PRIORITY 8
+#define MAX_USER_PRIORITY 4
+#define SYS_PRIORITY  1
+#define BITS_PER_BLK  4
+#define BLK_SIZE   (1<<BITS_PER_BLK) /* For the 8086/8088 */
+#define ONE_HUNDRED_MSEC 2
+#define NUM_TASKS  20 /* 48 in 8 port system */
+#define TID_BITS  5
+#define TID_MASK  ((1 << TID_BITS) - 1)
+#define NUM_PORTS  24
+#define NUM_TTYS  10 /* 19 in 8 port system */
+#define SUPER_USER  255
+#define SOH_HDR_SIZE (14-1)
+#define INIT_ALLOC_SIZE 820  /* room for one file, and three ttys */
+#define MIN_STACK_SIZE 1000
+#define INT_STACK_SIZE 64
+#define OS_SEG   0x60
+#define MAGIC_MEM_SIZE 0x80
+#define enable asm("sti");
+#define disable asm("cli");
+struct system_info {   /* Note: This struct overlays task_table[0] */
+ unsigned task_base;
+ char num_tasks;
+ char num_events;
+ char num_priorities;
+ char num_ttys;
+ unsigned blk_size;
+ unsigned sflags;
+ char slice_size;
+ } ;
+struct task_entry {
+ struct task_entry *tlink;
+ unsigned tid;
+ unsigned blocked_on;
+ char *send_msg;
+ unsigned msg_length;
+ unsigned data_seg;
+ unsigned data_size;
+ char state;
+ char priority;
+ char user_num;
+ char task_tty;
+ char slice_cnt;
+ char code_index;
+ unsigned tflags;
+ struct task_entry *sender_queue;
+ char *reply_msg;
+ struct task_entry *tty_link;
+ struct task_entry *father;
+ struct task_entry *son;
+ struct task_entry *brother;
+ struct sys_mem_entry *segment_list;
+ char task_spare[12];
+ } ;
+struct event_entry {
+ struct task_entry *tlink;
+ unsigned tid;
+ unsigned blocked_on;
+ char *send_msg;
+ unsigned msg_length;
+ unsigned data_seg;
+ unsigned data_size;  /* not currently used */
+ char state;
+ unsigned event_cnt;
+ } ;
+struct code_entry {
+ unsigned code_seg;
+ char link_count;
+ char code_owner;
+ char code_group;
+ char code_flags;
+ unsigned code_size;
+ unsigned init_data_size;
+ unsigned const_size;
+ unsigned const_chksum;
+ unsigned stack_size;
+ unsigned code_spare[2];
+ char code_name[0];
+ } ;
+struct account_entry {
+ char account_name[17]; /* 16 characters plus terminating null */
+ unsigned account_flags;
+ char account_group_num;
+ char account_user_num;
+ unsigned account_login_time[2];
+ char account_spare[39];
+ } ;
+/*
+ * NOTE: Disk load files start with a SOH (01) followed by
+ *       a load_hdr_record. Following this will be data records
+ *       in non-sequential order which begin with a STX (02) followed
+ *       by a load_data_record_hdr. Offset and Length both have high
+ *       byte first followed by low byte.
+ *       Code records have a Load_type of 0, data records are type 1.
+ * 
+ * struct load_hdr_record {
+ *  char  Code_flags;
+ *  unsigned Code_size;
+ *  unsigned Init_data_size;
+ *  unsigned Const_size;
+ *  unsigned Const_checksum;
+ *  unsigned Stack_size;
+ *  unsigned Code_spare;
+ *  } ;
+ * 
+ * struct load_data_record_hdr {
+ *  char Load_type;
+ *  char Offset[2];
+ *  char Length[2];
+ *  } ;
+ *
+ */
+struct user_memory {
+ unsigned User_sp;
+ unsigned User_ss;
+ unsigned Exc_bits[2];
+ unsigned Exc_allow[2];
+ unsigned Exc_pending[2];
+ unsigned Exc_fp;
+ unsigned Exc_pc;
+ unsigned Exc_permit[2];
+ unsigned Exit_status;
+ unsigned Error_status;
+ unsigned My_tid;
+ unsigned Dads_tid;
+ char Break_count;
+ char My_tty;
+ unsigned Stack_base;
+ char Cmd_flags;
+ char My_priority;
+ unsigned Stdin;
+ unsigned Stdout;
+ unsigned Stderr;
+    unsigned Free_list;
+ unsigned End_of_free;
+ unsigned File_list;
+ unsigned Argc;
+ unsigned Argv;
+ unsigned Save;
+ unsigned Temp[10];
+ unsigned Reserved[10];
+ char Code_flags;
+ char User_num;
+ } ;
+struct int_stk_frame {
+ unsigned ds_reg; /* TOP OF STACK */
+ unsigned es_reg;
+ unsigned di_reg;
+ unsigned si_reg;
+ unsigned dx_reg;
+ unsigned cx_reg;
+ unsigned bx_reg;
+ unsigned bp_reg;
+ unsigned ax_reg;
+ unsigned pc_reg;
+ unsigned cs_reg;
+ unsigned flags_reg;
+ } ;
+struct {
+ struct int_stk_frame isf;
+ unsigned ret_addr;
+ unsigned arg1;
+ unsigned arg2;
+ unsigned arg3;
+ unsigned arg4;
+ } ;
+il
+!5
+B)
+misc
+!5?A!
+os
+!5
+=talk
+Pu
+!5
+backup
+%A
+hdirectorymap
+PD
+!5!B[Bintrigue
+!5
+sort
++A
+&boot
+/*
+ * Messages to the TASK ADMINISTRATOR.
+ * These MUST NOT be changed once the system has been released.
+ */
+#define TA_DESTROY  0
+#define TA_GROW_MEM  1
+#define TA_CREATE  2
+#define TA_TRANSFORM 3
+#define TA_FORK   4
+#define TA_CODE_INFO 5
+#define TA_TASK_INFO 6
+#define TA_ALLOC_SEG 7
+#define TA_ADD_NEW_MEM 8
+#define TA_MEM_INFO  9
+#define TA_PASSWORD_ON 10
+#define TA_WAIT   11
+#define TA_FREE_SEG  12
+#define TA_GET_ACCOUNT 13
+#define TA_SET_ACCOUNT 14
+/*
+ * Reply messages from the TASK ADMINISTRATOR.
+ * These MUST NOT be changed once the system has been released.
+ */
+#define OK    0
+#define NO_TID   1
+#define NO_MEMORY  2
+#define BAD_LOAD_FILE 3
+#define CMD_NOT_FOUND 4
+#define NOT_A_LOAD_FILE 5
+#define BAD_MSG_TYPE 6
+#define NO_8087   7
+#define NOT_AVAILABLE 8
+/*
+ * Flag definitions for the the cmd_flags field of a TA_CREATE msg.
+ */
+#define RUN_BACKGROUND 0x01
+#define RUN_CONCURRENT 0x02
+#define BEQUEATH_TTY 0x04
+#define QUERY   0x08
+#define DEBUG           0x10
+/*
+ * Misc constants
+ */
+#define CMD_LINE_SIZE 256
+struct ta_create {
+ char msg_type;
+ char cmd_flags;
+ char cmd_priority;
+ char argc;
+ char stdin_index;
+ char stdout_index;
+ char stderr_index;   /* not currently used */
+ unsigned stack_overide;
+ int line_length;
+ unsigned tac_spare[6];
+ char cmd_line[CMD_LINE_SIZE];
+ } ;
+struct tar_create {
+ char msg_type;
+ unsigned task_id;
+ unsigned task_status;
+ } ;
+struct ta_task_info {
+ char msg_type;
+ char task_num;
+ } ;
+struct ta_code_info {
+ char msg_type;
+ char code_num;
+ } ;
+struct tar_code_info {
+ char msg_type;
+ struct code_entry code_data;
+ char code_pathname[100];
+ } ;
+struct ta_grow_mem {
+ char msg_type;
+ unsigned req_nbytes;
+ } ;
+struct ta_alloc_seg {
+ char msg_type;
+ unsigned req_nblks;
+ char permanent;
+ } ;
+struct tar_alloc_seg {
+ char msg_type;
+ unsigned seg_base;
+ } ;
+struct ta_add_new_mem {
+ char msg_type;
+ unsigned new_seg;
+ unsigned num_blks;
+ } ;
+struct ta_account {
+ char msg_type;
+ char tty_num;
+ struct account_entry account_data;
+ } ;
+ char code_num;
+ } ;
+/*
+ * This file contains the information necessary for a subtask
+ * created by the full screen editor to communicate with the
+ * full screen editor via a simple message interface.
+ *
+ * To force the editor to drop into communication with your task
+ * it is necessary to force it ready and inform it of your task
+ * id. This may be accomplished by seting a user exception of
+ * your task id on it.
+ *
+ *  set_exception(Ed_tid, 0, My_tid)
+ *
+ * This will unblock the editor which will then do a specific receive
+ * on My_tid. Upon your death the editor will be unblocked by the system
+ * and continue.
+ */
+/*
+ * The four msg_code values to be sent to the editor.
+ * The editor will reply with a return status in the msg_code field.
+ * A value of zero indicates success. A value of -3 lines up with
+ * the "OUT OF MEMORY" error message in appendix A of the editor
+ * manual. "Unknown Command" would be a -4 and so on.
+ * The command in EXEC_COMMAND is a character string made up of
+ * low level editor commands (No macros are expanded).
+ * For example to insert a line
+ *  "i text of line to insert"
+ * and to change line 27.
+ *  "27c text of line to change"
+ * and to write the buffer out to file "next_text"
+ *  "w new_text"
+ * or to simply change its name
+ *  "f new_name"
+ *
+ * Finially, you may even force the editor to redisplay its screen
+ * by sending it a DISPLAY_SCREEN message.
+ */
+#define EXEC_COMMAND 0 /* Execute command in msg_data   */
+#define READ_CURLINE 1 /* Return current line in msg_data  */
+#define READ_ABSLINE 2 /* Return line specified in msg_line */
+#define READ_DATA  3 /* Return data in msg_data with the     */
+       /* structure indicated in ed_data  */
+#define DISPLAY_SCREEN 4 /* Force the editor to display it screen*/
+struct message {
+ char msg_code;
+ unsigned msg_line;  /* Only used by READ_ABSLINE   */
+ char msg_data[256];
+ } ;
+/*
+ * This overlays msg_data (above) when a READ_DATA command is send.
+ */
+struct ed_data {
+ int nladdrs;   /* Number of line address before '!' */
+ int laddr1;    /* First line address     */
+ int laddr2;    /* Second line address     */
+       /* ALL commands should try and operate */
+       /* only within laddr1 and laddr2 if they*/
+       /* are specified      */
+ int curln;    /* Current line number     */
+ int curin;
+ int curcol;
+ int cmdin;
+ int lastln;    /* Last line number      */
+ int center_line;  /* Center line (ie: vc<number>)   */
+ int nmarks;    /* Number of tagged lines    */
+ int marker1;   /* First tagged line     */
+ int marker2;   /* Second tagged line     */
+ int left_margin;  /* Margin column numbers    */
+ int right_margin;
+ int screen_row;   /* Line number of top of screen   */
+ int screen_col;   /* Column number of left edge of screen */
+ char cursor_row;  /* Relative (0 -> 22) and    */
+ char cursor_col;  /* (0 -> 79) co-ordinates of cursor  */
+ char cmd_cursor_col;
+ char cc_reg;   /* Condition code register    */
+ dev_type;    /* Device type (monochrome or colour */
+ char opt_a;    /* Editor options      */
+ char opt_b;
+ char state;
+ char opt_d;
+ char opt_f;
+ char opt_i;
+ char opt_j;
+ char opt_l;
+ char opt_m;
+ char opt_n;
+ char opt_s;
+ char opt_t;
+ char opt_w;
+ char curfile[FNAME_SIZE + 1]; /* Current filename    */
+ } ;       
+ */
+ char cursor_row;  /* Relative (0 -> 22) and    */
+ char cursor_col;  /* (0 -> 79) co-ordinates of cursor  */
+ char cmd_cursor_col;
+ char cc_reg;   /* Condition code register    */
+ dev_type;    /* Device type (monochrome or colour */
+ char opt_a;    /* Editor options      */
+ char opt_b;
+ char sta
+/*
+ * Timer message types
+ * All types but TIMER_WAKEUP will reply immediatly.
+ * TIMER_WAKEUP   - Reply when the timer triggers
+ * TIMER_FORCE_READY - Force the task ready when the timer triggers. If
+ *        the task is already ready then ignore. See
+ *        the kernel routine FORCE_READY. When used with
+ *        CANCEL this can be used to perform timed
+ *        sends/receives.
+ * TIMER_SET_EXCEPTION - Set the indicated exception when the timer triggers.
+ * TIMER_SIGNAL   - Signal the indicated port when the timer triggers.
+ * TIMER_CANCEL   - Cancel the indicated timer (absolute or relative).
+ */
+#define TIMER_WAKEUP  0
+#define TIMER_FORCE_READY 1
+#define TIMER_SET_EXCEPTION 2
+#define TIMER_SIGNAL  3
+#define TIMER_CANCEL  4
+/*
+ * Timer times may be either absolute or realtive. Each task is allowed
+ * one request of each type to be pending.
+ *
+ * An absolute request will triger on the date and time specified. The
+ * time is specified in the standard form returned by GET_DATE. It has
+ * a minimum resolution of 1 sec. 
+ *
+ * A relative request is specified in clock ticks (50 msec/tick) and is
+ * independant of the date. The maximum wait is 2**16 - 1 ticks or just
+ * over one hour.
+ */
+#define ABSOLUTE   0
+#define RELATIVE   1
+struct timer_msg {
+ char msg_type;
+ char time_type;
+ union {
+  unsigned time_date[2];
+  unsigned time_ticks;
+  } time_value;
+ union {
+  unsigned time_exception[2];
+  unsigned time_port;
+  } time_data;
+ } ;
+cified in the standard form returned by GET_DATE. It has
+<fread>
+<fput>
+epilogue
+prologue
+<fget>
+<fwrite>
+"B
+accounting
+"B[
+menu
+"B
+monitor
+P7
+!B
+io
+PQ
+!B
+guest
+PS
+!B
+note
+mwrite.o
+ mwrite
+ text_validate
+ get_port
+ write_text
+ erasetext
+errlog.o
+ crash
+ errlog
+acct_subs.o
+ do_constmsg
+ do_globmsg
+ do_logoutmsg
+ do_loginmsg
+ acct_reply
+acct_subs2.o
+ do_newapmsg
+ write_journal
+help.o
+ dohelp
+valmsgs.o
+ interlock_validfile
+ read_valid
+ write_valid
+ str_skip
+sendap.o
+ sendap
+validsubs.o
+ valid_hash
+ valid_read
+ valid_write
+ valid_create
+ valid_delete
+credit_update.o
+ credit_update
+callbrk.o
+ call
+ transform
+ set_handler
+ break_handler
+kill_all_tasks.o
+ kill_all_tasks
+show_journal.o
+ show_journal
+set_glob.o
+ set_glob
+iosubs.o
+ parse
+ upper_parse
+ string_tolower
+ isseparator
+ reset_parse
+ readline
+ freadline
+ print
+ strip_parity
+time.o
+ time
+ date
+ timeconv
+ dateconv
+ mindiff
+ secdiff
+ count_days
+stringsubs.o
+ subset
+ binary_wordmatch
+xtra_strcpy.o
+ strcpy_at_from_star
+ strcpy_star_from_at
+ strcpy_at_from_at
+hashpw.o
+ hashpassword
+_delete
+credit_update.o
+ credit_update
+callbrk.o
+ call
+ transform
+ set_handler
+ break_handler
+kill_all_tasks.o
+ kill_all_ta
+<dateconv>
+<tsprintf>
+stk_overflow
+<date>
+TEMP
+<time>
+<secdiff>
+epilogue
+prologue
+<timeconv>
+<get_date>
+stack_base
+<count_days>
+<mindiff>
+<strcpy>
+;&
+%?
+;&
+;&
+;&
+;&
+u 
+X+
+@Ws
+@Wr
+;&
++F
+X+
++F
+,v
+;&
+%?
+???
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+ j
+;Zx
+<[y
+           
+%u %s %u
+           
+%2u:%02u:%02u %s
+pm
+am
++F
+X+
+???
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+ j
+;Zx
+<[y
+           
+%u %s %u
+           
+%2u:%02u:%02u %s
+pm
+am
+;&
+%?
+<clean_string>
+<tsprintf>
+stk_overflow
+<My_tty>
+<tolower>
+<reset_parse>
+<stdout>
+<fgetstr>
+<freadline>
+<tfprintf>
+<equal>
+<string_tolower>
+<error>
+<user_data_ptr>
+epilogue
+<print>
+<send>
+prologue
+<isseparator>
+<get_date>
+stack_base
+<exit>
+<parse>
+<parseloc>
+<tty_tid>
+<upper_parse>
+<readline>
+<stdin>
+;&
+B;V
+< |
+ u
+;&
+;&
+$P
+~ 
+t6
+t^
+tT
+O}
+O} 
+;&
+u2
+LP
+t6
+t`
+tL
+;&
+9N
+;&
+;&
+;&
+O|
+;&
+|P
+uZ
+uH
+u6
+u$
+Copyright (c) 1984, Alan E. Klietz.
+fatal:readline - undefined whomon_ptr!
+fatal:print - user_data_ptr undefined.
+ ,.?
+ #
+is
+the
+to
+in
+at
+of
+O|
+;&
+|P
+uZ
+uH
+u6
+u$
+Copyright (c) 
+<strcmp>
+stk_overflow
+<subset>
+<binary_wordmatch>
+<equal>
+epilogue
+prologue
+stack_base
+;&
+;&
+| 
+;F
+u2
+;F
+;F
+~#
+Copyright (c) 1984, Alan E. Klietz.
+l>
+epilogue
+prologue
+stack_base
+;&
+;&
+| 
+;F
+u2
+;F
+;F
+~#
+<Exc_pending>
+<print_help_prompt>
+stk_overflow
+<breakable>
+<print_help_parms>
+<reset_parse>
+TEMP
+<freadline>
+<subset>
+<string_tolower>
+<nexthelp>
+<rewind>
+epilogue
+<print>
+prologue
+<fclose>
+<unbreakable>
+stack_base
+<dohelp>
+<fopen>
+<parse>
+<strcpy>
+<parseloc>
+<upper_parse>
+<readline>
+;&
+$P
+  
+;&
+IP
+vP
+u 
+th
+yP
+t&
+{P
+~P
+;F
+Copyright (c) 1984, Alan E. Klietz.
+You are leaving the help directory.
+help:warn - help recursion nested too deep.
+rv
+%s
+back
+quit
+help
+"%s" is not one of the available options.
+   
+%s
+rv
+Please choose one of the following topics:
+Choo
+  
+;&
+~1
+%P
+'P
+4P
+  
+;&
+;P
+=P
+LP
+;F
+}#
+TP
+XP
+  
+se one of the following subtopics:
+ %-11s
+ BACK       
+ QUIT
+Select topic? 
+Select 
+%s 
+subtopic? 
+~1
+%P
+'P
+4P
+stk_overflow
+epilogue
+prologue
+<strcpy_at_from_star>
+stack_base
+<strcpy_star_from_at>
+<strcpy_at_from_at>
+;&
+;&
+;&
+!B
+~talkextern.h
+!B
+~talkglob.h
+!B
+~maildef.h
+ekdef.h
+!B
+~appdef.h
+!B
+~jourdef.h
+!B
+~termdef.h
+!B
+~validef.h
+!B
+~dollar.h
+!B
+~multidef.h
+!B
+~talkdef.h
+t$
+$P
+,&
+(&
+0&
+1&
+KP
+;&
+}*
+(&
+0&
+1&
+*&
+,&
+.&
+;&
+  
+;&
+sP
+  
+Copyright (c) 1984, Alan E. Klietz.
+fatal:acct - bad logout validuz read.
+fatal:acct - bad logout validuz write.
+warn:acct - reply buffer size bad. size=%d.
+(&
+0&
+1&
+*&
+stk_overflow
+<hashpassword>
+epilogue
+prologue
+stack_base
+;&
+valid_hash.o
+  
+Copyright (c) 1984, Alan E. Klietz.
+valid:warn - hash index outside of file!
+valid:warn - user_hash record is not 16 length!
+/val/valindx
+rv
+valid:fatal - missing hash record in valindx!
+valid:warn - user index is zero?
+  
+Copyright (c) 1984, Alan E. Klietz.
+valid:warn - hash index outside of file!
+valid:warn - user_hash record is not 16 length!
+/val/valindx
+rv
+valid:fatal - missing hash record in valindx!
+valid:warn - user index is ze
+<set_attr>
+<system_data_ptr>
+stk_overflow
+<My_tty>
+<get_attr>
+<set_glob>
+<error>
+<user_data_ptr>
+epilogue
+<detach>
+<send>
+prologue
+stack_base
+<ftty>
+<set_extra_seg>
+<stdin>
+6|
+;&
+  
+$P
+lt
+XP
+(&
+u#
+0&
+1&
+Copyright (c) 1984, Alan E. Klietz.
+fatal:global - unable to send to accounting admin.
+fatal:get_glob - bad ac_checkword.
+n>
+6|
+;&
+  
+$P
+lt
+XP
+(&
+u#
+!BO~credit_update.o
+!BT~sendap.o
+PT
+!B
+validsubs.o
+!B^~callbrk.o
+!Bb~kill_all_tasks.o
+!Bg~valmsgs.o
+!Bk~show_journal.o
+!Bp~mwrite.o
+!Bu~errlog.o
+!B
+~valid_subs.o
+et_glob.o
+<system_data_ptr>
+stk_overflow
+<error>
+<user_data_ptr>
+<credit_update>
+epilogue
+prologue
+<get_date>
+stack_base
+<mindiff>
+ R
+;&
+2P
+.&
+*&
+.&
++F
+)F
+Copyright (c) 1984, Alan E. Klietz.
+fatal:credit - bad app number.
+r>
+<credit_update>
+epilogue
+prologue
+<get_date>
+stack_base
+<mindiff>
+ R
+;&
+2P
+.&
+*&
+.&
++F
+)F
+Copyright (c) 1984, Alan E. Kli
+stk_overflow
+<My_tty>
+<sendap>
+<user_data_ptr>
+<error>
+<set_exception>
+epilogue
+<print>
+<detach>
+<send>
+prologue
+stack_base
+<My_tid>
+Copyright (c) 1984, Alan E. Klietz.
+fatal:apnum - Unable to send to Acct Admin.
+Sorry, but your credit has expired for the month.
+To renew your account, please mail a check or money order
+to:
+     GamBit Multi Systems, Inc.
+     P.O. Box 2349
+  
+;&
+*&
+$P
+QP
+DP
+nP
+     Minneapolis, MN  55423
+Note: Your credit account is getting low.
+You should renew your subscription soon.
+fatal:apnum - unable to change application.
+!5
+tval
+P[
+!5!B
+mathlib
+ib
+!5!B
+cmds
+!5!B
+|user
+!5!B
+~sys
+!5!B
+~def
+!5!B#
+jou
+!5!B)
+data
+!5!B.
+err
+!5!B3
+help
+*&
+;&
+;&
+;&
+;&
+X;
+$P
+;&
+LP
+vP
+Copyright (c) 1984, Alan E. Klietz.
+fatal:acct - bad credit validuz write.
+fatal:jour - entry number out of bounds.
+fatal:jour - apnum out of bounds!
+/jou/%04u
+av
+warn:jour - unable to open %s.
+LP
+vP
+Copyri
+<call>
+<set_handler>
+stk_overflow
+<get_attr>
+<My_priority>
+<breakable>
+<break_handler>
+<stdout>
+<reset>
+<error>
+epilogue
+<print>
+prologue
+<feof>
+<fclose>
+<exc_handler>
+<create>
+<unbreakable>
+stack_base
+<fopen>
+<transform>
+<strcpy>
+<stdin>
+  
+;&
+  
+;&
+  
+;&
+  
+;&
+t*
+$P
+'P
+t*
+JP
+MP
+oP
+Copyright (c) 1984, Alan E. Klietz.
+wv
+break:fatal - cant reopen output.
+rv
+break:fatal - cant reopen input.
+*INT*
+  
+;&
+stk_overflow
+<My_tty>
+<User_num>
+<sleep>
+<error>
+<set_exception>
+epilogue
+<print>
+<detach>
+prologue
+stack_base
+<My_tid>
+<tty_tid>
+<kill_all_tasks>
+  
+;&
+$P
+BP
+}A
+t7R
+t(
+t"R
+[P
+jP
+6R
+t%
+Copyright (c) 1984, Alan E. Klietz.
+fatal:kill - illegal access.
+Hanging up all ttys...  
+Hangup tty%d.
+Waiting %d seconds for hangups to complete...  
+Breaking all ports... 
+Breaking port %d.
+All tasks stopped.
+$P
+BP
+}A
+t7R
+t(
+t"R
+[P
+jP
+6R
+t%
+Copy
+<interlock_validfile>
+<read_valid>
+stk_overflow
+<My_tty>
+<breakable>
+<str_skip>
+<signal>
+<write_valid>
+<copy>
+<error>
+<user_data_ptr>
+epilogue
+<detach>
+<send>
+prologue
+<unbreakable>
+stack_base
+;&
+;F
+$P
+  
+MP
+;&
+  
+zP
+Copyright (c) 1984, Alan E. Klietz.
+fatal:ilock - lock flag did not change!
+fatal:ilock - unable to send to acct admin.
+fatal:vread - unable to send to acct admin.
+Bad validuz read.
+fatal:vwrite - unable to send to acct admin.
+Bad validuz writ
+;&
+*&
+  
+;&
+B;V
+e.
+ot change!
+fatal:ilock - unable to send to acct admin.
+fatal:vread - unable to send to acct admin.
+Bad validuz read.
+fatal:vwrite - unable to send to acct admin.
+Bad validuz writ
+;&
+*&
+  
+<dateconv>
+stk_overflow
+TEMP
+<tfprintf>
+<show_journal>
+epilogue
+prologue
+<timeconv>
+stack_base
+;&
+?Nt
+$P
+DP
+QP
+UP
+eP
+jP
+u!
+mP
+u#
+Copyright (c) 1984, Alan E. Klietz.
+WARNING - checkbyte mismatch.
+%11s, %11s  
+%s 
+%4d cr.  
+%04u 
+%4d 
+%s
+ $%d.00 received, Thank You!
+ $%d.00 service charge.
+         
+Menu     
+Scepter  
+Talk     
+Mail     
+Diplomacy
+<system> 
+Login   
+Logout  
+Newapp  
+Charge  
+Writeval
+Credit  
+eP
+jP
+u!
+mP
+u#
+<tsprintf>
+stk_overflow
+<errlog>
+<text_validate>
+<erasetext>
+<genuser>
+<strlen>
+<free>
+<Text_header>
+<crash>
+<do_logout>
+<user_data_ptr>
+<write_msg>
+<secdiff>
+epilogue
+prologue
+<get_date>
+stack_base
+<My_port>
+<get_port>
+<strcpy>
+<write_text>
+<malloc>
+<mwrite>
+;&
+$P
+;&
+u R
+=P
+=x
+;&
+}!
+;F
+cP
+;&
+#F
+~V
+tn
+u*
+t[
+;&
+t_
+#F
+t<
+u*
+Copyright (c) 1984, Alan E. Klietz.
+mwrite - out of memory!
+mwrite - write to inactive port (%d)
+get_port - unknown tty (%d)
+write_port - out of memory!
+t[
+;&
+t_
+#F
+t<
+u*
+Copyright (c) 1984, Alan E. Klietz.
+mwrite - out of memory!
+mw
+<tsprintf>
+stk_overflow
+<errlog>
+<date>
+<genuser>
+<tfprintf>
+<time>
+<crash>
+<error>
+<Task_name>
+epilogue
+prologue
+<fclose>
+stack_base
+<My_port>
+<fopen>
+<exit>
+  
+;&
+$P
+,P
+/P
+SP
+  
+;&
+Copyright (c) 1984, Alan E. Klietz.
+/err/%s
+av
+errlog - unable to open error log.
+%s, %s %-11s %s
+<crash>
+<error>
+<Task_name>
+epilogue
+prologue
+<fclose>
+stack_base
+<My_port>
+<fopen>
+<exit>
+  
+;&
+$P
+,P
+/P
+SP
+  
+;&
+Copyright (c) 1984, Alan
+!B
+~globdef.h
+!B
+~ac_msgs.h
+!B
+~aekdef.h
+!B
+~appdef.h
+!B
+~jourdef.h
+!B
+~termdef.h
+!B
+~validef.h
+!B
+~dollar.h
+!B
+~multidef.h
+!B
+~talkdef.h
+/*  Globdef - Global memory definitions.
+  83/10/20.  A. E. Klietz.
+ This procedure outlines the global memory definitions.
+The global memory area is allocated by /sys/accounting.  It's
+location is sent to other tasks via an accounting request.
+*/
+/* This definition file is dependent on aekdef.h */
+#define NUMDEVICES 18
+typedef struct gl_user_datum {           
+ char  gl_username[12];  /* name of user. */
+ unsigned  gl_useracct;      /* user account number. (001-254) */
+ unsigned    gl_userindex;      /* user index number. (0001-9999)  */
+ unsigned gl_logintime[2];     /* time logged in (binary) */
+ unsigned gl_last_creditupdate[2];   /* date/time credits updated. */  
+ unsigned gl_binarylastcr[2];  /* time of last carriage return */
+ int   gl_monitoredby;      /* monitoring terminal. -1 = tty0 */
+ int    gl_creditbalance;    /* number of credits remaining. 
+            (negative if in debt.) */
+ char  gl_ttyname[8];   /* name of tty: $con2, $term10, etc. */
+ unsigned gl_ttyoptions;       /* tty_option bits (echo, tabs, etc.)*/
+ byte  gl_apnum;    /* current application. */
+ boolean  gl_monitoring;   /* TRUE if monitoring someone else. */
+ int   gl_startcredits;  /* starting credits at login. */
+ int         gl_minute_remainder; /* internal credit_update counter */
+    byte  gl_backspace;   /* backspace character. */
+ byte  gl_linedel;    /* line-delete character. */
+ byte  gl_msg;     /* checked by print() for non-zero */
+ byte  gl_fromtty;    /* tty that gave you msg. -1 = tty0 */
+ int   gl_dummy[10];   /* dummy space */
+} GL_USER_DATA[NUMDEVICES];
+typedef struct  gl_system_datum {
+ unsigned gl_binaryuptime[2]; /* up time/date in binary. */
+ boolean  gl_sysopen;  /* system open flag. = TRUE if open. */
+ boolean  gl_sysidle;  /* system idle flag. = TRUE if idle. */
+ boolean  gl_peakflag; /* TRUE = peak time. */
+ boolean  gl_warncrash;      /* TRUE if shutdown in progress. */
+} GL_SYSTEM_DATA;
+ed by print() for non-zero */
+ byte  gl_fromtty;    /* tty that gave you msg. -1 = tty0 */
+ int  
+/*  ac_msgs.h - Accounti`g message definitions.
+  83/10/21. A. E. Klietz.
+ The following is a list of standard message definitions for the
+accounting administrator (/sys/accounting).
+ This file is dependent on aekdef.h and globdef.h.
+*/
+#define LOW_CREDIT   40
+#define AC_CHECKWORD   0x6C
+#define ACCOUNTING_PORT  22
+enum ac_msgnug_type {GLOBMSG, LOGINMSG, LOGOUTMSG, CONSTMSG,
+ NEWAPMSG, INTLOCKMSG, READMSG, WRITEMSG, CREDITMSG, MAXMSG};
+enum ac_credit_types {PAY_CREDIT, SERVICE_CREDIT};
+struct ac_generic_reply {   /* generic ac message */
+ int   ac_checkword;
+ char  ac_buffer[126];
+};
+struct ac_globmsg {
+ int   ac_checkword;
+ byte  ac_msgnum;
+}; 
+struct ac_globmsg_reply {
+ int   ac_checkword;
+ unsigned ac_global_seg_addr;
+ struct user_datum *ac_user_data_ptr;  /* pointer to global user data array. */
+ struct system_datum *ac_system_data_ptr;  /* pointer to global system data. */
+};
+struct ac_loginmsg {
+ int   ac_checkword;
+ byte  ac_msgnum;
+ byte  ac_ttynum;
+ char  ac_username[12];
+ char  ac_userpw[12];
+ char  ac_ttyname[8];
+};
+struct ac_loginmsg_reply {
+ int   ac_checkword;
+ byte  ac_login_success;  /* = 0 if bad pw, =1 if ok. =2 if no credits */
+};                              /* = 3 if bad login request. 4 if closed, */
+        /* = 5 if low on credits. */
+struct ac_logoutmsg {
+ int   ac_checkword; 
+ byte  ac_msgnum;
+ byte  ac_ttynum;
+};
+struct ac_logoutmsg_reply {
+ int   ac_checkword;
+ byte  ac_logout_success;  /* = 0 if bad logout req.  = 1 if ok. */
+};
+struct ac_constmsg {
+ int   ac_checkword;
+ byte  ac_msgnum;
+};
+struct ac_constmsg_reply {
+ int   ac_checkword;
+ char  ac_sysnam[24];
+ char  ac_sysloc[24];
+};
+struct ac_newapmsg {
+ int   ac_checkword;
+ byte  ac_msgnum;
+ byte  ac_ttynum;
+ byte  ac_apnum;
+};
+struct ac_newapmsg_reply {
+ int   ac_checkword;
+ int   ac_apnum_success; /* = 1 ok, 0 if bad call, */
+          /* 2 if out of credits, 3 if low. */
+};
+struct ac_intlockmsg {
+ int   ac_checkword;
+ byte  ac_msgnum;
+}; 
+struct ac_intlockmsg_reply {
+ int   ac_checkword;
+};
+#ifdef va_defined
+/* define read/write only if validation records are defined */
+struct ac_readmsg {
+ int   ac_checkword;
+ byte  ac_msgnum;
+ byte  ac_ttynum;
+ unsigned ac_userindex;
+};
+struct ac_readmsg_reply {
+ int   ac_checkword;
+ int   ac_readmsg_success; /* 0 if bad, userindex if good. */
+ int   ac_dummyr;   /* dummy fill */
+ struct  va_user_record  ac_user_record;
+};
+struct ac_writemsg {
+ int   ac_checkword;
+ byte  ac_msgnum;
+ byte  ac_ttynum;
+ byte  ac_apnum;
+ byte  ac_dummyw;
+ struct  va_user_record  ac_user_record;
+};
+struct ac_writemsg_reply {
+ int   ac_checkword;
+ int   ac_writemsg_success; /* userindex good, 0 bad */
+};
+#endif
+struct ac_creditmsg {
+ int   ac_checkword;
+ byte  ac_msgnum;
+ byte  ac_credit_type;
+ unsigned ac_userindex;
+ int   ac_credits; 
+};
+struct ac_creditmsg_reply {
+ int   ac_checkword;
+ int   ac_credit_success; /* 1 good, 0 bad, 2 overflow */
+ int   ac_creditbalance;
+};
+_checkword;
+ byte  ac_msgnum;
+ byte  ac_ttynum;
+ byte  ac_apnum;
+ byte  ac_dummyw;
+ struct  va_user_record  
+/*  aekdef - AEK's program definitions.
+  83/09/25. A. E. Klietz.
+  This file contains a list of standard definitions and 
+declarations used in all of AEK's programs.
+*/
+#define TRUE 1
+#define FALSE 0
+#define boolean char
+#define byte char
+#define BUFLEN 80
+#define GUEST_ACCT  1
+/* undefine the silly definition of DEBUG from task.h */
+#undef DEBUG
+typedef  char BUFTYPE[BUFLEN];
+struct cmdlist_type
+ char *cmd;
+ int  cmdnum;
+};
+static char  *COPYRIGHT_MSG = "Copyright (c) 1984, Alan E. Klietz.";
+ AEK's program definitions.
+  83/09/25. A. E. Klietz.
+  This file contains a list of standard definitions and 
+declarations used in all of AEK's programs.
+*/
+#define TRUE 1
+#define FALSE 0
+#define boolean char
+#define byte char
+#define BUFLEN 80
+#define GUEST_ACCT  1
+/* undefine the silly definition of DEBUG from task.h */
+#undef DEBUG
+typedef  char BUFTYPE[BUFLEN];
+struct cmdlist_type
+ char *cmd;
+ int  cmdnum;
+};
+static char  *COPYRIGHT_MSG = "Copyright (c) 1984, Alan E
+/*  Applist - list of application numbers.
+  83/10/30. A. E. Klietz.
+*/
+enum ap_num_type {AP_LOGIN, AP_MENU, AP_SCEPTER, AP_TALK, AP_MAIL,
+     AP_DIPLOMACY, AP_SYSTEM, AP_MAXNUM};
+/*  jourdef.h - journal file layout.
+  83/11/03. A. E. Klietz.
+ This file defines the format of a record in the journal file.
+(/jou/journal).
+ This file depends on aekdef.h.
+*/
+#define JR_CHECKBYTE 0x4e
+enum JR_ENTRYTYPE {LOGIN_ENTRY, LOGOUT_ENTRY, NEWAP_ENTRY,
+   SERVICE_ENTRY, WRITEVAL_ENTRY, CREDIT_ENTRY, MAX_ENTRY};
+struct jr_journal_record {
+ byte  jr_checkbyte;    /* checkbyte */
+ byte  jr_entry;    /* journal entry number */
+ unsigned jr_bindate[2];   /* date/time of entry. */
+ unsigned jr_ttynum;       /* tty used (or userindex ) */
+ int   jr_credits;    /* credit balance. */
+ byte  jr_apnum;        /* applcation code number. */
+ byte        jr_dummy;
+};
+define JR_CHECKBYTE 0x4e
+enum JR_ENTRYTYPE {LOGIN_ENTRY, LOGOUT_ENTRY, NEWAP_ENTRY,
+   SERVICE_ENTRY, WRITEVAL_ENTRY, CREDIT_ENTRY, MAX_ENTRY};
+struct jr_journal_record {
+ byte  jr_checkbyte;    /* checkbyte */
+ byte  jr_entry;    /* journal entry number */
+ unsigned jr_bindate[2];   /* date/time of entry. */
+/*  termdef - List of site dependent terminal definitions.
+  83/09/25. A. E. Klietz.
+*/
+#define IDLE 0x0004
+#define MONITOR_PORT 23
+struct termlist_type {
+ boolean enabled; /* false = logically turn off device. */
+ boolean zzzzzz;  /* fill */
+ unsigned taskid; /* id of task owning terminal. */
+ unsigned ttynum; /* device number. */
+ unsigned iobase; /* base addr for rs-232 devices. */
+ char *name;  /* name of device. */
+} termlist[] = {
+/* enabled  zzzzzz       tid  tty  iobase name  */
+/* ------   ------       ---  ---  ------ ----  */
+                       
+   TRUE  + (TRUE << 8),  IDLE, 2,   0,    "$con1",
+   TRUE  + (TRUE << 8),  IDLE, 3,   0,    "$mdm",
+   TRUE  + (TRUE << 8),  IDLE, 4,   0,    "$term1",
+   TRUE  + (TRUE << 8),  IDLE, 5,   0,    "$term2",
+   TRUE  + (TRUE << 8),  IDLE, 6,   0,    "$term3",
+   TRUE  + (TRUE << 8),  IDLE, 7,   0,    "$term4",
+   TRUE  + (TRUE << 8),  IDLE, 8,   0,    "$term5",   
+   TRUE  + (TRUE << 8),  IDLE, 9,   0,    "$term6",
+   TRUE  + (TRUE << 8),  IDLE, 10,  0,    "$term7", 
+};
+#define TERMLIST_LEN (sizeof(termlist) / sizeof(struct termlist_type))
+#define MONSLEEP_SECS 5
+UE  + (TRUE << 8),  IDLE, 3,   0,    "$mdm",
+   TRUE  + (TRUE << 8),  IDLE, 4,   0,    "$term1",
+   TRUE  + (TRUE << 8),  IDLE, 5,   0,    "$term2",
+   TRUE  + (TRUE << 8),  IDLE, 6,   0,    "$term3",
+   TRUE  + (TRUE << 8),  IDLE, 7,   0,    "$term4",
+   TRUE  + (TRUE << 8),  IDLE, 8,   0,    "$term5",   
+   TRUE  + (TRUE << 8),  IDLE, 9,   0,    "$term6",
+   TRUE  + (TRUE << 
+/*  validef.h - validation file layout.
+  83/10/21. A. E. Klietz.
+ This file defines the format of a record in the validation file.
+(/val/validuz and /val/valindx)
+ This file depends on aekdef.h.
+ These definitions must match with those on globdef.h.
+*/
+#define   va_defined
+struct va_user_record {
+ char  va_username[12]; /* codename of user. */
+ char  va_hashpw[12];  /* hashed password. */
+ unsigned    va_useracct;  /* user account number. (6001-6254) */
+ unsigned va_userindex;    /* user index number. (001-999) */
+ unsigned  va_ttyoptions;      /* ECHO, TABS, etc. */
+ int   va_creditbalance;   /* number of credits remaining. */
+            /*  (negative if in debt.) */
+ unsigned va_lastlogin[2];    /* date of last login. */
+ boolean  va_closed;    /* true if account is closed. */
+ byte  va_birthmonth;  /* month of birthday */
+ byte  va_birthdate;  /* date in month of birthday. */
+ byte  va_birthyear;  /* year of birth */
+ byte  va_backspace;  /* desired backspace char. */
+ byte  va_linedel;      /* desired line-delete char. */
+ boolean  va_nocharge;  /* true if no charge to this acct. */
+ char  va_stringbuf[192]; /* string buffer with 
+         name
+         1st addr line.
+         2nd addr line.
+         3rd addr line.
+               phone
+         hobbies/interests  */
+ boolean  va_stateres;  /* true is user lives in state (tax) */
+ boolean     va_anonymous;  /* true if user wants to be anonymous */
+ byte  va_rating;   /* credit rating, from 1 to 10. */
+ byte  va_dummy[18];  /* dummy blank fill. */
+};
+/* va_user_record must be exactly* 256 characters long. */ 
+/* The following is a definition for an index record in the
+validation index file.  /config/valindx. It must be 16 bytes long.
+*/
+struct vi_user_hash {
+ char  vi_username[12];    /* last two chars of username are lost. */
+ unsigned vi_userindex;
+ unsigned    vi_link;     /* pointer to next index entry in hash slot. */
+};
+ts to be anonymous */
+ byte  va_rating;   /* credit rating, from 1 to 10. */
+ byte  va_dummy[18];  /* dummy bla
+/*  dollar.h - dollar conversion rate.
+  updated  83/12/31.  A. E. Klietz.
+*/
+#define CREDITSPERDOLLAR 5
+/*  Multidef.h - multi task messages.
+  83/11/30. A. E. Klietz.
+ This file is dependent on aekdef.h.
+*/
+enum io_msg_type {IO_TEXTMSG, IO_LOGINMSG, IO_LOGOUTMSG, 
+ IO_RESTARTMSG, IO_AUTOMSG, IO_ENDMSG, IO_MAXMSG};
+#define IO_CHECKWORD 0x3D
+#define MAX_PORTS 16
+#define REPLY_LEN   1024
+struct tx_textline {  /* element of multiuser text chain */
+  struct tx_textline  *tx_rlink, *tx_flink;
+  unsigned tx_from;  /* port sending msg */
+  int      tx_notread;  /* 16 bits, 1 for each unread port. */
+  unsigned tx_len;   /* length of text string */
+  char  tx_start;  /* first character of text string. */
+};
+struct gn_genuser { /* general multi user record */
+  char gn_name[12];
+  byte gn_ttynum;
+  byte gn_usernum;
+  unsigned gn_userindex;  /* =0 if not active */
+  boolean gn_logout;
+  byte gn_useracct;
+  unsigned gn_tid;
+  unsigned gn_waitmask;
+};
+struct io_generic_msg
+ int  io_checkword;
+ byte io_msgnum;
+ byte io_ttynum;
+ int  io_length;
+ char io_buffer[300];
+};
+struct io_textmsg
+ int  io_checkword;
+ byte io_msgnum;
+ byte io_ttynum;
+ int  io_length; /* length of message */ 
+ char io_start;  /* first character of message */
+};
+struct io_loginmsg
+ int  io_checkword;
+ byte io_msgnum;
+ byte io_ttynum;
+ byte io_usernum;
+ byte io_useracct;
+ unsigned io_userindex;
+ unsigned io_tid;
+};
+struct io_logoutmsg
+ int  io_checkword;
+ byte io_msgnum;
+ byte io_ttynum;
+ boolean io_fullerr;
+};
+struct io_restartmsg
+ int  io_checkword;
+ byte io_msgnum;
+ byte io_ttynum;
+};
+struct io_automsg
+ int  io_checkword;
+ byte io_msgnum;
+ byte io_ttynum;
+ boolean io_toggle; /* TRUE if entering auto, FALSE if leaving */
+ byte io_dummya;
+};
+struct io_endmsg
+ int  io_checkword;
+ byte io_msgnum;
+ byte io_ttynum;
+ byte io_abort;
+};
+io_usernum;
+ byte io_useracct;
+ unsigned io_userindex;
+ unsigned io_tid;
+};
+struct io_logoutmsg
+ int  io_checkword;
+ byte io_msgnum;
+ byte io_ttynum;
+ boolean io_fullerr;
+};
+struct io_restartmsg
+ int  io_checkword;
+ byte io_msgnum;
+ byte io_ttynum;
+};
+struct io_automsg
+ int  io_ch
+/*  talkdef - talk definitions                    
+  83/12/01. A. E. Klietz
+*/
+#define TALK_PORT   21
+enum us_entrynum {US_ENTERNAME, US_CMD, US_MAXENTRY};
+struct us_user { /* user data specific to talk program. */
+ int   us_entry;
+ char  us_lowername[12];
+ boolean  us_echo;
+ unsigned us_recflags;
+ unsigned us_sendflags;
+ int   us_tablenum; /* 0 = main floor */
+ char  *us_cmdname;
+ boolean  us_master;
+ byte  us_yellcount; /* number of yells. */
+ unsigned us_respondflags;
+};
+struct tb_table_list {
+ char *tb_name;
+ int  tb_public;
+ int  tb_locked;
+};
+#define TABLE_LIST_LEN  9
+#define CMDLIST_LEN  33
+rynum {US_ENTERNAME, US_CMD, US_MAXENTRY};
+struct us_user { /* user data specific to talk program. */
+ int   us_entry;
+ char  us_lowername[12];
+ boolean  us_echo;
+ unsigned us_recflags;
+ unsigned us_sendflags;
+ int   us_tablenum; /* 0 = main floor */
+ char  *us_cmdname;
+ boolean  us_master;
+ byte  us_yellcount; /* number of yells. */
+ unsigned us_respondflags;
+};
+struct tb_ta
+/*  talkextern.h - talk program external declarations.
+  83/12/02. A. E. Klietz.
+ This file is dependent on aekdef.h and multidef.h.
+  and talkdef.h
+*/
+extern struct gl_user_datum *user_data_ptr;
+extern struct gl_system_datum *system_data_ptr;
+extern unsigned Local_mask, All_mask, Staff_mask, Allbutme_mask, My_mask;
+extern struct gn_genuser *user, genuser[MAX_PORTS];
+extern int  My_port;
+extern struct us_user  *user, user_array[MAX_PORTS];
+extern struct tb_table_list table_list[TABLE_LIST_LEN];
+extern struct cmdlist_type cmdlist[CMDLIST_LEN];
+extern int  parseloc;
+his file is dependent on aekdef.h and multidef.h.
+  and talkdef.h
+*/
+extern struct gl_user_datum *user_data_ptr;
+extern struct gl_system_datum *system_data_ptr;
+extern unsigned Local_mask, All_mask, Staff_mask, Allbutme_mask, My_mask;
+extern struct gn_genuser *user, genuser[MAX_PORTS];
+extern int  My_port;
+extern struct us_user  *user, user_array[MAX_PORTS];
+extern struct tb_table_list table_list[TABLE_
+/*  talkdef - talk global vars.
+  83/12/01. A. E. Klietz
+  This file is dependent on multidef.h and talkdef.h.
+*/
+struct gl_user_datum *user_data_ptr;
+struct gl_system_datum *system_data_ptr;
+extern unsigned My_tid;
+int  My_port;
+unsigned My_mask, All_mask, Allbutme_mask, Staff_mask, Local_mask;
+char Task_name[12];  /* name of task */
+struct tx_textline *Text_header;   /* text output circular buffer */
+struct gn_genuser genuser[MAX_PORTS];  /* general purpose user table. */
+struct us_user   *user, user_array[MAX_PORTS];
+struct tb_table_list table_list[] = {
+ "reception hall", TRUE, FALSE,
+ "conf table",   TRUE, FALSE,
+ "debate table", TRUE, FALSE,
+ "gaming table", TRUE, FALSE,
+ "social table", TRUE, FALSE,
+ "", FALSE, FALSE,
+ "", FALSE, FALSE,
+ "", FALSE, FALSE,
+    "", FALSE, FALSE,
+};    
+struct cmdlist_type cmdlist[] = {
+"auto",    20,
+"block",       1,
+"broadcast",   2,
+"channel",     3,
+"echo",        4,
+"end",         5,
+"exclude",     6,
+"exit",        5,
+"flash",       7,
+"help",    22,
+"include",     8,
+"leave",       9,
+"list",       10,
+"master",     11,
+"moderator",  11,
+"nosend",     12,
+"private",   18,
+"public",   19,
+"quit",        5,
+"receive",    13,
+"remove",     14,
+"respond",    23,
+"scan",    17,
+"send",       15,
+"sit",     3,
+"status",     16,
+"table",       3,
+"users",   17,
+"wait",       21,
+"where",      17,
+"whisper",     7,
+"who",        16,
+"yell",    24,
+};
+   3,
+"echo",        4,
+"end",         5,
+"exclude",     6,
+"exit",        5,
+"flash",       7,
+"he
+/*  maildef - mail definitions
+  83/12/23. A. E. Klietz
+    
+*/
+#define MAXSUBSCRIPTIONS  12
+#define BUFLINES 25
+/* 25 lines, 80 characters (BUFLEN) per line. */
+enum tp_access_level {TP_NONE, TP_READ, TP_WRITE, TP_READWRITE};
+struct subscribe_list_type {
+ char topic_name[12];
+ int  topic_highread; /* highest read note. */
+};
+/* max number of subscriptions.  topic.tp_subscribe_list[0] = user's
+   own name. */
+struct tp_topic {  /* this is the format of a topic header file. */
+ char tp_name[12]; /* topic name. */
+ char    tp_Name[12];    /* upper case name. */
+ char tp_notice[80]; /* user's notice message. */
+ int  tp_access;      /* access permission: read, write, none. */
+ int  tp_lonum;  /* lower bound of notes.  0 = no notes. */
+ int  tp_hinum;  /* high bound of notes.  0 = no notes. */
+ int  tp_maxnotes; /* max number of notes before scrolling. */
+ boolean tp_private;  /* true if private mailbox */
+ byte tp_dummy1;
+ struct  subscribe_list_type  tp_subscribe_list[MAXSUBSCRIPTIONS];
+       /* list of selected topics to scan. */
+};
+;    /* upper case name. */
+ char tp_notice[80]; /* user's notice message. */
+ int  tp_access;      /* access permission: read, write, none. */
+ int  tp_lonum;  /* lower bound of notes.  0 = no notes. */
+ int  tp_hinum;  /* high bound of notes.  0 = no notes. */
+ int  tp_maxnotes; /* max number of notes before scrolling. */
+ boolean tp_private;  /* true if private mailbox */
+ byte tp_dummy1;
+ struct  subscribe_list_type  tp_subscribe_list[MAXSUBSCRIPTIONS];
+   
+<valid_read>
+<valid_hash>
+<system_data_ptr>
+stk_overflow
+<do_globmsg>
+<do_loginmsg>
+<acct_reply>
+TEMP
+<write_journal>
+<equal>
+<user_data_ptr>
+<error>
+<reply>
+<hashpassword>
+<credit_update>
+epilogue
+prologue
+<get_date>
+<strcpy_at_from_star>
+stack_base
+<tprintf>
+<strcpy>
+<do_constmsg>
+<do_logoutmsg>
+<valid_write>
+;&
+;&
+t$
+$P
+,&
+(&
+0&
+1&
+KP
+;&
+}*
+(&
+0&
+1&
+*&
+,&
+.&
+;&
+  
+;&
+sP
+  
+Copyright (c) 1984, Alan E. Klietz.
+fatal:acct - bad logout validuz read.
+fatal:acct - bad logout validuz write.
+warn:acct - reply buffer size bad. size=%d.
+(&
+0&
+1&
+*&
+<valid_read>
+<abs>
+<fput>
+<read_port>
+<do_newapmsg>
+<tsprintf>
+stk_overflow
+<do_writemsg>
+<max>
+<acct_reply>
+<write_journal>
+<tfprintf>
+<user_data_ptr>
+<error>
+<credit_update>
+<stderr>
+<do_readmsg>
+epilogue
+<do_creditmsg>
+prologue
+<await>
+<fclose>
+<get_date>
+stack_base
+<fopen>
+<do_intlockmsg>
+<valid_write>
+;&
+*&
+;&
+;&
+;&
+;&
+X;
+$P
+;&
+LP
+vP
+Copyright (c) 1984, Alan E. Klietz.
+fatal:acct - bad credit validuz write.
+fatal:jour - entry number out of bounds.
+fatal:jour - apnum out of bounds!
+/jou/%04u
+av
+warn:jour - unable to open %s.
+LP
+vP
+Copyri
+Copyright (c) 1984, Alan E. Klietz.
+account
+broadcast
+close
+crash
+end
+exit
+help
+idle
+list
+logoff
+menu
+modval
+monitor
+open
+quit
+send
+shutdown
+where
+Type 'help' for help.
+End monitoring.
+Shutdown cancelled.  System open.  Logins enabled.
+Enter control command? 
+shell
+/cmds/qnxsh
+"%s" is not unique.
+"%s" is not a command, type 'help' for help.
+Logins disabled.  System closed.
+WARNING! Are you sure you want to do an emergency crash? 
+System crashed.
+/cmds/qnxsh
+Enter message to broadcast? 
+wv
+%s   Note: %s
+Message sent.
+Returning to main menu..
+/sys/menu
+/help/control/main
+The available control commands are:
+%-11s
+Missing tty number.
+Are you sure you want to log off tty%d? 
+tty%d logged off.
+Missing tty number.
+Bad port number.
+Port already monitored elsewhere.
+Monitoring tty%d...
+tty disconnected.
+%s
+Logins enabled.  System open.
+System shutdown already in progress elsewhere.
+boot
+Are you sure you want to shut down the system? 
+How many minutes until shut
+64
+62
+XUSQRVW
+_^ZY[]
+&"
+;&"
+P>
+7=
+ux
+t:
++&
+t0
+Q9
+tC
+u*
+6&
+C4
+6&
+;&"
+yu=
+t 
+}|
+vY
+ %
+ ;
+!P
+;F
+~d
+>8
+>8
+>8
+yu1
+V2
+>!
+t0
+t&
+u$
+yt
+G0
+vg
+u$
+a5
+b5
+6(
+ 5
+;&"
+;&"
+,4
+u 
+e4
+th
+ 4
+t&
+~P
+y3
+o3
+*3
+ 3
+f2
+e2
+;F
+X1
+?1
+;&"
+~1
+>8
+>8
+>8
+;&"
+;F
+}#
+;&"
+*&
+:/
+down? 
+wv
+%s. System shutdown in %d minutes.
+Logins disabled, please log out.
+System shutdown complete.
+/cmds/boot
+/cmds/qnxsh
+/cmds/modval
+Bad or missing username parameter.
+/jou/%04u
+rv
+File missing or busy.
+Logins disabled.  Monitor idled.  System closed.
+/cmds/sendmsg
+/cmds/whog
+warn:control - no such command index!
+x A
+x u
+0 R e Copyright (c) 1984, Alan E. Klietz.
+You are leaving the help directory.
+help:warn - help recursion nested too deep.
+rv
+%s
+back
+quit
+help
+"%s" is not one of the available options.
+   
+%s
+rv
+Please choose one of the following topics:
+Choose one of the following subtopics:
+ %-11s
+ BACK       
+ QUIT
+Select topic? 
+Select 
+%s 
+subtopic? 
+Copyright (c) 1984, Alan E. Klietz.
+fatal:apnum - Unable to send to Acct Admin.
+Sorry, but your credit has expired for the month.
+To renew your account, please mail a check or money order
+to:
+     GamBit Multi Systems, Inc.
+     P.O. Box 23495
+     Minneapolis, MN  5542
+Note: Your credit account is getting low.
+You should renew your subscription soon.
+fatal:apnum - unable to change application.
+Copyright (c) 1984, Alan E. Klietz.
+valid:warn - hash index outside of file!
+valid:warn - unable to write valindx record.
+valid:warn - user_hash record is not 16 length!
+/val/valindx
+rv
+valid:fatal - missing hash record in valindx!
+valid:warn - user index is zero?
+valid:warn - user_record is not 256 length!
+valid:warn - userindex out of bounds. ui=%d.
+/val/validuz
+rv
+valid:warn - offset outside of valid file!
+valid:warn - user_record read past EOF.
+valid:warn - userindex write out of bounds.
+/val/validuz
+rwv
+valid:warn - write offset outside of valid file!
+valid:warn - write error.
+/val/valindx
+rwv
+valid:fatal - missing hash record in valindx!
+/val/validuz
+rwv
+/val/valindx
+rwv
+valid:fatal - missing hash record in valindx!
+valid:fatal - hash entry is zero.
+Copyright (c) 1984, Alan E. Klietz.
+wv
+break:fatal - cant reopen output.
+rv
+;&"
+;&"
+ P
+;&"
+J-
+.-
+, P
+;&"
+Z P
+ P
+ P
+ P
+T,
+x(
+ P
+;&"
+ P
+6*
+|+
+R+
+6*
+b+
+S+
+!+
+6*
+1+
+;&"
+6*
+6*
+X*
+6*
+h*
+<*
+;&"
+l)
+a)
+g)
+D)
+0%
+K)
+u&
+v(
+&(
+;&"
+I'
+Q'
+uP
+t"
+;&"
+;&"
+6&
+b%
+6(
+X%
+\ 
+;&"
+;&"
+T%
+6&
+6(
+6(
+6(
+t*
+6(
+~$
+(=
+6&
+m!
+t*
+6&
+Z$
+F$
+&=
+l$
+;&"
+>a
+}A
+t7R
+.#
+t(
+t"R
+6R
+t%
+p"
+;&"
+?Nt
+h"
+u!
+>8
+<"
+u#
+>8
+;&"
+^!
+lt
+6&
+6&
+(&
+u#
+0&
+1&
+6&
+;&"
+B;V
+< |
+ u
+;&"
+;&"
+6&
+~ 
+t6
+t^
+tT
+O}
+O} 
+;&"
+u2
+t6
+6(
+t`
+tL
+;&"
+9N
+;&"
+;&"
+;&"
+O|
+;&"
+uZ
+uH
+u6
+u$
+;&"
+%?
+;&"
+68
+8<
+68
+68
+8<
+68
+;&"
+;&"
+;&"
+u 
+X+
+@Ws
+@Wr
+;&"
++F
+8<
+68
+X+
++F
+8<
+68
+,v
+;&"
+%?
+>8
+;&"
+;&"
+| 
+;F
+u2
+;F
+;F
+~#
+;&"
+;&"
+;&"
+6(
+6*
+%t
+<-u
+0u
+-0
+.u;
+-0
+lu
+t<
+>8
+&9
+s#
+}#
+t=
+t7
+t1
+;F
+-u
+guM
+;F
+;F
+?0u
+)F
+gu
+~'
+;F
+gu
+;F
+}O
+;F
+}=
+;F
+gt
+tY
+CC;
+;F
+t"
+;F
+;F
+;F
+u 
+v0
+break:fatal - cant reopen input.
+*INT*
+Copyright (c) 1984, Alan E. Klietz.
+fatal:kill - illegal access.
+Hanging up all ttys...  
+Hangup tty%d.
+Waiting %d seconds for hangups to complete...  
+Breaking all ports... 
+Breaking port %d.
+All tasks stopped.
+Copyright (c) 1984, Alan E. Klietz.
+WARNING - checkbyte mismatch.
+%11s, %11s  
+%s 
+%4d cr.  
+%04u 
+%4d 
+%s
+ $%d.00 received, Thank You!
+ $%d.00 service charge.
+Copyright (c) 1984, Alan E. Klietz.
+fatal:global - unable to send to accounting admin.
+fatal:get_glob - bad ac_checkword.
+Copyright (c) 1984, Alan E. Klietz.
+fatal:readline - undefined whomon_ptr!
+fatal:print - user_data_ptr undefined.
+ ,.?
+ #
+is
+the
+to
+in
+at
+of
+???
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+ j
+;Zx
+<[y
+           
+%u %s %u
+           
+%2u:%02u:%02u %s
+pm
+am
+Copyright (c) 1984, Alan E. Klietz.
+%r
+%r
+bcdefgorsux
+*4-
+*`-
+fprintf: floating point requ
+         
+Menu     
+Scepter  
+Talk     
+Mail     
+Diplomacy
+<system> 
+Login   
+Logout  
+Newapp  
+Charge  
+Writeval
+Credit  
+>8
+&9
+>8
+&9
+vQ
+0|
+2}
+u,
++^
+v 
+6:
+s5
+s6
+rT
+u8
+Dt
+w)
+@uY
+68
+Ny
+CNy
+PP
+PU
+]X
+&8
+&8
+%t
+<-u
+0u
+-0
+.u;
+-0
+}"
+CC;
+;F
+t 
+;F
+;F
+;F
+v0
+0|
+] 
+  
+6&
+s!
++F
++F
+= t
+= t
+=-t
+=+u
+=0|$
+=9
+?-u
+RU
+]Z
+RU
+]Z
+t:
+8#
+4 /
+\\({)}  ;
+!|=~'`
+64
+62
+XUSQRVW
+_^ZY[]
+&4
+6(
+6(
+u+
+6(
+6&
+6&
+6(
+6&
+6,
+6,
+>*
+uQ
+u?
+>.
+6.
+>*
+u0
+6(
+6(
+l 
+6(
+6&
+>*
+u)
+u#
+u 
+t 
+?qu
+6(
+u%
+6&
+u=
+>*
+u!
+6.
+6(
+6&
+>*
+u#
+6,
+6(
+6(
+6(
+6(
+6(
+6(
+>*
+CC;
+? t
+u3
+6&
+?.u
+t%
+6.
+u'
+6&
+B;V
+6(
++F
+;F
+5W
+>&
+;F
+B;
+>&
+;F
+6&
+6(
+6&
+6(
+VW
+>2
+6.
+6(
+B;V
++F
+6(
+? t
+? u8
+t 
+>&
+B;
+;N
+PW
+t99v
+t4A
+;N
+9v
+t8;N
+|3
+RR
+:F
+t7
+t.
+v$
+<\u
+:F
+tY
+wR
+=&u*
+u!
+;v
+<\u
+PW
+;v
+~ 
+?ru
+|1
+CC;
+?0|
+?9
+CC;
+? t
+|#
+H;F
+t#
+<\u
+PW
+}0
+v)O
+:F
+6(
+6(
+ }<
+6(
+6(
+0|
+-0
+a|
+>*
+>&
+B;
+6(
+ R
+t,
+/u
+6,
+?^u
+0|
+CC;
+|6
+<+t
+-u#
++u
+9>
+?*u
+u9
+?;t
+?,t
+?;u
+>*
+>*
+6,
+=R
+6*
+6(
+~9
+;F
+};
+tD
+>+
+t-
+A 
+>+
+t4
+6(
+>+
+t.
+6&
+ W
+ty
+=*uYG
+;F
+;F
++F
+:F
+CC;
+=^u
+:F
+=[u
+=@u
+=\u)
+t#
+>:
+:F
+u 
+:F
+u 
+uc
+?(uX
+?0|*
+?9
+?)t
+u!
+v8
+u/
+=^t
+=$t
+=*t
+=@u
+pW
+CC;
+<\u
+:F
+=]ty
+tt
+sn
+<\u
+PW
+=-uI
+tC
+]t=
+=\u
+PGW
+:F
+=]t
+O;~
+u8
+A|
+A|
+:F
++F
+;F
+>4
+B;V
+>2
+J;V
+tq
+OR
+6,
+4W
+WV
+>2
+62
+64
++F
+6(
+6(
+t(
+t"
+?9
+?0|$
+t2
+;F
+6(
+6(
+6(
++F
+t#
+6(
+6(
+6(
+!&=acdefgijkmopqrsuvw
+auto_save
+rv
+wv
+cdfopsv
+ ft
+/cmds/sh
++s
+#$./?^
+use: led [file] [commands]*
+led
+/cmds/led.init
+out of memory
+unknown command
+invalid pattern specification
+buffer has been modified, use qq to quit without saving
+invalid line number or line range
+current file not defined
+unable to access file
+syntax error
+file name too long
+unknown option
+line greater than 256 chars
+pattern not found
+$.@[\^
+$*.@[\^
+No memory
+0123456789abcdef
+/cmds/sh
++s
+#$./?^
+use: led [file] [commands]*
+led
+/cmds/led.init
+out of memory
+unknown command
+invalid pattern specification
+oc2.
+oc3
+d.init
+lZ
+2D
+Copyright (c) 1984, Alan E. Klietz.
+charge
+create
+end
+exit
+help
+list
+modify
+receive
+show
+acctnum
+addr1
+addr2
+addr3
+anonymous
+birthday
+charge-flg
+control-h
+credit
+echo
+edel
+interests
+linedel
+name
+open
+password
+phone
+rating
+real-name
+sex
+state-resident
+fatal:modval - illegal user access.
+Validation command? 
+"%s" is not unique.
+"%s" is not a command, type 'help' for help.
+Invalid parameter, reenter.
+Adding %s to validation file..
+Duplicate entry.
+Unable to create entry.
+Bad record write (%d).
+Entry for %s created.
+Returning to control program..
+/cmds/control
+/help/modval/main
+The available validation commands are:
+The available modify parameters are:
+Name of user? 
+No such username.
+Bad valid read.
+Parameter to modify? 
+Please close and recreate account to change name.
+Also charge the new account $3.00 for handling.
+Bad valid write.
+Entry modified.
+Name of user? 
+No such user.
+Number of dollars? 
+Missing dollar parameter.
+ Are you SURE it's %d dollars? 
+Adding 
+%d dollars to account.
+ Credit account overflow!
+Name of user? 
+No such user.
+Bad valid read.
+Name of user? 
+No such user.
+Number of dollars? 
+Missing dollar parameter.
+ Are you SURE it's %d dollars? 
+Subtracting %d dollars from account.
+ Credit account overflow!
+warn:modval - no such command index!
+%-11s
+*OFF*
+*ON*
+%s, Account: %03d.  Userindex: %04d.  Balance: %d cr.
+Last login: %s, %s.
+Bday: %d/%d/%d, Rat: %d.   Account: %s.
+CLOSED
+Open
+Real-Name: %s
+Addr1: %s
+Addr2: %s
+Addr3: %s
+Phone: %s
+Interests: %s
+    Full-duplex......... %s
+    BS/space/BS echoed.. %s
+    Control-H used...... %s
+    Mail statements..... %s
+    State resident...... %s
+    Name anonymous...... %s
+    Line delete char.... %02xH
+modify parameter is not unique.
+No such parameter.
+Enter codename (10 chars max)? 
+Non-alphanumeric characters in name.
+Duplicate codename.
+Enter password (10 chars max)? 
+PW update complete.
+Enter account number (1=guest, 2=n
+64
+62
+XUSQRVW
+_^ZY[]
+&"
+;&"
+>a
+tC
+X#
+;&"
+9$
+($
+w#
+U#
+D#
+-#
+u%
+N!
+E$
+}"
+]"
+>"
+P)
+u)
+`$
+9 
+0#
+z!
+[!
+~3
+!!
+S#
+#"
+[ 
+< 
+S!
+~2
+ =
+};
+;&"
+>8
+;F
+~g
+>8
+>8
+>8
+;F
+;&"
+(!
+;&"
+t"
+u.
+t!
+-#
+" P
+t/R
+< P
+G P
+O P
+m P
+y0
+ P
+S0
+ P
+-0
+ P
+ P
+50
+ P
+;&"
+nt
+;&"
+ormal, 255=staff)? 
+Acct value out of range.
+WARNING! acct set to staff status.
+Echo characters (yes)? 
+Send BS,space,BS to delete characters (yes)? 
+Control-H instead of DEL key to erase characters (yes)? 
+Enter credit adjustment? 
+%d + %d = 
+%d cr.
+Is this account open (yes) ? 
+Birthday month? (1-12)? 
+Birthday date? (1-31)? 
+Birthday year? (1-84)? 
+Credit rating (1-10)? 
+Enter line-delete code (hex, default 1B)? 
+Charge credits to user and mail statement (yes)? 
+Is this person (M)ale or (F)emale? 
+Does the user live inside the state (yes)? 
+Does the user want his real name made public (yes)? 
+Full name? 
+Address line 1? 
+Address line 2? 
+Address line 3? 
+Phone number? 
+Interests (80 chars max)? 
+No such option, try again.
+ h
+fatal:credit - Unable to send to Acct Admin.
+Credit update complete.  New balance=%d cr
+Credit balance overflow!
+Error in accounting credit update.
+Copyright (c) 1984, Alan E. Klietz.
+You are leaving the h
+elp directory.
+help:warn - help recursion nested too deep.
+rv
+%s
+back
+quit
+help
+"%s" is not one of the available options.
+   
+%s
+rv
+Please choose one of the following topics:
+Choose one of the following subtopics:
+ %-11s
+ BACK       
+ QUIT
+Select topic? 
+Select 
+%s 
+subtopic? 
+Copyright (c) 1984, Alan E. Klietz.
+fatal:ilock - lock flag did not change!
+fatal:ilock - unable to send to acct admin.
+fatal:vread - unable to send to acct admin.
+Bad validuz read.
+fatal:vwrite - unable to send to acct admin.
+Bad validuz write.
+Copyright (c) 1984, Alan E. Klietz.
+valid:warn - hash index outside of file!
+valid:warn - unable to write valindx record.
+valid:warn - user_hash record is not 16 length!
+/val/valindx
+rv
+valid:fatal - missing hash record in valindx!
+valid:warn - user index is zero?
+valid:warn - user_record is not 256 length!
+valid:warn - userindex out of bounds. ui=%d.
+/val/validuz
+rv
+valid:warn - offset outside of valid file!
+valid:warn - user_record read
+;&"
+E0
+B;V
+}+
+;F
+;F
++F
+;F
+}!
+;F
+[/
+;&"
+;&"
+X2
+u 
+th
+L2
+t&
+~P
+;1
+V1
+51
+)1
+;F
+E/
+//
+k/
+;&"
+;/
+~1
+>8
+>8
+>8
+H.
+;&"
+;F
+}#
+;&"
+;F
+t-
+j-
+;&"
+c,
+;&"
+*&
+L,
+;&"
+B;V
+;&"
+;&"
+.+
+;&"
+;&"
+%*
+/*
+q&
+m)
+;&"
+6*
+/)
+6*
+6*
+;&"
+6*
+f(
+.(
+B(
+6*
+6*
+;&"
+j'
+t'
+M'
++'
+)#
+O&
+<&
+2&
+u&
+N%
+;&"
+uP
+f$
+G$
+t"
+I#
+;&"
+;&"
+P#
+6&
+6(
+;&"
+E!P
+;&"
+6&
+6(
+6(
+y"
+6(
+t*
+6(
+(=
+6&
+t*
+6&
+&=
+;&"
+ !
+lt
+6&
+6&
+(&
+u#
+0&
+1&
+6&
+;&"
+B;V
+< |
+ u
+;&"
+;&"
+>,
+6&
+~ 
+t6
+>*
+>*
+t^
+tT
+O}
+>*
+O} 
+;&"
+>,
+u2
+t6
+>*
+6(
+>*
+t`
+tL
+>*
+;&"
+9N
+;&"
+;&"
+;&"
+>0
+O|
+;&"
+uZ
+uH
+u6
+u$
+;&"
+%?
+;&"
+68
+8<
+68
+68
+8<
+68
+;&"
+;&"
+;&"
+u 
+X+
+@Ws
+@Wr
+;&"
++F
+8<
+68
+X+
++F
+8<
+68
+,v
+;&"
+%?
+>8
+;&"
+;&"
+| 
+;F
+u2
+;F
+;F
+~#
+;&"
+6(
+6*
+%t
+<-u
+0u
+ past EOF.
+valid:warn - userindex write out of bounds.
+/val/validuz
+rwv
+valid:warn - write offset outside of valid file!
+valid:warn - write error.
+/val/valindx
+rwv
+valid:fatal - missing hash record in valindx!
+/val/validuz
+rwv
+/val/valindx
+rwv
+valid:fatal - missing hash record in valindx!
+valid:fatal - hash entry is zero.
+Copyright (c) 1984, Alan E. Klietz.
+wv
+break:fatal - cant reopen output.
+rv
+break:fatal - cant reopen input.
+*INT*
+Copyright (c) 1984, Alan E. Klietz.
+fatal:global - unable to send to accounting admin.
+fatal:get_glob - bad ac_checkword.
+Copyright (c) 1984, Alan E. Klietz.
+fatal:readline - undefined whomon_ptr!
+fatal:print - user_data_ptr undefined.
+ ,.?
+ #
+is
+the
+to
+in
+at
+of
+???
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+ j
+;Zx
+<[y
+           
+%u %s %u
+           
+%2u:%02u:%02u %s
+pm
+am
+Copyright (c) 1984, Alan E. Klietz.
+%r
+%r
+bcdefgorsux
+a/
+2z/+0/0/0h/y2n2n/t/
+-0
+.u;
+-0
+lu
+t<
+>8
+&9
+s#
+}#
+t=
+t7
+t1
+;F
+-u
+guM
+;F
+;F
+?0u
+)F
+gu
+~'
+;F
+gu
+;F
+}O
+;F
+}=
+;F
+gt
+tY
+CC;
+;F
+t"
+;F
+;F
+;F
+u 
+6L
+v0
+>8
+&9
+>8
+&9
+vQ
+0|
+2}
+>O
+u,
++^
+>Q
+v 
+6>
+s5
+s6
+rT
+u8
+Dt
+w)
+@uY
+6<
+Ny
+CNy
+PP
+PU
+]X
+>S
+.S
+&8
+&8
+%t
+<-u
+0u
+-0
+.u;
+-0
+}"
+CC;
+;F
+t 
+;F
+;F
+;F
+v0
+0|
+v 
+9 
+>U
+>U
+6&
+s!
++F
++F
+= t
+= t
+=-t
+=+u
+=0|$
+=9
+?-u
+0r
+9w
+-0
+ar
+fw
+-W
+Ar
+Fw
+-7
+RU
+]Z
+RU
+]Z
+.q
+t:
+;F
+;F
+A|
+Z~
+a|
+0|
+a|
+A|
+ t
+ t
+= 
+A|
+a|
+- 
+fprintf: floating point requires 8087 co-processor
+$@
+Y@
+.A
+cA
+ _
+vH7B
+mB
+4&
+7y
+AC
+W4vC
+Ngm
+bcdorsux
+8S9
+8<919
+9set_attr: not a device
+get_attr: not a device
+set_option: not a device
+get_option: not a device
+envsav: no memory
+/cmds/sh
++s
+/cmds/sh
++s
++t
+fprintf: floating point requires 8087 co-processor
+$@
+Y@
+.A
+cA
+ _
+vH7B
+mB
+4&
+7y
+AC
+W4vC
+Ngm
+bcdorsux
+8S9
+8<919
+9set_attr: not a device
+get_attr: noemory
+/cmds/sh
++s
+/cmds/sh
++s
++t
+}}
+%r
+%r
+bcdefgorsux
+/,3
+0X3
+fprintf: floating point requires 8087 co-processor
+$@
+Y@
+.A
+cA
+ _
+vH7B
+mB
+4&
+7y
+AC
+W4vC
+Ngm
+bcdorsux
+k9
+9q9
+9w9}9
+:set_attr: not a device
+get_attr: not a device
+set_option: not a device
+get_option: not a device
+envsav: no m
+" 
+Copyright (c) 1984, Alan E. Klietz.
+use: sh [+s] [+t] [+v] cmd_name [cmd_args]*.
+sh:fatal - Unexpected termination.
+fatal:sh - accounting admin failure..
+Press return:
+  _
+ GamBit Timeshare %s
+%s, %s  Port: tty%u
+%s  Tid: %04x.  %s
+Peak time.
+non-peak time.
+System is closed.
+Improper login, try again.
+Sorry, but you have run out of credits for this month.
+fatal:sh - Bad validuz read.
+Your account has been closed, sorry.
+Your account balance is nearly expired.
+Too many users from the same account are on the system.
+Please try again later.
+fatal:sh - unknown login reply.
+Invalid access, sorry.
+Login: %s,  Acct. %03d-%04d.
+Terminal: tty%u, %04x.
+/sys/menu
+warn:sh - failed to transform menu.  TID=%x04.
+Username: 
+Password: 
+fatal:sh - accounting admin failure.
+To renew your account, please mail a check or money order
+to:
+     GamBit Multi Systems, Inc.
+     P.O. Box 23495
+     Minneapolis, MN  55423
+(Be sure to write your codename somewhere 
+64
+62
+XUSQRVW
+_^ZY[]
+&"
+;&"
+>!
+u,
+6(
+;&"
+6&
+u[
+6&
+t 
+6&
+6&
+t 
+& 
+L 
+& 
+5 
+$ 
+f#
+;&"
+6(
+u\
+6&
+6&
+6&
+7"
+;&"
+;&"
+;&"
+6*
+1!
+;&"
+;&"
+6&
+6(
+;&"
+;&"
+6&
+6(
+6(
+> 
+6(
+t*
+6(
+(=
+6&
+t*
+6&
+&=
+;&"
+lt
+& 
+$ 
+6&
+6&
+$ 
+$ 
+(&
+u#
+$ 
+0&
+$ 
+1&
+6&
+;&"
+B;V
+< |
+ u
+;&"
+;&"
+>0 
+6&
+0 &
+~ 
+0 &
+. t6
+0 &
+. 
+>. 
+. 
+$ 
+2 
+>. 
+t^
+2 &
+tT
+O}
+>. 
+. P
+O} 
+$ 
+$ 
+;&"
+>0 
+u2
+>$ 
+$ 
+0 
+0 &
+. t6
+0 &
+. 
+>. 
+. 
+$ 
+2 
+6(
+>. 
+t`
+2 &
+tL
+>. 
+. P
+0 &
+;&"
+9N
+;&"
+;&"
+4 
+;&"
+>4 
+4 
+4 
+4 
+4 
+4 
+O|
+4 
+4 
+4 
+4 
+4 
+;&"
+uZ
+uH
+u6
+u$
+;&"
+6 P
+%?
+6 P
+6 
+;&"
+B P
+68
+8<
+68
+68
+8<
+68
+on the check.)
+If you have already renewed your account, then please dis-
+regard this notice.  Thank you.
+/cmds/qnxsh
+warn:sh - failed to transform to qnxsh. TID=%x
+Copyright (c) 1984, Alan E. Klietz.
+wv
+break:fatal - cant reopen output.
+rv
+break:fatal - cant reopen input.
+*INT*
+Copyright (c) 1984, Alan E. Klietz.
+fatal:global - unable to send to accounting admin.
+fatal:get_glob - bad ac_checkword.
+Copyright (c) 1984, Alan E. Klietz.
+fatal:readline - undefined whomon_ptr!
+fatal:print - user_data_ptr undefined.
+ ,.?
+ #
+is
+the
+to
+in
+at
+of
+???
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+ j
+;Zx
+<[y
+           
+%u %s %u
+           
+%2u:%02u:%02u %s
+pm
+am
+%r
+%r
+bcdefgorsux
+fprintf: floating point requires 8087 co-processor
+$@
+Y@
+.A
+cA
+ _
+vH7B
+mB
+4&
+ P
+B 
+;&"
+;&"
+;&"
+u 
+X+
+@Ws
+@Wr
+;&"
++F
+8<
+68
+X+
++F
+8<
+68
+,v
+;&"
+%?
+>8
+;&"
+;&"
+;&"
+6(
+6*
+P 
+N 
+%t
+<-u
+0u
+-0
+.u;
+-0
+lu
+t<
+>8
+&9
+s#
+}#
+S 
+t=
+t7
+t1
+;F
+-u
+guM
+;F
+;F
+?0u
+)F
+gu
+~'
+;F
+gu
+;F
+}O
+;F
+}=
+;F
+gt
+tY
+CC;
+;F
+t"
+;F
+;F
+;F
+P 
+u 
+P 
+P 
+N 
+N 
+6N 
+v0
+>8
+&9
+>8
+&9
+vQ
+0|
+Q 
+Q 
+2}
+>Q 
+u,
++^
+>S 
+v 
+s5
+s6
+rT
+u8
+Dt
+w)
+@uY
+Ny
+CNy
+PP
+PU
+]X
+>U 
+.k
+.U 
+&8
+&8
+%t
+<-u
+0u
+-0
+.u;
+-0
+}"
+CC;
+;F
+t 
+;F
+;F
+;F
+v0
+0|
+" 7
+6&
+6(
+6&
+W 
+X 
+W P
+W P
+W 
+[ P
+Y  
+Z 
+Y P
+Y P
+>Y 
+Y 
+Z 
+Y P
+Y P
+>Y 
+[ P
+Y 
+Z 
+\ 
+Y P
+Y P
+Y 
+\ 
+Y 
+Z 
+Y P
+Y P
+Z 
+6&
+s!
++F
++F
+RU
+]Z
+RU
+]Z
+u 
+u 
+.u 
+ P
+ P
+ P
+ P
+ P
+t:
+ P
+A|
+Z~
+a|
+0|
+a|
+A|
+ t
+ t
+= 
+A|
+a|
+- 
+7y
+AC
+W4vC
+Ngm
+bcdorsux
+set_attr: not a device
+get_attr: not a device
+set_option: not a device
+get_option: not a device
+envsav: no memory
+/cmds/sh
++s
+/cmds/sh
++s
++t
+ Q
+64
+62
+XUSQRVW
+_^ZY[]
+&"
+;&"
+~l
+}E
+}(
+;&"
+*&
+;&"
+lt
+6&
+6&
+(&
+u#
+0&
+1&
+6&
+;&"
+B;V
+< |
+ u
+;&"
+;&"
+6&
+~ 
+t6
+t^
+tT
+O}
+O} 
+;&"
+u2
+t6
+6(
+t`
+tL
+;&"
+9N
+;&"
+;&"
+;&"
+O|
+;&"
+uZ
+uH
+u6
+u$
+;&"
+%?
+;&"
+68
+8<
+68
+68
+8<
+68
+;&"
+;&"
+;&"
+u 
+X+
+@Ws
+@Wr
+;&"
++F
+8<
+68
+X+
++F
+8<
+68
+,v
+;&"
+%?
+>8
+;&"
+;&"
+| 
+;F
+u2
+;F
+;F
+~#
+;&"
+;&"
+;&"
+6(
+6*
+%t
+<-u
+Copyright (c) 1984, Alan E. Klietz.
+<login>
+Main menu
+Scepter
+Talk Parlour
+Post Office
+Intrigue
+<system>
+No such name.
+Name          Time on   tty Port    Act Indx Tid  Task
+%-11s
+%c 
+%-11s 
+%2d 
+%-7s 
+%03d-%04d 
+%04x 
+%s
+Copyright (c) 1984, Alan E. Klietz.
+fatal:global - unable to send to accounting admin.
+fatal:get_glob - bad ac_checkword.
+Copyright (c) 1984, Alan E. Klietz.
+fatal:readline - undefined whomon_ptr!
+fatal:print - user_data_ptr undefined.
+ ,.?
+ #
+is
+the
+to
+in
+at
+of
+???
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+ j
+;Zx
+<[y
+           
+%u %s %u
+           
+%2u:%02u:%02u %s
+pm
+am
+Copyright (c) 1984, Alan E. Klietz.
+%r
+%r
+bcdefgorsux
+fprintf: floating point requires 8087 co-processor
+$@
+Y@
+.A
+cA
+ _
+vH7B
+mB
+4&
+7y
+AC
+W4vC
+Ngm
+0u
+-0
+.u;
+-0
+lu
+t<
+>8
+&9
+s#
+}#
+t=
+t7
+t1
+;F
+-u
+guM
+;F
+;F
+?0u
+)F
+gu
+~'
+;F
+gu
+;F
+}O
+;F
+}=
+;F
+gt
+tY
+CC;
+;F
+t"
+;F
+;F
+;F
+u 
+6,
+v0
+>8
+&9
+>8
+&9
+vQ
+0|
+2}
+>/
+u,
++^
+>1
+v 
+s5
+s6
+rT
+u8
+Dt
+w)
+@uY
+Ny
+CNy
+PP
+PU
+]X
+>3
+.h
+.3
+&8
+&8
+%t
+<-u
+0u
+-0
+.u;
+-0
+}"
+CC;
+;F
+t 
+;F
+;F
+;F
+v0
+0|
+>5
+>5
+6&
+s!
++F
++F
+RU
+]Z
+RU
+]Z
+A|
+Z~
+a|
+0|
+a|
+A|
+ t
+ t
+= 
+A|
+a|
+- 
+bcdorsux
+set_attr: not a device
+get_attr: not a device
+set_option: not a device
+get_option: not a device
+a|
+7y
+AC
+W4vC
+Ngm
+bcdorsux
+set_attr: not a device
+get_attr: not a device
+set_option: not a device
+get_option: not a device
+a|
+- 
+pCbug V2.2
+UWVRQSP
+UWVRQSP
+SQ
+e 
+X[YZ^_]
+XUSQRVW
+_^ZY[]
+6 
+6 
+6 
+t4
+6 
+6 
+6 
+t(
+GP
+t6
+GP
+ r
+= 
+;~
+GP
+t$
+ru
+6 
+6 
+tM
+6 
+6 
+6 
+tC
+CC;
+CC;
+}7
+:F
+CC;
+:u
+0|
+-0
+a|
+s3
+u,
+s(
+t!
+6 
+6 
+6 
+sA
+t:
++F
++F
+;F
+= 
+6m
+u"
+>W
+>W
+>S
+|u
+}u
+~u
+t 
+0123456789abcdef
+Debug V2.1
+ ret arg1 arg2 arg3 arg4
+   cs:ip=     ax    ss:sp=ret    arg1 
+  bx   cx   dx   si   di   bp   es   ds   ip   cs  flgs
+cs= 
+, ds= 
+, int mask= 
+, stackframe = 
+@ips
+=?@Dbcdefgstu
+ './:=R^r
+es
+cs
+ss
+ds
+al
+cl
+dl
+bl
+ah
+ch
+dh
+bh
+ax
+cx
+dx
+bx
+sp
+bp
+si
+di
+add
+push
+pop
+or
+adc
+sbb
+and
+daa
+sub
+das
+xor
+aaa
+cmp
+aas
+inc
+dec
+jo
+jno
+jb
+jae
+jz
+jnz
+jbe
+ja
+js
+jns
+jpe
+jpo
+jl
+jge
+jle
+jg
+test
+xchg
+mov
+lea
+cbw
+cwd
+abs call
+wait
+pushf
+popf
+sahf
+lahf
+movb
+movw
+cmpb
+cmpw
+stob
+stow
+lodb
+lodw
+scab
+scaw
+ret
+les
+lds
+abs ret
+swi
+int
+into
+iret
+aam
+aad
+xlat
+esc
+loopnz
+loopz
+loop
+jcxz
+in
+out
+call
+jmp
+in [dx]
+out [dx]
+hlt
+cmc
+clc
+stc
+cli
+sti
+cld
+std
+rep
+repz
+lock
+es:
+cs:
+ss:
+ds:
+[bx][si]
+[bx][di]
+[bp][si]
+[bp][di]
+[si]
+[di]
+[bp]
+[bx]
+add
+or
+adc
+sbb
+and
+sub
+xor
+cmp
+rol
+ror
+rcl
+rcr
+shl
+shr
+sar
+test
+not
+neg
+mul
+imul
+div
+idiv
+inc
+dec
+call @
+abs call @
+jmp @
+abs jmp @
+push
+   
+b 
+  
+%04x
+[[[[[[[[[[[[[[[
+R|B
+b|
+"!
+!"
+"!#("
+s!s!s!s!s!s!s!s!
+&'()*
+":
+:"
+,-.
+S 
+01234
+W"W"W"W"W"W"W"W"
+6!7!8B
+R"
+99
+;<
+}>?[
+UL
+~NOPQR
+>S
+>S
+6U
+6k
+>S
+>S
+%t
+<-u
+0u
+-0
+.u;
+-0
+}"
+;F
+t 
+;F
+;F
+;F
+v0
+0|
+%d%s
+cl
+al
+ax
+bcdorsux
+;F
+t 
+;F
+;F
+;F
+v0
+E-
+Copyright (c) 1984, Alan E. Klietz.
+This program allows you to purchase credits by charging them to your
+VISA or MasterCharge card.  You must have a valid VISA or MasterCharge
+card to use this facility.
+Do you wish to continue (Y/N)? 
+Do you wish to use your
+     1) VISA card
+     2) MasterCharge card
+Select a number? 
+Please enter your credit card number? 
+Your card number is "%s".  Is this correct? 
+Please enter your 4 digit Interbank number? 
+Your Interbank number is "%s".  Is this correct? 
+NOT APPLICABLE TO VISA.
+Enter your card's expiration date? 
+Your expiration date is "%s".  Is this correct? 
+Please enter the number of DOLLARS of credits that you wish to
+purchase.  The minimum amount is 10 dollars.
+AMOUNT OF PURCHASE? 
+Bad purchase amount.
+Sorry, $100 limit on credit card purchases.
+Sorry, $10 minimum on credit card purchases.
+You are purchasing $%d dollars worth of credits.
+Is this correct? 
+Missing or bad userindex %s %d.
+Bad validuz read.
+Name: %s.
+Cred
+it card: %s
+VISA
+MasterCharge
+Card number: %s.
+Interbank number: %s
+Expiration date: %s.
+AMOUNT OF PURCHASE: $%d.
+Are all these items correct? 
+Please start from the beginning with the CHARGE command.
+The above information will now be saved to disk.  Please understand
+that submitting a FALSE credit card number or expiration date are
+grounds for the REMOVAL OF YOUR TIMESHARE ACCOUNT.  Please double
+check the accuracy of the above information.
+Are you ready to continue
+? 
+Transaction cancelled.
+Please type "SAVE" to save the above information to disk: 
+save
+Transaction cancelled.  Information NOT saved.
+/data/charge
+av
+Unable to open charge file.  Error.
+%s  %s
+Codename: %s.  Userindex: %d.
+Real name: %s.
+Credit card: %s.  Card number: %s.
+VISA
+MasterCharge
+Interbank number: %s
+Exp date: %s.  PURCHASE AMOUNT: $%d.
+Information written to disk for %s.
+(Please allow two business days for processing.)
+Thank you very much!
+Returning you back to the main menu..
+64
+62
+XUSQRVW
+_^ZY[]
+&"
+;&"
+y(
+uB
+|+
+$u
+@'
+2'
+d~
+;F
+0(
+#(
+;&"
+?y
+;&"
+;F
+,'
+V&
+;&"
+/#
+;&"
+*&
+8%
+  P
+7 P
+;&"
+B;V
+;&"
+;&"
+o P
+;&"
+X$
+<$
+ P
+;&"
+ P
+ P
+b#
+%#
+;&"
+6*
+`"
+6*
+p"
+a"
+/"
+6*
+?"
+;&"
+6*
+6*
+f!
+6*
+v!
+J!
+;&"
+z 
+o 
+u 
+R 
+Y 
+u&
+;&"
+uP
+t"
+opyright (c) 1984, Alan E. Klietz.
+fatal:ilock - lock flag did not change!
+fatal:ilock - unable to send to acct admin.
+fatal:vread - unable to send to acct admin.
+Bad validuz read.
+fatal:vwrite - unable to send to acct admin.
+Bad validuz write.
+Copyright (c) 1984, Alan E. Klietz.
+valid:warn - hash index outside of file!
+valid:warn - unable to write valindx record.
+valid:warn - user_hash record is not 16 length!
+/val/valindx
+rv
+valid:fatal - missing hash record in valindx!
+valid:warn - user index is zero?
+valid:warn - user_record is not 256 length!
+valid:warn - userindex out of bounds. ui=%d.
+/val/validuz
+rv
+valid:warn - offset outside of valid file!
+valid:warn - user_record read past EOF.
+valid:warn - userindex write out of bounds.
+/val/validuz
+rwv
+valid:warn - write offset outside of valid file!
+valid:warn - write error.
+/val/valindx
+rwv
+valid:fatal - missing hash record in valindx!
+/val/validuz
+rwv
+/val/valindx
+rwv
+valid:fatal - missing hash record in valindx!
+val
+;&"
+lt
+6&
+6&
+(&
+u#
+0&
+1&
+6&
+;&"
+B;V
+< |
+ u
+;&"
+;&"
+6&
+~ 
+t6
+t^
+tT
+O}
+O} 
+;&"
+u2
+t6
+6(
+t`
+tL
+;&"
+9N
+;&"
+;&"
+;&"
+O|
+;&"
+uZ
+uH
+u6
+u$
+;&"
+%?
+;&"
+68
+8<
+68
+68
+8<
+68
+;&"
+;&"
+;&"
+u 
+X+
+@Ws
+@Wr
+;&"
++F
+8<
+68
+X+
++F
+8<
+68
+,v
+;&"
+%?
+>8
+;&"
+;&"
+;&"
+6(
+6*
+%t
+<-u
+0u
+-0
+.u;
+-0
+lu
+t<
+>8
+&9
+s#
+}#
+t=
+t7
+t1
+;F
+-u
+guM
+;F
+;F
+?0u
+)F
+gu
+~'
+;F
+gu
+;F
+}O
+;F
+}=
+;F
+gt
+tY
+K X
+CC;
+;F
+t"
+;F
+;F
+;F
+u 
+v0
+>8
+&9
+>8
+&9
+vQ
+0|
+2}
+u,
++^
+v 
+s5
+s6
+rT
+u8
+Dt
+w)
+@uY
+Ny
+CNy
+PP
+PU
+]X
+.;
+&8
+&8
+%t
+<-u
+0u
+-0
+.u;
+-0
+}"
+CC;
+;F
+t 
+;F
+;F
+;F
+v0
+0|
+6&
+s!
++F
++F
+= t
+= t
+=-t
+=+u
+=0|$
+=9
+?-u
+RU
+]Z
+RU
+]Z
+A|
+Z~
+a|
+0|
+a|
+A|
+ t
+ t
+= 
+s 
+64
+62
+XUSQRVW
+_^ZY[]
+&"
+;&"
+t 
+O 
+;&"
+}H
+uB
+;&"
+lt
+6&
+6&
+(&
+u#
+0&
+1&
+6&
+;&"
+B;V
+< |
+ u
+;&"
+;&"
+6&
+~ 
+t6
+t^
+tT
+O}
+O} 
+;&"
+u2
+t6
+6(
+t`
+tL
+;&"
+9N
+;&"
+;&"
+;&"
+O|
+;&"
+uZ
+uH
+u6
+u$
+;&"
+;&"
+| 
+;F
+u2
+;F
+;F
+~#
+;&"
+;&"
+;&"
+6(
+6*
+%t
+<-u
+0u
+-0
+.u;
+-0
+lu
+t<
+>8
+&9
+s#
+}#
+t=
+t7
+t1
+;F
+-u
+guM
+;F
+;F
+?0u
+)F
+gu
+~'
+;F
+gu
+;F
+}O
+;F
+}=
+;F
+gt
+tY
+CC;
+;F
+t"
+;F
+;F
+;F
+u 
+v0
+>8
+&9
+>8
+&9
+vQ
+0|
+2}
+u,
++^
+v 
+s5
+s6
+rT
+u8
+Dt
+w)
+@uY
+Ny
+CNy
+PP
+PU
+]X
+.c
+&8
+&8
+%t
+<-u
+0u
+-0
+.u;
+-0
+}"
+CC;
+;F
+t 
+;F
+;F
+;F
+v0
+0|
+6&
+s!
++F
++F
+RU
+]Z
+RU
+]Z
+A|
+Z~
+a|
+0|
+a|
+A|
+ t
+ t
+= 
+A|
+a|
+- 
+Copyright (c) 1984, Alan E. Klietz.
+Send message to whom? 
+Enter message to send? 
+wv
+Message from %s:  "%s"
+Message sent.
+No such user logged in.
+Copyright (c) 1984, Alan E. Klietz.
+fatal:global - unable to send to accounting admin.
+fatal:get_glob - bad ac_checkword.
+Copyright (c) 1984, Alan E. Klietz.
+fatal:readline - undefined whomon_ptr!
+fatal:print - user_data_ptr undefined.
+ ,.?
+ #
+is
+the
+to
+in
+at
+of
+Copyright (c) 1984, Alan E. Klietz.
+%r
+%r
+bcdefgorsux
+fprintf: floating point requires 8087 co-processor
+$@
+Y@
+.A
+cA
+ _
+vH7B
+mB
+4&
+7y
+AC
+W4vC
+Ngm
+bcdorsux
+set_attr: not a device
+get_attr: not a device
+set_option: not a device
+get_option: not a device
+ user_data_ptr undefined.
+ ,.?
+ #
+is
+the
+to
+in
+at
+of
+Copyright (c) 1984, Alan E. Klietz.
+%r
+%r
+bcdefgorsux
+fprintf: floating point requires 8087 co-processor
+$@
+Y@
+.A
+cA
+ _
+vH7B
+mB
+4&
+7y
+AC
+W4vC
+Ngm
+bcd
+64
+62
+XUSQRVW
+_^ZY[]
+&"
+6*
+u%
+6(
+6(
+6*
+ P
+6(
+6(
+6(
+.u
+6(
+6(
+6(
+? u
+6(
+uy
+? u
+u 
+6(
+tT
+t]
+6*
+ P
+ %
+=y
+Yt
+6*
+6*
+6(
+|;
+t,
+6(
+6(
+6(
+6(
+6(
+6(
+6(
+6(
+6(
+6(
+6(
+6(
+6(
+=a|
+=z
+??u
+?.t
+?.u
+tD
+}9
+??t 
+?*u
+?*u
+tD
+}9
+??t 
+?*u
+?*u
+9 
+;F
+tt
+? t
+}"
+? t
+un
+we
+s.
+6*
+v<
+s@
+ s
+6*
+t!
+dir
+read
+write
+get
+put
+quit
+a:
+A:
+b:
+B:
+c:
+C:
+d:
+D:
+help
+expl
+frel
+---
+jan
+feb
+mar
+apr
+may
+jun
+jul
+aug
+sep
+oct
+nov
+dec
+---
+---
+---
+DOS [1]
+use: dos
+options within DOS are:
+DOS %c> 
+  
+unknown dos function
+    Name.ext size(hex)  start attr   date
+%.8s.%.3s %04x%04x  %4x   %2x  
+%02d-%s-%4d
+  
+unable to find DOS file
+  
+Copying file "%s"
+wv
+  
+rv
+  
+ok to release old '%.8s.%.3s'? 
+DOS directory is full.... aborted
+  
+file not found
+?       display options
+a:       use drive 1:
+b:       use drive 2:
+c:       use drive 3:
+d:       use drive 4:
+dir       display DOS directory
+p   Dos_file    print DOS file on screen
+read  Dos_file [Qunix_file] read DOS file into Qunix file
+write Qunix_file Dos_file write Qunix file into DOS file
+get   Dos_file [Qunix_file] read DOS file into Qunix file (no translation)
+put   Qunix_file Dos_file write Qunix file into DOS file (no translation)
+frel  Dos_file    erase a DOS file
+quit      return to 
+6*
+PW
+6*
+PW
+t&
+6&
+s!
++F
+Qunix
+disk full... copy aborted
+error writing directory
+Drive %d is not a floppy
+bad driver entry
+(Remounting disk %d as %s sided
+double
+single
+s!
++F
+Ph
+t9999
+Pe
+tvaliduz
+Pf
+"B
+valindx
+1{
+Copyright (c) 1984, Alan E. Klietz.
+1.7
+GamBit Accounting Administrator ver %s.
+accounting & - initiate accounting administrator.
+fatal:acct - The acct administrator must be run as a backround task.
+fatal:acct - Another accounting task is already active!
+fatal:acct - unable to allocate global memory page.
+/config/sysconst
+caut:acct - no /config/sysconst file found.
+console
+$con
+The Accounting Administrator is ready for operations.
+fatal:acct - failed to receive message.
+warn:acct - bad check byte on message from %04x.
+warn:acct - no such acct message, %d.
+Copyright (c) 1984, Alan E. Klietz.
+fatal:acct - bad logout validuz read.
+fatal:acct - bad logout validuz write.
+warn:acct - reply buffer size bad. size=%d.
+Copyright (c) 1984, Alan E. Klietz.
+fatal:acct - bad credit validuz write.
+fatal:jour - entry number out of bounds.
+fatal:jour - apnum out of bounds!
+/jou/%04u
+av
+warn:jour - unable to open %s.
+Copyright (c) 1984, Alan E. Klietz.
+valid:warn - 
+64
+62
+XUSQRVW
+_^ZY[]
+&"
+;&"
+P/
+6*
+D0
+6@
+>>
+6>
+`,
+;F
+v 
+z/
+6D
+(&
+0&
+1&
+*&
+,&
+J.
+lt
+6>
+;&"
+6(
+;&"
+;&"
+t$
+,&
+(&
+0&
+1&
+;&"
+}*
+8<
+68
+(&
+0&
+1&
+*&
+,&
+.&
+;&"
+E(
+;&"
+;&"
+*&
+;&"
+;&"
+;&"
+;&"
+6#
++#
+&#
+X;
+;&"
+?$
+6*
+M$
+;&"
+;&"
+;&"
+c#
+;&"
+L"
+'"
+;&"
+6*
+6*
+V!
+6*
+f!
+:!
+;&"
+6*
+ !
+6*
+6*
+q 
+;&"
+$ 
+. 
+u&
+;&"
+uP
+t"
+;&"
+.&
+*&
+6B
+.&
++F
+)F
+;&"
+B;V
+< |
+ u
+;&"
+;&"
+>R
+6&
+~ 
+t6
+>P
+>P
+t^
+tT
+O}
+>P
+O} 
+;&"
+>R
+u2
+>D
+t6
+>P
+6(
+>P
+t`
+tL
+>P
+;&"
+9N
+;&"
+;&"
+;&"
+>V
+O|
+;&"
+uZ
+uH
+u6
+u$
+;&"
+%?
+;&"
+68
+8<
+68
+68
+8<
+68
+;&"
+;&"
+;&"
+u 
+X+
+@Ws
+@Wr
+;&"
++F
+8<
+68
+X+
++F
+8<
+68
+,v
+;&"
+%?
+hash index outside of file!
+valid:warn - unable to write valindx record.
+valid:warn - user_hash record is not 16 length!
+/val/valindx
+rv
+valid:fatal - missing hash record in valindx!
+valid:warn - user index is zero?
+valid:warn - user_record is not 256 length!
+valid:warn - userindex out of bounds. ui=%d.
+/val/validuz
+rv
+valid:warn - offset outside of valid file!
+valid:warn - user_record read past EOF.
+valid:warn - userindex write out of bounds.
+/val/validuz
+rwv
+valid:warn - write offset outside of valid file!
+valid:warn - write error.
+/val/valindx
+rwv
+valid:fatal - missing hash record in valindx!
+/val/validuz
+rwv
+/val/valindx
+rwv
+valid:fatal - missing hash record in valindx!
+valid:fatal - hash entry is zero.
+Copyright (c) 1984, Alan E. Klietz.
+fatal:credit - bad app number.
+Copyright (c) 1984, Alan E. Klietz.
+fatal:readline - undefined whomon_ptr!
+fatal:print - user_data_ptr undefined.
+ ,.?
+ #
+is
+the
+to
+in
+at
+of
+???
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+>8
+;&"
+;&"
+;&"
+;&"
+6(
+6*
+%t
+<-u
+0u
+-0
+.u;
+-0
+lu
+t<
+>8
+&9
+s#
+}#
+t=
+t7
+t1
+;F
+-u
+guM
+;F
+;F
+?0u
+)F
+gu
+~'
+;F
+gu
+;F
+}O
+;F
+}=
+;F
+gt
+tY
+CC;
+;F
+t"
+;F
+;F
+;F
+u 
+6p
+v0
+>8
+&9
+>8
+&9
+vQ
+0|
+2}
+>s
+ P
+U <
+u,
++^
+>u
+v 
+e 
+6S 
+s5
+s6
+rT
+u8
+Dt
+w)
+@uY
+m 
+6Q 
+e 
+Q 
+Ny
+CNy
+e 
+PP
+PU
+]X
+>w
+.w
+&8
+&8
+%t
+<-u
+0u
+-0
+.u;
+-0
+}"
+ CC;
+;F
+t 
+;F
+;F
+;F
+v0
+0|
+6&
+s!
++F
++F
+RU
+]Z
+RU
+]Z
+;F
+;F
+A|
+Z~
+a|
+0|
+a|
+A|
+ t
+ t
+= 
+A|
+a|
+- 
+t5
+)F
+>y
+6y
+Nov
+Dec
+ j
+;Zx
+<[y
+           
+%u %s %u
+           
+%2u:%02u:%02u %s
+pm
+am
+%r
+%r
+bcdefgorsux
+!c"g"g"
+fprintf: floating point requires 8087 co-processor
+$@
+Y@
+.A
+cA
+ _
+vH7B
+mB
+4&
+7y
+AC
+W4vC
+Ngm
+bcdorsux
++t+i+
++TIMER_ADMIN not present
+<[y
+           
+%u %s %u
+           
+%2u:%02u:%02u %s
+pm
+am
+%r
+%r
+bcdefgorsux
+!c"g"g"
+fprintf: floating point requires 8087 co-processor
+$@
+Y@
+.A
+cA
+ _
+vH7B
+mB
+4&
+7y
+AC
+W4vC
+Ngm
+bcdorsux
++t+i+
++TIMER_ADMIN not present
+.A
+cA
+ _
+vH7B
+mB
+4&
+7y
+AC
+W4vC
+Ngm
+bcdorsux
+,7-
+}}
+TIMER_ADMIN not present
+           
+%u %s %u
+           
+%2u:%02u:%02u %s
+pm
+am
+%r
+%r
+bcdefgorsux
+#H&2#
+# #1&&&&#,#t&
+fprintf: floating point requires 8087 co-processor
+$@
+Y@
+Gw
+Copyright (c) 1984, Alan E. Klietz.
+account    
+bye        
+charge     
+clock      
+credit     
+goodbye    
+help       
+intrigue   
+list       
+mail       
+news       
+password   
+scepter    
+send       
+set-option 
+talk       
+tasks      
+users      
+where      
+who        
+                _
+Welcome to the GamBit Menu.
+/sys/note
+%s
+System closed, sorry.
+(System closed for non-staff.)
+Type 'help' for help.
+Type 'list' to list these commands.
+GamBit Main Menu.  Type 'list' for command list.
+Enter menu command? 
+bye
+control
+/cmds/control
+"%s" is not unique.
+"%s" is not a command; type 'list' for a list.
+Goodbye, come again!
+Logged in at  %s, %s.
+Logged off at %s, %s.
+On system %d minutes. %d credits used.
+Account balance= %d cr.
+Sorry, that feature hasn't been implemented yet.
+/help/menu/main
+/sys/mail
+/sys/news
+%s
+There is no news today.
+/sys/io
+21
+gtalk
+size
+/cmds/task
++c
+Unknow
+n task option.
+/cmds/task
++s
+console
+console - system console (not staffed)
+guest
+Name not found.
+You have used %d credits since login,
+and have %d credits remaining in
+your account.
+Sorry, the guest account cannot change its terminal parameters.
+Select one of these options:
+     backspace
+     duplex
+     echo-backspace
+     line-erase
+Enter set option? 
+backspace
+Do you want to use
+     1) backspace key (Control-H)
+     2) delete key    (DEL)
+for erasing a character?
+Select 1 or 2 ? 
+Incorrect value.
+duplex
+Do you want to set
+     1) full duplex
+     2) half duplex  (not recommended)
+Select 1 or 2 ? 
+Incorrect value.
+echo_backspace
+Do you want
+     1) Backspaces echoed with space/back/space
+     2) No echoing of backspaces  (not recommended)
+Select 1 or 2 ? 
+Incorrect value.
+line_erase
+Select the character you wish to use for erasing a line:
+     1) Control-U  (NAK)
+     2) Control-X  (CAN)
+     3) Escape key (ESC)
+Select 1, 2, or 3 ? 
+Incorrect valu
+64
+62
+XUSQRVW
+_^ZY[]
+&"
+;&"
+#G
+r%
+u!
+*&
+|(
+r(
+8F
+t+
+u+
+}!
+s@
+t-
+['
+H'
+<'
+2'
+('
+[E
+>a
+u%
+;&"
+A(
+I)
+h&
+W&
+M)
+-)
+,&
++F
+<+
+P 
+u%
+C 
+3 
+"C
+t/
+#C
+W'
+~3
+t$
+~#
+R?
+%$
+j,
+}j
+ud
+!,
+Y*
+t 
+t-
+dA
+,&
++F
+>a
+W"
+5"
++"
+!"
+8 
+i9
+y!
+0&
+9(
+8!
+.!
+$!
+(&
+(& 
+L8
+\ 
+(&
+(& 
+1&
+#P
+#P
+]"
+>a
+L 
+S!
+ P
+j9
+ P
+3 P
+H P
+ 9
+c P
+,<
+| P
+ P
+ P
+ P
+ P
+_;
+h;
+~K
+tC
+(;
+d;
+>8
+>a
+>a
+;&"
+;F
+~d
+>8
+>8
+>8
+;&"
++ 
+\8
+L8
+)9
+t'
+\2
+;&"
+)8
+t+
+88
+e.
+t { 
+ No such option.
+Option set to new value.
+%s, %s. (%d)  %s time.
+Peak
+Non-peak
+System up at %s, %s.
+Sorry, the guest account cannot change its password.
+Enter old password? 
+Bad validuz read.
+Improper password.
+Enter new password? 
+Enter new password again? 
+Passwords didn't match.
+Passwords must be at least 6 characters long.
+Bad validuz write.
+Password changed.
+The following is a list of all users:
+/val/valindx
+rv
+%-11s 
+Sorry, the guest account cannot send messages to other users.
+/cmds/sendmsg
+/cmds/whog
+Sorry, the guest account cannot charge credits.
+/cmds/charge
+warn:menu - no such command index!
+ C
+The available menu commands are:
+%-11s
+%s's real name is %s.  %s's interests are
+Anonymous
+%s
+%s lives in %s.
+/sys/guest
+%s
+Please select a 1 to 10 letter name or 'handle' that others
+can recognize you by.  It need not be your real name.
+Enter your name? 
+That name is already used elsewhere.  Choose a
+nother.
+You are now logged into GamBit Timeshare.
+You can type  'help subscribing' to get information
+on how to subscribe.
+/jou/%04u
+Detailed account history:
+Unable to access account history.
+fatal:menu - out of memory.
+Copyright (c) 1984, Alan E. Klietz.
+You are leaving the help directory.
+help:warn - help recursion nested too deep.
+rv
+%s
+back
+quit
+help
+"%s" is not one of the available options.
+   
+%s
+rv
+Please choose one of the following topics:
+Choose one of the following subtopics:
+ %-11s
+ BACK       
+ QUIT
+Select topic? 
+Select 
+%s 
+subtopic? 
+Copyright (c) 1984, Alan E. Klietz.
+fatal:ilock - lock flag did not change!
+fatal:ilock - unable to send to acct admin.
+fatal:vread - unable to send to acct admin.
+Bad validuz read.
+fatal:vwrite - unable to send to acct admin.
+Bad validuz write.
+Copyright (c) 1984, Alan E. Klietz.
+fatal:apnum - Unable to send to Acct Admin.
+Sorry, but your credit has expired for the month.
+To renew your account, plea
+;&"
+2,
+w7
+*7
+}%
+;F
+Y6
+6J
+6(
+;&"
+;&"
+u 
+th
+t&
+G5
+#5
+~P
+z4
+Y4
+t4
+h4
+A4
+;F
+n2
+;&"
+z2
+>2
+~1
+>8
+>8
+>8
+K1
+;&"
+;F
+}#
+;&"
+;F
+;0
+;&"
+I0
+;&"
+*&
+;&"
+B;V
+;&"
+*&
+3-
+;&"
+;&"
+8-
+;&"
+;&"
+/,
+9,
+w+
+;&"
+6*
+9+
+6*
+6*
+;&"
+6*
+p*
+8*
+L*
+6*
+6*
+;&"
+t)
+~)
+W)
+5)
+Y(
+G%
+F(
+<(
+u&
+se mail a check or money order
+to:
+     GamBit Multi Systems, Inc.
+     P.O. Box 23495
+     Minneapolis, MN  55423
+Note: Your credit account is getting low.
+You should renew your subscription soon.
+fatal:apnum - unable to change application.
+Copyright (c) 1984, Alan E. Klietz.
+valid:warn - hash index outside of file!
+valid:warn - unable to write valindx record.
+valid:warn - user_hash record is not 16 length!
+/val/valindx
+rv
+valid:fatal - missing hash record in valindx!
+valid:warn - user index is zero?
+valid:warn - user_record is not 256 length!
+valid:warn - userindex out of bounds. ui=%d.
+/val/validuz
+rv
+valid:warn - offset outside of valid file!
+valid:warn - user_record read past EOF.
+valid:warn - userindex write out of bounds.
+/val/validuz
+rwv
+valid:warn - write offset outside of valid file!
+valid:warn - write error.
+/val/valindx
+rwv
+valid:fatal - missing hash record in valindx!
+/val/validuz
+rwv
+/val/valindx
+rwv
+valid:fatal - missing hash record in vali
+X'
+;&"
+uP
+p&
+Q&
+t"
+S%
+;&"
+q$
+.&
+*&
+6_
+.&
++F
+)F
+;&"
+;&"
+:$
+6&
+6(
+;&"
+#P
+;&"
+6&
+6(
+6(
+c#
+6(
+t*
+6(
+(=
+6&
+t*
+6&
+&=
+;&"
+?Nt
+W"
+/"
+u!
+>8
+u#
+>8
+s!
+f!
+;&"
+j!
+lt
+6&
+6&
+(&
+u#
+0&
+1&
+6&
+;&"
+B;V
+< |
+ u
+;&"
+;&"
+6&
+~ 
+t6
+t^
+tT
+O}
+O} 
+;&"
+u2
+>]
+( 
+t6
+6(
+t`
+tL
+;&"
+9N
+;&"
+;&"
+;&"
+O|
+;&"
+uZ
+uH
+u6
+u$
+;&"
+%?
+;&"
+68
+8<
+68
+68
+8<
+68
+;&"
+;&"
+;&"
+u 
+X+
+@Ws
+@Wr
+;&"
+ndx!
+valid:fatal - hash entry is zero.
+Copyright (c) 1984, Alan E. Klietz.
+fatal:credit - bad app number.
+Copyright (c) 1984, Alan E. Klietz.
+wv
+break:fatal - cant reopen output.
+rv
+break:fatal - cant reopen input.
+*INT*
+Copyright (c) 1984, Alan E. Klietz.
+WARNING - checkbyte mismatch.
+%11s, %11s  
+%s 
+%4d cr.  
+%04u 
+%4d 
+%s
+ $%d.00 received, Thank You!
+ $%d.00 service charge.
+Copyright (c) 1984, Alan E. Klietz.
+fatal:global - unable to send to accounting admin.
+fatal:get_glob - bad ac_checkword.
+Copyright (c) 1984, Alan E. Klietz.
+fatal:readline - undefined whomon_ptr!
+fatal:print - user_data_ptr undefined.
+ ,.?
+ #
+is
+the
+to
+in
+at
+of
+???
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+ j
+;Zx
+<[y
+           
+%u %s %u
+           
+%2u:%02u:%02u %s
+pm
+am
+Copyright (c) 1984, Alan E. Klietz.
+%r
+%r
+bcdefgorsux
+3x4|4|4
+3 7
+fprintf: floating point requires 8087 co-pro
++F
+8<
+68
+X+
++F
+8<
+68
+,v
+;&"
+%?
+>8
+;&"
+;&"
+| 
+;F
+u2
+;F
+;F
+~#
+;&"
+;&"
+;&"
+;&"
+6(
+6*
+%t
+<-u
+0u
+-0
+.u;
+-0
+lu
+t<
+>8
+&9
+s#
+}#
+t=
+t7
+t1
+;F
+-u
+guM
+;F
+;F
+?0u
+)F
+gu
+~'
+;F
+gu
+;F
+}O
+;F
+}=
+;F
+gt
+tY
+CC;
+;F
+t"
+;F
+;F
+;F
+u 
+v0
+>8
+&9
+>8
+&9
+vQ
+0|
+2}
+u,
++^
+v 
+s5
+s6
+rT
+u8
+Dt
+w)
+@uY
+Ny
+CNy
+PP
+PU
+]X
+&8
+&8
+%t
+<-u
+0u
+-0
+.u;
+-0
+}"
+CC;
+;F
+t 
+;F
+;F
+;F
+         
+Menu     
+Scepter  
+Talk     
+Mail     
+Diplomacy
+<system> 
+Login   
+Logout  
+Newapp  
+Charge  
+Writeval
+Credit  
+v0
+0|
+6&
+s!
++F
++F
+= t
+= t
+=-t
+=+u
+=0|$
+=9
+?-u
+RU
+]Z
+RU
+]Z
+.7
+>s
+t:
+ 1
+Copyright (c) 1984, Alan E. Klietz.
+$con1
+$mdm
+$term1
+1.4
+Central Terminal Monitor ver %s.
+monitor &  -  initiate terminal monitor.
+fatal:monitor - The monitor must run as a background task.
+fatal:monitor - Another monitor task is already active!
+fatal:monitor - nonexistant tty: %d.
+The GamBit Timeshare System is ready for operations on %s, %s.
+%s, %s info:monitor - no task for tty%d.
+wv
+idle:monitor - system is down.
+%s, %s info:monitor - connection on tty%d.
+/cmds/sh
+%s, %s info:monitor - hangup on tty%d.
+fatal:monitor - unexpected termination.
+wv
+warn:monitor - Unable to open tty%d.
+wv
+rv
+warn:monitor - Unable to init tty%d.
+AT M0E0Q1S0=1S10=10S2=255%c
+info:monitor - %s initialized.
+fatal:monitor - unable to send to accounting admin.
+note:monitor - bad logout request for tty%d.
+%s %s info:monitor - timeout on tty%d.
+%s, %s info:monitor - start of %speak time.
+non-
+/cmds/control
+/config/down_script
+Copyright (c) 1984, Alan E. Klietz.
+fatal:credit - b
+64
+62
+XUSQRVW
+_^ZY[]
+&"
+;&"
+r&
+6*
+,'
+*(
+f'
+te
+u 
+uC
+t8
+tl
+uf
+t+
+;&"
+6*
+ %
+;&"
+t-
+v#
+6*
+u#
+u^
+_!
+a"
+N"
+;&"
+S"
+;&"
+8!
+68
+;F
+*&
+vJ
+ P
+ P
+t.
+ P
+ P
+u'
+;&"
+6(
+;&"
+.&
+*&
+6;
+.&
++F
+)F
+;&"
+lt
+6&
+6&
+(&
+u#
+0&
+1&
+6&
+;&"
+B;V
+< |
+ u
+;&"
+;&"
+>E
+6&
+~ 
+t6
+>C
+>C
+t^
+tT
+O}
+>C
+O} 
+;&"
+>E
+u2
+>9
+t6
+>C
+6(
+>C
+t`
+tL
+>C
+;&"
+9N
+;&"
+;&"
+;&"
+>I
+O|
+;&"
+uZ
+uH
+u6
+u$
+;&"
+%?
+;&"
+68
+8<
+68
+68
+8<
+68
+;&"
+;&"
+;&"
+u 
+X+
+@Ws
+@Wr
+;&"
++F
+8<
+68
+X+
++F
+8<
+68
+,v
+;&"
+%?
+>8
+6(
+6*
+%t
+<-u
+0u
+-0
+.u;
+-0
+lu
+t<
+>8
+&9
+s#
+}#
+t=
+t7
+t1
+;F
+-u
+guM
+;F
+;F
+?0u
+)F
+gu
+~'
+;F
+gu
+;F
+}O
+;F
+}=
+;F
+gt
+tY
+CC;
+;F
+t"
+;F
+;F
+;F
+u 
+6c
+v0
+>8
+&9
+>8
+&9
+vQ
+0|
+2}
+>f
+u,
++^
+>h
+v 
+s5
+s6
+rT
+u8
+Dt
+w)
+@uY
+Ny
+CNy
+PP
+PU
+]X
+>j
+.[
+.j
+&8
+&8
+%t
+<-u
+0u
+-0
+.u;
+-0
+ ?
+}"
+CC;
+;F
+t 
+;F
+;F
+;F
+v0
+0|
+>n
+>n
+6&
+s!
++F
++F
+RU
+]Z
+RU
+]Z
+t:
+ P
+ %
+;F
+;F
+A|
+Z~
+a|
+0|
+a|
+A|
+ t
+ t
+= 
+A|
+a|
+- 
+t5
+)F
+ =
+ad app number.
+Copyright (c) 1984, Alan E. Klietz.
+fatal:global - unable to send to accounting admin.
+fatal:get_glob - bad ac_checkword.
+Copyright (c) 1984, Alan E. Klietz.
+fatal:readline - undefined whomon_ptr!
+fatal:print - user_data_ptr undefined.
+ ,.?
+ #
+is
+the
+to
+in
+at
+of
+???
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+ j
+;Zx
+<[y
+           
+%u %s %u
+           
+%2u:%02u:%02u %s
+pm
+am
+%r
+%r
+bcdefgorsux
+fprintf: floating point requires 8087 co-processor
+$@
+Y@
+.A
+cA
+ _
+vH7B
+mB
+4&
+7y
+AC
+W4vC
+Ngm
+bcdorsux
+set_attr: not a device
+get_attr: not a device
+set_option: not a device
+get_option: not a device
+/cmds/sh
++s
+/cmds/sh
++s
++t
+TIMER_ADMIN not present
+  
+%2u:%02u:%02u %s
+pm
+am
+%r
+%r
+bcdefgorsux
+fprintf: floating point requires 8087 co-processor
+$@
+Y@
+a device
+set_option: not a device
+get_option: not a device
+/cmds/sh
++s
+/cmds/sh
++s
++t
+TIMER_ADMIN not present
+am
+%r
+%r
+bcdefgorsux
+fprintf: floating point requires 8087 co-processor
+$@
+Y@
+.A
+cA
+ _
+vH7B
+mB
+4&
+7y
+AC
+W4vC
+Ngm
+bcdorsux
+ r g 
+ set_attr: not a device
+get_attr: not 
+w+
+Copyright (c) 1984, Alan E. Klietz.
+Missing arguments to /sys/io.
+io - no memory.
+/help/%s/main
+Bad checkword on reply message.
+Wrong ttynum on reply.
+%s
+Too many users on task, sorry.
+Returning to menu..
+/sys/menu
+Unknown reply message.
+Text after logout ignored
+? 
+help
+Bad argument to /sys/io.
+Initiating program, please wait.
+/sys/%s
+$con
+$con
+Unable to start task.
+Failed to initiate task.
+Premature task abort.
+/sys/menu
+Unable to start menu.
+Copyright (c) 1984, Alan E. Klietz.
+You are leaving the help directory.
+help:warn - help recursion nested too deep.
+rv
+%s
+back
+quit
+help
+"%s" is not one of the available options.
+   
+%s
+rv
+Please choose one of the following topics:
+Choose one of the following subtopics:
+ %-11s
+ BACK       
+ QUIT
+Select topic? 
+Select 
+%s 
+subtopic? 
+Copyright (c) 1984, Alan E. Klietz.
+wv
+break:fatal - cant reopen output.
+rv
+break:fatal - cant reopen input.
+*INT*
+Copyright (c) 1984, Alan E. Klietz.
+fatal:global - 
+64
+62
+XUSQRVW
+_^ZY[]
+&"
+;&"
+b*
+?=t
+s)
+# 
+/(
+!=
+=h
+u<
+V#
+O|A
+6&
+~2
+6&
+;&"
+68
+b$
+5%
+;&"
+;&"
+;&"
+u 
+th
+` 
+t&
+C$
+( 
+~P
+v#
+U#
+p#
+d#
+=#
+y 
+;F
+j!
+;&"
+v!
+:!
+~1
+>8
+>8
+>8
+G 
+;&"
+;F
+}#
+;&"
+;&"
+6&
+6(
+;&"
+;&"
+6&
+6(
+6(
+6(
+t*
+6(
+(=
+6&
+t*
+6&
+&=
+;&"
+lt
+6&
+6&
+(&
+u#
+0&
+1&
+6&
+;&"
+B;V
+< |
+ u
+;&"
+;&"
+>`
+6&
+~ 
+t6
+>^
+>^
+t^
+tT
+O}
+>^
+O} 
+;&"
+>`
+u2
+>R
+t6
+>^
+6(
+>^
+t`
+tL
+>^
+;&"
+9N
+;&"
+;&"
+;&"
+>d
+O|
+;&"
+uZ
+uH
+u6
+u$
+;&"
+;&"
+| 
+;F
+u2
+;F
+;F
+~#
+6(
+6*
+%t
+<-u
+0u
+-0
+.u;
+-0
+lu
+t<
+>8
+&9
+s#
+}#
+t=
+t7
+t1
+;F
+-u
+guM
+;F
+;F
+?0u
+)F
+gu
+~'
+;F
+gu
+;F
+}O
+;F
+}=
+;F
+gt
+tY
+CC;
+;F
+t"
+;F
+;F
+;F
+u 
+6h
+v0
+>8
+&9
+>8
+&9
+vQ
+0|
+2}
+>k
+u,
++^
+>m
+v 
+s5
+s6
+rT
+u8
+Dt
+w)
+@uY
+Ny
+CNy
+PP
+PU
+]X
+>o
+.o
+&8
+&8
+%t
+<-u
+0u
+-0
+.u;
+-0
+}"
+CC;
+;F
+t 
+;F
+;F
+;F
+v0
+0|
+] 
+  
+>s
+>s
+6&
+s!
++F
++F
+= t
+= t
+=-t
+=+u
+=0|$
+=9
+?-u
+RU
+]Z
+RU
+]Z
+t:
+A|
+Z~
+a|
+0|
+a|
+A|
+ t
+ t
+= 
+A|
+a|
+- 
+t5
+)F
+unable to send to accounting admin.
+fatal:get_glob - bad ac_checkword.
+Copyright (c) 1984, Alan E. Klietz.
+fatal:readline - undefined whomon_ptr!
+fatal:print - user_data_ptr undefined.
+ ,.?
+ #
+is
+the
+to
+in
+at
+of
+Copyright (c) 1984, Alan E. Klietz.
+%r
+%r
+bcdefgorsux
+fprintf: floating point requires 8087 co-processor
+$@
+Y@
+.A
+cA
+ _
+vH7B
+mB
+4&
+7y
+AC
+W4vC
+Ngm
+bcdorsux
+c 
+L A 
+ set_attr: not a device
+get_attr: not a device
+set_option: not a device
+get_option: not a device
+envsav: no memory
+/cmds/sh
++s
+/cmds/sh
++s
++t
+TIMER_ADMIN not present
+z.
+%r
+%r
+bcdefgorsux
+fprintf: floating point requires 8087 co-processor
+$@
+Y@
+.A
+cA
+ _
+vH7B
+mB
+4&
+7y
+AC
+W4vC
+Ngm
+bcdorsux
+c 
+L A 
+     Welcome  to  GamBit  Timeshare!  GamBit  Timeshare is a
+multi-user computer system designed  for  communication  and
+recreational computing.    It uses state-of-the-art hardware
+and software to give you access to variety of  sophisticated
+multi-user games and services.
+     You  are  currently  logged  under the "GUEST" courtesy
+account. The "GUEST" account allows you to  sample  some  of
+GamBit's services   free   of   charge.    You  can  examine
+documentation and get information on  how  to  subscribe  to
+GamBit Timeshare by using this account.
+ti-user computer system designed  for  communication  and
+recreational computing.    It uses state-of-the-art hardware
+and software to give you access to variety of  sophisticated
+multi-user games and services.
+     You  are  currently  logged  under the "GUEST" courtesy
+account. The "GUEST" account allows you to  sample  some  of
+GamBit's services   free   of   charge.    You  can  examine
+documentation and get information on
+This system will not go on-line to the public until March 1st.
+<valid_read>
+<valid_hash>
+<fput>
+stk_overflow
+<valid_create>
+<hash_index>
+<tfprintf>
+<equal>
+<error>
+<hash_write>
+<rewind>
+<stderr>
+epilogue
+prologue
+<fclose>
+<fget>
+stack_base
+<valid_delete>
+<fopen>
+<hash_read>
+<strcpy>
+<fiseek>
+<valid_write>
+<zero>
+;&
+;&
+$P
+;&
+NP
+;&
+|P
+  
+Copyright (c) 1984, Alan E. Klietz.
+valid:warn - hash index outside of file!
+valid:warn - unable to write valindx record.
+valid:warn - user_hash record is not 16 length!
+/val/valindx
+rv
+valid:fatal - missing hash record in valindx!
+valid:warn -
+  
+  
+;&
+;P
+vP
+iP
+ user index is zero?
+valid:warn - user_record is not 256 length!
+valid:warn - userindex out of bounds. ui=%d.
+/val/validuz
+rv
+valid:warn - offset outside of valid file!
+valid:warn - user_record read past EOF.
+valid:warn - userindex write out o
+  
+yP
+  
+  
+;&
+  
+  
+>P
+  
+;&
+fP
+YP
+jP
+  
+  
+u&
+f bounds.
+/val/validuz
+rwv
+valid:warn - write offset outside of valid file!
+valid:warn - write error.
+/val/valindx
+rwv
+valid:fatal - missing hash record in valindx!
+/val/validuz
+rwv
+/val/valindx
+rwv
+valid:fatal - missing hash record in valindx!
+  
+;&
+uP
+t"
+  
+valid:fatal - hash entry is zero.
+A|
+Z~
+a|
+0|
+a|
+A|
+ t
+ t
+= 
+A|
+a|
+- 
+cessor
+$@
+Y@
+.A
+cA
+ _
+vH7B
+mB
+4&
+7y
+AC
+W4vC
+Ngm
+bcdorsux
+=4="=
+=~=(=.=
+=set_attr: not a device
+get_attr: not a device
+set_option: not a device
+get_option: not a device
+envsav: no memory
+/cmds/sh
++s
+/cmds/sh
++s
++t
+A|
+Z~
+a|
+0|
+a|
+A|
+ t
+ t
+= 
+A|
+a|
+- 
+t5
+)F
+>=
+ires 8087 co-processor
+$@
+Y@
+.A
+cA
+ _
+vH7B
+mB
+4&
+7y
+AC
+W4vC
+Ngm
+bcdorsux
+s3
+3y3
+3#4set_attr: not a device
+get_attr: not a device
+set_option: not a device
+get_option: not a device
+envsav: no memory
+/cmds/sh
++s
+/cmds/sh
++s
++t
+TIMER_ADMIN not present
+>=
+ires 8087 co-processor
+A|
+a|
+- 
+id:fatal - hash entry is zero.
+Copyright (c) 1984, Alan E. Klietz.
+fatal:global - unable to send to accounting admin.
+fatal:get_glob - bad ac_checkword.
+Copyright (c) 1984, Alan E. Klietz.
+fatal:readline - undefined whomon_ptr!
+fatal:print - user_data_ptr undefined.
+ ,.?
+ #
+is
+the
+to
+in
+at
+of
+???
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+ j
+;Zx
+<[y
+           
+%u %s %u
+           
+%2u:%02u:%02u %s
+pm
+am
+%r
+%r
+bcdefgorsux
+fprintf: floating point requires 8087 co-processor
+$@
+Y@
+.A
+cA
+ _
+vH7B
+mB
+4&
+7y
+AC
+W4vC
+Ngm
+bcdorsux
+%8&set_attr: not a device
+get_attr: not a device
+set_option: not a device
+get_option: not a device
+<[y
+           
+%u %s %u
+           
+%2u:%02u:%02u %s
+pm
+am
+%r
+%r
+bcdefgorsux
+fprintf: floating point requires 8087 co-processor
+aek
+!B
+Alan E. Klietz
+Roseville, MN
+488-8197
+Communications, multiprogramming.
+aek
+$$
+&&
+&t6
+&&
+$$
+6(
+t`
+&&
+tL
+&P
+o$
+p%
+&&
+;&"
+9N
+;&"
+;&"
+;&"
+O|
+;&"
+ P
+uZ
+ P
+uH
+ P
+u6
+ P
+u$
+!P
+!P
+;&"
+>B
+&C
+>B
+&C
+;&"
+!P
+&P
+%?
+!P
+&P
+;&"
+!P
+&P
+""
+68
+!P
+8<
+68
+68
+8<
+68
+!P
+&P
+;&"
+;&"
+;&"
+X+
+>B
+&C
+>B
+&C
+;&"
+u 
+X+
+>B
+&C
+>B
+&C
+;&"
+%?
+:!
+>8
+Z!
+;&"
+;&"
+| 
+;F
+u2
+;F
+;F
+~#
+;&"
+;&"
+;&"
+!P
+6(
+"P
+6*
+ N
+%t
+<-u
+0u
+-0
+.u;
+-0
+lu
+t<
+>8
+&9
+s#
+}#
+t=
+t7
+t1
+;F
+-u
+guM
+;F
+;F
+?0u
+)F
+gu
+~'
+;F
+gu
+;F
+}O
+;F
+}=
+;F
+gt
+tY
+"CC;
+;F
+t"
+;F
+;F
+;F
+u 
+v0
+6"
+>8
+&9
+8"
+>8
+&9
+vQ
+0|
+2}
+:"P
+r"<
+u,
++^
+v 
+6p"
+s5
+s6
+rT
+u8
+Dt
+w)
+@uY
+6n"
+n"
+Ny
+CNy
+PP
+PU
+]X
+&8
+&8
+%t
+<-u
+0u
+-0
+.u;
+-0
+}"
+#CC;
+;F
+t 
+;F
+;F
+;F
+v0
+0|
+=%t
+=ru
+=*u
+t4
+?[u-
+=^u
+?]u
+;F
+@#|
+t$
+fP
+_P
+B#CC;
+t/
+_u
+t;
+u*A;N
+w$
+-u#
+eopen output.
+rv
+break:fatal - cant reopen input.
+*INT*
+Copyright (c) 1984, Alan E. Klietz.
+fatal:global - unable to send to accounting admin.
+fatal:get_glob - bad ac_checkword.
+Copyright (c) 1984, Alan E. Klietz.
+fatal:readline - undefined whomon_ptr!
+fatal:print - user_data_ptr undefined.
+ ,.?
+ #
+is
+the
+to
+in
+at
+of
+???
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+ j
+;Zx
+<[y
+           
+%u %s %u
+           
+%2u:%02u:%02u %s
+pm
+am
+Copyright (c) 1984, Alan E. Klietz.
+%r
+%r
+bcdefgorsux
+OAR+O
+O*R
+O%OmR
+fprintf: floating point requires 8087 co-processor
+$@
+Y@
+.A
+cA
+ _
+vH7B
+mB
+4&
+7y
+AC
+W4vC
+Ngm
+bcdorsux
+X0YD[%[[
+bcdosux
+e\
+[/\
+\N\
+\set_attr: not a device
+get_attr: not a device
+set_option: not 
+&;
+w 
+u)
+0u$
+xt
+Xu
+t3R
+;N
+}%
+0|
+-0
+a|
+-W
+A|
+-7
+=^u
+tJ
+=]u
+;~
+u@
+-u)
+t 
+]t
+;F
+;F
+;F
+:F
+h#P
+&P
+& 
+&P
+&P
+#P
+&P
+&P
+&P
+#P
+&P
+&P
+#P
+&P
+&P
+^ 
+6&
+s!
++F
++F
+= t
+= t
+=-t
+=+u
+=0|$
+=9
+?-u
+RU
+]Z
+RU
+]Z
+#P
+#P
+#P
+>B(
+B(
+#P
+#P
+#P
+&'
+''
+('
+*'
++'
+t:
+B(
+='
+)'
+/'
+B(
+=(P
+&'P
+=(%
+B(
+''
+>(
+@(
+D(
+D(
+D(%
+D(
+F(
+{e
+F(=
+;F
+;F
+A|
+Z~
+a|
+0|
+a|
+A|
+ t
+ t
+= 
+A|
+a|
+- 
+u 
+u 
+>8
+&9
+>8
+&9
+}P
+>8
+&9
+t5
+)F
+>H(
+H(=
+ $P
+6H(
+#z
+a device
+get_option: not a device
+envsav: no memory
+/cmds/sh
++s
+/cmds/sh
++s
++t
+#i
+}}
+TIMER_ADMIN not present
+=(
+6H(

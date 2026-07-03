@@ -1,0 +1,13 @@
+fake_milieu
+  https://github.com/shelches/milieu
+	Fake Pascal 6000 source ported to VAX Pascal
+
+fake_scepter
+  https://github.com/shelches/scepter
+	Scepter QNX (fake)
+
+    Partial reimplementation written from scratch without access
+	to the real source.
+
+fake_scepter_qnx_4
+	Fake scepter written for QNX 4 circa 1996.

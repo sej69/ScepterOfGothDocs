@@ -1,0 +1,288 @@
+d
+K
+~
+P
+%%
+K
+~
+4
+P
+@
+K
+~bitmap
+P
+!5
+K
+~help
+P
+!5
+K
+~multi
+P
+!5
+K
+~system
+P
+!5
+Kj
+multi
+P
+K
+multi
+P
+K
+do_initialize
+P
+K
+init_example
+P
+K
+do_input
+P
+K
+global_vars
+P
+K 
+All_mask
+P
+K%
+My_mask
+P
+K+
+My_port
+P
+K1
+inp_example
+P
+K7
+do_login
+P
+K>
+log_example
+P
+KE
+procedures
+P
+KK
+prereqs
+P
+KR
+library
+P
+KX
+do_hangup
+P
+K_
+hang_example
+P
+Ke
+mwrite
+P
+Kl
+logout
+Prereqs /help/system/multi/prereqs
+Procedures /help/system/multi/procedures
+Global_vars /help/system/multi/global_vars
+Library /help/system/multi/library
+     This help section describes how you can write your own
+multi-user programs.
+Example /help/system/multi/init_example
+     This procedure is called when your program is first 
+initialized.  Any start-up procedures that you need to call
+should be placed in here.
+D
+/*        do_initialize - Example of multi-user initalization
+                          procedure.
+          84/11/14.   A. B. Programmer
+*/
+do_initialize()
+{
+     extern int number_users;   /* Number of active users */
+     number_users = 0;          /* Start with zero users. */
+ 
+     /* All done initializing */
+}
+I
+Example /help/system/multi/inp_example
+     Procedure do_input() is called each time a user enters some
+text.  
+          do_input(buffer)
+              buffer = text string entered by the user, ending with
+                       a zero byte.  Up to 256 characters.
+                       The carriage return is not included.
+All_mask /help/system/multi/All_mask
+My_mask /help/system/multi/My_mask
+My_port /help/system/multi/My_port
+     There are a few global variables that are available for
+you to access within your procedures.
+     extern  unsigned int   All_mask;
+     This is an integer bitmask that has a bit set for every
+active user in the program.
+     For example, if ports 1 and 3 are active, then All_mask
+would contain 0A hex, or 10 decimal.  The binary representation
+is:
+     3          2         1
+     10987654321098765432109876543210
+     --------------------------------
+     00000000000000000000000000010010
+     (This assumes a 32 bit integer.  A machine with 16 bit integers,
+like the IBM PC, would have a maximum of 16 users in the bit mask.)
+This is an integer bitmask that has a bit set for every
+active user in the program.
+     For example, if ports 1 and 3 are active, then All_mask
+would contain 0A hex, or 10 decimal.  The binary representation
+is:
+     3          2         1
+     10987654321098765432109876543210
+     --------------------------------
+     00000000000000000000000000010010
+     (This assumes a 32 bit integer.  A machine with 16 bit integers,
+like the IBM PC, would 
+#
+     extern  unsigned int   My_mask;
+     This is an integer bitmask that has a single bit set
+for the user currently being processed.
+     For example, if port 9 is the current user, then My_mask
+would be 100 hex, or 512 decimal.  The binary representation is:
+     3          2         1
+     10987654321098765432109876543210
+     --------------------------------
+     00000000000000000000001000000000
+     (This assumes a 32 bit integer.  A machine with 16 bit integers,
+like the IBM PC, would have a maximum of 16 users in the bit mask.)
+ an integer bitmask that has a single bit set
+for the user currently being processed.
+     For example, if port 9 is the current user, then My_mask
+would be 100 hex, or 512 decimal.  The binary representation is:
+     3          2         1
+     10987654321098765432109876543210
+     --------------------------------
+     00000000000000000000001000000000
+     (This assumes a 32 bit integer.  A machine with 16 bit integers,
+like the IBM PC, 
+     extern  int   My_port;
+     This integer is the port number of the user currently 
+being processed.
+     A "port number" is assigned to each user, starting with
+zero.  You can use this number as an index into an array of
+data.
+/*       do_input - Example of handling input to a 
+                    multi-user program.
+         84/11/14.  A. B. Programmer
+*/
+/* First, we declare the global variables. */
+extern  unsigned int  My_mask;
+extern  unsigned int  All_mask;
+extern  int           My_port;
+do_input(buffer)
+char   *buffer;   /* String buffer containing the input text. */
+{
+    
+     if (equal(buffer, "fruit"))
+         mwrite(My_mask, "Yummy, I like Oranges especially!\n");
+     else
+     if (equal(buffer, "ice cream"))
+         mwrite(My_mask, "Mmmmm, Try chocolate!\n");
+     else
+     if (equal(buffer, "brocolli))
+         mwrite(My_mask, "Yuk!\n");
+     else
+         mwrite(My_mask, "I've never heard of %s before!\n", buffer);
+     mwrite(All_mask, "Hey everybody!  The guy on port %d likes to eat %s!\n",
+         My_port, buffer);
+     mwrite(My_mask, "Tell me another food you like to eat?");
+     return;
+}
+y_mask, "Yummy, I like Oranges especially!\n");
+     else
+     if (equal(buffe
+N
+Example /help/system/multi/log_example
+     Procedure  do_login is called when a new user logs into
+your program.  You  should  place  any  user-specific  login
+initialization here.
+          do_login(name, userindex)
+              name      = String containing the codename of the user
+              userindex = Userindex number 
+/*          do_login - handle log in of user.
+            84/11/14.  A. B. Hacker.
+*/
+do_login(name, userindex)
+char   *name;   /* String with user's codename */
+int    userindex;  
+{
+     mwrite(My_mask, "Welcome to Multi-user Food Tasting\n");
+     mwrite(My_mask, "Version 22.6.9.\n");
+     mwrite(All_mask, "### Please welcome %s, from %d.\n",
+        name, userindex);
+     mwrite(My_mask, "Name a food you like to eat?");
+     return;
+}
+do_login /help/system/multi/do_login
+do_input /help/system/multi/do_input
+do_initialize /help/system/multi/do_initialize
+do_hangup /help/system/multi/do_hangup
+Global_vars /help/system/multi/global_vars
+     To make a multi-user program, you need only write a few
+procedures and link them into GamBit's multi-user library.
+     The procedures you need to write are listed below. 
+L
+     The prerequisites for writing a multi-user
+program are:
+     C - The C programming language.
+         A good reference book on C is "The C Programming
+         Language" by Kernighan & Ritche, Prentice-Hall 
+         Press, 1978.  $7.95
+         ISBN 0-13-110163-3
+     Unix - The UNIX operating system.
+         A good reference book on UNIX is "The UNIX Programming
+         Environment" by Kernighan.  Prentice-Hall Press,
+         1979.  $12.95
+     Any bookstore with a decent supply of computer books
+will have the two listed above, or something similiar.
+     Buy them!!
+nguage.
+         A good reference book on C is "The C Programming
+         Language" by Kernighan & Ritche, Prentice-Hall 
+         Press, 1978.  $7.95
+         ISBN 0-13-110163-3
+     Unix - The UNIX operating system.
+         A good reference book on UNIX is "The UNIX Programming
+         Environment" by Kernighan.  Prentice-Hall Press,
+         1979.  $12.95
+     Any bookstore with a decent suppl
+mwrite /help/system/multi/mwrite
+logout /help/system/multi/logout
+     GamBit  supplies  a  library  of multi-user subroutines
+that you can call while running your multi-user program.
+Example /help/system/multi/hang_example
+     This  procedure  is  called  when  a  user hangs up the
+phone. You place any hangup processing you need here.
+W
+/*         do_hangup - Handle hangup processing.
+           84/11/14.   A. B. Codesmith
+*/
+extern   unsigned int  All_mask;
+extern   int           My_port;
+do_hangup()
+{
+     extern int number_users;
+     mwrite(All_mask, "### The guy on port %d just hung up!\n",
+         My_port);
+     number_users = number_users - 1;
+     return;
+}
+     The mwrite() procedure will send text to all users 
+with a matching bitmask.
+          mwrite(mask, text)
+              mask = unsigned bitmask.
+              text = text to send.  Up to 256 characters.
+                     Ending with a zero byte.
+     The   mwrite()  procedure  handles  all  the  necessary
+buffering  and  routing  to  get  the  text  to  the  user's
+terminal.
+     The logout() procedure will log the specified user
+out of the program.
+          logout(port)
+               port = The port number of the user to be
+                      logged out.  Usually My_port.

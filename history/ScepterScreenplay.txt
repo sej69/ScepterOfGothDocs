@@ -1,0 +1,88 @@
+From:  Alan Klietz - view profile 
+Date:  Tues, Mar 24 1992 1:33 am  
+Email:   a...@af.msc.edu (Alan Klietz) 
+Groups:   rec.games.mud 
+Not yet ratedRating:    
+show options  
+
+
+Reply to Author | Forward | Print | Individual Message | Show original | Report Abuse | Find messages by this author  
+
+
+In article <1992Mar23.220155.21...@news2.cis.umn.edu> albe...@mudhoney.micro.umn.edu (Albatross) writes: 
+< 
+<I'm sure Mr. Klietz can tell us if he still has a copy of the source around. 
+
+I still have a paper copy of the Screenplay source code, but no on-line 
+copy, and given that it's over 30,000 lines I'm not about to type it in :-). 
+Besides it was written in a language called Lo (which was a cross between 
+C and Lisp with strong typing) and I don't have the Lo compiler anymore. 
+
+
+Screenplay was a non-violent sequel to Scepter written in 1985 for 
+a Charles River 68000 UNIX box.  The game featured various themes - 
+wild west, science fiction, mystery/detective, and so on but with much less 
+violence than Scepter.  Here the monsters were intelligent -- you could 
+carry on a rudimentary conversation similar to an Infocom game.  The 
+object of the game was to cooperatively solve puzzles and gain knowledge 
+rather than to accrue levels by killing things. 
+
+
+To give you a flavor of the code, here is an excerpt from the source. 
+It is part of the whisper command where it checks for the possibility 
+of eavesdropping: 
+
+
+        Let eavesdropper be the node's content's first_thing. 
+        While the eavesdropper exists, do 
+        Begin 
+                If the eavesdropper's type is user and the eavesdropper 
+                        is not me and the eavesdropper is not the other_person 
+                        and (random 1 to 10) is 10, then 
+                Begin 
+                        write eavesdropper's mask, "You overhear %s", 
+                                (show_name me, definite, caps). 
+                        write eavesdropper's mask, " whispering to %s!\n", 
+                                (show_name other_person, definite, caps). 
+                        write eavesdropper's mask, "\"%s\"\n", txt. 
+                End. 
+                Let the eavesdropper be the next eavesdropper. 
+        End. 
+
+
+Like I said, there's 30K lines of this stuff. 
+
+
+Automatons ("monster" was not politically correct) had heuristics 
+based on broad patterns of behavior: aggressiveness, propensity to wander, 
+attitude towards deception, and so on. 
+
+
+The database had a tree structure similar to LPmud, but the notation 
+was little-endian, e.g. coin@box@room. 
+
+
+The high-level language was Hi, an object-oriented database query/edit 
+language with embedded actions. 
+
+
+Hi scripts were checked for correctness at run time.  Given that 
+the scripts were crash proof, authors were free to and indeed 
+encouraged to experiment with the live database.  The authors created 
+some pretty neat stuff, such as a sadistic doctor's office like in 
+Little Shop of Horrors and a play-for-your-life game show a la Smash TV. 
+
+
+Screenplay was a deliberate effort to get away from RPG cliches 
+of its predecessor such as levels, hit points, and faux medievalism. 
+The only quest in Screenplay was to have a lot of fun. 
+
+
+-- 
+Alan E. Klietz 
+Minnesota Supercomputer Center, Inc. 
+1200 Washington Avenue South 
+Minneapolis, MN  55415 
+Ph: +1 612 626 1737            Internet: a...@msc.edu 
+
+

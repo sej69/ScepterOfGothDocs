@@ -1,0 +1,17 @@
+(NULL);
+
+	return(player);
+}
+
+
+
+struct	us_user	*finduser(wrd, usrtail)
+char	*wrd;
+struct	us_user	*usrtail;
+{
+	register	struct	us_user	*usr;
+	register	count, i, index;
+	char		*namelist[MAXNAMES];
+
+	
+	for (count=0, usr = usrtail; usr != NULL && count < MAXNAM

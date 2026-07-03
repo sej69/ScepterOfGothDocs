@@ -1,0 +1,19 @@
+hillings.\n", name,
+		(object->ob_carry ? "carryable, " : ""),
+		object->ob_weight,
+		object->ob_price);
+
+	if (object->ob_desccode != 0 
+			&& (user->us_ssj || object->ob_obclass != SCROLL)) 
+		mwrite(My_mask, "Descrip (%d): %s\n", object->ob_desccode,
+			printdesc(object->ob_desccode, 0, FALSE));
+
+	
+	mwrite(My_mask, "Magic=%s, Permanent=%s, Invisible=%s\n",
+		tf[object->ob_magic], tf[object->ob_permanent],
+		tf[object->ob_invisible]);
+
+	switch (object->ob_obclass) {
+	
+		case PORTAL:
+			mwrite(My_mask, "Por

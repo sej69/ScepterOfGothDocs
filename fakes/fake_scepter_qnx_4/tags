@@ -1,0 +1,186 @@
+Abort	io.c	/^void	Abort(Error)$/
+Accept	cmd3.c	/^void	Accept()$/
+AddSeg	room.c	/^void	AddSeg()$/
+AllMsg	cmd1.c	/^void	AllMsg(s)$/
+Appeal	cmd4.c	/^void	Appeal()$/
+Attack	cmd3.c	/^void	Attack(Word, Num, Rm)$/
+AttackMsg	matt.c	/^void	AttackMsg(Monster, Plyr)$/
+BinaryMatch	io.c	/^int		BinaryMatch(Word, Count, NameList)$/
+Boom	main.c	/^void Boom(int sig)$/
+Buy	cmd4.c	/^void	Buy(Num, Rm)$/
+Cap	io.c	/^int		Cap(Ch)$/
+CapAlfa	io.c	/^void	CapAlfa(a)$/
+Catalog	cmd4.c	/^void	Catalog()$/
+ChangeName	cmd3.c	/^void	ChangeName(Word, Num)$/
+ChangePW	cmd3.c	/^void	ChangePW(Word, Num)$/
+ChangeUsrName	user.c	/^void	ChangeUsrName(OldNm, NewNm)$/
+CheckHup	ipc.c	/^void	CheckHup()$/
+ChooseClass	log.c	/^void	ChooseClass()$/
+CloseCave	room.c	/^void	CloseCave()$/
+Condition	room.c	/^void	Condition(Plyr)$/
+Dead	cmd2.c	/^void	Dead()$/
+DeleteMon	db.c	/^void	DeleteMon(Rm)$/
+DeleteMonster	room.c	/^void	DeleteMonster(Pt, Rm)$/
+DeleteObject	obj.c	/^void	DeleteObject(Pt, ObjectTail)$/
+DeletePlayer	room.c	/^void	DeletePlayer(Pt, Rm)$/
+DeleteUObj	db.c	/^void	DeleteUObj(Rm)$/
+DeleteUser	room.c	/^void	DeleteUser(Pt)$/
+DeleteUsr	user.c	/^void	DeleteUsr(Nm)$/
+Destroy	mon.c	/^void	Destroy(Mon)$/
+DoCmd	cmd4.c	/^void	DoCmd()$/
+DoInput	io.c	/^void	DoInput()$/
+DropObject	cmd1.c	/^void	DropObject(Word, Num, Rm)$/
+Edit	edit1.c	/^void	Edit()$/
+EditDscrpt	edit2.c	/^void	EditDscrpt(EditCmd, Rec)$/
+EditETList	edit2.c	/^void	EditETList(EditCmd, WhatCode, Index)$/
+EditOList	edit2.c	/^void	EditOList(EditCmd, OIndex)$/
+EditObject	edit2.c	/^void	EditObject(EditCmd, Which, ONum)$/
+EncounterMsg	matt.c	/^void	EncounterMsg(Mon, Rm, NumMons, NonDMs)$/
+EnterDesc	edit2.c	/^void	EnterDesc()$/
+EnterNews	cmd3.c	/^void	EnterNews()$/
+EnterNotice	cmd3.c	/^void	EnterNotice()$/
+EnterSex	log.c	/^void	EnterSex()$/
+EnterSkill	log.c	/^void	EnterSkill()$/
+EnterSpell	spells.c	/^void	EnterSpell(Word, Num)$/
+EnterStats	log.c	/^void	EnterStats()$/
+ExecuteCommand	execute.c	/^void	ExecuteCommand()$/
+ExpandName	obj.c	/^void	ExpandName(Name, Str)$/
+Expr	user.c	/^long	Expr(Lvl)$/
+FindDm	cmd1.c	/^UserPoint	FindDm(Usr)$/
+FindMonster	mon.c	/^MonsterPoint FindMonster(Word, Num,	MonsterTail)$/
+FindObject	obj.c	/^ObjectPoint	FindObject(Word, Num, ObjectTail)$/
+FindPid	user.c	/^UserPoint	FindPid(FPid)$/
+FindPlayer	user.c	/^UserPoint	FindPlayer(Word, PlayerTail)$/
+FindUser	user.c	/^UserPoint	FindUser(Word)$/
+FixMonCount	mon.c	/^void	FixMonCount(MonsterTail, Name)$/
+FollowPlayer	cmd4.c	/^void	FollowPlayer(Word)$/
+FreePlayer	user.c	/^void	FreePlayer(Player)$/
+GetETIndex	ipc.c	/^int GetETIndex(table, row, col)$/
+GetEditParm	edit1.c	/^int		GetEditParm(LPList, Word, Num, Flag)$/
+GetName	log.c	/^void	GetName()$/
+GetNextMsg	ipc.c	/^void	GetNextMsg()$/
+GetObject	cmd1.c	/^void	GetObject(Word, Num, Rm)$/
+GetStatus	cmd4.c	/^void	GetStatus(Word)$/
+GetString	inter.c	/^int GetString(char *s, int maxlen, int cool)$/
+GetWord	io.c	/^void	GetWord(Word, Num)$/
+GoDirection	cmd2.c	/^void	GoDirection(Word, Num)$/
+Hash	user.c	/^int		Hash(Word)$/
+Help	cmd3.c	/^void	Help()$/
+Hide	cmd1.c	/^void	Hide(Word, Num)$/
+HitMonster	cmd2.c	/^void	HitMonster(Damage)$/
+HitPlayer	cmd2.c	/^void	HitPlayer(Damage)$/
+HitShArmor	cmd1.c	/^void	HitShArmor(Plyr, Damage)$/
+Init	user.c	/^void	Init()$/
+InitCmds	io.c	/^void	InitCmds()$/
+InitEvents	matt.c	/^void	InitEvents()$/
+InitSpells	obj.c	/^void	InitSpells()$/
+InsertMonster	room.c	/^void	InsertMonster(Monster, Rm)$/
+Inventory	user.c	/^void	Inventory()$/
+IsGuest	ipc.c	/^int IsGuest(int term)$/
+KillPlayer	cmd2.c	/^void	KillPlayer()$/
+Ld	obj.c	/^void	Ld(Name, Entry)$/
+LocalMsg	cmd1.c	/^void	LocalMsg(s)$/
+Login	log.c	/^UserPoint	Login()$/
+Logoff	cmd2.c	/^void	Logoff(Usr)$/
+Look	cmd1.c	/^int		Look(Word, Num)$/
+Lose	cmd4.c	/^void	Lose(Word)$/
+MatchPW	log.c	/^void	MatchPW()$/
+Max	io.c	/^int		Max(a, b)$/
+MaxL	io.c	/^long MaxL(a, b)$/
+Min	io.c	/^int		Min(a, b)$/
+MinL	io.c	/^long MinL(a, b)$/
+ModName	edit2.c	/^void	ModName(Str)$/
+MonAttack	matt.c	/^void	MonAttack()$/
+MonDisplay	mon.c	/^void	MonDisplay(Mon)$/
+MonExperience	cmd2.c	/^int		MonExperience(Mon)$/
+MonStrike	matt.c	/^void	MonStrike(Rm)$/
+MsgTerm	room.c	/^int		MsgTerm(TalkHow)$/
+NewPW	log.c	/^void	NewPW()$/
+NextOkSend	room.c	/^UserPoint	NextOkSend(Usr)$/
+NumUsers	cmd3.c	/^void	NumUsers()$/
+ODestroy	obj.c	/^void	ODestroy(Cont)		\/* var!! *\/$/
+ObjDisplay	obj.c	/^void	ObjDisplay(Object)$/
+Off	cmd2.c	/^void	Off()$/
+Offer	cmd3.c	/^void	Offer(Word, Num)$/
+OpenCave	room.c	/^void	OpenCave()$/
+OpenClose	cmd1.c	/^void	OpenClose(Word, Num)$/
+PM	mon.c	/^void	PM(Mon, C, Str)$/
+PNth	io.c	/^void	PNth(N, Str)$/
+Pa	io.c	/^char	*Pa(First)$/
+Parley	cmd3.c	/^void	Parley(Word, Num)$/
+Pawn	cmd4.c	/^void	Pawn(Word, Num)$/
+Pb	io.c	/^char	*Pb(X)$/
+Pd	io.c	/^void	Pd(Rec, Line, PhraseNum, Brief, Cont, V)$/
+PlacePlayer	room.c	/^void	PlacePlayer(Plyr, Rm)$/
+PlayerDisplay	room.c	/^void	PlayerDisplay(Plyer)$/
+PlayerOnFile	user.c	/^int		PlayerOnFile(Name)$/
+Pn	io.c	/^void	Pn(N, Str)$/
+PrintDesc	io.c	/^void	PrintDesc(Rec, Line, PhraseNum, Brief, Str1, Str2)$/
+PrintDmg	user.c	/^void	PrintDmg(Player, Damage, Brf, Str)$/
+PrintExp	user.c	/^void	PrintExp(Plyr)$/
+PrintMon	mon.c	/^void	PrintMon(Mon, S, C, Str)$/
+PrintObj	obj.c	/^void	PrintObj(Obj, Singular, Capital, Str)$/
+PromptUser	user.c	/^void	PromptUser()$/
+ProtectNPC	cmd2.c	/^void	ProtectNPC(Player, Monster)$/
+Punctuate	io.c	/^void	Punctuate(Num, Total, Str)$/
+PutETIndex	ipc.c	/^void PutETIndex(int table, int row, int col, int val)$/
+QAdjust	ipc.c	/^unsigned QAdjust(unsigned *value)$/
+QAss	ipc.c	/^void	QAss(Mbx, Chn)$/
+QCre	ipc.c	/^void	QCre()$/
+QDea	ipc.c	/^void	QDea(Chn)$/
+QFind	ipc.c	/^int QFind(int pid)$/
+QOut	ipc.c	/^void	QOut(Chn, Str)$/
+QRea	ipc.c	/^void	QRea(Str, Chn)$/
+QSegUpdate	ipc.c	/^char QSegUpdate(char c)$/
+Quit	cmd4.c	/^void	Quit(QuitHow)$/
+Rand	rand.c	/^int Rand(void)$/
+ReadPlayer	user.c	/^void	ReadPlayer(Player, Name)$/
+ReadUMon	db.c	/^void	ReadUMon(Rm, Monster)$/
+ReadUObj	db.c	/^void	ReadUObj(Rm, Object, Type)$/
+ReadyCheck	user.c	/^int		ReadyCheck(LastAtk)$/
+Repair	cmd3.c	/^void	Repair(Word, Num)$/
+ResetMode	inter.c	/^unsigned ResetMode(void)$/
+ReturnObj	cmd2.c	/^void	ReturnObj(Word, Num)$/
+Rnd	io.c	/^int		Rnd(X)$/
+RoomDisplay	room.c	/^void	RoomDisplay(Rm, Brief)$/
+RoomMsg	room.c	/^void	RoomMsg(Rm, Count)$/
+Run	cmd4.c	/^void	Run()$/
+S	room.c	/^S(Rm)$/
+SaveChar	cmd2.c	/^void	SaveChar()$/
+Search	cmd1.c	/^void	Search()$/
+SetMode	inter.c	/^unsigned SetMode(void)$/
+SetRandom	io.c	/^void	SetRandom(a, b)$/
+Spell	spells.c	/^void	Spell(SpellCode)$/
+SpellCost	cmd1.c	/^int		SpellCost(Cost, MinLvl, MinInt)$/
+SpellMon	spells.c	/^int		SpellMon(SpellCode, Level, Intel, Plyr, Monster, Obj, Target)$/
+Srand	rand.c	/^void Srand(int x1, int x2, int x3)$/
+StealObj	cmd3.c	/^void	StealObj(Word, Num)$/
+StopFollow	room.c	/^void	StopFollow(Plyr)$/
+StopUsing	cmd1.c	/^void	StopUsing(Usr, Object)$/
+SubSet	io.c	/^int		SubSet(Part, Full)$/
+SystemMsg	matt.c	/^void	SystemMsg(s)$/
+TagPlayer	cmd4.c	/^void	TagPlayer(Word)$/
+Talk	cmd4.c	/^void	Talk(Word)$/
+TextLimits	cmd4.c	/^void	TextLimits(MesStart, MesEnd)$/
+TimeCheck	matt.c	/^void	TimeCheck()$/
+Track	cmd2.c	/^void	Track()$/
+Train	cmd1.c	/^void	Train()$/
+Turn	cmd2.c	/^void	Turn(Word, Num)$/
+UpdateF	cmd3.c	/^void	UpdateF()$/
+UseObject	cmd2.c	/^int		UseObject(Word, Num)$/
+Users	user.c	/^void	Users(Word)$/
+W	room.c	/^int		W(Rm)$/
+WaitInput	inter.c	/^int WaitInput(void)$/
+Who	ipc.c	/^void	Who()$/
+WordMatch	io.c	/^int		WordMatch(Word, Count, NameList)$/
+WritePlayer	user.c	/^void	WritePlayer(Player)$/
+WriteSeg	room.c	/^void	WriteSeg(SlotNum, SegNum, Erase)$/
+WriteUMon	db.c	/^void	WriteUMon(Rm, Monster)$/
+WriteUObj	db.c	/^void	WriteUObj(Rm, Object, Type)$/
+YesNo	cmd3.c	/^void	YesNo()$/
+leave	inter.c	/^void leave(char *s)$/
+main	foo.c	/^int main(void)$/
+main	inter.c	/^void main(int argc, char **argv, char **arge)$/
+main	main.c	/^void	main(void)$/
+mygets	inter.c	/^void mygets(char *s, int i)$/
+startup	inter.c	/^pid_t startup(char **arge)$/

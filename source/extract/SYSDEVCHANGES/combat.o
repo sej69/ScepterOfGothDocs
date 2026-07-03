@@ -1,0 +1,26 @@
+.sh_shield_dmg -=
+				0.015 * reptime * shptr->sh_shield[0].sh_repair;
+
+		if (shptr->sh_shield[1].sh_shield_dmg < 0)
+				shptr->sh_shield[1].sh_shield_dmg = 0;
+    	}
+
+		shptr->sh_repair_wait = 0; 
+	}
+	else /* wait for repair */
+		shptr->sh_repair_wait -= t;
+
+
+	/* deduct power usage */
+	
+	shptr->sh_power -= t*(max(0, shptr->sh_shield[0].sh_pwr		
+		- (int) shptr->sh_shield[0].sh_shield_dmg / 4) +
+		max(0, shptr->sh_shield[1].sh_pwr 
+		- (int) shptr->sh_shield[1].sh_shield_dmg / 4))/2 
+		+ 25 * fabs(shptr->sh_thrust * min(t, shptr->sh_thrust_timeleft))
+		+ t;
+
+	if (shptr->sh_power <= 0) { /* if no power */
+		mwrite((1 << i),"\nYou are out of power.  Abandon ship!\n\n");
+		mwrite((All_mask & ~(1 << i)), "### %s (%d) just lost all power.\n",
+			genuser[i].gn_nam

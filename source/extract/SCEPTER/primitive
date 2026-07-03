@@ -1,0 +1,38 @@
+t2;
+
+	if (pt == NULL)
+		crash(desc(783));
+		/* Sce783 - Cannot delete null monster!\n */
+
+	if ((pt2 = room[rm].ro_rmmonstertail) == pt)
+		room[rm].ro_rmmonstertail = pt2->mo_next;
+	else {
+		for (; pt2 != NULL; pt2 = pt2->mo_next)
+			if (pt2->mo_next == pt)
+				break;
+		
+		if (pt2 == NULL)
+			crash(desc(784));
+			/* Sce784 - Deleted monster not found!\n */
+		else
+			pt2->mo_next = pt->mo_next;
+	}
+	fixmoncount(room[rm].ro_rmmonstertail, pt->mo_name);
+	if (room[rm].ro_rmplayertail != NULL)
+		stopplyratk(pt, rm);
+}
+
+
+boolean deleteobject(pt, objecttail)
+struct	ob_object	*pt, *objecttail;
+{
+	register	struct	ob_object	*pt2;
+
+	if (pt == NULL)
+		crash(desc(785));
+		/* Sce785 - Cannot delete null object!\n */
+
+	if  ((pt2 = objecttail) == pt)
+		return(TRUE);
+	else {
+	

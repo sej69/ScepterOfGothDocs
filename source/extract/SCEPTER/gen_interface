@@ -1,0 +1,164 @@
+olower(*full++) && ch != '\0')
+		;
+
+	return(ch == '\0');
+}
+
+
+
+word wordmatch(wrd, count, namelist)
+/* Return index of wrd in array.  -2 if not unique, and it
+issues its own message. -1 if not found and the calling
+program must issue its own message. */
+char	*wrd;
+word	count;
+char	*namelist[];
+{
+	register	i,j;
+
+	if (count < 0 || count > 255)
+		crash(desc(900));
+		/* Sce900 - Bad parse count!\n */
+
+	if (wrd[0] == '\0')
+		return(-1); /* empty string does not match anything */
+
+	for (i=0; i < count; ++i)
+		if (equal(wrd, namelist[i]))
+			break;
+
+	if (i < count)
+		return(i); /* direct match */
+
+	for (i=0; i < count; ++i)
+		if (lsubset(wrd, namelist[i]))
+			break;
+
+	if (i >= count)
+		return(-1);
+
+	for (j=i+1; j < count; ++j)
+		if (lsubset(wrd, namelist[j])) {
+			char	buf[BUFLEN], buf2[BUFLEN];
+			word	temp;
+
+			temp = parseloc;
+			reset_parse();
+			parse(namelist[i], buf);
+			if (equal(wrd, buf)) {
+				parseloc = temp;
+				return(i);
+			}
+			reset_parse();
+			parse(namelist[j], buf2);
+			if (equal(wrd, buf2)) {
+				parseloc = temp;
+				return(j);
+			}
+			parseloc = temp;
+			if (!equal(buf, buf2))
+				break;
+		}
+
+	if (j < count) { /* if not unique */
+
+		mwrite(My_mask, "\"%s\" is not unique.\n", wrd);
+		return(-2);
+	}
+	else
+		return(i);
+}
+		
+
+
+struct	mo_monster	*findmonster(wrd, nm, monstertail)
+char	*wrd;
+word	nm;                         
+struct	mo_monster	*monstertail;
+{
+	register	struct	mo_monster	*monster;
+	char		*namelist[MAXNAMES];
+	register	count, index;
+	extern		word	parseloc;
+
+	for (count=0, monster = monstertail; monster != NULL && count < MAXNAMES;
+			++count, monster = monster->mo_next)
+		namelist[count] = monster->mo_name;
+
+	if (count >= MAXNAMES)
+		mwrite(My_mask, desc(902));
+		/* Sce902 - Monster table overflow.\n */
+
+	if ((index = wordmatch(wrd, count, namelist)) < 0)
+		return(NULL);
+
+	for (monster = monstertail, count = 0; count < index;  ++count)
+			monster = monster->mo_next;
+	
+	for (; monster != NULL; monster = monster->mo_next) 
+		if ((nm == monster->mo_num || nm == 0) && 
+				lsubset(wrd, monster->mo_name))
+			break;
+
+	return(monster);
+}
+
+
+struct	ob_object	*findobject(wrd, nm, objecttail)
+char	*wrd;
+word	nm;
+struct	ob_object	*objecttail;
+{
+	register	struct	ob_object	*object;
+	register	i;
+	word		nummatch, count, index;
+	char		*namelist[MAXNAMES];
+
+	
+	for (count=0, object = objecttail; object != NULL && count < MAXNAMES;
+			++count, object = object->ob_next)
+		namelist[count] = object->ob_name;
+
+	if (count >= MAXNAMES)
+		mwrite(My_mask, desc(903));
+    	/* Sce903 - Object table overflow. */
+
+	if ((index = wordmatch(wrd, count, namelist)) < 0)
+		return(NULL);
+
+	for (object = objecttail, i = 0; i < index; ++i)
+		object = object->ob_next;
+
+	if (nm <= 1)
+		return(object);
+	
+	nummatch = 1;
+	for (i = index + 1; nummatch < nm && i < count; ++i) {
+		object = object->ob_next;
+		if (lsubset(wrd, namelist[i]))
+			++nummatch;
+	}
+
+	if (nummatch < nm)
+		return(NULL);
+
+	return(object);
+}
+
+
+struct	us_user	*findplayer(wrd, playertail)
+char	*wrd;
+struct	us_user	*playertail;
+{
+	register	struct	us_user	*player;
+	register	count, i, index;
+	char		*namelist[MAXNAMES];
+
+	
+	for (count=0, player = playertail; player != NULL && count < MAXNAMES;
+			++count, player = player->us_next)
+		namelist[count] = player->us_name;
+
+	if (count >= MAXNAMES)
+		mwrite(My_mask, desc(904));
+    	/* 

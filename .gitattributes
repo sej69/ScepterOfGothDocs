@@ -1,0 +1,27 @@
+#
+# .gitattributes -- Custom line endings
+#
+# Later entries in this file will override earlier ones.
+#
+
+*.c text eol=lf
+*.h text eol=lf
+*.y text eol=lf
+
+*.pas text eol=crlf
+*.PAS text eol=crlf
+*.f text eol=crlf
+*.htm text eol=crlf
+*.html text eol=crlf
+
+*.md text eol=auto
+*.txt text eol=auto
+
+*.o binary
+*.img binary
+*.tar binary
+
+Makefile* text eol=lf
+
+.gitattributes text eol=lf
+.gitignore text eol=lf

@@ -1,0 +1,127 @@
+Do? look
+You're passing among the homes of the pious citizens
+of Port Haven on Overlook Road. Just below you, to the southeast,
+are the rising tiers of the Clerics' Sanctuary.
+Obvious exits are south and east.
+There are two clerics and two thieves here.
+
+You see a comb, a prayer book, a small mirror, 
+a vial of pungent liquid, a holy symbol, an iron shield (1), 
+some padded armor (2), and Hokem_carr's body.
+
+Psyche, Gandalf and Hokem_carr are also here.
+
+Beggar #2 is attacking you!
+Beggar #1 is attacking you!
+Do? 
+Gandalf says, "well, noone has attacked them yet..."
+Double damage!
+Beggar #1 hits you for 6 fat!
+Psyche says, "Ahhh"
+Do? say "i'm getting beat up
+
+Psyche casts a vigor spell on you!
+You now have 14 fatigue points.
+Cleric #2 attacks you!
+Beggar #2 hits you for 2 fat!
+Gandalf says, "slow typing strikes again..."
+Psyche casts a fireball spell on cleric #2!
+Psyche just killed cleric #2!
+Your party encounters two clerics!
+Cleric #3 attacks you!
+Double damage!
+Cleric #3 hits you for 6 fat!
+Beggar #1 hits you for 2 fat!
+Hokem_carr attacks cleric #3!
+Elrond says, "i'm getting beat up"
+Do? 
+Psyche attacks cleric #3!
+Psyche just killed cleric #3!
+Gandalf makes an offer to thief #2.
+Hokem_carr casts a vigor spell on you!
+You now have 9 fatigue points.
+Do? s
+Cleric #1 hits you for 9 fat, and 2 vit!
+Beggar #1 hits you for 2 vit!
+Hokem_carr is attacking you!
+Hokem_carr misses you!
+Beggar #1 follows you!
+You're at Bakker and Overlook.
+Obvious exits are north, east and west.
+There is a thief here.
+
+Hokem_carr and Psyche are also here.
+
+The thief is attacking you!
+Do? s
+Hokem_carr says, "eek!"
+Hokem_carr attacks the thief!
+The thief hits you for 1 fat, and 1 vit!
+There is no way to go in that direction.
+
+Do? e
+The thief follows you!
+You're at the end of the Pilgrim's Way, on Bakker Street.
+Obvious exits are east, west and down.
+You see a huge domed temple.
+
+There is a thief here.
+
+Psyche and Hokem_carr are also here.
+
+The thief is attacking you!
+Do? 
+Psyche says, "ouch?"
+Do? 
+Your party encounters a cleric!
+The thief hits you for 2 vit!
+You're almost dead!  Run, fool, run!
+Psyche says, "Follow?"
+Hokem_carr attacks the cleric!
+Psyche casts a fireball spell on the cleric!
+Psyche just killed the cleric!
+Hokem_carr pulls out a bardiche!
+Do? panic
+Arrgghh!! You run like crazy!
+You're walking along Bakker Street.
+Obvious exits are east and west.
+Do? look
+You're walking along Bakker Street. To the west can be heard the
+sound of a voice raised in song, praising our faith and heritage.
+Obvious exits are east and west.
+Do? 
+You encounter an acolyte!
+Do? w
+You're at the end of the Pilgrim's Way, on Bakker Street.
+Obvious exits are east, west and down.
+You see a huge domed temple.
+
+There is a paladin and a thief here.
+
+You see a wooden tower shield (1).
+
+Gandalf, Psyche and Hokem_carr are also here.
+
+Do? i
+Your party encounters two thieves!
+The paladin attacks you!
+The paladin hits you for 1 fat, and 8 vit!
+### Elrond, the Fighter, was just slain by a paladin.
+Hokem_carr says, "oh no!"
+Constitution roll failed.
+Everything goes dark...  You feel yourself floating away into
+space.  After what seems like an eternity, you hear a faint
+voice!  As you come to your senses, you find...
+You're standing before a locked gate. An old man,
+seated inside the gate, looks in a large book and
+solemnly shakes his head. He looks at you and
+points downward .
+                .
+               ...
+                .
+
+Obvious exits are down.
+You see the pearly gates.
+
+The Acolyte gives you a small bag of money and bids you go
+on your way.

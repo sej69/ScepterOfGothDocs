@@ -1,0 +1,55 @@
+0];
+	word	index;
+	
+	index = day_bottom;
+	if (!user->us_brief)
+		mwrite(My_mask, "\nSp     Date      Time      Sta  Kl Act-Index Commander\n");
+
+	while (index != day_top) {
+		if (random_read(day_fp, index, buffer, 80) <= 0) {
+			errlog("dayfile:warn - bad index read %d\n",index);
+			break;
+		}
+		mwrite(My_mask,"%s\n", buffer);
+		if (index <= DAY_START)
+			index = DAY_LIMIT;
+		else
+			--index;
+	}
+	mwrite(My_mask,"\n");
+}
+
+
+
+day_init()
+{
+	if ((day_fp = random_open("/data/combat/dayfile")) == 0) /* if cannot open */
+		if ((day_fp = random_create("/data/combat/dayfile", 4096, 0)) == 0)
+			crash("fatal:combat - unable to create dayfile.\n");
+		else { /* init dayfile */
+			day_top = day_bottom = DAY_START;
+			random_write(day_fp, DAY_TOP, &day_top, sizeof(day_top));
+			random_write(day_fp, DAY_BOTTOM, &day_bottom, sizeof(day_bottom));
+			random_write(day_fp, day_top, "Dayfile initialized.", 80);
+		}
+    else {
+		random_read(day_fp, DAY_TOP, &day_top, sizeof(day_top));
+		random_read(day_fp, DAY_BOTTOM, &day_bottom, sizeof(day_bottom));
+	}
+}
+	
+			
+ 
+double mag(i, j)
+/* Find the magnitude of the given vector pair. */
+double		i,	j;
+{
+	return(sqrt(i*i + j*j));
+}
+
+
+double azmuth(we, they)
+/* find azmuth of we-ship to they-ship */
+word	we,	they;
+{
+	struct	sh_ship		*weptr, *

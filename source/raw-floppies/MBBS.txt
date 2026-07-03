@@ -1,0 +1,8985 @@
+ri
+d}
+|Q
+ *
+V3
+6d}
+r-^Y.)6
+|t
+&e}
+.;6
+||
+g}
+r3
+ &
+M  G
+Non-System disk or disk error
+Replace and strike any key when ready
+Disk Boot failure
+Microsoft,Inc ibmbio  com0ibmdos  com0
+w/
+;u
+v/
+%`
+1 
+3@
+5`
+E`
+]@
+h 
+s@
+rP
+w`
+  
+@ 
+` 
+<!
+0A
+5a
+%`
+1 
+3@
+5`
+E`
+]@
+h 
+s@
+rP
+w`
+  
+@ 
+` 
+<!
+0A
+5a
+IBMBIO  COM
+IBMDOS  COM
+COMMAND COM
+BASICA  COM
+PWRUPCLKCOM
+AUTOEXECBAT
+"*
+MBBS    BAS
+D #
+CHKDSK  COM
+DISKCOPYCOM
+@ERRLOG DAT
+M ?
+@TOTALS DAT
+M A
+@USERS  DAT
+QD      EXE
+6Q
+@USERA  DAT
+@VOTE   DAT
+C L
+TYPO    MAI
+G U
+DESIGN  DAT
+EMPTY   DAT
+D P
+FORUM   DAT
+@TOPLISTDAT
+D Q
+TWILL   MAI
+I R
+@HELP   DAT
+MTHP    DAT
+M 
+LUM     MAI
+cG S
+BLOG    MAI
+F X
+RANDOM  MAI
+cG Y
+LIET    MAI
+4yG Z
+GARFIELDMAI
+I [
+EK     MAI
+I \
+THULHU MAI
+G ^
+ON     MAI
+LBERT  MAI
+Uq
+KJKJKJKMAI
+RIANDP MAI
+1i
+CHILLESMAI
+IGGY   MAI
+WERTY  MAI
+GAMBIT  DAT
+D 
+ICO    MAI
+YPO    MAI
+SJ     MAI
+\|
+BS     MAI
+:}
+DS     MAI
+WM     MAI
+RCHON  MAI
+ANGER  MAI
+ARGET  MAI
+WM     MAI
+AMPSON MAI
+SF     MAI
+XCEIVERMAI
+ADGBE  MAI
+ARLORD MAI
+BACKUP  BAT
+JB     MAI
+ANAHATHMAI
+UBLIC  MAI
+W{
+JS     MAI
+9}
+THULHU MAI
+LBY    MAI
+PEEDY  MAI
+CA     MAI
+by
+REATH  MAI
+DS     MAI
+IREBIRDMAI
+iJh
+CB     MAI
+m{
+LASH   MAI
+jk
+ARK    MAI
+u{
+LYMPH  MAI
+Out of paper
+Printer fault
+Aux I/O error
+t =
+ru
+ru
+UPSVW
+_^[X]
+PR.
+ u
+ZX
+RP
+PR
+dr
+@@
+u)
+!S
+COMMAND COM
+Bad or missing Command Interpreter
+u(
+X*
+tD
+t}
+ *
+X*
+Nt
+E 
+(r
+XP
+Insert diskette for drive A: and strike
+any key when ready
+@ 
+2:
+@"
+@ 
+ ready
+@ 
+VW
+QP3
+XY
+_^
+@M;S<>==?KRAA
+.v
+XX.
+P.
+$w
+UWVRQSP.
+X[YZ^_]
+'`
+;^
+9s 
+?s
+  
+?t
+&v
+"$
+@;F sO
+>c
+G;~ s
+>c
+ ;
+;^
+rw
+rl
+rg
+xc
+<?u
+s9
+6c
+Xs)
+&v
+< 
+< 
+.8
+x)
+uG
+t?:
+Xr6*F
+*`
+.]
+$?:
+.;
+.Q
+rM&
+9D
+RQSP
+X[YZ
+r(
+x?
+;N
+[^
+XP
+;V
+;V
+r 
+;V
+U.
+$.
+]<
+ta
+USQR
+Z_[]
+&@
+USQR
+Z_[]s
+X[YZ^_]
+.e
+E!&
+U#
+u$
+E 
+E!
+U#
+Xr
+@r
+uZ
+sK
+"F
+H3
++F
+AJ
+u 
+tJ2
+RU
+.Q
+]Z
+.Q
+6K
+t'
+:F
+uG
+6A
+u 
+>C
+6A
+r^
+WP
+RS
+_X
+r%
+>P
+6K
+Y[
+t"
+6C
+t 
+?&
+P&
+t 
+Xr
+BIt
+t@
+WP
+Y[
+&;E
+t=-
+RS
+sI
+C;
+XZ+
+96M
+Xt
+JJ
+E 
+4RQS
+C;^
+~)=
+)[
+X+
+H~
+[YZ
+r5
+x:
+>C
+u 
+>C
+  
+!&
+FF
+Zt
+@u
+@s
+.Q
+.]
+E!
+U#
+@s
+u$
+J.
+.:
+t2<
+t~<
+tz<
+t:<
+tZ<
+t[:
+< s
+< t
+WO
+ S
+v &
+ t 
+.*
+[_t
+It
+_W
+< s
+< t
+t<<
+t8
+< re<
+ `
+t%<
+X[YZ^_]
+t <
+t%< u
+@2
+ `
+<$t
+<$t
+ t
+t 
+<:u
+F,@v
+.:
+FONG
+<.u
+I<*u
+<?u
+<ar
+<zw
+, <.t
+<"t
+</t
+<[t
+<]t
+<:t
+<+t
+<=t
+<;t
+<,t
+< t
+< 
+$`
+=6
+VQR3
+ZY^
+ww
+@@
+<s
+<s
+ds
+!`
+VP
+X^
+COM1PRN LPT1NUL AUX CON 
+Divide overflow
+6]
+w\
+&;
+t 
+H&
+F 3
+Z:
+&;
+^&
+&:
+.I
+EE
+At
+>]
+&+F
+H3
+INIT TABLE BAD
+ P
+!$_<Nt <Yu
+.M
+u^
+u9
+<it
+<rt
+<au
+!X
+"%
+#%
+$%
+'%
+Write protect$Not ready$Data$Seek$Sector not found$Write fault$Disk$read$writ$ error writing drive A
+$Abort, Retry, Ignore? $
+File allocation table bad,$
+Invalid COMMAND.COM
+Insert DOS disk in drive A
+and strike any key when ready
+Insert disk with batch file$
+Terminate batch job (Y/N)? $
+AUTOEXECBAT
+COMMAND COM
+The IBM Personal Computer DOS
+Version 1.10 (C)Copyright IBM Corp 1981, 1982
+$Licensed Material - Program Property of IBM
+uT
+<%tc<
+t_,0rT< wP
+tB
+t;
+<%t
+ <
+!<
+ *
+uC
+</u
+F<ar
+<zw
+, 
+u 
+BAVPW
+CO
+t{
+EX
+tj
+BA
+?CC
+t_3
+u!
+SP
+ux
+tk
+<dr
+,d
+t5
+a<
+pt
+u/
+0*
+<?u
+!$_<Nt
+<Y
+>]
+>m
+6 
+&&
+tJ
+u03
+6 
+6 
+t 
+uM
+t+
+>%
+6 
+<+u0
+!<
+SW
+_[
+!X
+z $
+<?u
+>#
+>%
+A+
+t>
+>"
+u!
+>$
+u>3
+>$
+u,3
+< t
+<=t
+<,t
+< 
+t 
+-/
+-/
+r7
+u.
+r)
+t 
+::
+::
+thr3
+t":
+u&
+t3
+:u
+,0r
+:u
+00<0u
+!X
+uy
+wQ
+w8
+>,
+!)
+>&
+t"
+> 
+&0
+.6
+.4
+!.
+Bad command or file name
+$Missing file name$Duplicate file name or File not found$Error in EXE file$Insufficient disk space
+$File creation error
+$File cannot be copied onto itself
+$Content of destination lost before copy
+$ File(s) copied$ File(s)$Program too big to fit in memory$Invalid drive specification$Strike a key when ready . . . $Illegal switch
+$SunMonTueWedThuFriSat
+Invalid date$Current date is $
+Enter new date: $
+Invalid time$Current time is $
+Enter new time: $Are you sure (Y/N)? $
+DIR
+RENAME
+REN
+ERASE
+DEL
+TYPE
+REM
+COPY
+PAUSE
+DATE
+TIME
+>+
+&,
+LV
+VU
+LVU
+* 3
+2r+n+
+y)|)
+)^)a)d)
+HAI
+OMMO
+IRCL
+ATE
+RA
+IEL
+ILE
+IL
+SE
+KI
+KS
+KD
+AM
+AIN
+LA
+SE
+ESE
+YSTE
+IME
+^_
+ZY
+, 
+[C
+YYY[SK
+,A
+[S
+C:
+u7
+<.t
+YZy
+<}t
+<~u
+^_
+Q.
+__
+__
+^ <
+^_
+Device Unavailable
+Communication buffer overflow
+Disk Write Protected
+Disk not Ready
+Disk Media Error
+Advanced Feature
+Ds
+^^
+Jr
+G<
+^^
+__
+CC
+KK
+PX
+S2
+>e
+>O
+^_
+ZR
+WVPK
+PRS
+[ZR
+%ZX
+^_
+XY^WV
+WV
+%^_
+^WV
+(Ku
+'^_
+^WV2
+t 
+^_
+Z[Y^WV
+^_
+[X
+,@r
+CC
+^_
+X2
+^_
+^WV
+^_
+,,
+^_
+QK
+,<Pu 
+:.
+^_
+^_
+&r
+^_
+<:r
+<:r
+< t
+<0
+ro<
+u?
+PC
+s:,
+CC
+RQ
+YZ
+< r
+<0
+CCC
+<ar
+<{s
+$_
+<0r
+<:
+<Ar
+<[
+:r 
+*P
+|P
+yL
+XG
+Y,
+(A
+;d
+,O
+>&
+Dd
+*8
+x,
+5$
+n7
+O&
+g8
+L&
+q,
+@t
+Pe
+ e
+g"
+$&
+iA
+j8
+ZC
+{G
+<e
+Qk
+1d
+Ac
+(c
+a}
+gG
+3I
+nH
+qH
+aH
+/H
+OH
+ym
+>I
+MA
+??
+7-
+&d
+>^
+[__
+,;
+,;
+[^
+3t$S
+[u
+PQR
+ZYX
+t 
+>j
+At
+Bt
+Ct
+Dt
+Et
+Ft
+Gt
+MQ
+sP
+AsK
+tG
+ r=
+s63
+As/
+s&
+s!
+tA<Us
+<#t
+<+t
+<-t
+6C
+PR
+As
+ZX
+tWQP
+<.u
+XY
+t3
+>G
+t,PQ
+@Y
+<Lt
+<St
+<Nt
+<Ft
+<Bu
+%r;R
+[Z
+[Y
+ $
+#t
+YX
+v#
+q#
+l#
+g#
+>f
+uD
+>f
+PK
+<@t
+<(u
+rH
+t 
+</t
+<-t
+,0r
+![
+00
+r7
+<:t
+<.u
+2r
+<r
+<r
+67
+69
+6=
+6;
+<$
+(<#u
+SR
+V<#u
+PSR
+6)
+PS
+t <:t
+YRS
+ar
+{s
+ .
+CF:
+uE
+y:[[Z<
+r*
+As
+-P
+@*
+^_
+^WV
+^.
+ZZ
+COM1
+COM2
+LPT1
+LPT2
+LPT3
+3-3C3Y3o3
+SP
+X[
+^]
+u@
+X4
+t:
+Yt
+RS
+YZ[
+6.
+PSR
+CtJ
+<;rB,;<
+r8
+Z[Xr
+R3
+PR
+>f
+t 
+&I
+ZX
+ZX
+VSQ
+t2
+Y[^
+VSQ
+>e
+u*
+Y[^
+UWV
+>4
+>E
+^_]
+SQR
+.<
+t,
+&6
+t$
+.9
+ZY[
+SQ
+u Q
+YCC
+Y[
+t&C<
+P<
+uL
+u;Q
+s2
+KQ
+[s
+XS
+[^
+[^
+)X
+YS
+6.
+u+[
+Y[
+<(t
+sm
+XS<
+uX
+QW
+VW
+_Y
+/QP
+u)XYS
+<(u
+S2
+<(uG
+X[
+Xu 
+>E
+t+
+s$S
+QR
+ZYS
+*[
+SZY[
+Rs
+Zr
+KK
+tFr 
+t=
+KK
+CS
+VQRS
+SP
+X[
+V2
+[K
+RSC
+Z[;
+IZ
+SR
+Z[
+PSRSR
+t s
+s+
+u/
+t$
+Z[
+Z[
+Z[
+Z[X
+ZS
+,<,t
+VS
+"~
+YZ
+QR
+ZYS
+SRQR
+[;
+/C
+CC
+vS
+RK
+.:
+t K
+VP
+CCRS
+CCRS
+ZYX
+ZR
+ZJ
+Y[
+# B
+ N
+ X
+/ 
+<+t
+<-t
+<,t
+YX
+uF
+s(PRS
+ZS
+Y[R
+r PQR
+ZYX
+"S
+RP
+PX
+CCC
+ Q.
+s(
+QS
+[YC.
+< t
+<`r
+, [
+<=tk<+t
+<-u
+"R
+<,t
+<;t
+<:s
+<0r
+,0
+B<;t
+< r
+Z,
+7C
+VP
+<Ar
+<[
+=P
+ r
+>r
+ r
+&0
+x$
+>W
+~#
+&2
+&0
+& 
+&0
+GJx1
+GMx
+tP
+tL
+Mu
+t*
+6Y
+&[
+6Y
+sG&
+O&
+s2&
+=G&
+u%
+Mt
+>2
+.4
+U3
+s E
+Z&
+CK
+[K
+tu
+,<,t
+[K
+t[
+Lu
+,:
+YZQ
+[;
+KC
+<:t
+td
+u 
+<(u
+<(u
+&R
+'SI
+<(u
+VII
+[K
+<(u
+)u
+tXS
+CC
+Yx
+JI
+t%SCC
+/C
+Yx
+t\
+/CXS
+(Q
+CC
+[r
+[s
+SKKKS
+CCCP
+X<
+<#t
+Z:
+<#u
+X:
+CC
+CR
+s;
+[S
+Z+
+CJ
+[S
+CI
+<,t
+RQ
+XY^
+RS
+[Z
+Y^
+VSQ
+/^
+QS
+tl
+s9
+r1
+rb
+[Y^
+VRQ
+YZ^
+VQSC
+[C
+Y[C
+CB
+YYYYYs
+[Y^
+Y^
+VQS
+^;
+ZQR
+ZYQ
+ u
+BA
+S[
+XP<
+B<
+X<
+t!<
+^u
+t B
+!Z
+^_
+[[^
+t2
+t*
+S3
+^_
+YZ[^WV
+t*
+t/
+XS3
+< 
+ r
+PS
+?,u
+^K
+t3
+VQ
+>!
+Y^
+VQ
+6!
+Y^
+PSQR
+C;
+t'K
+ZY[X
+QW
+_Y
+!Z
+"u
+PRV
+WP
+X_
+^ZX
+[RS
+[ZSR
+[YIS
+![
+QRW
+:u
+II$
+,@r
+.I
+< r
+<.t
+Ju
+_ZY
+Ju
+*.
+< t
+.V
+&)
+s 
+ V
+!<
+![
+![
+!P
+!X
+![
+J5
+8u8
+8!9.9B9S9Y
+i9
+:J5
+8u8
+8!9.9B9S9Y
+i9
+:;4^
+J4Y
+a4h4^
+w4Y
+4^
+4Y
+F;
+F;
+X[^
+6)
+YZ[
+Z[Y
+@t
+&E
+.b
+XP
+T4S
+.;
+XP
+4S
+.<
+XP
+4S
+< r
+SP
+(t
+XP<
+X[
+JJ
+<Et
+<Nt
+<Ot
+<Mt
+<St
+t,
+4r
+YQ
+$ 
+h[
+6&
+<Ru
+u`
+<Du
+uJ
+<Cu
+t/<Du4
+<Lu
+<Fu 
+<Pu
+<Eu
+<S
+<,t
+< t
+<,u
+<ar
+4 
+SN
+7CC.
+CC
+t ;
+<:s
+<0r
+,0
+N[
+` 0
+B2
+[WRQK
+YQ
+Y;
+r'
+QK
+Y^_XSQ
+Z+
+t:
+2XP
+t!
+[t
+VQS
+t 
+[Y^
+VQSP
+^X
+[Y^
+t3
+ u
+t 
+WR
+WR
+PSV
+BB
+R.
+:Z
+^[
+XZ_
+?;
+JJ
+ t
+t 
+$ t
+The IBM Personal Computer Basic
+Version A1.10 Copyright IBM Corp. 1981, 1982
+12-Apr-82Licensed Material - Program Property of IBM
+HH
+,<
+(<
+P<
+&)
+F.
+C3
+Y3
+o3
+-3
+>+
+t S
+u([
+B2
+6+
+.0
+.,
+n?.
+a*
+,.
+:2
+/C
+CC
+</t
+C</t
+<StG<CtS<M
+<Ft
+t&
+KS
+XS
+CC
+KK
+KK
+ Bytes free
+[K
+<(u
+)u
+tXS
+CC
+Yx
+JI
+t%SCC
+/C
+Yx
+t\
+/CXS
+(Q
+CC
+[r
+[s
+SKKKS
+CCCP
+&X
+~(
+&X
+&X
+&X
+&X
+&X
+&X
+&X
+Date - MM/DD/YY, Time - HH:MM:SS
+$  Version - 1.00   27 June 1982  Author - Jerry W. Shipman  PO Box 191  Jessup, MD   20794  
+&X
+Date - MM/DD/YY, Time - HH:MM:SS
+$  Version - 1.00   27 June 1982  Author - Jerry W. Shipman  PO Box 191  Jessup, MD   20794  
+PWRUPCLK
+BASICA MBBS /C:1024/F:5/S:512
+ >
+JE
+ $
+ pu
+ -4
+u &
+u &
+u &
+  
+uv
+ 00
+ 0 
+ nu
+ ou
+ e
+ 2u
+ 1
+ 8u
+ 7
+ 2u
+ 1
+FF
+:u
+> 
+1t
+> 
+2t
+8 u
+|V
+  
+ 1
+ e
+ 7
+  
+  =11u
+ 2
+BAUD
+MODECOMW
+< 
+ r
+PS
+?,u
+^K
+t3
+VQ
+>!
+Y^
+VQ
+6!
+Y^
+PSQR
+C;
+t'K
+ZY[X
+QW
+_Y
+!Z
+"u
+PRV
+N!
+ Copyright (c) 1984, Alan E. Klietz.
+T!
+s!
+P:
+}!
+ ,,
+ ,,
+!(
+ A
+!)
+XON$
+):XOFF$
+):FALSE
+:TRUE 
+ FALSE
+!-
+J1
+:CNT
+:LTIM
+:B$
+"":C$
+"":P$
+""
+".
+LF$
+):CR$
+):BK$
+):CL$
+4"/
+ STATUS$ 
+ "wait"
+P"0
+ MONITOR
+TRUE:ECHO
+TRUE
+w"1
+ IN
+:TERM
+:LINEFEED
+TRUE:TLIM
+"2
+"Please select drive for files (A or B)?  ";
+"<
+DSK$
+"A:"
+"F
+ I
+"P
+ A$
+ A$
+"" 
+#Z
+(A$,
+"a" 
+(A$,
+"A" 
+ DSK$
+"A:":I
+I#d
+(A$,
+"b" 
+(A$,
+"B" 
+ DSK$
+"B:":I
+O#
+o#
+"Drive ";DSK$;" selected."
+,"Reply":
+,"Monitr":
+,"Chat":
+,"Vote":
+, "Expire":
+,"Delete":
+,"Switch"
+ I
+: 
+ I,"":
+ ,,
+ ********  Command definitions  ******
+@$
+CMDLEN
+ CMDLIST$(CMDLEN)
+e$
+ I1
+ CMDLEN:
+ CMDLIST$(I1):
+ BRIEF,BYE,QUIT,END,STOP,XQ,CLOCK,USERS,HELP,DEFINE,TOPICS,PAUSE,SKIM,READ,WRITE,SEND,STATUS,UNJOIN,CLEAR,MAIL,DAYFILE,CHAT,LIST,JOIN,VOTE,COUNT
+;%
+ TOPLIST$(
+),NLIST$(
+),MS$(
+e),MS(
+e),MES$(
+),BUF$(
+Y%
+"Reading in topic list."
+ DSK$
+"@toplist.dat" 
+ AS #
+:I1
+% 
+):
+ #
+,TOPLIST$(I1):I1
+I1
+TOPLEN
+I1
+ "Compacting topic list."
+"&
+ I1
+ TOPLEN:
+ DSK$
+TOPLIST$(I1)
+".dat" AS #
+`m
+G&
+FLOC
+(MS$(
+)):
+ FLOC 
+"Compacting ";TOPLIST$(I1):OFFSET
+FLOC
+ I2
+FLOC 
+ EOI:
+ #
+,I2:
+ #
+,I2
+OFFSET:
+ #
+ EOI$
+(EOI$)
+OFFSET)
+ I2
+e:
+ MS$(I2)
+(MS$(I2))
+OFFSET):
+ #
+ '
+ I1
+-'h
+TIM
+))
+V'r
+MAX(X,Y)
+(X
+Y)
+X 
+(Y
+X)
+'t
+MIN(X,Y)
+(X
+Y)
+X 
+(Y
+X)
+'|
+DAT$
+"-"
+FILL$(D$,L)
+(D$,L)
+MAX(
+,L
+(D$))," ") :
+ space fill right
+:(
+BAD$
+" *+=[]/?.`,:;@{|}~"
+")
+) :
+ characters not allowed in names
+X(
+"Reading in users list."
+|(
+ DSK$
+"@users.dat" AS #
+ #
+ AS NAM$
+ #
+ NAM$
+"ZZZZZEOF":NLIST$(
+))
+NAM$:
+ #
+NLEN 
+TITLE$
+"AEK MBBS (1.3)  "
+COMM$
+"com2:300,n,8,1"
+2)
+ COMM$ AS #IN
+D)
+ I
+h)
+(IN)
+ DUM$
+$(
+),#IN)
+ #TERM,"AT Z"   :
+ initialize modem
+ I
+ #TERM,"AT S10=15S7=20S0=1S2=24X1E0M0"
+ I
+ :
+ delay for response
+0u
+@*!
+ A$
+$(
+),#IN):
+A$ :
+ignore init data
+{*&
+ "The MBBS is ready for operations at ";
+;" ";
+;"."
+ "Waiting for telephone to ring..."
+*$
+***********************************************************
+*.
+*8
++:
+) 
+) 
+/+;
+) 
+) 
+,L
+G+<
+) 
+) 
+_+=
+) 
+) 
+w+>
+) 
+) 
++?
+CHAT
+TRUE:
+) 
+) 
+XM
++@
+) 
+) 
++B
+STATUS$
+"hangup":
+CNT
+CNT
+ CNT
++,
+CNT
+TIM
+LTIM
+TLIM 
+ :
+TIM
+LTIM
+TLIM 
+q,
+P$
+"Sorry, but you have exceeded your"
+(TLIM)
+" minutes.":
+P$
+"You are being logged off so that others may read the BBS. Thank you.":
+V:ER$
+"M:BBS2009 -"
+(TLIM)
+" minute timeout.":
+ N:
+:STATUS$
+"hangup":LTIM
+}:
+p-
+ WARN
+ PT3$
+P$:P$
+"NOTE: You have one minute left.":
+V:P$
+PT3$:WARN
+(IN) 
+ I$
+$(
+(IN),#IN)
+J1
+ J1
+(I$):J1
+J1
+:C$
+(I$,J1,
+ C$ 
+ "
+" 
+ C$
+(C$)
+ C$
+) 
+ B$
+"":C$
+"":P$
+"*DEL*":
+L. 
+ ECHO 
+ STATUS$
+"answer" 
+#TERM,C$;
+_.
+ C$
+CR$ 
+t.
+ C$
+ BK$ 
+ MONITOR 
+);
+. 
+(B$)
+ B$
+(B$,
+(B$)
+.,
+C$
+""
+.-
+ C$
+" " 
+ C$
+""
+./
+ MONITOR 
+ C$;
+/0
+(B$)
+ B$
+"":P$
+"*OVL*":
+V:
++/2
+B$
+B$
+C$:
+@/3
+(B$)
+s/4
+ LINEFEED 
+ STATUS$
+"answer" 
+#TERM,LF$;
+/7
+ MONITOR 
+ CR$;
+/9
+:B$
+""
+/;
+ STATUS$
+"hangup" 
+ :
+ force end of while loop
+/>
+/H
+ DUM!
+("")  :
+ force string compaction
+ :
+;0
+ CNT
+:LTIM
+}:USINDEX
+:WARN
+t0
+ :
+******** please place any idle loop routines here
+ LOCAL 
+) 
+\D: 
+) 
+ DTIM
+TIM
+ DCNT
+0(
+0Z
+DCNT
+DCNT
+0d
+ DCNT 
+0n
+DCNT
+1x
+TIM
+DTIM 
+));
+/1
+ I
+>1
+,"AT H"
+P1
+ I
+z1
+ LOCAL 
+ DUM$
+$(
+(IN),IN):
+DUM$;
+"Requested precautionary hangup."
+DTIM
+TIM
+ LOCAL 
+A$
+ A$
+"" 
+(IN) 
+-2
+STATUS$
+"answer":
+ LOCAL 
+[ :
+32
+i2
+ ************ command processor  *************
+w2
+CMDLN$
+B$
+ CMDLN$
+"RING" 
+ CHAT 
+ STATUS$
+"answer" 
+ ER$
+"W:BBS3040 - Unexpected ring.":STATUS$
+"answer": :
+"Ringing!":
++3
+ USINDEX
+ #
+,USINDEX:USINDEX
+;3
+ N
+A3
+]3
+ CMDLN$
+"ERROR" 
+ER$
+"M:BBS3052 - Hayes ERROR.":
+ N:STATUS$
+"hangup":
+(CMDLN$,
+"NO CARRIER" 
+ I
+));
+ I
+,"AT H":
+ I
+84
+ USINDEX
+,USINDEX:USINDEX
+f4
+STATUS$
+"hangup" :
+ pause for extra lf's
+ LOCAL 
+(IN)
+ DUM$
+$(
+(IN),#IN):
+DUM$;
+"Phone hangup.":
+ STATUS$
+"comm" 
+ STATUS$
+"pw" 
+ STATUS$
+"answer" 
+'5
+ STATUS$
+"name" 
+C5
+ STATUS$
+"newpw" 
+_5
+ STATUS$
+"clear" 
+z5
+ STATUS$
+"echo" 
+ STATUS$
+"linefeed" 
+ STATUS$
+"topic" 
+5&
+ STATUS$
+"writetop" 
+50
+ STATUS$
+"sure" 
+6:
+ STATUS$
+"sendto" 
+'6D
+ STATUS$
+"chat" 
+VJ
+C6I
+ STATUS$
+"mread" 
+_6N
+ STATUS$
+"tread" 
+z6X
+ STATUS$
+"vote" 
+ER$
+"E:BBS3090 - Unknown status string: "
+STATUS$:
+ N:STATUS$
+"answer":
+ ************ ring/connect sequence ************
+ B$
+"" 
+ B$
+"CONNECT" 
+"Connected.":STATUS$
+"login":SLOW
+TRUE:
+ B$
+"CONNECT 1200" 
+"1200 Baud Connected.":STATUS$
+"login":SLOW
+FALSE:
+/8
+ B$
+"ERROR" 
+ STATUS$
+"answer":
+"Hayes ERROR.":
+c8
+ER$
+"W:BBS4045 - Unknown Hayes response.":
+ N
+STATUS$
+"hangup" :
+ comm err jumps here
+ I
+:BADC
+  :
+ for error proc at 30030
+#TERM,
+)); :
+ force hang up
+ I
+#TERM,"AT H"
+'9
+ I
+K9
+ LOCAL 
+ DUM$
+$(
+(IN),#IN)
+u9
+ USINDEX
+ #
+,USINDEX:USINDEX
+9 
+ "Hangup was forced."
+ DSK$
+"@users.dat" AS #
+LTIM
+TIM:TMPINDEX
+DEFINE
+FALSE:TOPRET
+:USINDEX
+ #
+ AS NAM$,
+ AS PW$,
+ AS LDATE$,
+ AS LTIME$,
+ AS ECHO$,
+ AS LFLAG$,
+ AS BRIEF$,
+ AS CLR$,
+ AS PAUSE$,
+ AS SKIM$,
+ AS MNUM$,
+ AS JOIND$,
+ AS VOTE$
+9;
+ #
+P AS XXX$,
+ AS MES$(
+),
+ AS MES$(
+),
+ AS MES$(
+),
+ AS MES$(
+),
+ AS MES$(
+),
+ AS MES$(
+),
+ AS MES$(
+),
+ AS MES$(
+),
+ AS MES$(
+),
+ AS MES$(
+ #
+d AS XXX$,
+ AS MES$(
+),
+ AS MES$(
+),
+ AS MES$(
+),
+ AS MES$(
+),
+ AS MES$(
+),
+ AS MES$(
+),
+ AS MES$(
+),
+ AS MES$(
+),
+ AS MES$(
+ I1
+ MES$(I1)
+):
+ I1:
+ JOIND$
+DAT$:
+ VOTE$
+"?"
+U<
+LINEFEED
+TRUE:ECHO
+TRUE:
+ BRIEF$
+"T":
+ PAUSE$
+"T":
+ SKIM$
+"F"
+u<
+ DEFINE 
+ MNUM$
+ DEFINE 
+  :
+ skip title
+P$
+" ":
+"11:00:00" 
+ TLIM
+:P$
+TITLE$
+"Non-peak. " :
+ P$
+TITLE$
+"Peak time. ":TLIM
+P$
+P$
+" "
+"."
+#=
+Z=
+ p$="Place any login notices here.":GOSUB 22222
+P$
+"Please enter your name (8 chars max): ":NOCR
+TRUE:
+STATUS$
+"name"
+USNAME$
+FILL$(CMDLN$,
+ CMDLN$
+"" 
+P$
+USNAME$:
+]:
+ convert to upper case
+n>
+ I
+(CMDLN$):
+(BAD$,
+(CMDLN$,I,
+)) 
+ P$
+"Bad characters in name":
+V:
+v>
+ I
+~>
+ (I
+NLEN) 
+ (NLIST$(I)
+P$):I
+ I
+NLEN 
+USINDEX
+I:
+ #
+,USINDEX:
+ ECHO$
+"T" 
+ ECHO
+TRUE :
+ ECHO
+FALSE
+1?
+ LFLAG$
+"T" 
+ LINEFEED
+TRUE :
+ LINEFEED
+FALSE
+a? 
+P$
+"Please enter your password: ":NOCR
+TRUE
+?*
+ECHO
+FALSE:
+V:STATUS$
+"pw"
+?4
+?\
+ ECHO$
+"T" 
+ ECHO
+TRUE
+?a
+CMDLN$
+FILL$(CMDLN$,
+?d
+P$
+CMDLN$:
+] :
+ convert to upper case
+@f
+ P$
+PW$ 
+,@h
+ CLR$
+"T" 
+ P$
+CL$:NOCR
+TRUE:
+h@i
+P$
+"Last access was at "
+LTIME$
+" on "
+LDATE$
+".":
+@k
+ LDATE$
+DAT$ 
+ MNUM$
+)  :
+ reset daily msg limit counter
+@o
+@p
+P$
+"Wrong password, sorry.":
+V:
+ DEFINE 
+%A
+P$
+"Welcome new user! ":NOCR
+TRUE:
+RA
+ BRIEF$
+"F":
+ ECHO$
+"F":
+ LFLAG$
+"F"
+ (I
+NLEN) 
+ (NLIST$(I)
+"ZZZEMPTY"):I
+ I
+ P$
+"Sorry, there is no space for further user names.":
+V:USINDEX
+ I
+NLEN 
+ NAM$
+"ZZZZZEOF":NLEN 
+ NLEN
+ #
+,NLEN
+AB
+P$
+USNAME$:
+]:NLIST$(I)
+P$
+[B
+TMPINDEX
+I:
+ NAM$
+P$
+P$
+"Please select an access password: ":NOCR
+TRUE:
+V:STATUS$
+"newpw"
+P$
+CMDLN$:
+]  :
+ convert to upper case
+"C
+ PW$
+P$:P$
+"Does your terminal support screen clearing (^L) ? "
+HC
+STATUS$
+"clear":NOCR
+TRUE:
+V:
+P$
+CMDLN$:
+]:
+(P$,
+"Y" 
+ CLR$
+"T" :
+ CLR$
+"F"
+P$
+"Are you using a FULL or HALF duplex modem? ":NOCR
+TRUE:
+V:STATUS$
+"echo":
+)D 
+CMD$
+(CMDLN$,
+):
+ CMD$
+"F" 
+ CMD$
+"f" 
+ ECHO$
+"T":ECHO
+TRUE:
+cD"
+ CMD$
+"H" 
+ CMD$
+"h" 
+ ECHO$
+"F":ECHO
+FALSE:
+mD#
+uD$
+D8
+P$
+"Lastly, do you want linefeeds supressed? ":NOCR
+TRUE:
+V:STATUS$
+"linefeed":
+EB
+CMD$
+(CMDLN$,
+):
+ CMD$
+"Y" 
+ CMD$
+"y" 
+ LFLAG$
+"F":LINEFEED
+FALSE:
+SEG
+ DEFINE 
+ CLR$
+"T" 
+ P$
+CL$:NOCR
+TRUE:
+EL
+ CMD$
+"N" 
+ CMD$
+"n" 
+ LFLAG$
+"T":LINEFEED
+TRUE:
+EQ
+EV
+ LDATE$
+DAT$: 
+ LTIME$
+ TMPINDEX
+ USINDEX
+TMPINDEX:TMPINDEX
+TOPIC$
+""
+"F
+ USINDEX
+ #
+,USINDEX
+UF
+ DEFINE 
+6) :
+ return from threaded code
+lF
+P$
+" ":
+V:
+ LOCAL 
+ ER$
+"M:BBS5022 - User "
+USNAME$
+" logged in.":
+ N
+ DSK$
+"@notice.dat" 
+ AS #
+0u
+):
+ #
+,P$:
+V:
+*G
+0u
+PG
+P$
+"Enter 'help' for help.":
+kG
+ TOPIC$
+"MAIL" 
+ BRIEF$
+"T" 
+ P$
+"Mail? " :
+ P$
+"Mail command? "
+ BRIEF$
+"T" 
+ P$
+"Tpc? " :
+ P$
+"Topic command? "
+NOCR
+TRUE:
+V:STATUS$
+"comm":
+CHp
+P$
+CMDLN$:
+]:CMDLN$
+P$ :
+ convert to upper case cmds
+oHq
+LOCN
+Hq:CMD$
+PARM$:
+ CMD$
+"" 
+Hu
+(PARM$)
+ LOCN
+* :
+ special case - number read.
+FOUND
+:CMDNUM
+ I1
+ CMDLEN
+  
+(CMDLIST$(I1),CMD$)
+ FOUND
+FOUND
+:CMDNUM
+I1
+UI
+ FOUND
+ P$
+"No such command, try again.":
+V:
+ FOUND
+ P$
+"Command not unique, try again.":
+V:
+ CMDNUM 
+',
+t',
+t',
+t',
+t',
+t',
+',
+<(,
+(,
+),
+h),
+),
+0*,
+*,
+.,
+.,
+*,
+:,
+:,
+`;,
+PF,
+8J,
+DH,
+),
+6,
+AJ
+ER$
+"W:BBS6160 - Command not found.":
+ N:
+qJN
+P$
+"No such command, try again":
+V:
+':
+*** brief command
+ BRIEF$
+"T" 
+ BRIEF$
+"F":
+B'
+ BRIEF$
+"T"
+JB'
+ USINDEX
+,USINDEX
+JL'
+Kt':
+*** quit command
+*Ky'
+ TOPIC$
+"MAIL" 
+ TOPIC$
+"":
+PK~'P$
+"Thank you, come again!":
+cK
+ I
+  
+ I8
+  :
+ make double-sure of hangup
+ #TERM,
+));:
+ I
+ #TERM,"AT H":
+ I
+ LOCAL 
+ DUM$
+$(
+(IN),#IN)
+ I8
+'STATUS$
+"hangup"
+EL
+ USINDEX
+,USINDEX:USINDEX
+OL
+_L
+ "Hangup."
+ :
+ this is the only command that RETURNs!
+':
+*** time command
+'P$
+"   "
+"     "
+"11:00:00" 
+ P$
+P$
+"Peak time." :
+ P$
+P$
+"Non-peak time."
+[M
+'P$
+"You have"
+(TLIM
+TIM
+LTIM)
+" minutes left before timeout.":
+eM
+M<(:
+**** users command
+MA(L
+MF(
+ K
+ NLEN
+MP(
+ NLIST$(K) 
+ "ZZZEMPTY" 
+d(
+MZ(P$
+NLIST$(K)
+"     ":NOCR
+TRUE:
+V:L
+N\(
+a:
+ HALT 
+N_(
+ L 
+ P$
+" ":
+&Nd(
+ K
+]Nn(P$
+" ":
+V:P$
+"   "
+(L)
+" active users.":
+gNx(
+(:
+ *** help command
+(TOPIC$
+""
+ CLR$
+"T" 
+ P$
+CL$:NOCR
+TRUE:
+a:
+ HALT 
+ DSK$
+"@help.dat" 
+ AS #
+):
+ #
+,P$:
+,O
+a:
+ HALT 
+2O
+:O
+DO
+`O
+):
+ **** define command
+)DEFINE
+TRUE:
+ USINDEX
+ NAM$
+"ZZZEMPTY":NLIST$(USINDEX)
+"ZZZEMPTY":
+ #
+,USINDEX:USINDEX
+ DSK$
+"@users.dat" AS #
+ :
+ threaded code
+5P6):
+ return from threaded code here
+FP;)DEFINE
+FALSE
+P@)
+ USINDEX 
+ #
+,USINDEX :
+T) :
+store new params
+PJ)P$
+"User file updated.":
+PT)
+Ph):
+ **** topic command - select topic
+Pj)
+Hq:
+ PARM$
+"" 
+Qr)P$
+"Select Topic? ":NOCR
+TRUE:
+3Q|)STATUS$
+"topic":
+DQ
+)LOCN
+Hq
+oQ
+)I1
+:STATUS$
+"comm" :
+ restore status
+)P$
+PARM$:
+] :
+ uppercase
+("TOPICS",P$)
+Hq:P$
+PARM$:
+] :
+uppercase
+ P$
+"MAIL" 
+ I1
+TOPRET:TOPRET
+:TOPIC$
+"MAIL":
+ I1
+hB :
+7R
+ I1
+TOPLEN 
+ TOPLIST$(I1)
+P$
+DR
+) I1
+I1
+JR
+aR
+ I1
+TOPLEN 
+)P$
+"No such topic available.  Choose from:":
+ I1
+ TOPLEN:P$
+"   "
+TOPLIST$(I1):
+a:
+ HALT 
+ TOPRET
+ I1
+)P$
+"   MAIL   (Special)":
+r)
+BS
+)TOPIC$
+TOPLIST$(I1):CURRTOP
+I1
+rS
+ DSK$
+TOPIC$
+".dat" AS #
+`m
+)P$
+"From"
+(LONUM)
+" to"
+(HINUM)
+".":
+)I1
+TOPRET:TOPRET
+ I1 
+*+,
+f+,
+):
+***** pause command
+/T
+ PAUSE$
+"T" 
+ PAUSE$
+"F":P$
+"Pause mode off.":
+UT
+ PAUSE$
+"T":P$
+"Pause mode on."
+_T
+~T
+ USINDEX
+,USINDEX
+T0*:
+***** skim command
+T:*
+ SKIM$
+"T" 
+ SKIM$
+"F":P$
+"Skim mode off.":
+I*
+TD*
+ SKIM$
+"T":P$
+"Skim mode on."
+ UI*
+(UN*
+ USINDEX
+,USINDEX
+2UX*
+MU
+*:
+**** status command
+wU
+*P$
+"Current stats for "
+USNAME$:
+*P$
+" ":
+*P$
+"     Current topic selection: "
+ TOPIC$
+"" 
+ P$
+P$
+"*NONE*" :
+ P$
+P$
+TOPIC$
+*P$
+" ":
+KV
+ BRIEF$
+"T" 
+ P$
+"     Brief mode   *ON*" :
+ P$
+"     Brief mode   *OFF*"
+UV
+ PAUSE$
+"T" 
+ P$
+"     Pause mode   *ON*" :
+ P$
+"     Pause mode   *OFF*"
+ SKIM$ 
+"T" 
+ P$
+"     Skim  mode   *ON*" :
+ P$
+"     Skim  mode   *OFF*"
+*P$
+" ":
+`W
+*P$
+"Joined on "
+JOIND$
+".  Your current vote is *"
+VOTE$
+"*.":
+qW
+*P$
+" ":
+{W
+*:
+***** read command
++STARTNUM
++OLDLOCN
+LOCN:
+Hq :
+ read parm$, saving place
+ PARM$
+"" 
+ TOPIC$
+"MAIL" 
+> :
+\+
+&X
+ TOPIC$
+"MAIL" 
+ TOPIC$
+""
+SX
+(PARM$)
+ STARTNUM
+(PARM$):
+\+
+X +
+Hq:STARTNUM
+(PARM$):LOCN
+OLDLOCN:TOPRET
+h)
+X*+
+Hq
+X4+
+(PARM$)
+ STARTNUM
+(PARM$):
+\+
+X>+
+ PARM$
+"" 
+\+
+X\+
+ TOPIC$
+"" 
+ TOPRET
+h)
+Yf+:
+ startnum not validated yet
+JYk+
+ STARTNUM
+ STARTNUM
+(MES$(CURRTOP))
+rYp+
+ STARTNUM 
+ LONUM 
+ STARTNUM
+LONUM
+Yz+
+ STARTNUM 
+ HINUM 
+ P$
+"No new messages since last READ.":
+V:
+ :
+ return to command mode
+ MES$(CURRTOP)
+(HINUM
+):
+ USINDEX 
+ #
+,USINDEX
+KZ
++:
+ *** display messages from startnum to hinum
++ 
+ CLR$
+"T" 
+ P$
+CL$:NOCR
+TRUE:
+V :
+ clear screen
+ HINUM
+ P$
+"Empty topic.":
+V:
++D1
+STARTNUM
+LONUM
+ #
+ D2
+e:MS(D2)
+(MS$(D2)):
+ D1
+HINUM
+LONUM
+1[
+ STATUS$
+"tread" 
+B,
+^[
++ 
+ #
+,MS(D1):
+ point to proper message
+k[
++ COUNT
++ 
+xi:
+ P$
+"/eor" 
+$, :
+ read line from file
++ COUNT
+COUNT
++ 
+V :
+ print line
+, 
+a:
+ HALT 
+ PAUSE 
+ D1
+D1
+, :
+<\
+, 
+ SKIM$
+"T" 
+ COUNT 
+ P$
+"/eor":
+xi:
+$,
+e\
+, 
++ :
+ continue printing message
+r\$, D1
+D1
+\., 
+ PAUSE$
+"T" 
+\3,
+ D1
+HINUM
+LONUM
+\5,
+ BRIEF$
+"T" 
+ P$
+"Next>" :
+ P$
+"(Next, Stop, Reply, #)? "
+]8, NOCR
+TRUE:
+V:STATUS$
+"tread":
+8]B, STATUS$
+"comm":LOCN
+Hq:P$
+PARM$
+q]G,
+(P$) 
+ D1
+(P$):D1
+D1
+LONUM
+ D1
+ D1
+]L, P$
+(P$,
+):
+] :
+ upper case
+]V, 
+ P$
+"S" 
+ P$
+"***PRINTOUT ABORTED***":
+V:
+]`, 
+ P$
+"R" 
+. :
+ Send message
+,STATUS$
+"comm":
+1^
+.:
+ ***** write command
+s^
+(MNUM$)
+ P$
+"Daily send limit exceeded.":
+V:
+ TOPIC$
+"MAIL" 
+hB :
+ **** goto personal mail write
+.OLDLOCN
+LOCN:
+Hq :
+ read parm$, saving place
+._
+ TOPIC$
+"" 
+ PARM$
+"" 
+ LOCN
+OLDLOCN:TOPRET
+h) :
+threaded call
+X_
+/:
+ threaded return from topic select
+/SNDRET
+2  :
+ threaded call to input msg routine
+_!/
+ #
+ :
+ threaded return
+_&/NUMMSGS
+HINUM
+LONUM
+`0/
+ NUMMSGS 
+3 
+ NEXTMSG
+NUMMSGS
+D/ :
+ NEXTMSG
+NUMMSGS
+q`:/
+ I2
+e:
+ MS$(I2
+MS$(I2):
+:LONUM
+LONUM
+ LONUM$
+(LONUM) :
+ downshift all msgs one
+`D/
+ MS$(NEXTMSG)
+(EOI
+):
+ EOI$
+(EOI
+) :
+ add record
+`N/HINUM
+HINUM
+ HINUM$
+(HINUM)
+`S/OLDEOI
+EOI
+aX/
+ #
+  :
+ store updated header rec
+6ab/
+ MESLEN
+ P$
+"_ " :
+ P$
+"_  "
+ag/P$
+P$
+(MESLEN)
+" From: "
+USNAME$
+"  "
+DAT$
+" "
+"   #"
+(HINUM)
+al/
+e :
+ write header
+av/
+ I1
+ MESLEN
+/ P$
+BUF$(I1):
+/P$
+" ":
+e :
+ write space
+/P$
+"/eor":
+/b
+/EOI
+EOI
+ #
+,EOI :
+ flush disk buffer
+sb
+ OLDEOI 
+ EOI 
+ #
+ EOI$
+(EOI):
+ :
+ update eoi
+/P$
+"Sent as message #"
+(HINUM)
+".":
+ MNUM$
+(MNUM$)
+ :
+return
+2:
+ ***** buffer input routine
+2P$
+"Enter C/R when done.":
+'c
+2MESLEN
+Qc
+2P$
+(MESLEN):
+ MESLEN
+ P$
+P$
+" "
+2P$
+P$
+"? ":NOCR
+TRUE:
+V:STATUS$
+"writetop":
+2:
+threaded return
+2LOCN
+:STATUS$
+"comm" :
+ restore status
+3CMDLN$
+(CMDLN$,
+P) :
+ truncate to 80 chars
+5d
+ CMDLN$
+"" 
+ MESLEN
+MESLEN
+ MESLEN
+ :
+Rd
+(CMDLN$,
+"_" 
+pd
+(CMDLN$,
+"^" 
+3P$
+(CMDLN$,
+):
+] :
+ force uppercase
+d"3
+ P$
+"^P" 
+ P$
+"^L" 
+@3
+e,3
+ I4
+ MESLEN
+:P$
+(I4)
+": "
+BUF$(I4):
+V:
+a:
+ HALT 
+ I4
+e63
+)e@3
+ P$
+"^D" 
+h3
+>eJ3
+ MESLEN
+XeT3MESLEN
+MESLEN
+xeh3
+ P$
+"^A" 
+ P$
+"^O" 
+er3MESLEN
+:P$
+"Message Aborted.":
+V:
+3P$
+"Invalid editing option.":
+V:
+"f
+ MESLEN
+ TLIM
+MIN(
+,TLIM
+) :
+give more time to complete message.
+gf
+3BUF$(MESLEN)
+CMDLN$:
+ MESLEN 
+4 :
+ MESLEN
+MESLEN
+4I3
+SNDRET:SNDRET
+ I3 
+!/,
+0C
+6:
+*** VOTE command
+6TOPIC$
+""
+ DSK$
+"@VOTE.DAT" 
+ AS #
+0u
+):
+ #
+,P$:
+0g
+a:
+ HALT 
+6g
+yg
+6P$
+"Please vote (Y)es, (N)o, or (U)ndecided? ":NOCR
+TRUE:
+6STATUS$
+"vote":
+7STATUS$
+"comm":LOCN
+Hq:P$
+(PARM$,
+):
+] :
+upper
+("YNU",P$) 
+ P$
+"" 
+F7
+7P$
+"Invalid vote, try again.":
+V:
+(hF7VTMP$
+P$
+OhK7
+ DSK$
+"@totals.dat" 
+ AS #
+thP7
+ #
+,YTOT,NTOT,UTOT:
+ #
+,VDAT$
+hU7
+ JOIND$
+VDAT$ 
+ P$
+"Sorry, but only users defined before "
+VDAT$
+" may vote on this proposal.":
+V:
+iZ7
+ VOTE$
+"U" 
+ UTOT
+UTOT
+%i[7
+ VOTE$
+"Y" 
+ YTOT
+YTOT
+Ci\7
+ VOTE$
+"N" 
+ NTOT
+NTOT
+~i]7
+ VOTE$
+"?" 
+ P$
+"Vote recorded" :
+ P$
+"Vote changed."
+i_7
+ VOTE$
+VTMP$:
+ VOTE$
+"U" 
+ UTOT
+UTOT
+id7
+ VOTE$
+"Y" 
+ YTOT
+YTOT
+if7
+ VOTE$
+"N" 
+ NTOT
+NTOT
+ji7
+ DSK$
+"@totals.dat" 
+ OUTPUT AS #
+6jk7
+ #
+,YTOT,NTOT,UTOT:
+ #
+,VDAT$
+Fjn7
+V:
+gjx7:
+***** @vote.dat not found
+uj}7
+0u
+7P$
+"Sorry, there is nothing to vote on currently.":
+V:
+8:
+***** results - voting resultrs
+8TOPIC$
+""
+ k
+ DSK$
+"@vote.dat" 
+ AS #
+.k
+0u
+Mk
+):
+ #
+,P$:
+dk
+a:
+ HALT 
+jk
+ DSK$
+"@totals.dat" 
+ AS #
+ #
+,YTOT,NTOT,UTOT
+8P$
+" ":
+V:P$
+"Vote results:":
+8P$
+"Yes:"
+(YTOT)
+".   No:"
+(NTOT)
+".   Undecided:"
+(UTOT)
+"."
+2l
+V:P$
+" ":
+Gl
+ :
+ return
+al
+::
+*** unjoin command
+ USINDEX
+ P$
+"But you are not joined.":
+V:
+ NAM$
+"ZZZEMPTY":
+ #
+,USINDEX:NLIST$(USINDEX)
+"ZZZEMPTY"
+%m
+:OLDDEX
+USINDEX:USINDEX
+:P$
+"You are no longer defined.":
+V:
+@m
+::
+*** clear your mail
+ USINDEX
+ P$
+"You have to define your name first.":
+V:
+;P$
+"Are you sure? ":NOCR
+TRUE:
+V:STATUS$
+"sure":
+;STATUS$
+"comm":P$
+(CMDLN$,
+):
+]:
+ P$
+"Y" 
+:TOPIC$
+""
+n$;
+$w
+4n.;
+ DSK$
+USNAME$
+".mai"
+Bn8;
+0u
+_nB;P$
+"File cleared.":
+inL;
+n`;:
+ *** toggle mail mode
+nt;
+ TOPIC$
+"MAIL" 
+ TOPIC$
+"" :
+ TOPIC$
+"MAIL"
+n~;
+>:
+ *** personal mail
+ USINDEX
+ P$
+"You must define your name first.":
+V:
+-o
+5o
+Yo
+ DSK$
+USNAME$
+".mai" 
+ AS #
+go
+0u
+xo
+>P$
+" ":
+>FIRST
+TRUE
+ STATUS$
+"mread" 
+> 
+ #
+,P1$
+> 
+(P1$,
+"_" 
+> 
+ PAUSE$
+"T" 
+ FIRST 
+1p
+> P$
+"Next>":NOCR
+TRUE:
+V:STATUS$
+"mread":
+[p
+> LOCN
+:STATUS$
+"comm":
+Hq:P$
+PARM$
+rp
+> P$
+(P$,
+):
+> 
+ P$
+"S" 
+ P$
+"***PRINTOUT ABORTED***":
+V:
+>P$
+P1$:
+V:
+a:
+ HALT 
+>FIRST
+FALSE
+>STATUS$
+"comm"
+Fqt@
+0u:P$
+"You have no mail today.":
+V:
+^qhB:
+ **** mail write
+zq|B
+Hq:
+ PARM$
+"" 
+BP$
+"Send to? ":NOCR
+TRUE:
+BSTATUS$
+"sendto":
+BLOCN
+Hq
+BSTATUS$
+"comm":
+ PARM$
+"" 
+BWHOLEN
+ PARM$
+"" 
+ WHOLEN
+(r
+B P$
+PARM$:
+=r
+B P$
+FILL$(P$,
+Pr
+B 
+ I2
+ NLEN
+pr
+B   
+ P$
+NLIST$(I2) 
+ I2
+zr
+B 
+ I2
+B 
+ I2 
+ P$
+"Unknown user name - "
+P$:
+V:
+C WHOLIST$(WHOLEN)
+P$:WHOLEN
+WHOLEN
+Hq
+CWHOLEN
+WHOLEN
+#s&CSNDRET
+2 :
+ threaded call
+7s0C
+ I5
+ WHOLEN
+@sbC 
+os
+C 
+ DSK$
+WHOLIST$(I5)
+".mai" 
+ APPEND AS #
+C 
+ #
+,"_ Mail From: "
+USNAME$
+"   "
+DAT$
+" "
+C 
+ I2
+ MESLEN
+C  
+ #
+,BUF$(I2)
+ I2
+C 
+ #
+," "
+C P$
+"Sent to: "
+WHOLIST$(I5):
+)t
+C 
+ MNUM$
+(MNUM$)
+2t
+ I5
+:t
+Dt
+pt\D:
+ *** com interrupt during local mode
+tpD
+"Incoming phone call!"
+tuD
+) 
+tzD
+tPF:
+ **** DAYFILE
+tZF
+tnFTOPIC$
+"":
+ CLR$
+"T" 
+ P$
+CL$:NOCR
+TRUE:
+uxF
+a:
+ HALT 
+u}F
+Px
+9u
+ DSK$
+"@errlog.dat" 
+ AS #
+Gu
+0u
+fu
+):
+ #
+,P$:
+}u
+a:
+ HALT 
+0u:
+uDH:
+**** list command
+uXHP$
+"The available topics are:":
+vbH
+ I1
+ TOPLEN:P$
+"   "
+TOPLIST$(I1):
+(vlH
+a:
+ HALT 
+1v
+ I1
+Uv
+HP$
+"   MAIL    (Special)":
+_v
+}v
+I:
+ *** f10 key interrupt
+v8J:
+ ***** chat command
+v=J
+ LOCAL 
+w?J
+ CHAT 
+ P$
+"The operator is not available right now.  Try again later.":
+V:
+;wBJP$
+"Enter chat mode.  Type STOP to exit.":
+wGJ
+ "MBO3L16GEL8CCL16CDEFL8GGGE":
+ USNAME$;" wants to chat with you."
+wIJP$
+"Beeping the operator...this may take awhile.":
+wLJSTATUS$
+"chat":
+wVJLOCN
+Hq
+w`JP$
+PARM$:
+5xjJ
+ P$
+"STOP" 
+ P$
+"Exit chat mode.":STATUS$
+"comm":
+PxtJ
+ MONITOR 
+ CMDLN$
+Vx~J
+ "Enter name of user to delete? ";:
+ MG$:
+ ,,
+ MG$
+"" 
+JMG$
+FILL$(MG$,
+JI9
+ I9 
+ NLEN:
+ MG$ 
+ NLIST$(I9) 
+ NLIST$(I9) 
+ "ZZZEMPTY": 
+ NAM$
+"ZZZEMPTY":
+ #
+,I9:I9
++y
+JI9
+I9
+1y
+ky
+ I9 
+} 
+ "Name not found." :
+ "Name deleted."
+qy
+ "Enter last-access month to expire (1-12)? ";:
+ MG$:
+ ,,
+(MG$) 
+(MG$) 
+(MG$) 
+ MG$ 
+ "0" 
+ MG$
+KI9
+z(K
+ I9 
+ NLEN:
+ #
+,I9:
+ MG$
+(LDATE$,
+) 
+ "Deleting ";NLIST$(I9):NLIST$(I9) 
+ "ZZZEMPTY": 
+ NAM$
+"ZZZEMPTY":
+ #
+,I9
+z2KI9
+I9
+z<K
+zFK
+ "Expiration complete."
+zPK
+z,L:
+ **** f4 key interrupt
+z1LTOPIC$
+""
+{6L
+P  :
+ empty kybrd
+{;L
+N{@L
+"Are you sure you want to reset the vote counter? ";:
+ MG$:
+ ,,
+x{JL
+(MG$,
+"Y" 
+(MG$,
+"y" 
+{OL
+ USINDEX
+ #
+,USINDEX:USINDEX
+{TL
+ DSK$
+"@users.dat" AS #
+{^L
+ I9
+ NLEN:
+ #
+,I9:
+ VOTE$
+"?":
+ #
+,I9:
+#|rL
+ DSK$
+"@totals.dat" 
+ OUTPUT AS #
+A||L
+ #
+ #
+DAT$:
+{|
+ USINDEX
+ DSK$
+"@users.dat" AS #
+ #
+,USINDEX
+"Vote counter reset.":
+L:
+ **** f1 key interrupt
+P                         :
+ empty kybrd buffer
+"Enter message? ";:
+ MG$:
+ ,,
+(}
+ MG$
+"" 
+O}
+LPTMP$
+P$:P$
+" ":
+V:P$
+MG$:
+^}
+LP$
+PTMP$:
+|}
+L:
+ **** f2 key interrupt
+LMONITOR
+ MONITOR
+ MONITOR 
+"Monitor mode *ON*":
+"Monitor mode *OFF*":
+}XM:
+ **** f3 key interrupt
+~]M
+~bMCHAT
+ CHAT
+=~lM
+ CHAT 
+ "Chat requests *ON*":
+Z~vM
+"Chat requests *OFF*":
+`~
+M:
+ **** f10 key interrupt
+) 
+ LOCAL 
+ STATUS$
+"hangup" 
+"Cant switch while answering call.":
+MIN
+:TERM
+MLINEFEED
+FALSE:MONITOR
+FALSE
+"": 
+ USINDEX
+ #
+,USINDEX:USINDEX
+MLOCAL
+TRUE:
+ "kybd:" 
+ AS #IN:
+ "scrn:" 
+ OUTPUT AS #TERM:
+"Local mode *ON*.  Type 'CONNECT' (in caps) to connect."
+MSTATUS$
+"hangup"
+ USINDEX
+,USINDEX:USINDEX
+MLOCAL
+FALSE:
+ IN,TERM,
+:IN
+:TERM
+NLINEFEED
+TRUE:MONITOR
+TRUE:STATUS$
+"hangup"
+"Local mode *OFF*"
+ N:
+ ********** Error message in ER$ displayed **********
+%N
+ ER$
+&NET$
+(ER$,
+):
+ ET$
+"M" 
++N
+'N
+ ER$
+>]
+ u
+"3
+;6
+w(
+u?@
+ta
+sv;>
+wU
+!X
+!XQ
+t*P
+ X
+@;
+tC3
+!XP
+!Y
+,A;
+@EEF
++6
++6
+t 
+<s
+<^
+S3
+>-
+0*
+>-
+0|
+QH
+???????????
+badtrack   
+  and  $Invalid drive specification$Invalid parameter$Allocation error for file $Directory error-file :    $Files cross-linked: 
+     $File size error for file  $Diskette not initialized $ bytes disk space freed
+$ bytes total disk space
+$ bytes in $ user files
+$ bytes in bad sectors
+$ hidden files
+$ bytes available on disk
+$ bytes total memory
+$ bytes free
+The IBM Personal Computer Diskette Copier Version 1.10 (C)Copyright IBM Corp 1981, 1982 Licensed Material - Program Property of IBM Author - David Litton 
+>5
+(uT
+ u
+ <nu
+ <yu
+@t
+&8
+&8
+.5
+.6
+.7
+*.6
+>7
+(v
+(3
+rN
+u+
+uq
+u 
+&6
+&6
+&7
+6=
+:.7
+P3
+tJ
+>9
+u/
+u+
+u&
+!Z
+.5
+r)
+>;
+6=
+:.7
+&7
+&5
+P3
+tH
+tI
+>:
+u&
+u6
+6=
+&8
+P3
+>;
+@u
+P3
+><
+t.
+t&
+00
+r 
+&x
+ Z
+!Z
+!Z
+Formatting while copying
+Insert source diskette in drive @:
+Insert target diskette in drive @:
+Strike any key when ready
+Copy complete
+Unrecoverable read error on source$
+Unrecoverable write error on target$
+Unrecoverable verify error on target$
+Track 00, side 0
+Target diskette may be unusable
+Unrecoverable format error on target
+Target diskette unusable
+Target diskette write protected
+Correct, then strike any key
+Copy another (Y/N)?$
+Copying 
+ side(s)
+Incompatible drive types
+Not ready error $reading$writing$ drive 
+tH
+>]
+ uA
+>m
+ u:
+&l
+&]
+=1u
+Insufficient memory
+Invalid parameter
+Invalid drive specification
+$ctory full$
+10-13-1984 22:34:29 M:BBS2009 - 15 minute timeout.
+10-13-1984 22:18:58 M:BBS5022 - User mork     logged in.
+10-13-1984 22:17:54 W:BBS4045 - Unknown Hayes response.
+10-13-1984 21:38:15 M:BBS2009 - 15 minute timeout.
+10-13-1984 21:23:04 M:BBS5022 - User JLS      logged in.
+10-13-1984 21:20:42 M:BBS5022 - User jmr      logged in.
+10-13-1984 19:40:24 M:BBS5022 - User snorky   logged in.
+10-13-1984 19:22:05 M:BBS5022 - User LESKA    logged in.
+10-13-1984 19:05:12 M:BBS2009 - 15 minute timeout.
+10-13-1984 18:49:57 M:BBS5022 - User JLS      logged in.
+10-09-1984 20:10:19 M:BBS5022 - User ZIGGY    logged in.
+10-09-1984 19:46:44 M:BBS5022 - User JERRY    logged in.
+10-09-1984 19:21:58 M:BBS5022 - User twill    logged in.
+10-09-1984 19:13:14 M:BBS5022 - User twill    logged in.
+10-09-1984 19:09:37 M:BBS5022 - User twill    logged in.
+10-08-1984 20:15:15 M:BBS5022 - User jmr      logged in.
+10-08-1984 19:59:07 M:BBS2009 - 15 minute timeout.
+10-08-1984 19:43:54 M:BBS5022 - User mike     logged in.
+10-08-1984 19:09:41 M:BBS5022 - User TINA     logged in.
+10-08-1984 19:06:08 M:BBS5022 - User CTHULHU  logged in.
+10-08-1984 17:53:29 M:BBS5022 - User snorky   logged in.
+10-08-1984 17:32:09 M:BBS5022 - User liet     logged in.
+10-08-1984 17:04:27 M:BBS5022 - User Couatl   logged in.
+10-08-1984 15:55:47 M:BBS5022 - User Peter    logged in.
+10-08-1984 15:41:07 M:BBS5022 - User garfield logged in.
+ogged in.
+10-08-1984 15:55:47 M:BBS5022 - User Peter    logged in.
+10-08-1984 15:41:07 M:BBS5022 - User garf
+X)
+P't
+MIN(X,Y)
+(X
+Y)
+X 
+(Y
+X)
+r'|
+DAT$
+"-"
+FILL$(D$,L)
+(D$,L)
+MAX(
+,L
+(D$))," ") :
+ space fill right
+BAD$
+" *+=[]/?.`,:;@{|}~"
+")
+) :
+ characters not allowed in names
+)(
+"Reading in users list."
+M(
+ DSK$
+"@users.dat" AS #
+a(
+ #
+ AS NAM$
+m(
+ #
+ NAM$
+"ZZZZZEOF":NLIST$(
+))
+NAM$:
+ #
+NLEN 
+TITLE$
+"IBM-PC Minnesota BBS System Ver 1.0.2   "
+COMM$
+"com2:300,e,7,1"
+ COMM$ AS #IN
+-)
+ 16,5,3
+84-12-01
+MADDOG  MADDOG    84-10-0803:04:27TFFTTF
+84-10-05N
+HOSER   BUNNY     84-10-0814:49:12TTFTTF
+84-10-08U
+ZZZZZEOFCRUM      84-10-0814:08:55FFFTTF
+84-10-08?
+SAVE/RESTORE.
+    ZIGGY
+_ Mail From: ZIGGY      84-03-11 19:38:12
+OH, WOULD YOU PREFER TO DO THIS VIA MODEM OR VOICE? AND IF VOICE, WHAT
+IS YOUR NAME?
+    BILL
+GY      84-03-11 19:38:12
+OH, WOULD YOU PREFER TO DO THIS VIA MODEM OR VOICE? AND MEANS THAT YOU HAVE DONE ONE OF TWO THINGS:
+ 1) ALREADY WRITTEN 3 MESSAGES THIS SESSION, OR
+ 2) HAVE THE 'RUGGIE PROOF' BIT SET.  
+SINCE I DON'T THINK YOU TRIED TO WRITE 3 MESSAGES, I'LL LOOK AT YOUR
+CODENAME AND SEE IF SOMETHING GOT SCREWED UP IN THE ZZZZZEOF
+67
+ YOU
+_ Mail From: TDS        84-03-30 12:56:05
+(CONT)
+NO MATTER WHAT YOU DO
+SAIL AWAY SWEET SISTER
+I'LL ALWAYS BE IN LOVE WITH YOU
+FORGIVE ME FOR WHAT I'VE TOLD YOU
+MY HEART MAKES A FOOL OF ME
+YOU KNOW I'LL NEVER HOLD YOU
+I KNOW YOU GOTTA BE FREE
+SAIL AWAY SWEET SISTER
+SAIL ACROSS THE SEA
+MAYBE YOU FIND SOMEBODY
+TO LOVE YOU HALF AS MUCH AS ME
+TAKE IT THE WAY YOU WANT IT
+BUT WHEN THEY LET YOU DOWN MY FRIEND
+SAIL AWAY SWEET SISTER
+BACK TO MY ARMS AGAIN
+HOT CHILD DON'T YOU KNOW, YAEK     MAIL      85-04-1314:16:38TFTFTF
+84-10-05?
+SHADOW  WOWIE     84-10-0317:05:21TTTFTF
+84-10-03?
+RANDOM  KNIGHT    84-10-0708:23:30FFTTTF
+84-10-03?
+TWM     AZY6212   84-10-0619:55:47FFTTTF
+84-10-03?
+ACHILLESLTB       84-10-0618:01:27TTTTTF
+84-10-03U
+CORVAIR SE        84-10-0321:40:04TTFTTF
+84-10-03?
+JMR     ALEX      84-10-1321:20:40TTTFFF
+84-10-03Y
+SCHLEP  PETE      84-10-0522:34:57TFTTTF
+84-10-03?
+ROLD$ 
+ ER$
+EROLDER$ 
+ ER$
+"F:BBS20007 - Too many errors."
++NEROLDER$
+EROLD$
+,NEROLD$
+ER$
+4N
+ ET$
+"I" 
+ ER$:
+>N
+ ET$
+"F" 
+ ER$:
+HN
+ DSK$
+"@errlog.dat" 
+ AS #
+0u
+NI1
+N I1
+I1
+ #
+,BUF$(I1)
+0u:BUF$(
+" "
+" "
+ER$
+ I1
+ I1
+ :
+ only 25 messages in dayfile
+ DSK$
+"@errlog.dat" 
+ OUTPUT AS #
+ I2
+ I1
+N 
+ #
+,BUF$(I2)
+ ET$
+"E" 
+ LOCAL 
+ "kybd:" AS #
+P:
+ *** empty kybd buffer
+PPT$
+ PT2$
+"" 
+P :
+ empty keybrd buffer
+(P
+V:
+*********** main output routine ***********
+ NOCR 
+#TERM,P$:
+ MONITOR 
+ P$
+ LINEFEED 
+#TERM,LF$;
+#TERM,P$;:
+ MONITOR 
+ P$;
+VNOCR
+FALSE
+ LOCAL 
+ SLOW 
+ IW
+(P$)
+A:
+ :
+ pause during transmission
+ IW
+(P$)
+Y:
+ ********* Local input/output for testing
+YLOCAL
+TRUE
+YIN
+:TERM
+YMONITOR
+FALSE
+ "kybd:" 
+ AS #IN
+ "scrn:" 
+ OUTPUT AS #TERM
+ "Test mode on."
+ZSTATUS$
+"answer"
+[A$
+ A$
+"" 
+ MONITOR 
+ A$;
+ ECHO 
+ A$;
+ A$
+BK$ 
+ B$
+"" 
+ B$
+(B$,
+(B$)
+):
+);
+);:
+[ :
+ A$
+CR$ 
+0\
+ A$
+) 
+ A$
+"":B$
+"":P$
+"*DEL*":
+[B$
+B$
+A$:
+0\
+5\B$
+""
+:\
+ STATUS$
+"hangup" 
+D\
+]:
+***** convert P$ from lowercase to UPPERCASE
+ UC1
+(P$)
+]PT$
+(P$,UC1,
+ PT$
+"a" 
+ PT$
+"z" 
+(P$,UC1,
+(PT$)
+ )
+a:
+ ******** "S" and "I" key searching
+aHALT
+FALSE  :
+ stop flag
+ LOCAL 
+(IN) 
+aIK$
+$(
+(IN),#IN)
+aIT$
+(IK$,
+ IT$
+"S" 
+ IT$
+"s" 
+ PT$
+P$:P$
+"*TER*":
+V:P$
+PT$:HALT
+TRUE:
+(I$)
+ IT$
+"I" 
+ IT$
+"i" 
+ IT$
+XOFF$ 
+ I$
+I$
+IK$:
+aPT$
+P$:P$
+"*INT*":
+V:P$
+PT$
+(IN) 
+a  :
+ pause until character pressed
+e:
+ ***** write P$ to a pseudo-random file
+ #
+,P$
+0u :
+ restore error trap
+xi:
+ **** read p$ from a pseudo-random file
+\v
+ #
+,P$
+0u :
+ restore error trap
+`m:
+ ****** header field format for topic files
+cm
+ #
+ AS LONUM$,
+ AS HINUM$,
+ AS EOI$
+jm
+ #
+ AS XXX$,
+ AS MS$(
+),
+ AS MS$(
+),
+ AS MS$(
+),
+ AS MS$(
+),
+ AS MS$(
+), 
+ AS MS$(
+), 
+ AS MS$(
+), 
+ AS MS$(
+), 
+ AS MS$(
+),
+ AS MS$(
+), 
+ AS MS$(
+), 
+ AS MS$(
+), 
+ AS MS$(
+), 
+ AS MS$(
+), 
+ AS MS$(
+), 
+ AS MS$(
+tm
+ #
+> AS XXX$,
+ AS MS$(
+),
+ AS MS$(
+),
+ AS MS$(
+),
+ AS MS$(
+), 
+ AS MS$(
+), 
+ AS MS$(
+), 
+ AS MS$(
+), 
+ AS MS$(
+), 
+ AS MS$(
+), 
+ AS MS$(
+),
+ AS MS$(
+), 
+ AS MS$(
+), 
+ AS MS$(
+), 
+ AS MS$(
+), 
+ AS MS$(
+), 
+ AS MS$(
+ )
+~m
+ #
+, 
+^ AS XXX$,
+ AS MS$(
+!), 
+ AS MS$(
+"), 
+ AS MS$(
+#), 
+ AS MS$(
+$), 
+ AS MS$(
+%), 
+ AS MS$(
+&), 
+ AS MS$(
+'), 
+ AS MS$(
+(), 
+ AS MS$(
+)), 
+ AS MS$(
+*), 
+ AS MS$(
++), 
+ AS MS$(
+,), 
+ AS MS$(
+-), 
+ AS MS$(
+.), 
+ AS MS$(
+/), 
+ AS MS$(
+0)
+ #
+~ AS XXX$,
+ AS MS$(
+1), 
+ AS MS$(
+2), 
+ AS MS$(
+3), 
+ AS MS$(
+4), 
+ AS MS$(
+5), 
+ AS MS$(
+6), 
+ AS MS$(
+7), 
+ AS MS$(
+8), 
+ AS MS$(
+9), 
+ AS MS$(
+:), 
+ AS MS$(
+;), 
+ AS MS$(
+<), 
+ AS MS$(
+=), 
+ AS MS$(
+>), 
+ AS MS$(
+?), 
+ AS MS$(
+@)
+ #
+ AS XXX$,
+ AS MS$(
+A), 
+ AS MS$(
+B), 
+ AS MS$(
+C), 
+ AS MS$(
+D), 
+ AS MS$(
+E), 
+ AS MS$(
+F), 
+ AS MS$(
+G), 
+ AS MS$(
+H), 
+ AS MS$(
+I), 
+ AS MS$(
+J), 
+ AS MS$(
+K), 
+ AS MS$(
+L), 
+ AS MS$(
+M), 
+ AS MS$(
+N), 
+ AS MS$(
+O), 
+ AS MS$(
+P)
+ #
+ AS XXX$,
+ AS MS$(
+Q), 
+ AS MS$(
+R), 
+ AS MS$(
+S), 
+ AS MS$(
+T), 
+ AS MS$(
+U), 
+ AS MS$(
+V), 
+ AS MS$(
+W), 
+ AS MS$(
+X), 
+ AS MS$(
+Y), 
+ AS MS$(
+Z), 
+ AS MS$(
+[), 
+ AS MS$(
+\), 
+ AS MS$(
+]), 
+ AS MS$(
+^), 
+ AS MS$(
+_), 
+ AS MS$(
+`)
+ #
+ AS XXX$,
+ AS MS$(
+a), 
+ AS MS$(
+b), 
+ AS MS$(
+c), 
+ AS MS$(
+d), 
+ AS MS$(
+e)
+ #
+mLONUM
+(LONUM$):HINUM
+(HINUM$):EOI
+(EOI$)
+To:
+ ***** initialize header record to zeros
+^o
+ I3
+e:
+ MS$(I3)
+):
+ho
+ LONUM$
+):
+ HINUM$
+):
+ EOI$
+ro
+wo
+ "Initialization complete."
+|o
+Hq:
+**** COMMAND parser.  read CMDLN$ at LOCn giving PARM$.
+\q:
+**** If EOLN, then set PARM$=""
+aqPARM$
+""
+fq
+ LOCN
+ LOCN
+ ER$
+"E:BBS29030 - Bad LOCn count.":
+ N:
+pq
+ LOCN
+(CMDLN$) 
+(" ()-+=[]`'.,/<>\|:;",
+(CMDLN$,LOCN,
+))
+zq LOCN 
+ LOCN 
+ LOCN 
+(CMDLN$) 
+ PARM$
+"":
+ LOCN
+(CMDLN$) 
+(" ()-+[]`'.,/<>\|:;",
+(CMDLN$,LOCN,
+)) 
+ FALSE
+q  PARM$
+PARM$
+(CMDLN$,LOCN,
+q  LOCN 
+ LOCN 
+0u:
+ ******** Error Processing Routines
+2u
+9 
+ "Comm. Error. ";
+):
+3u
+E 
+Nu
+5u
+ "?";
+:u
+Du
+Nu
+0u  :
+ force hangup. geez!
+SuBADC
+BADC
+ BADC
+d 
+Xu
+(IN)
+:  DUM$
+$(
+(IN),IN):
+]u
+bu
+  :
+loop idle
+x7
+2 
+ EOI
+EOI
+,EOI:
+0u :
+ oops, error
+\v
+2 
+fv
+0u :
+ oops, error
+$w
+5 
+.w
+0u
+5 
+t@
+0u
+5 
+0u
+Px
+5 
+Zx
+0u
+ps, error
+$w
+5 
+.w
+0u
+5 
+t@
+0u
+MZ
+4z4
+Jv
+N?
+Jv
+ w
+~-X
+N?
+5'
+D8
+~,D
+4t
+d$7$7
+7|
+$?$?
+z4M
+^K
+^D
+^^U
+<N!
+^w
+dD
+>D
+^D
+^D
+^w
+PK
+^w3
+^^^U
+<N,
+Ru
+,Y
+Wz
+Uv
+Wx
+dd3
+dd3
+dd
+z4
+4D8
+~,D
+QQNc
+7~<7
+=7
+?t
+4z,
+t1
+t 
+=$
+?z-~
+4%
+=$
+w5
+u2
+kz5~
+4%
+ X
+Dd
+hKN
+^K
+^i
+..
+Returning system to normal...
+<a
+t SOFTWARE
+BE SURE ALL FILES ARE SAVED ON DISKETTE
+BEFORE CONTINUING.
+Do you wish to continue (Y/N)? $Missing or bad parameter
+$Not enough b
+memory for QuadRAM DRIVE
+$Not enf
++V
+;V
+B;V
+ue
+u\
+u%
+;F
++V
+u%
+;F
++V
++V
+;V
+J;V
++V
++F
+uq
+;F
+|i
++F
+ui
+;F
+|a
++F
+Do you think Ronnie's re-election is inevitable?
+P:
+}!
+ ,,
+ ,,
+!(
+ A
+!)
+XON$
+):XOFF$
+):FALSE
+:TRUE 
+ FALSE
+!-
+J1
+:CNT
+:LTIM
+:B$
+"":C$
+"":P$
+""
+".
+LF$
+):CR$
+):BK$
+):CL$
+4"/
+ STATUS$ 
+ "wait"
+P"0
+ MONITOR
+TRUE:ECHO
+TRUE
+w"1
+ IN
+:TERM
+:LINEFEED
+TRUE:TLIM
+"2
+"Please select drive for files (A or B)?  ";
+"<
+DSK$
+"A:"
+"F
+ I
+"P
+ A$
+ A$
+"" 
+#Z
+(A$,
+"a" 
+(A$,
+"A" 
+ DSK$
+"A:":I
+I#d
+(A$,BADC
+d 
+Xu
+(IN)
+:  DUM$
+$(
+(IN),IN):
+]u
+bu
+  :
+loop idle
+x7
+2 
+ EOI
+EOI
+,EOI:
+0u :
+ oops, error
+\v
+2 
+fv
+0u :
+ oops, error
+$w
+5 
+.w
+0u
+5 
+t@
+0u
+5 
+0u
+Px
+5 
+Zx
+0u
+ps, error
+$w
+5 
+.w
+0u
+wrror. ";
+):
+3u
+E 
+Nu
+5u
+ "?";
+:u
+Du
+Nu
+0u  :
+ force hangup. geez!
+SuBADC
+BADC
+ CHUCK   COCO KID  84-10-0621:39:02TTFFTT
+84-10-04Y
+TYPO    MULTILITH 84-10-0717:37:13TTFFTF
+84-10-04?
+MIDNIGHTRFFV      84-10-0601:05:35TTFTTF
+84-10-04?
+WARLORD ETRWED    84-10-0407:54:06TTFFTF
+84-10-04?
+MANAHATHBOZO      84-10-0815:06:47TTFTTF
+84-10-07?
+STILETTOR500SS    84-10-0413:32:20TFFTTT
+84-10-04Y
+LUM     PLUG      84-10-0416:03:49TFFTFF
+84-10-04Y
+DRAGON  KIDO      84-10-0417:17:55TTFTTF
+84-10-04?
+ROCKET_MLAUNCH    84-10-0515:23:28TFFFTF
+84-10-05?
+ZIGGY   PHONE     84-10-0920:10:16FFTFFF
+84-10-05N
+SNORKY  TRACE     84-10-1319:40:21FTFTTF
+84-10-05Y
+GLEN    SINGER    84-10-0522:41:17FTFFTF
+84-10-05?
+SINGER  CHICA     84-10-0522:42:54TTFFTF
+84-10-05?
+GUEST   CORVAIR   84-10-0601:03:13TTFFTF
+84-10-03?
+TROILUS INNERTUBE 84-10-0712:27:40TFFFTF
+84-10-07?
+KRISTEN HI*       84-10-0711:56:40TTFFTT
+84-10-06N
+PNESSUTTHART      84-10-0723:50:50TTTTTF
+84-10-04?
+DSF     RB1JS34   84-10-0623:31:37TTTTFF
+84-10-04U
+MORK    BYTE      84-10-1322:18:55TTTTTF
+84-10-07?
+TEST    MAIL      84-10-0505:21:33TFFFTF
+84-10-05?
+JIM     BEREK     84-10-0511:18:34TTTTTF
+84-10-05?
+DUX     PINTAIL   84-10-0615:06:49TTFTTF
+84-10-05?
+CTHULHU YOGSOTHOTH84-10-0819:06:06TTFTTF
+84-10-06?
+TINA    CRUM      84-10-0819:09:38TTFTTF
+84-10-05?
+MANAHATHSCOTCH    84-05-0317:45:44TTFFTF
+84-04-11?
+BYE     BYE       84-04-2915:06:26FTFTTF
+84-04-29?
+TWM     AZY6212   84-04-2411:48:03TFTTTF
+84-04-11?
+ALBERT  AAMM      84-04-1111:24:03TFFFTT
+84-04-11?
+DESIGN
+FORUM
+MTHP
+THP
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxMzq LOCN 
+ LOCN 
+ LOCN 
+(CMDLN$) 
+ PARM$
+"":
+,N
+ LOCN
+(CMDLN$) 
+(" ()-+[]`'.,/<>\|:;",
+(CMDLN$,LOCN,
+)) 
+ FALSE
+PN
+q  PARM$
+PARM$
+(CMDLN$,LOCN,
+fN
+q  LOCN 
+ LOCN 
+lN
+rN
+N0u:
+ ******** Error Processing Routines
+N2u
+9 
+ "Comm. Error.":
+N5u
+ "?"
+N:u
+2 
+5u :
+ oops, error
+!O\v
+2 
+APRIL   GUEST     84-04-1420:11:35TFFFTF
+84-04-14?
+ERIC    R2D2      84-04-1420:28:24TTFFTF
+84-04-14?
+KINGY   KNIGHTS   84-04-1420:40:44TTFFTF
+84-04-14?
+DICK    SWTP      84-04-1420:49:49FTFTTF
+84-04-14?
+_ Mail From: twill      84-10-09 19:26:23
+Hi, Theresa.
+I love you!
+From Garfield
+ aare you?
+This is Twill.
+I really haZZZZZEOFSTARSHIP E84-10-0815:41:05FFFTTF
+84-10-09?
+GARFIELDSTARSHIP E84-10-0815:41:05TTFTTF
+84-10-06Y
+ANDY    DOOD      84-10-0622:27:05FTFTTF
+84-10-06?
+D IT EARLIER, BUT THERE HAVE BEEN SOME STRANGE
+THINGS GOING ON, AND I WASN'T SURE IF WE WERE STILL GOING TO HAVE
+THE PARTY.  IF YOU CAN'T MAKE IT, WE JUST WON'T MENTION THAT IT WAS
+ORIGINALLY THOUGHT OF AS YOUR PARTY TOO.  LATOR..
+-MUG
+_ Mail From: Pnessutt   84-10-07 23:52:23
+Well.   I'll be in touch with you in the morning.
+Be prepared, Man.
+-MUG
+_ Mail From:T.?), AND YOU (OCT. 10TH?).  I'LL PROBABLY STILL
+CALL YOU ABOUT THIS SOON, BUT I FIGURED I'D LET YOU KNOW.
+I WOULD'VE MENTIONE_ Mail From: Troilus    84-10-07 12:29:31
+Hi Kevin.. Looks like Alan has his MBBS up and running
+under QNX now...  This would be an ideal place for an
+"announcement", wouldn't you think?  hehe..
+  See ya on J*.
+    Craig
+r QNX now...  This would IN    USERS     VOTE      WRITE
+     Pressing the ESC key will erase the current line.  Pressing
+the S-key will stop the display.  Pressing the I-key will inter-
+rupt the display.
+                  Long Help for the IBM-PC MBBS
+        The f have to be
+HIM.
+ Bob
+_ Mail From: typo       84-10-06 01:00:05
+I think we made a mistake in letting Dux stay on GamBit. She's now
+got more than a couple 'disgruntled' talk parlour devotees asking
+her for more information. I vote to close her account immediately.
+We can refund her measly 8 credits; fact of the matter is, once
+Bailey's system (if ever) comes up, she'll be long gone. I'm gonna
+bring this to a vote at the meeting on Monday. If his system never
+comes up, we'd still be smart in gettoan
+from it, and keep 10$ in a 'bank', and give them to me when I run out of credits
+s sometime..which
+ I hope is not soon..thanks
+Hope I can get them soon! boring night!
+P.s. I will be trying to reach you on GamBit tonight, so if I find
+you before you read this..disregard it please
+Thanks..
+(This is just like GamBit's mail )
+_ Mail From: AEK        84-10-07 18:15:37
+Good grief; stop being so paranoid.
+_ Mail From: garfield   84-10-07 19:58:51
+O.k. thanks. I think that Albatross will lend me another 25 though.
+Thanks..
+is this run on the same computer as GamBit(not same model,not same computer)
+Well,
+     must go, another relative died.
+_ Mail From: garfield   84-10-07 20:13:32
+       
+_ Mail From: garfield   84-10-07 20:18:17
+Typom,, i 
+am haveing ery bad terminal pr i mean problems..if you can read this
+which i hope you can..i am just gaetting garbage
+but i hioe you can read this
+anywaya, i didnt get paid, and will only be able to send 
+in10- 25 dlollars at most..
+sorry_ Mail From: aek        84-10-06 01:49:17
+You're overreacting to Dux.  People can find out about TL regardless
+of our crude attempts at censorship.  It will only make us look bad.
+And remember, if we let Dux hawk for TL on our system, then we
+can hawk GamBit on theirs. 
+Why not ask Dux if we can advertise for GamBit on her system?
+If she says no, then maybe give her the boot.  But I still think
+it's not a good approach.
+-Al
+_ Mail From: AEK        84-10-06 17:04:05
+I think we can gain far more subscribers by advertising on their
+board than they can ever get by advertising on ours.
+Ask Dux point-blank if we can advertise GamBit on her system.
+_ Mail From: Garfield   84-10-06 22:15:08
+Bob, 
+     As you can tell, I am now a member of this system, and I couldnt
+reach you because the guests ports where always full, so I thought maybe
+I could reach you here. I was wondering if you could borrow me 50 credits...
+There should be 80$$ coming in the mail to GamBit..you can subtract the lBLOG    BOZO      84-10-0614:47:41TTFTTF
+84-10-04?
+DITTO   TI4K      84-10-0615:26:05FTFTTF
+84-10-06?
+GARFIELDSTARSHIP E84-10-0815:41:05TTFTTF
+84-10-06Y
+ANDY    DOOD      84-10-0622:27:05FTFTTF
+84-10-06?
+SWEDE   DOOD      84-10-0710:10:52FFFTTF
+84-10-07?
+IAN     PORSCHE   84-10-0710:22:21FFFTTF
+84-10-07Y
+JEFF    UNDEAD    84-10-0711:00:57FTFFTF
+84-10-07?
+MIKE    TRID      84-10-0819:43:52TTFTTF
+84-10-07?
+LIET    CXE       84-10-0817:33:07FTFTTF
+84-10-08?
+BEAST   BEAST     84-10-0715:49:50TTFTTF
+84-10-07?
+COUATL  ZXCV      84-10-0817:04:24TTFFTF
+84-10-07Y
+KEJO    GU        84-10-0720:26:52FFFFTF
+84-10-07Y
+X       TEST      84-10-0721:30:01FFFTTF
+84-10-07Y
+TDS     JENNIE    84-10-0722:25:54FTFTTF
+84-10-07?
+PORSCHE PORSCHE   84-10-0722:53:28TTFTTF
+84-10-07Y
+WOODS   DEKE      84-10-0800:14:32TTFTTF
+84-10-08Y
+_ Mail From: CTHULHU    84-10-06 16:55:46
+HOWDY DUG..
+WE'RE HAVING A PARTY THIS FRIDAY (12TH) STARTING AT 7:30.
+IT'S SORT OF A MASS B-DAY PARTY.  IF YOU CAN MAKE IT, WE PLAN
+TO INCLUDE YOU AS CO-GUEST OF HONOR.  I DIDN'T MENTION IT EARLIER
+BECAUSE STRANGE THINGS HAVE BEEN GOING ON AROUND HERE, AND I WASN'T
+CERTAIN IF WE WERE GOING AHEAD WITH THIS OR NOT.  LET ME KNOW IF YOU CAN
+MAKE IT.
+   -MUG
+ ON AROUND HERE, AND I WASN'T
+CERTAIN IF WE WERE GOING AHEAD WITH THIS OR NOT.  LET ME KNOW IF YOU CYou can
+call me at 881-1116.  Tell Tim that I can't get him a
+free copy of the VIP term prog.  It'll cost him $50.
+Talk to you later.....
+            -Mike
+im that I can't get him a
+free copy of the VIP term prog.  It'll cost him $50.
+Talk to yoS USUAL, AM NOT INTO WRITING LONG
+MESSAGES, LATOR.
+-DOUG
+_ Mail From: mjb        84-05-03 18:14:25
+Hi!!  Well, I moved out.  I'm living in Bloomington
+now, near softlaw.  I'm living with Kim, needless to
+say, I'm not going out with Barb anymore.  _ Mail From: Troilus    84-10-07 12:31:04
+Howdy! Getting much use out of that PASCAL80 compiler?
+Looking for a good 'C' package for the PC.. I know the TRS now
+has a couple good ones - LC and ALCOR.. But I think I'd rather
+get it for the PC.... 
+  
+  Talk to ya later
+       Craig
+s a couple good ones - LC and ALCOR.. But I think I'd rather
+get it for the PC.... 
+  022 - User RANDOM   logged in.
+10-06-1984 20:31:35 M:BBS5022 - User snorky   logged in.
+10-06-1984 20:29:43 M:BBS5022 - User sTTING THE LOW VOLTAGE GO ON FOR TWO DAYS HERE.
+THE TRANSFORMERS JUST OUTSIDE MY APARTMENT LIT UP LIKE A 4TH OF
+JULY DISPLAY EARLY MONDAY MORNING THIS WEEK.  I CALLED NSP THAT
+DAY AND TOLD THEM OF THE PROPLEM AND THEY DIDN'T FIX IT
+UNTIL YESTERDAY.  COULD HAVE BEEN WORSE WHEN IT COMES TO MY STEREO,
+I COULD HAVE HAD MORE GET FRIED OUT THAN JUST TWO CAPACITORS.
+HMMM...  I DON'T KNOW ABOUT JEN, I WOULDN'T TAKE ANOTHER FALL WITH
+HER, THAT'S FOR SURE.  WELL, I'VE GOT TO BE RUNNING ALONG HERE.
+HAVE A NICE _ Mail From: snorky     84-10-07 15:09:41
+Kieth, you are on here.  I see you were last
+one to join.  Make sure you read the Mthb#2.
+Like we can convey via this mail.  
+Much better than twm's.
+-t
+ were last
+one to join.  Make sure you read the Mt
+ hour tonight!
+-Cathy
+_ Mail From: Speedy     84-04-30 13:28:37
+Grrr.  You missed a fun day.  John;Todd;Bobjr;Jeffad
+and I walked the entire 16 miles.  You didn't wake 
+up til 1:30?  Thanks Bill.
+_ Mail From: ESJ        84-04-30 18:06:56
+HI,HOWS IT GOING
+re 16 miles.  You didn't wake 
+up til 1:30?  Thanks Bill.
+_ Mail From: ESJ        84-04-30 18:06:56
+HI,HO
+place and such there.  Sigh!  We are meeting at
+the Dinkytown Mac & Dons at 7:30am tmrw
+!  Be sure to set your clock ahead an_ Mail From: TYPO       84-10-07 17:41:25
+Well, Kyle, I read your message on GamBit after Albatross advanced
+you the 25 credits. I'll lend you another 25 when I log back onto
+GamBit, which will bring the loans to $10. By the way, I understand
+your dad wanted to know how many credits you get for reaching $300.
+Well, since I already gave you credits at $100 and $200, what you
+will get at $300 is another 5 credits. As for MBBS mail looking like
+GamBit mail, it should since MBBS is the GamBit help board. See you
+on GamBit.
+ BobSr
+_ Mail From: twill      84-10-09 19:24:14
+hi, Kyle! HOW aare you?
+This is Twill.
+I really hate not being able to see what I'm writing!
+ill      84-10-09 19:24:14
+hi, Kyle! HOW aare you?
+This is Twill.
+I really hawanted to know how many credits you get for reaching $300.
+Well, since I already gave you credits at $100 and $200, what you
+will get at $300 is another 5 credits. As for MBBS mail looking like
+GamBit mail, it should since MBBS is the GamBit help board._ Mail From: ZIGGY      84-10-09 20:17:59
+I'M SURE YOU'VE HEARD OF EXCALARUGGIE'S SCEPTER-CLONE.  DID YOU KNOW THAT
+HE HAS SOLD COMPUSERVE ON IT, AND IS WRITING IT FOR THEM?
+   BILL
+P.S.  YES, I HAVE THE DISK.
+CLONE.  DID YOU KNOW THAT
+HE HAS SOL
+84-04-13 09:59:26
+Talked to Doug  on GamBit this am; he tells me you told him to get GAMDOC
+modem transfer from RISDOS this weekend. I mentioned your doing markup on
+hard copy and that you should get it to him. (If this thing doesn't get
+done this weekend.......)
+ BobSr
+P.S. I also mentioned to Doug that you wanted to meet him at office when he
+loads new talk.
+_ Mail From: jmr        84-04-14 01:16:14
+Hiho, Alan..  Like, this silly MBBS brings back memories of MAIL/TOPICS..
+I'm prly going to tr, but my dad did say it was a 99% chance
+i would get the other money loaned from me back this weekend
+so, just dont expect to see me around as much
+expect to see me much anymrmore..(sigh,no GamBit hardly)
+well, bye
+eekend
+so, just dont expect to 
+Typom,, i 
+am haveing ery bad terminal pr i mean problems..if you can read this
+which i hope you can..i am just gaetting garbage
+but i hioe you can read this
+anywaya, i didnt get paid, and will only be able to send 
+in10- 25 dlollars at most..
+sorrylled and apparently had been vali-
+dated but was unable to enter a message, being told the memory was full.
+That used to be the ploy on Ziggy's when you weren't validated to write.
+If you get the chance, leave a message to STEVE POWELL and tell him that
+if he gets a subscription to GamBit IMMEDIATELY, he can have codename
+EXCALIBUR. If he dawdles any longer, I will give it to TODD LEVI who ori-
+ginally requested it (I spoke voice to TODD and asked him to relinquish
+it, and he agreed). But I'm not goi_ Mail From: MANAHATH   84-10-07 22:41:35
+I'LL HAVE TO SEE IF I CAN MAKE IT YET, BUT I'LL KEEP IT IN MIND.
+(MY BIRTHDAY IS THE 9TH)
+-DOUG
+ATH   84-10-07 22:41:35
+I'LL HAVE TO SEE IF I CAN MAKE IT YET, BUT I'LL KEEP IT IN MIND.
+(MY BIRTHDAY IS THEING A PARTY ON THE 12TH.  IN THEORY, IT'S SORT OF A
+MASS B-DAY PARTY FOR ME (OCT. 19TH), SPENCER (OCT. 13TH),
+BRIAN (EARLY SEPT.?), AND YOU (OCT. 10TH?).  I'LL PROBABLY STILL
+CALL YOU ABOUT THIS SOON, BUT I FIGURED I'D LET YOU KNOW.
+I WOULD'VE MENTIONE
+-Bob
+_ Mail From: Pnessutt   84-04-04 00:05:11
+I think I'll just call you about my ideas.
+_ Mail From: Pnessutt   84-04-04 00:05:34
+Your system is bumming, badly..
+-Bob
+nk I'll just call you about my ideas.
+_ Mail From: Pnessutt   84-0e.  Sound good?
+I'll try GAMBIT again tonite (I want to see what
+TYPO says) and I drop you another note.
+Hope you liked the Pizza.  My tummy sure did.
+The bumper Sticker probably wasn't the best
+gift, but it seemed appropriate at the time.
+Goodnite.
+BYE     MADDOG    84-10-0802:10:40FFFTTF
+84-10-05?
+MADDOG  MADDOG    84-10-0803:04:27TFFTTF
+84-10-05N
+HOSER   BUNNY     84-10-0814:49:12TTFTTF
+84-10-08U
+PETER   MONGO     84-10-0815:55:44TTFTTF
+84-10-08?
+TWILL   3568      84-10-0919:21:56FFTFTT
+84-10-09?
+JERRY   SKIPPER   84-10-0919:46:41FTFFTT
+84-10-09?
+JLS     BREAK     84-10-1321:23:01TTTFTF
+84-10-13N
+ZZZEMPTYRADICAL   84-10-1319:22:02TFFFTF
+84-10-13Y
+ZZZZZEOFBREAK     84-10-1318:49:55FFFFTF
+84-10-13?
+JERRY   SKIPPER   84-10-0919:46:41FTFFTT
+84-10-09?
+JLS     BREAK     84-10-1318:49:55TTFFTF
+84-10-13?
+ZZZZZEOF3568      84-10-0919:21:56FFFFTF
+84-10-13?
+RANDOM AND 
+JUST HAVE A 
+CERTAIN ## OF MONSTERS
+TO 
+HOW MUCH TREASURE THERE IS (SAY 1 MONSTER FOR 1 TREASURE)
+WELL, 
+I WILL SORT 
+ALL OF THIS OUT...   
+I 
+WILL 
+BE GETTING MY PERMIT SOON. 
+IF 
+I 
+HOLD A B 
+AVERAGE, IT DOESN'T 
+MA
+MATTER. 
+ FORGIVE 
+ALL 
+THESE 
+ARROWS (_____)  IT IS 
+PART MBBS AND MY COUPLER.
+OH WELL, I 
+SHOULD HAVE 
+MY PERMIT BY THE END OF THE WEEK.  THEN
+I 
+WILL HAVE TO FIND 
+SOMEONE WHO 
+IS 
+WILLING TO 
+SIT IN THE CAR W
+HILE I
+PRACTICE 
+IN 
+A 
+PARKING LOT...
+-MIKE
+_ Mail _ Mail From: STEVE      84-04-12 13:09:33
+THIS IS TEST OF THE EMERGANCE BROADCASTING SYSTEM:
+111111111111222222222222222696969696969696969696969
+I REPEAT..THIS IS ONLY A TEST...
+IF THIS HAD BEEN REAL YOU W....
+SORRY,BDP, I JUST HAD TO RUGOUT.
+-STEVE
+6969696969
+I REPEAT..THIS IS ONLY A TEST...
+IF THIS HAD BEEN REAL YOU W....
+SORRY,BDP, I JUST HAD TO RUGOUT.
+-STEs gonna load new talk program over the weekend; if true, maybe
+we can meet at the office and he can sign his papers too. Give mE BACON.
+FEELING MUCH BETTER NOW, THANKS!1!
+SO, YOU GOT KICKED OUT OF THE BAND FOR MISCONDUCT EH?   GOOD GOING...
+I HEARD TARTEN CLOSED DOWN BECAUSE THEY FOUND THE DRINKING WATER WAS
+FILLED WITH PCB'S...  I HOPE YOU DON'T GET THIRSTY A
+ LOT...
+OH YES, GREEN MILL BLEW UP AND PA
+SS THE HAM..
+(NO, I AM NOT ON DRUGS!)
+(I STAYED UP UNTIL 2:30 AM LAST NIGHT AND STILL HAVEN'T 
+FALLEN YET...)
+()()()
+WAIT!
+(   *  )   (  *   )
+         '
+      ------
+               ^ - MOVE EAND YAS DEAD!
+HEHEHAHHHEHEHA_   1 From: vidix     84-05-01 01:37:43   # 181
+170
+/eor
+#&'()*./2358;>@ABCEGHILMNOP
+_   1 From: vidix     84-05-01 01:41:22   # 182
+aufweidersein freunden
+/eor
+()*./2358;>@ABCEGHILMNOPQ
+_ Mail From: Speedy     84-05-03 13:23:52
+   Ahh.. of course getiong a car would cut the bike
+usage quite a bit.  I used to bike to all my softball games
+and anywhere else near-bye that I had to go.   Now it
+is just 'Heh Mom!   I'm taking the car!'  and the bike
+has been forgotten.
+  
+    A garbage can lid?   OUCHE!!!!
+   I might just be a spectator at the combat frisbee.. who
+knows.
+-Cathy
+otten.
+  
+    A garbage can lid?   OUCHE!!!!
+   I might just be a spectator at the combat frisbee.. xed,
+so now it's the stereo's turn to crump out. What
+is it this time? Geeez...I'm beginning to think
+it advisable to keep expensive electronics out of your
+apartment.
+  We got a new garage door (finally). It's real nice...
+and it's opaque. Noticably darker in the garage now...
+(the old one was fiberglas and quite translucent)
+  Later.
+     ...Joe
+'s opaque. Noticablyow she doesn't. Shit. I've
+been rejected. Nice girl, too. (can you guess who?)
+  Oh I get it, you finally got your terminal fi_ Mail From: MANAHATH   84-04-17 17:45:57
+I AM NOT ASSOCIATED WITH SFAF, INFACT, I DISLIKE THEM.
+_ Mail From: MJS        84-04-20 18:13:25
+HAHAHAHAHAHHHAHHAHAHAHAHAHAHAHAHAHAHA
+HAHHAHHAHAHAHAHAHAHAH BYBYBYBYBYEBYEBYBEYBYEYBYEYBYE
+SAY BYE BYE BYE BYE
+TO ALL YOUR CODENAMES.....
+_ Mail From: archon     84-04-26 18:37:06
+ How's it going guys?
+            -Archon
+ BY:23 M:BBS5022 - User 12398712 logged in.
+ogged in.
+04-17-1984 10:08:35 M:BBS5022 - User K        logged in.
+04-17-1984 09:38),
+A,G  A WOULD BE A(2)! NOT A(10,10)...  WHEN I TRY IT, I GET AN FC
+ERROR!  ????? IS THIS THE NEW 1.1 ROM OR WHAT?
+CONFUSION SETS IN...........
+OH YES, READ YOUR MAIL MORE..
+AND PLEASE RESPOND!
+OH YES, I SAW "WOF" IN THIS MONTHS RAINBOW (TOM MIX "WORLDS OF FLIGHT")
+_ Mail From: MJS        84-04-15 23:24:14
+GRR!
+WOF IS A FLIGHT SIMULATOR THAT SOUNDS PRETTY GOOD.  DO YOU THINK I SHOULD
+GET IT?  I WILL GIVE YOU A COPY IF I DO (CAN).  I HAVE THIS WHOLE WEEK
+OFF, MAYBE I WILL STOP BY.
+-MIKE
+__ Mail From: MJS        84-04-26 21:37:26
+TCCCC IS UP, BUT YOU NEED A PASSWORD...
+YOU HAVE TO BE A MEMBER OF TCCCC TO GET ON IT..  
+-MIKE
+_ Mail From: MJS        84-04-30 23:12:04
+NOPE, RANGER HASN'T LOGGED IN YET..
+DARN! THIS SYSTEM IS ALWAYS BUSY!  I AM  GOING TO FIND OUT WHAT
+THE '$($&( IS GOING ON HERE.
+-MIKE
+SN'T LOGGED IN YET..
+DARN! THIS SYSTEM IS ALWAYS BUSuckers!
+                 Ha ha,
+                    Archon
+_ Mail From: archon     84-04-24 16:45:47
+How did you like theERITSS..  WHAT COULD HE DO?  (EVEN IF HE IS REALLY PART OF MERITSS?)
+NEITHER OF US GET ON MERITSS...
+ARE YOU SURE IT AIN'T GBS?   I HOPE TO FIND OUT WHO IT IS...
+WELL, LATER.
+-MIKE
+ITSS?)
+NEITHER OF US GET ON MERITSS...
+ARE YOU SURE IT AIN'T GBS BOARD OR AT LEAST FROM WRITING
+ME!  HE SAYS HE IS FROM G.A.G.B.A.T.????
+WHAT EVER THAT IS...  OH WELL, I WILL FIND OUT HIS PASSWORD AND HEH..
+DO YOU WANT SOME OF HISLITTLEFUNLETTERS?
+I WILL GLADLY GIVE HIM YOUR NAME AND SAY YOU HAVE BEEN HACKING ON
+M_ Mail From: MJS        84-04-23 19:37:02
+BEHOLD, HE LIVES!  
+JUST READ -THE HOBBIT-.  GREAT BOOK.  
+I THOUGHT IT WAS JUST PLOT, ACTION AND NO REAL THEME, BUT NEAR THE END, 
+I FINALLY CAUGHT HIS THEME..  WORTH THE WAIT..  TRY READING IT!
+I THINK I WILL READ THE REST OF HIS BOOKS NOW...  
+  OH YES, DO YOU KNOW WHO RANGER IS?  HE HAS BEEN SENDING ME
+MESSAGES STATING THAT I AM HACKING ON MERITSS...  ETC.
+OR AT LEAST, WHAT IS G.A.G.B.A.T.????
+GADS!  I WAHT TO FIND OUT WHY HE IS SENDING ME THIS STUFF..
+WELL, LATER.
+-MIKE
+_ Mail From: MJS        84-04-24 17:21:53
+WHO IS RANGER?  AND WHAT IS G.A.G.B.A.T.??
+-MIKE
+F..
+OT, ACTION AND NO REAL THEME, BUT NEAR THE END, 
+I FINALLY CAUGHT HIS THEME..  WORTH THE WAIT..  TRY READING IT!
+I THINK I WILL READ THE REST OF HIS BOOKS NOW...  
+  OH YES, DO YOU KNOW WHO RANGER IS?  HE HAS BEEN SENDING ME
+MESSAGES STATING THAT I AM HACKING ON MERITSS...  ETC.
+OR AT LEAST, WHAT IS G.A.G.B.A.T.????
+GADS!  I WAHT TO FIND OUT WHY HE IS SENDING ME THIS STUFF..
+_ Mail From: DSF        84-04-12 20:28:42
+Larry = Triton?  If so .. when will the Ghost of MECC be up?
+_ Mail From: DSF        84-04-25 14:41:01
+Hello?
+:28:42
+Larry = Triton?  If so .. when will the Ghost of MECC be up?
+_ Mail From: DSF    
+st me megga-bucks to join 
+what's that comment about you in gambit
+(70-88) somewhere in there "shelly" says
+that when she logs off you will probably
+get on and win some contest, what contest ?
+why don't you tell me you're code word and
+name so i can try gambit (the other 484-3636
+pay kind) . i promise i will only use it for 10 
+minutes to try this game. i will pay you for the
+credits i use, o.kk.
+**********************
+*    so long goon, *********
+*******  undlin  ********
+_ Mail From: myrt_   3 From: mjb       84-05-03 18:31:55   # 250
+Ziggy, I thought you went to an obedience school,
+how many memories could there be there?
+     -Mike
+/eor
+_   6 From: DUX       84-04-28 21:16:32   # 215
+MANAHATH --
+THE NAT'L GUARDSMEN WERE ONLY
+DOING THEIR JOBS (THE ONES
+YOU* HIRED 'EM TO DO).
+PLEASE BE KIND. "NO GO'S" NEED
+LOVE, TOO.
+/eor
+_ Mail From: ESJ        84-05-01 18:25:58
+DOESN'T YOUR MODEM NUMBER WORK?
+HOW OLD ARE YOU?
+TYPE BACK SOON
+SEE YA!
+      -LIZ
+From: ESJ        84-05-01 18:25:58
+DOESN'T YOUR MODEM NUMBER WORK?
+HOW OLD ARE YOU?
+TYPE BACK SOON
+SEE YA!
+      -LIIN    USERS     VOTE      WRITE
+     Pressing the ESC key will erase the current line.  Pressing
+the S-key will stop the display.  Pressing the I-key will inter-
+rupt the display.
+                  Long Help for the IBM-PC MBBS
+        The fyour words of course) on
+GamBit again, Cath. As I've said too many times already but will
+repeat again, when you're not able to log on, I really miss you.
+Don't ask me why a guy my age should be so concerned with a girl
+your age, but that's just the way it is. I'm not talking anything
+stupid like you-know-what; really just friendship. And also as I've
+said before, I don't want the kid (male) users to get funny ideas
+relating to you and me (they have already hinted to me about 'we've
+got something goNIGLER  }         84-04-1818:13:57FFFTTF
+84-04-16?
+MORADIN MECC      84-05-0316:48:43TFFTTF
+84-04-22?
+KOVARIK COYOTE    84-04-2316:56:08TFFTTF
+84-04-16?
+MARJOE  WILEY     84-04-1613:49:27TFFFTF
+84-04-16?
+CJR     DGHJ      84-05-0115:31:54TTFFTF
+84-04-17?
+KARIB   JOEL      84-04-1616:02:58TFFTTF
+84-04-16?
+DISKPYRO777JUMP   84-04-1710:10:33TTTFTT
+84-04-16?
+TRE     N         84-05-0111:57:14FFFFTF
+84-05-01?
+_ Mail From: Pnessutt   84-04-30 23:57:37
+Hi.  Like, long time no see or Talk.  How
+are things going?  Still going out with Barb?
+Ah well.  I should give you a call sometime.
+Do yyou still live in the same place?  If so, I'll
+give you a call.
+-Bob
+_ Mail From: Speedy     84-05-01 05:42:21
+Hi Mike!
+   Wow.. it has been a long time since I hav
+ heard from you.  Are you going to subscribe
+to GamBit?    Gotta run,
+                       Cathy
+_ Mail From: Pnessutt   84-05-03 01:22:18
+Hello?
+_ Mail From: Moradin    84-05-03 16:50:10
+Sure thing..  Hey, Mike..  
+Would there be anyway I could get a copy of that from you?
+I could use a good Termprog, but, I cant afford to buy one..
+How bout it?
+Momrent's birthday was Yesterday..  
+She says "Hi Mike!"
+-Tim
+d Termprog, but, I cant afford to buy one..
+How bout it?
+Momrent's birthday was Yesterday..  
+She saoing to subscribe
+to GamBit?    Gotta run,
+                       Cathy
+_ Mail From: Pnessutt   84-05-03 01:22:18
+Hello?
+GRIMACE SMURF     84-04-3013:58:35TTFFTF
+84-04-16?
+CRAIG   USA       84-04-1618:53:36TTFTTF
+84-04-16?
+JERALD  J8E6      84-04-1619:00:03TFFFTF
+84-04-16?
+RONALD  ROCK      84-04-1619:47:52TFFFTF
+84-04-16?
+SCANNER HAYES     84-04-2913:58:55TTFTTF
+84-04-29?
+DOROTHY BOOKS     84-04-1712:10:13TTFFTF
+84-04-17?
+ROB     ROB       84-04-1720:36:44TTFTTF
+84-04-17?
+QUANTH  CYBER     84-04-1713:42:06TTFFTF
+84-04-10?
+_ Mail From: ZIGGY      84-04-15 18:52:22
+YOUR MESSAGE GOT TRUNCATED AT ONE LINE, BUT I THINK I UNDERSTAND.
+WHAT IS GOING ON IS THIS:  I HAD TO RESTRICT WRITE PRIVLEDGES FOR
+'UNVALIDATED' USERS DUE TO EXTREME ABUSE. (E.G. 1/2 THE MESSAGE FILE WAS
+FILLED BY A RUGGIE AT ONE POINT!) AND LATELY, DUE TO IT'S BEING MOVED TO
+TWM'S SYSTEM (I'M TIRED OF THE SYSOP BUSINESS, AND TOO BUSY TO DO IT
+RIGHT ANYMORE) I'VE CLOSED THINGS TO NEW USERS.  TWM WILL TAKE CARE OF 
+THAT WHEN I GET THE DATABASE TO HIM (NEXT THURSDAY EVENING).
+    ZIGGY
+OSED THINGS TO NEW USERS.  TWM WILL TAKE CARE OF 
+THAT WHEN I GET THE DATABASE TO HIM (NEXT THS THIS:  I HAD TO RESTRICT WRITE PRIVLEDGES FOR
+'UNVALIDATED' USERS DUE TO EXTREME ABUSE. (E.G. 1/2 THE MESSAGE FILE WAS
+FILLED BY A RUGGIE AT ONE POINT!) AND LATELY, DUE TO IT'S BEING MOVED TO
+TWM'S SYSTEM (I'M TIRED OF THE SYSOP BUSINESS, AND TOO BUSY TO DO IT
+RIGHT ANYMORE) I'VE CLOSED THINGS TO NEW USERS.  TWM WILL TAKE CARE OF 
+THAT WHEN I GET THE DATABASE TO HIM (NEXT THAT!"
+   Gotta run.. school time,
+                          Cathy
+_ Mail From: DSF        84-05-03 16:34:42
+I got a superior rating in the trio of Bugler's Holiday at state .. the
+one with all the sixteenths, heh .. OK, a fair appraisal.  Why should I
+keep in mind that all the stuff is copyrighted?  What would I do with it?
+You mean copy it, and start sending it to everyone and their cousin?  I wouldn't
+do that .. I don't even have to tape decks!  Well, I'll finally get to remem-
+ber your old codename!  You wrote a song about it?  On this tape, is their
+any singing, or just instrumental stuff?
+mem-
+ber your old codor rating in the trio of Bugler's Holiday at state .. the
+one with all the sixteenths, heh .. OK, a fair appraisal.  Why should I
+keep in mind that all the stuff is copyrighted?  What would I do with it?
+You mean copy it, and start sending it to everyone and their cousin?  I wouldn't
+do that .. I don't even have to tape decks!  Well, I'll finally get to remem-
+ber your old codPAT     MILLER    84-04-1816:46:41TTFTTF
+84-04-18?
+JO      BLO       84-04-1714:55:33TTFFTF
+84-04-17?
+DAVE    SHIT      84-04-1715:07:02TTFFTF
+84-04-10?
+GLEN    DRIVER    84-04-1715:30:49TTFTTF
+84-04-17?
+STEVE   ABUSER    84-04-1715:39:17TTFTTF
+84-04-17?
+QWERTY  QWERTY    84-04-2015:12:20FTFTFF
+84-04-17?
+GBS     FDSA      84-04-1716:08:15FTFTTF
+84-04-17?
+WILL              84-04-1716:13:20FFFFTF
+84-04-17?
+KYLE    OOPS      84-04-1716:23:25TTFTTT
+84-04-17?
+OLSON   DAVID     84-04-1716:31:57TTFFTF
+84-04-17?
+WILLLL  NONE      84-04-1720:50:17TTFTTF
+84-04-17?
+DANIEL  REBEL     84-04-2021:59:06FTFTTF
+84-04-17?
+DRBOB   ST. PAUL M84-04-1723:36:51TTFTTF
+84-04-17?
+BOB     PH.D.     84-04-1723:58:10TTFTTF
+84-04-17?
+SOCCER  MARK      84-04-1800:25:23FFFFTF
+84-04-18?
+WHIZ    167RSSJ   84-04-1801:08:12TFFFTF
+84-04-16?
+_ Mail From: MJS        84-04-17 19:12:32
+QWERTYQWETRTYQWERTYQWERTYQWERTYQWETYQWERTYQWERTYQERTYQWERTYQWERTY
+BURP
+222! RUGOUT!
+QQWERQQQERWQRQRWTRIQ
+QQWWEERRTTYY
+69! RUGOUT!
+UFUFUFUFU 
+ULF UFL FUFUFU  USFL
+_ Mail From: qwerty     84-04-18 17:25:37
+       from manahath:
+           i am not associated with  sfaf,infact,i dislike them.
+                archon
+_ Mail From: archon     84-04-20 15:06:12
+ell us if your going to do anything
+this weekend.
+                      -Archon
+_ Mail From: MJS        84-04-22 00:29:29
+===========================
+HAVE A HAPPY EASTER!
+===========================
+()()()
+HOPE YOU NEVER EAT AN EGG THAT WAS CRACKED..
+_ Mail From: MJS        84-04-24 20:53:29
+GREG, WHAT'S UP?  WHATCHA BEEN DOIN?  (BURP!)  HOW IS LIFE WITH
+A C-64?  LIKE THEM SLOW DISK DRIVES??  TRY AND MAKE A GRAPHICS PROGRAM
+IN BASIC..  OH WELL, YOU COULD HAVE BOUGHT AN APPLE...
+-M.I.K.E.
+_ Mail From: archon     84-04-26 18:37:04
+ How's it going guys?
+            -Archon
+_  11 From: Couatl    84-05-03 17:31:22   # 248
+EVERYTHING* you say is stupid.
+Everything you SAY is stupid.
+Everything <YOU> say is stupid.
+Everything you say is >> STUPID <<.
+I beleive I'vee said  all, no we can
+stop saying it!
+ Everything you say is stupid.
+            X    X
+           X    X
+ `       You say everything is stupid.
+M i feeling strange or wHAt?
+/eor
+_   1 From: MANAHATH  84-05-03 17:49:35   # 249
+NO, JUST EVERYTHING YOU SAY IS DUMB.
+/eor
++,-./013456789:<=>
+_   8 From: Moradin   84-04-30 16:17:42   # 179
+It would be nice to type a long report into Gambit, and have
+it turn the printer function on for the computer, so that a person
+could list it out..  That would be nice..  How bout a Travler type
+game..  You have one for AD&D, now how bout Travler, or even
+Top Secret..  If you are in need of one to be written, talk to
+Dougahatth..  He could write it..  He is Joe Topsecret..  
+Heh.
+-Tim
+/eor
+_   2 From: brucelee  84-04-30 20:21:09   # 180
+129
+179
+/eor
+#&'()*./2358;>@ABCEGHILMNO
+_   1 From: Achilles  84-04-29 14:59:41   # 177
+"Everything you say is redundant."
+/eor
+*+/03469<?ABCDFHIJM
+_   2 From: Alby      84-04-30 11:40:43   # 178
+  'Due to circumstances beyond our control...' GamBit will be down until about
+3:00 p.m. today.
+/eor
+Austria-Hungary are in a rather dangerous position,
+because they are surrounded by potential enemies.
+Germany can get it from France, Austria-Hungary, and
+Russia. Austria can get fried by Italy and Turkey (ahem),
+perhaps Germany and Russia.
+  The thing that I like best about the game is that it
+isn't really a computer game, but rather a game played
+by people through the computer. You're matching wits
+against someone else, rather than a bunch of 1's and 0's.
+I think it's neet.
+  And it sher beats S  And it sher beats Scarfman.
+      ...Joe
+/eor
+ecause they are surrounded by potential enemies.
+Germany can get it from France, Austria-Hungary, and
+Russia. Austria can get fried by Italy and Turkey (ahem),
+perhaps Germany and Russia.
+  The thing that I like best about the game is that it
+isn't really a computer game, but rather a game played
+by people through the computer. You're matching wits
+against someone else, rather than a bunch of 1's and 0's.
+I think it's neet.
+  And it sher beats S_   2 From: DSF       84-10-06 23:33:08   # 266
+(I almost hate to say this ..): ColecoVision stuff + Atari stuff, FORSALE.
+If interested, write me .. ColecoVision + cartridges + adapter.
+/eor
+_   2 From: ZIGGY     84-05-03 17:14:43   # 247
+OOPS... C/BAD/BAND/ IN THE 3RD LINE ABOVE.
+   ZIGGY
+/eor
+13456789:<
+_   5 From: DUX       84-04-28 21:13:02   # 175
+(OOPS!)
+... SO THEY DON'T KNOW MY
+IDIOSYNCRACIES, ETC.
+   
+TRY IT, YOU'LL LIKE IT!!!!!
+/eor
+_  21 From: Breath    84-04-28 22:39:34   # 176
+Mike,
+  There are 7 countries that you can be. They are:
+England, France, Germany, Russia, Turkey, Austria-Hungary
+and Italy. Each country has its pluses and minuses.
+For example, like DSF said, France has an advantage at
+the start of a game, because she can capture Spain and
+Portugal, and perhaps even Belgium. England has a
+defensive advantage because it is surrounded by water,
+but this is an offensive disadvantage. Germany and
+Austria-Hungary are imore armies or fleets (one per supply center captured).  But if you
+subscribe to GamBit, they'll send you documentation on it ..
+/eor
+t out with three fighting units
+(armies or fleets), except Russia, which has four,'cause it's so
+big .. France has an advantage, because it can take over Spain and
+Portugal right away, and get "supply centers".  There are various
+special cities all over that are called "supply centers".  If a
+country captures supply centers that aren't it's, it gets to build
+more _  15 From: DUX       84-04-28 21:12:10   # 174
+MIKE --
+IF YOU SUBSCRIBE TO GAMBIT YOU'LL
+GET GAMDOC (SYSTEM DOCUMENTATION),
+AS WELL AS DOCUMENTATION FOR A
+GAMES.  IF YOU DON'T GET IT RIGHT 
+AWAY, LEAVE MAIL FOR TYPO. I DID,
+& RECEIVED THE INTRIGUE DOC 2 
+DAYS LATER.
+ALSO -- INTRIGUE IS ACTUALLY A BIT
+MORE LIKE "DIPLOMACY." I LIKE
+THE TIMESHARE VERSION BETTER
+BECAUSE I NEVER COULD NEGOTIATE
+WELL FACE TO FACE WITH MY FRIENDS.
+THIS WAY, NO ONE HAS TO KNOW WHO
+I AM,     
+/eor
+_  16 From: LESKA     84-10-13 19:35:48   # 270
+THE SYSOP IS A MOTHER-FUCKING HOMO AND SLEEPS WITH HIS DOG (OH, - PARDON I MENT 
+JUST KIDDING I LOVE THE SYSTEM.
+KISSIE, KISSIE
+        LOVE, MIKE BENDICKSON
+  
+         @@   @@
+        @@@@ @@@@
+       @@@@@@@@@@@
+       @@@@@@@@@@@
+        @@@@@@@@@
+         @@@@@@@
+          @@@@@
+           @@@
+            @
+   
+P.S. I WANT YOUR FATHERS ****
+/eor
+_   1 From: jmr       84-10-13 21:21:51   # 271
+Oh, Alan..  Isn't the lyfe of a Sysop just peachy?
+/eor
+/012456789:
+WWI!  WHAT ARE ALL THE OPTIONS ON INTRIGUE?  IS THERE A WWII OR
+WWIII SIMULATION OR IS IT JUST WWI?  THE GAME IS QUITE CLOSE TO
+RISK, JUST MORE ADVANCED.. (REALLY ADVANCED.)  
+:::---:::
+WHEN SCEPTER COMES UP AND THERE IS NO OPEN PORTS, WILL GAMBIT EXPAND
+OR WILL IT STAY THE SAME??
+SORRY IF MY MESSAGE IS CHOPPY, I AM QUITE TIRED.. (JUST GOT
+OFF WORK.)
+-MIKE
+/eor
+NTRIES ARE THERE?  IS ONE BETTER THAN ANOTHER?
+RUSSIA REALLY KICKED THOSE OTHER COUNTRIES..  THEY MUST HAVE STARTED
+WWI!  WHAT ARE AL_   9 From: DSF       84-04-28 19:13:03   # 173
+GamBit is gonna expand to 16 ports later, hopefully ..
+On Intrigue, all the countries start out with three fighting units
+(armies or fleets), except Russia, which has four,'cause it's so
+big .. France has an advantage, because it can take over Spain and
+Portugal right away, and get "supply centers".  There are various
+special cities all over that are called "supply centers".  If a
+country captures supply centers that aren't it's, it gets to build
+more _   1 From: jmr       84-10-13 21:21:51   # 271
+Oh, Alan..  Isn't the lyfe of a Sysop just peachy?
+/eor
+/012456789:
+_   2 From: LESKA     84-10-13 19:27:49   # 269
+OH...NEVER MIND
+LOVE PAUL (KISSIE,KISSIE)
+/eor
+)*+,-./01245678
+_   2 From: LESKA     84-10-13 19:27:49   # 269
+OH...NEVER MIND
+LOVE PAUL (KISSIE,KISSIE)
+/eor
+)*+,-./01245678
+_  16 From: LESKA     84-10-13 19:35:48   # 270
+THE SYSOP IS A MOTHER-FUCKING HOMO AND SLEEPS WITH HIS DOG (OH, - PARDON I MENT 
+JUST KIDDING I LOVE THE SYSTEM.
+KISSIE, KISSIE
+        LOVE, MIKE BENDICKSON
+  
+         @@   @@
+        @@@@ @@@@
+       @@@@@@@@@@@
+       @@@@@@@@@@@
+        @@@@@@@@@
+         @@@@@@@
+          @@@@@
+           @@@
+            @
+   
+P.S. I WANT YOUR FATHERS ****
+/eor
+_   1 From: bye       84-10-08 02:16:23   # 267
+maddog
+/eor
+ !#$%&'()*+,-./01234678
+_   4 From: AEK       84-10-08 03:46:54   # 268
+Current vote tally on the question:
+'Do you think Ronnie's re-election is inevitable?'
+Yes: 15.   No: 4.  Undecided: 2.
+/eor
+_   7 From: Shell     84-04-28 17:25:12   # 171
+Yea Flash I have the same idea.
+It could be done on a one port BBS.  I'm trying to do it
+now but unfourtunatly I'm getting stuck writing the data files.
+Can't decide upon everything I need.  Everytime I put in a command
+I decide I need something new.
+Oh well I think I got it now.
+*Steve*
+/eor
+_  16 From: MJS       84-04-28 18:53:36   # 172
+YA, GAMBIT IS ALREADY LOOKING QUITE NICE..  THE "TALK" IS A
+VERY NICE PROGRAM..  THE RATES AREN'T BAD EITHER..  WELL, I'LL GET MY
+ACT TOGETHER AND GET 100 CREDITS OR SO..
+OH, THANKS FOR LETTING GUESTS READ "INTRIGUE1"!  THAT SURE CLEARS
+UP WHAT INTRIGUE IS ABOUT..  IT LOOKS AWFULLY COMPLICATED THOUGH..
+HOW MANY ACTUAL COUNTRIES ARE THERE?  IS ONE BETTER THAN ANOTHER?
+RUSSIA REALLY KICKED THOSE OTHER COUNTRIES..  THEY MUST HAVE STARTED
+WWI!  WHAT ARE AL_   1 From: RANDOM    84-10-06 21:04:10   # 265
+I DIDN'T KNOW YOU WROTE FICTION, ALAN..
+/eor
+*+,-./012345678:
+_   2 From: DSF       84-10-06 23:33:08   # 266
+(I almost hate to say this ..): ColecoVision stuff + Atari stuff, FORSALE.
+If interested, write me .. ColecoVision + cartridges + adapter.
+/eor
+_  16 From: AEK       84-10-06 20:18:54   # 264
+Attention University students!
+The University Computer Center (UCC) is having a Student Job Fair
+at Lauderdale this month on October 17th.  
+If you are a University student with a background in computer science,
+this is your chance to get a good part-time job while persuing your
+degree.  
+UCC is one of the fastest growing computer service organizations in
+the country.  It provides real hands on experience with state-of-the
+art hardware (Cyberart hardware (Cyber, Cray-1, Cray-2, VAXen, graphics, languages, 
+networking) to supplement your computer science education.
+Look for more information in the Minnesota Daily during the upcoming
+week!
+/eor
+ersity student with a background in computer science,
+this is your chance to get a good part-time job while persuing your
+degree.  
+UCC is one of the fastest growing computer service organizations in
+the country.  It provides real hands on experience with state-of-the
+art hardware (Cyber_   9 From: random    84-10-06 09:33:00   # 262
+Hummah..  Interesting times.
+Poor Snorks..  If I'd had my way,
+you would have got a $300,000 fine,
+and the death penalty..  But alas..
+UCC whimps out when it shouldn't have..
+Methinks I'm going to go shadowhunting again..  Laytor for a week or so.
+ Random, Lord of Amber.
+/eor
+_   1 From: TWM       84-10-06 19:42:56   # 263
+"NUFTY"
+/eor
+ !"#$%'()*+,-./01234567
+_   1 From: CTHULHU   84-10-05 14:30:18   # 260
+NICE TO SEE IT BACK...
+/eor
+!"#$%&'(*+,-./01234567
+_   2 From: snorky    84-10-05 22:24:15   # 261
+Why did my name get purged overnight?
+-Snorks
+/eor
++,-./01234567
+_   2 From: DSF       84-10-04 22:27:40   # 258
+I think Alan said it would be down for months, but not forever .. why
+is it back, and why did it leave?
+/eor
+_   1 From: AEK       84-10-04 23:25:03   # 259
+It was down because I needed my PC for a special project.
+/eor
+1234567
+_   1 From: Schlep    84-10-04 15:30:51   # 256
+7 bits,even parity here...
+/eor
+ !"#%&'()*+,./01234567
+_   4 From: Snorky    84-10-04 20:11:20   # 257
+Nice to see this back up Alan.  Thought you said
+it wasn't going to go back up though?
+I won't complain I guess.
+-snorks
+/eor
+_   6 From: Random    84-10-03 18:24:00   # 254
+Bullshit.
+Try getting on it with 8 bits, no parity someday.  Doesn't work too damned good.
+Happie!  Glad to see the Mbbs back...
+is it going to stay*, though?
+ -J
+/eor
+_   1 From: Achilles  84-10-03 20:02:54   # 255
+Works dandy with no parity.  And space parity.  And maybe some others.
+/eor
+_   2 From: aek       84-10-03 16:47:31   # 252
+Test
+/eor
+ !"#$%&')*+,-./0234567
+_   5 From: TWM       84-10-03 18:01:34   # 253
+GAWDS.  CALL A BOARD THAT GETS ACCESSED MORE THAN ONCE IN FOUR MONTHS.
+-T
+-884-7951.
+(NO, THERE WERE NO PARITY CHANGES, THERE NEVER WAS, NEVER WILL BE,
+ BARRING ANOTHER LIGHTNING STRIKE. GRRR)
+/eor
+_   3 From: CPC       84-04-28 13:36:19   # 169
+ -Has GAMBIT been bought out by this 'Quantum Software Systems'?
+Or is it my imagination.
+-chas
+/eor
+_   1 From: elric     84-04-28 15:06:31   # 170
+I hate being logged out.  Blow up.
+/eor
+()*.123459:=>@CFIKL
+_  11 From: Flash     84-04-28 00:47:58   # 168
+Sceptic. I get shivers thinking about how great its gonna be!
+Lets not have any more dragons wrecking the town tho hokay?
+Intrigue: I dont like it, not becuase the game isnt good, which
+it is, but becuase of its lack of a true multi player
+personality. It could be done on a one port board, and I feel
+a gipped feeling maybe playing it. That, and plus I suck at
+the game and am conserveing credits.
+You are right not to buy into something you havent seen, You are right not to buy into something you havent seen, but
+Mike you knew MECC, GamBit is exactly the same cept without
+Scepter for now...
+ /John
+/eor
+ tho hokay?
+Intrigue: I dont like it, not becuase the game isnt good, which
+it is, but becuase of its lack of a true multi player
+personality. It could be done on a one port board, and I feel
+a gipped feeling maybe playing it. That, and plus I suck at
+the game and am conserveing credits.
+You are right not to buy into something you havent seen, 
+ !"#$%&'()*+-/01346789
+_   6 From: TYPO      84-04-25 00:45:32   # 263
+What do I like about GamBit....... Let me count the ways.... 
+Oh no, that's another story.
+Well, what I like most about GamBit are GamBit's subscribers.
+No, Breath, Shell, et al., it's not that they pay money, it's
+who and what they are.
+/eor
+_   2 From: DUX       84-04-25 08:59:02   # 264
+AND JUST WHAT KIND OF DUCK DO YOU
+THINK I AM?
+/eor
++,-./01235678
+_   4 From: DSF       84-04-25 14:40:40   # 265
+You can't* ask what you like most about GamBit on this system ..
+if y'all don't realize it, you can only have three choices for answers!
+Yes, No, and Undecided!  These could stand for other things, but only
+three!  No essay questions ..
+/eor
+_  10 From: Shell     84-04-25 16:48:22   # 266
+What do you mean.  This isn't a vote question this is
+a special survey I am conducting.
+Ok we'll make it a yes, No, undecided question
+Do you like Intrigue?
+Yes, No, Never played it(undecided)
+Not another garbage collection.  This thing is beginning to remind
+me of my atempt to create a Pilot interpreter in BASIC
+One garbage collection every two commands or so.
+*Steve*
+Well what do you expect it was a 1,000 line Pilot program.
+/eor
+_   1 From: Achilles  84-04-25 19:53:31   # 267
+That's what you get for using BASIC, though..
+/eor
+-./012456789:
+_   4 From: Achilles  84-04-25 20:06:16   # 268
+Say, is it possible for the password to be entered on the
+same physical line as the name at login?  'twould make it
+that much slicker to auto-logon.  (Gee this is a nice terminal.)
+ -B
+/eor
+_   2 From: Shell     84-04-26 16:36:13   # 269
+You mean like Gambit?
+I don't know try it next time.
+/eor
+/01234567
+_   4 From: Shell     84-04-26 16:37:08   # 270
+Oh yea BASIC is the only thing I got.  'C' is on the waiting list
+COBOL I haven't figured out yet and ALGOL is just as slow.
+PASCAL is hard to use.  We got JRT ver 2
+*Steve*
+/eor
+_   1 From: john      84-04-27 00:09:39   # 271
+you can't kill me, I'm already dead!!!!!!!!!!!!!
+/eor
+-/0123456789
+_  12 From: TRUDEAU   84-04-27 01:43:13   # 272
+HELLO, i'M NEW AND PROBABLY
+WONT BE HERE LONG FOR LEAVING THIS "RUGGIE" TYPE
+MESSAGE.(YES I DO TO KNOW
+WHAT A RUGGIE IS!!) 
+ANWAYS HERE GOES.
+THERE IS A NEW BBS CALLED
+MATCHMAKER. THE HRS ARE
+11PM TO 9AM AND THE PW
+IS FRITZ. THE NUMBER IS
+529-3044 LOG ON AND LEAVE
+A MESSAGE. MAYBE WE'LL
+CHAT.
+/eor
+_   4 From: Shell     84-04-27 11:01:13   # 273
+Why?
+why would you want such a BBS.  There ain't very many
+girls using computers.
+dumb real dumb
+/eor
+_   3 From: WARLORD   84-04-27 12:04:26   # 274
+WHY IS IT EVERYTIME I GET ON THIS BOARD, I GOTTA
+REJOIN MY CODENAME.  IS THE USER FILE FULL OR WHAT?
+-GORDY
+/eor
+_   2 From: n         84-04-28 13:26:56   # 275
+274
+/eor
+ !"#$%&()*+,-./0123456
+_   2 From: Shell     84-04-28 17:20:12   # 276
+Maybe AEK should fill a whole disk for the user names.
+Log on once a day and your name should be there.
+/eor
+_   2 From: mjb       84-04-30 18:57:19   # 277
+how come i always get double line feeds?
+            -mike
+/eor
+123456
+_   3 From: ATH       84-04-30 19:31:02   # 278
+DEAR ZIGGY,
+YOU DON'T KNOW ME BUT I JUST GOT A MODEM.
+DO YOU KNOW ANY GOOD NUMBERS?
+/eor
+_   2 From: ZIGGY     84-04-30 20:08:00   # 279
+WHY DO RUGGIES PICK ON ME?
+   ZIGGY
+/eor
+'()*+,-./012345678
+_   2 From: ZIGGY     84-04-30 20:08:31   # 280
+P.S. 1.055E-27 IS MY FAVORITE.
+    ZIGGY
+/eor
++,-./0123456789
+_   3 From: mjb       84-04-30 20:57:22   # 281
+Well Zig, I guess it's because you're the biggest
+ruggie of all.  By the way, 69 is my favorite...
+      -MIKE
+/eor
+_   4 From: MJS       84-04-30 23:17:22   # 282
+WHY IS THIS SYSTEM ALWAYS BUSY??  THIS IS THE FIRST TIME I
+COULD GET ON HERE ALL DAY!  GADS!  I HAVE BEEN TRYING SINCE 3:30 PM!
+ALAN?  DO YOU HAVE THAT MANY ACTIVE USERS???
+-MIKE
+/eor
+_  12 From: BBS       84-04-30 23:30:00   # 283
+Don't miss AMATEUR FAIR 84 Saturday June 2nd at the
+Minnesota State Fairgrounds.  AMATEUR FAIR is 
+Minnesota's Largest Electronics and Computer Swap and
+Show, for Personal Computer Users, Electronics
+Hobbyists and Amateur Radio Operators.  There will be
+Commercial Exhibitors, Giant Flea Market, Club 
+Activities, and Demonstrations.
+    
+Call our BBS for more show information.  The BBS can
+be called on 291-0567 *24 Hours* at 300 baud.
+   
+See you JuSee you June 2nd at the State Fairgrounds!!
+/eor
+ miss AMATEUR FAIR 84 Saturday June 2nd at the
+Minnesota State Fairgrounds.  AMATEUR FAIR is 
+Minnesota's Largest Electronics and Computer Swap and
+Show, for Personal Computer Users, Electronics
+Hobbyists and Amateur Radio Operators.  There will be
+Commercial Exhibitors, Giant Flea Market, Club 
+Activities, and Demonstrations.
+    
+Call our BBS for more show information.  The BBS can
+be called on 291-0567 *24 Hours* at 300 baud.
+   
+See you Ju_   4 From: Shell     84-05-01 14:30:37   # 284
+Sorry I got school that day.
+What is so great about 69?
+*Steve*
+002-0015
+/eor
+_   5 From: Breath    84-05-01 15:10:31   # 285
+School? Isn't that a saturday? Hmmm...
+    ...Joe
+ps Steve, there was a rather long message on Ziggy's
+that 'splained the significance of 69, 222, and others.
+If you missed it...such is life.
+/eor
+_   2 From: ZIGGY     84-05-01 16:44:12   # 286
+ACTUALLY, IT WAS ON TWM'S.  I'M OUT OF THE BUSINESS.
+   ZIGGY
+/eor
+45789
+_   3 From: Speedy    84-05-01 17:31:36   # 287
+  Don't worry Steve, someday you will learn the
+significance.  It may take you awhile, but perhaps
+SOMEDAY.
+/eor
+_   6 From: Achilles  84-05-01 17:48:25   # 288
+Hope not.
+Silly Mike.  The BBS sends linefeeds after carriage returns,
+and* your terminal is adding them.  (Go to the Terminal Parameters
+menu and set Linefeeds to None.)
+ -B
+/eor
+_   1 From: Speedy    84-04-29 04:53:09   # 216
+Thank you, thank you, thank you!
+/eor
+-/0123456789:;<=>?@A
+_   4 From: MANAHATH  84-04-29 09:16:42   # 217
+IF I HAD TO HIRE SECURITY PERSONS I COULD DO BETTER THAN THAT BUNCH
+OF DROPOUT REJECTS, I WAS WALKING ALL OVER THE PLACE AND THEY NEVER
+SAID A WORD, FACE IT, THESE GUYS ALONG WITH THE LOCAL POLICE ARE NOTHING
+BUT A BIG JOKE.
+/eor
+HHHH    LL        84-04-1817:30:57FFFTTF
+84-04-18?
+ED      ED        84-04-1818:24:22TTFTTF
+84-04-18?
+RANGER  RANCHER   84-05-0120:45:32FTFTTF
+84-04-18?
+TINA    BOWIE     84-04-2816:32:57TTFTTF
+84-04-18?
+ALBY    SIDA      84-06-2820:33:29TTFTTF
+84-04-19?
+TARGET  PHOT      84-04-2408:14:58TTFTTF
+84-04-20?
+MONDO             84-04-2009:19:45TFFTTF
+84-04-20?
+SNARF   EGGS      84-04-2010:23:31TTFFTF
+84-04-15?
+PETER   1Z        84-04-2500:17:42FFFTTF
+84-04-18?
+KILLROY HERO-I    84-04-1809:53:41TFFFTF
+84-04-18?
+WILLIAM NEW       84-04-1811:41:00TTFTTF
+84-04-18?
+OF      FHELLO    84-04-1811:54:23TFFFTF
+84-04-17?
+FLASH   JUMP      84-05-0113:58:40FTFTTF
+84-04-18?
+ERU     XYZZY     84-04-2406:57:20TTFTTF
+84-04-24?
+SAMSON  SAMSON    84-04-2420:19:54TFFFTF
+84-04-24?
+XXMICO  PSST      84-04-1816:58:16TTFFTF
+84-04-18?
+_   1 From: MANAHATH  84-04-11 20:24:50   # 139
+MISSED DINNER FOR FOUR BY ONE.
+/eor
+*+,./0235678:;<=>?@BC
+_  10 From: Shell     84-04-09 17:39:54   # 134
+Ok kovarik.  What kind of D&D program is it?
+What is it a BBS?
+Sounds like a real nice Idea.  I have attempted to write one myself
+only my creative juices don't flow fast enough when I get to the
+Fighting monsters part.
+Its really boring saying He Bit you!
+Or You hit him!
+*Steve*
+Wouldn't there be something in the manual telling how to hang up?
+/eor
+_ Mail From: Speedy     84-04-21 09:08:36
+Hmm.. I won'T write much.  I will stop by there
+before heading to Minicon today and see if you want
+to come.
+_ Mail From: MORADIN    84-04-21 21:10:35
+Well, AD&D didn't get off the ground..  Sorry about that.
+Maybe some friday night..   As for me, I have tomorrow off,
+and then back to school..  Phuck.. Well, I'm goin for my lisence
+on Wedsday..  Hope I get it, then, I w
+can drive out and see yous anytime I want..  That will be tasty..
+Well, I have to get off the phone, how bout that Softball team?
+-Tim
+_ Mail From: Pnessutt   84-04-26 01:24:13
+Remember, Softball on Sunday.  
+Silverpoint Park, 6:15. 
+If you need a ride or such, contact
+Tim.  -Bob
+04-26 01:24:13
+Remember, Softball on Sunday.t.
+Maybe some friday night..   As for me, I have tomorrow off,
+and then back to school..  Phuck.. Well, I'm goin for my lisence
+on Wedsday..  Hope I get it, then, I w
+can drive out and see yous anytime I want..  That will be tasty..
+Well, I have to ge_  22 From: Shell     84-05-01 14:28:21   # 183
+I agree with Breath Intrigue is really not a computer game but a board
+game in which the computer(console in this case) is the referee.
+Intrigue is only a WWI simulation.  But if you played long enough I suppose
+to could get to 1945.  But it doesn't take that long for a game.
+ I think we need to make a point here.  Turkey is at a disadvantage.
+Here he is,  he's got two paths each one is dangerous.  Of course if
+he has a fleet then he has three.  But if he has a fleet then he has three.  But if your fleet is sunk your gone.
+Took me 2 years to get constantinople back.
+If austria gets constantinople and destroys your fleet your in trouble.
+First off you will probably have 2 armies one in asia minor and one in
+ankara.  First you have to get constantinople.  Now you have to wait for
+a fleet to be built.  convoy over to Greece then attempt to capture
+Bulgaria.  Your pry wondering why you don't go east thru Armenia and
+Georgia.  Mainly because once you moEXCEIVEREXC       84-05-0318:57:11TTFTTF
+84-04-20?
+THEBLACK]         84-04-2019:44:44FTFFTF
+84-04-20?
+TROLL   TROL      84-04-2019:55:39TFFTTT
+84-04-20?
+TREANT  TRNT      84-04-2020:01:42TFFFTF
+84-04-20?
+RUSTIE  C-64      84-04-2020:24:49TTFFTF
+84-04-20?
+ROLSON  RO        84-04-2021:08:49FTFTTF
+84-04-20?
+ROBERT  SANDY     84-04-2021:44:14TTFFTT
+84-04-20?
+AXICOR  TEST      84-04-2022:12:01FFFTTF
+84-04-20?
+_ Mail From: MJS        84-04-20 18:03:08
+GOD, YOU SCARED THE HELL OUT OF ME!  I DON'T EVEN HAVE ACCESS TO THE U'S COMPUTE
+NOW, WHO??  UM.........
+_ Mail From: MJS        84-04-20 18:15:23
+THERE IS A RANGER CODENAME DOUG!  STOP MESSING WITH IT!  READ YOUR OTHER MAIL 
+FOR MORE INFO.
+_ Mail From: MJS        84-04-22 00:31:32
+WELLEVENTHOUGHYOUALMOSTREALLYMESSEDTHINGSUPAROUNDHERE,IHOPEYOUHAVEAGREAT
+EASTER.ISTILLCAN'TFIGUREOUTWHOYOUARE..GIVEMEASIGN!!
+-MIKE
+_ Mail From: MJS        84-04-22 22:08:34
+GADS! IT TAKES FOREVER TO READ YOUR MESSAGES!
+IF YOU REALLY ARE SERIOUS, FINE, DO WHAT YOU WILL WITH THE PERSON
+YOU HAVE BEEN MONITORING!!!
+I NEVER GET ON MERITSS SYSTEM!  WHAT'S ON THERE?  NOTHING!
+BUT, I STILL CAN'T FIGURE OUT WHO YOU ARE!  I THOUGHT YOU WERE DOUG,
+BUT HE SAYS THAT HE HAS NO IDEA ON WHAT I AM TALKING ABOUT..
+(YOU FIT PERFECTLY AS DOUG THOUGH!  LONG BORING STORY..)
+WAIT!  MAYBE YOU ARE.....
+STAYTUNEDFORTHENEXTMESSAGECOMINGUPSOON!HEH
+                                          _   1 From: ESJ       84-05-01 18:22:26   # 289
+IS ANYONE OUT THERE?SOMEBODY WRITE SOMETHING TO ME!
+/eor
+2345789:;<
+_  11 From: Breath    84-05-01 18:45:47   # 290
+Hay Alan!!!! Your clock is an hour behind. All the rest
+of us sprang (or maybe just kinda stumbled) ahead.
+As long as I'm typing this...
+  In looking at the previous issue of Nat'l Geographic,
+I found a map of Lancaster County, Pennsylvania. I
+thought it was rather interesting some of the names
+they have for towns around there. Besides Lancaster,
+the two that stick out in my mind are "Bird-In-Hand"
+and "Intercourse." Hmmm...
+     ...Joe
+/eor
+_   1 From: Achilles  84-05-01 21:30:58   # 291
+There's a lewd joke hidden in there somewhere..
+/eor
+2345789:;<=>
+_   5 From: ARRGH     84-05-02 13:56:34   # 292
+AEK:
+Could ya please fry TREK? It's me and I must have put in the wrong
+PW.  I'll get back on as TREK again as soon as it is fried.
+THANX
+                 JOHN
+/eor
+_   1 From: Achilles  84-05-03 07:57:53   # 293
+That sure was a neat infinite-login bomb, Alan..
+/eor
++,./01234567
+_   2 From: DSF       84-05-03 16:27:40   # 294
+Uh .. yeah, what was that?  Please enter your name:
+wrong password.  Please enter ..
+/eor
+_   4 From: mjb       84-05-03 18:24:50   # 295
+Heh, I remember when cathy discovered the meaning of 
+'WENCH'.   hehe... .  Say Brian, I still get a funny
+double line feed...  Bum me out.
+    -Mike
+/eor
+_   2 From: TWM       84-10-03 18:05:10   # 296
+WOW, DEJA VU, AGAIN.
+-T
+/eor
+ !"#$%&'()+,-./01234567
+_   1 From: Achilles  84-10-03 20:04:45   # 297
+Wonder if Mike's still getting double-linefeeds...
+/eor
+-./01234567
+_   2 From: CORVAIR   84-10-03 21:49:53   # 298
+CAN SOMEONE LEAVE ME A MESSAGE ON ANOTHER BOARD
+EXPLAINING DATA STPP ,AND PARITY FOR THIS SYSTEM? ADDRESS IT TO CORVAIR
+/eor
+_   1 From: aek       84-10-04 02:59:58   # 299
+300,8,n,1.  Why on another board?
+/eor
+&'(*+,-./0123456789
+_   1 From: dsf       84-10-04 22:41:54   # 300
+Because he prob'ly can't read this board .. glitches.  Wrong # of bits!
+/eor
+_   3 From: AEK       84-10-04 23:24:04   # 301
+This board was renamed from MBBS to DESIGN.  It's for the general
+discussion on the design of human interfaces, especially those
+for bulletin boards, multi-user systems, and networks.
+/eor
+_   9 From: aek       84-10-05 04:45:36   # 302
+I'd like to get some feedback on the idea of reading BBS's
+by machine.
+That is, having a machine that automatically interrogates BBS's
+for news messages and downloads them to disk at 3 in the morning
+without human intervention.
+The human can then wake up the next morning and scroll through
+all the previous day's messages at 19,200 baud on his hardwired
+/eor
+_  12 From: aek       84-10-05 04:48:28   # 303
+computer terminal.  He can use his favorite text editor to scan
+for keywords, page up and down, etc.
+The human can then reply to selected messages.  The replies
+are batched together and sent to the various BBS's automatically
+while the human goes on and does other things.
+Obviously this setup requires a multi-tasking operating system.
+With the advent of UNIX, of course, multi-tasking will soon
+be widespread in the microcomputer world.
+What doWhat do you think?
+/eor
+5 04:48:28   # 303
+computer terminal.  He can use his favorite text editor to scan
+for keywords, page up and down, etc.
+The human can then reply to selected messages.  The replies
+are batched together and sent to the various BBS's automatically
+while the human goes on and does other things.
+Obviously this setup requires a multi-tasking operating system.
+With the advent of UNIX, of course, multi-tasking will soon
+be widespread in the microcomputer world.
+What do_   8 From: ZIGGY     84-10-05 19:05:18   # 304
+FIRST, I DON'T LIKE UNIX, SO I WON'T BE USING IT FOR MULTI-TASKING.
+SECOND, IT WOULD SLOW DOWN THE INTERACTION CYCLE.  LET'S SAY THAT THE
+USER SEES A MESSAGE AND WANTS TO MAKE A TIMELY RESPONSE.  BUT IT IS NOW
+11:30 IN THE MORNING, AND HE WANTS TO MAKE A FAST REPLY TO A MESSAGE
+THAT WAS SENT AT 11:30 THE LAST NIGHT.  HE IS 12 HOURS OUT OFDATE, AND
+THINGS COULD EASILY GET WORSE.   BESIDES, WHAT GOOD ARE BBS' IF YOU CAN'T
+HAVE FUN WITH THEM?
+    ZIGGY
+  
+/eor
+m: ZIGGY     84-10-05 19:05:18   # 304
+FIRST, I DON'T LIKE UNIX, SO I WON'T BE USING IT FOR MULTI-TASKING.
+SECOND, IT WOULD SLOW DOWN THE INTERACTION CYCLE.  LET'S SAY THAT THE
+USER SEES A MESSAGE AND WANTS TO MAKE A TIMELY RESPONSE.  BUT IT IS NOW
+11:30 IN THE MORNING, AND HE WANTS TO MAKE A FAST REPLY TO A MESSAGE
+THAT WAS SENT AT 11:30 THE LAST NIGHT.  HE IS 12 HOURS OUT OFDATE, AND
+THINGS COULD EASILY GET WORSE.   BESIDES, WHAT GOOD ARE BBS' IF YOU CAN'T
+HAVE FUN WITH THEM?
+    ZIGGY
+ _   2 From: Achilles  84-10-06 01:44:19   # 305
+Cute idea, Alan, but it seems to me that it would require a bit of
+standardization among the various boards.  Not likely.
+/eor
+_   1 From: BLOG      84-10-06 14:51:16   # 306
+HUMM, MANAHATH TELLS ME HIS PW EITHER GOT HOSED ON, OR HE FORGOT IT, IN ANY EVEN
+/eor
+_  20 From: AEK       84-10-06 17:11:45   # 307
+Granted that every BBS is unique.  How then, do you mechanize the
+process of logging in?
+The solution is to create a database of login formats.
+For example, the entry to log into TWM's MTHBoard is as follows:
+mthbtwm 300 n 8 1 ATZ OK ATDT 884-8571 CONNECTED \r\r\r NAME? AEK
+SSWORD? READER <wait 5> MMAND? READ <Start FROM> <End MMAND? <wait 10>>
+<bye BYE> <wait 10> +++ <wait 5> CARRIER
+The entry above describes the name of the system, the baThe entry above describes the name of the system, the baud rate, parity,
+bits, Hayes modem codes, phone number, login name, and password.
+It then proceeds to issue a READ command and begins downloading as soon
+as it sees the word 'FROM'.  It continues downloading until it sees
+the word 'MMAND?' with a 10 second pause.  It then issues a 'BYE' command
+and waits 10 more seconds.  If logout attempt failed, it issues a Hayes
+hangup code.
+Standardization is not a problem.
+/eor
+of the system, the ba_   1 From: Achilles  84-10-06 18:04:48   # 308
+That's pretty much what I was just thinking about.  Sort of.
+/eor
+24678:
+_   9 From: TWM       84-10-06 20:01:21   # 309
+NICELY AMBITIOUS, THOUGH THE ACTUAL PHONE NUMBER IS 884-7951.
+I SUPPOSE THAT WOULD DEFINETELY BE THE THING FOR THOSE WHO ARE
+CONTINUALLY BUSY.  THERE ARE THOSE WHO HAVE BOTH WORK AND SCHOOL,
+AND STILL WANT TO KEEP UP WITH THE BOARDS, THOUGH SOME OF THE
+BOARDS ARE NOT WORTH ALL THE EFFORT IN SUCH A PROJECT (EX: THOSE
+WITH GIMICKY SPINNING CURSORS, ETCETERA). 
+I DID SEE THE MESSAGE LEFT ON BOTH MTHBOARDS AND LIKED THE IDEA OF
+PERHAPS DOWNLOADING PROGRAMSPERHAPS DOWNLOADING PROGRAMS LONG DISTANCE AT A TIME WHEN RATES ARE
+LOWER.  NEAT STUFF.
+/eor
+S 884-7951.
+I SUPPOSE THAT WOULD DEFINETELY BE THE THING FOR THOSE WHO ARE
+CONTINUALLY BUSY.  THERE ARE THOSE WHO HAVE BOTH WORK AND SCHOOL,
+AND STILL WANT TO KEEP UP WITH THE BOARDS, THOUGH SOME OF THE
+BOARDS ARE NOT WORTH ALL THE EFFORT IN SUCH A PROJECT (EX: THOSE
+WITH GIMICKY SPINNING CURSORS, ETCETERA). 
+I DID SEE THE MESSAGE LEFT ON BOTH MTHBOARDS AND LIKED THE IDEA OF
+PERHAPS DOWNLOADING PROGRAMS_   1 From: MANAHATH  84-10-07 22:42:07   # 310
+I FINALLY WAS ABLE TO ACCESS AGAIN.
+/eor
+&'()*+,-./0245689;
+_   2 From: AEK       84-10-08 03:47:39   # 311
+There seems to be a recurring bug that causes codenames to get
+zapped when people hang up without logging out.  blah.
+/eor
+_   3 From: ZIGGY     84-10-09 20:13:20   # 312
+ANOTHER PROBLEM ON YOUR MENU:  THE MTHBOARDS USE 'CMD?' NOT 'OMMAND?'
+PICKY, YOU SAY?  EITHER THE PROGRAM HAS IT RIGHT, OR FORGET IT.
+    ZIGGY
+/eor
+_   2 From: snorky    84-10-13 19:43:16   # 313
+I guess the BBS here was down for a while eh>???
+-Snorks
+/eor
+245789:
+_   2 From: snorky    84-10-13 19:43:16   # 313
+I guess the BBS here was down for a while eh>???
+-Snorks
+/eor
+245789:
+_   1 From: MANAHATH  84-10-07 22:42:07   # 310
+I FINALLY WAS ABLE TO ACCESS AGAIN.
+/eor
+&'()*+,-./0245689;
+_   2 From: AEK       84-10-08 03:47:39   # 311
+There seems to be a recurring bug that causes codenames to get
+zapped when people hang up without logging out.  blah.
+/eor
+_  11 From: Breath    84-05-01 18:45:47   # 290
+Hay Alan!!!! Your clock is an hour behind. All the rest
+of us sprang (or maybe just kinda stumbled) ahead.
+As long as I'm typing this...
+  In looking at the previous issue of Nat'l Geographic,
+I found a map of Lancaster County, Pennsylvania. I
+thought it was rather interesting some of the names
+they have for towns around there. Besides Lancaster,
+the two that stick out in my mind are "Bird-In-Hand"
+and "Intercourse." Hmmm...
+     ...Joe
+/eor
+_   1 From: Achilles  84-05-01 21:30:58   # 291
+There's a lewd joke hidden in there somewhere..
+/eor
+2345789:;<=>
+_   3 From: DSF       83-09-06 20:14:08   # 128
+BY THE WAY, IT MIGHT BE NICE TO HAVE A PARAMETER TO THE 'USER' COMMAND
+(ER, USERS), THAT LET'S YOU SEE THE LAST TIME LOOGGED ON.  FOR ONE PERSON ...
+(GRR, I SWUASHED MY POINTER FINGER IN A DOOR.  TYPING'S NOT GREAT ...)
+/eor
+_  14 From: AEK       83-09-06 23:42:03   # 129
+Those pauses can be one of two things:
+1)  "String cleanup".  The CPU is pausing to do garbage collection
+     on the character strings.
+2)  "Console interrupt".  I am doing something on the console at
+     the same time you are doing something.  These pauses are
+     usually very long (15 seconds +).  They are done by 
+    breaking the program, changing a variable, and then
+    continuing the program.
+Yes, you may have noticed that this progYes, you may have noticed that this program is now running with
+interpreted BASIC.  The compiled version really was not any faster
+so...
+/eor
+ollection
+     on the character strings.
+2)  "Console interrupt".  I am doing something on the console at
+     the same time you are doing something.  These pauses are
+     usually very long (15 seconds +).  They are done by 
+    breaking the program, changing a variable, and then
+    continuing the program.
+Yes, you may have noticed that this progto a file for later perusal.  Until then if the system hangs you
+should wait about an hour before redialing again.
+-AL
+/eor
+ng for me to come fix it.  If I dont fix the error
+within an hour, then the program gives up and re-boots itself.
+The problem with a re-boot is that it wipes out the program and reloads
+it so I cant track down the bug.  I'm working on putting in a error 
+tracer that will dump the error, the line, and nearby variables
+to a file for later perusal.  Until then if the systemPETE    PETE      84-04-2022:26:41TFTTTF
+84-04-20?
+TOM     MAXX      84-04-3014:31:17TTFTTT
+84-04-29?
+RDR     RDR       84-04-2700:17:22TFFTTF
+84-04-20?
+EDWARD  6821      84-04-2102:50:09TTFTTF
+84-04-21?
+EAB               84-04-2102:55:14TTFFTF
+84-04-21?
+JETSON  GEORGE    84-04-2118:56:01TFFTTF
+84-04-21?
+JOHN    RIVER     84-04-2903:36:32TTFFTT
+84-04-10?
+KAILASH ROHAINDIA 84-04-2120:00:27TTFFTF
+84-04-21?
+_ Mail From: Breath     84-04-23 22:26:55
+I'm out of credits again. Pry won't buy more until
+pay-day (allowance-day) bumps around, which will be
+1-2 weeks. Blah.
+  So, how's life? Mine sucks. I never did finish all my
+homework, despite my 10-day vacation. I spent all my
+time doing notta thing. Just FUCKING. That's all I did.
+Wasting my time. {"God, am I proud of myself!"}
+  Hay, when are you getting the Mac? This here benchmark
+to my left sez the Tandy 2000 is a good deal faster than
+the Mac. The fastest out of these computers:
+Mac, Trash-80 Model II, IBM PC, Trash-80 model 4,
+model 16B, IIe, Model III, Model I, Model 100.
+Boy would I like to have one of those 2000's...
+(for the low low price of $2800!!)
+  Oh well, life sucks, and then you don't have any money...
+     ...Joe
+_ Mail From: Breath     84-04-25 15:23:57
+Don't like the Mac, huh? (I'll resist my temptation to
+play "ha-ha-I-told-you-so") But seriously, what has
+it got against you? (?)
+  Hmm..well, perhaps you could buy Cindee_   2 From: AEK       83-08-23 03:27:55   # 62
+Humm.. allowing "votes" is interesting.  If enough people
+want it, we can see.....
+/eor
+ut if it
+was before, I'm sure that was a good part of it too..
+When I was talking to her, she didn't seem* upset, or
+pissed about anything, it was after I wanted to talk 
+to Swb that she really got peeved..
+hmm.
+-j
+_ Mail From: random     83-08-23 14:32:23
+Hmm, a thought, when things are bothering Tina,
+please tell me..  =j
+-j
+_ Mail From: random     83-08-2out her mother not letting
+her come out, before the party..  I'm not sure if they
+had their fight before or after the party, b_   6 From: MJS       84-04-09 18:25:32   # 135
+I SORTA LIKE THE COMBATS OF D&D PROGRAMS...
+SCEPTER HAD (HAS) A GOOD COMBAT SYSTEM..  I DON'T LIKE THOSE 
+ADVENTURES WHERE YOU ARE CONSTANTLY READING TEXT AND TRYING TO
+FIGURE OUT WHAT A SCREW DRIVER CAN BE USED FOR BESIDES SCREWING
+SCREWS...
+-MIKE
+/eor
+_   6 From: ZIGGY     84-03-30 16:44:58   # 127
+*DO NOT* DISCHARGE A CAPACITOR WITH A WIRE TO GROUND!  IF IT IS A DECENT
+SIZED CAPACITOR, YOU WILL HARM THE CAPACITOR, MELT THE WIRE, AND QUITE
+POSSIBLE INJURE YOURSELF WITH THE MOLTEN METAL FLYING.
+INISTEAD, USE SOMETHING LIKE A 100OHM, 1 WATT RESISTOR, THAT WILL BE SAFE.
+ AS FOR THE TRANSISTOR TYPES, THEY ARE NPN AND PNP.
+    ZIGGY
+/eor
+_   9 From: Shell     84-03-20 15:13:40   # 99
+How to discover if a wire is negative or positive.
+First get your meter out of the closet.  Now take the black
+probe and the read probe(maybe different colors) Turn on meter
+to find voltage at about 50V now take the probes and stick it each
+one on a seperate wire.  Either three things will happen.
+1> The pointer will swing way over to the left.
+2> The pointer will swing way over to the right.
+3> The pointer will move towards middle of meter.
+1&2 can de1&2 can destroy the pointer.  If this happens immediatly disconnect
+/eor
+egative or positive.
+First get your meter out of the closet.  Now take the black
+probe and the read probe(maybe different colors) Turn on meter
+to find voltage at about 50V now take the probes and stick it each
+one on a seperate wire.  Either three things will happen.
+1> The pointer will swing way over to the left.
+2> The pointer will swing way over to the right.
+3> The pointer will move towards middle of meter.
+1&2 can de_  11 From: Shell     84-03-20 15:16:39   # 100
+Hit a bug there computer got slowed down.
+If the pointer swings over to the right.  Turn the meter control up
+to higher voltage.  ex. 100V
+If 2 then switch leads around.
+These steps are taken to make sure the meter still functions.
+After you are positive it works then decide which of the leads
+is negative.  It is usually black.
+the negative lead should be connected to negative wire.
+You have now either found out which polarity they are
+or you have buor you have busted the meter.
+*Steve*
+/eor
+Hit a bug there computer got slowed down.
+If the pointer swings over to the right.  Turn the meter control up
+to higher voltage.  ex. 100V
+If 2 then switch leads around.
+These steps are taken to make sure the meter still functions.
+After you are positive it works then decide which of the leads
+is negative.  It is usually black.
+the negative lead should be connected to negative wire.
+You have now either found out which polarity they are
+or you have bu_   3 From: G         84-03-20 16:19:14   # 101
+WHY ARE YOU TALKING ABOUT WIRES ??... 
+WHY CAN'T WE TALK ABOUT NEW BBS SYSTEMS ???... 
+I KNOW LET'S START ONE !!!!!!!
+/eor
+_  10 From: G         84-03-20 16:22:08   # 102
+OPPPPS.... ACCIDENTLY PUSHED RETURN.
+WHAT I WANTED TO SAY (OR TYPE) IS  WE WILL HAVE UN
+DOING THIS .
+HERE IS ONE        THE  MOTEL             
+                  612-788-8029
+  
+FROM  ***  SILVER NIGHT  ***
+/eor
+_   3 From: ALLEN     84-03-20 17:42:56   # 103
+90
+C/R
+CR
+/eor
+%&'()*+-.01235:;<>?@BCDEFGIKLM
+ext>":NOCR
+TRUE:
+V:STATUS$
+"mread":
+so
+> LOCN
+:STATUS$
+"comm":
+Hq:P$
+PARM$
+> P$
+(P$,
+):
+> 
+ P$
+"S" 
+ P$
+"***PRINTOUT ABORTED***":
+V:
+>P$
+P1$:
+V:
+a:
+ HALT 
+>FIRST
+FALSE
+>STATUS$
+"comm"
+'p
+^pt@
+0u:P$
+"You have no mail today.":
+V:
+vphB:
+ **** mail write
+p|B
+Hq:
+ PARM$
+"" 
+BP$
+"Send to? ":NOCR
+TRUE:
+BSTATUS$
+"sendto":
+BLOCN
+Hq
+BSTATUS$
+"comm":
+ PARM$
+"" 
+BWHOLEN
+,q
+ PARM$
+"" 
+ _ Mail From: MJS        84-04-24 17:27:11
+I WAS ON YOUR BOARD LAST NIGHT AND GOT YOUR MESSAGE..
+HOW CAN I CHAT WITH YOU?  
+ALSO, WHY DON'T YOU JUST TRANSFER OR BUY VIP ON TAPE??
+WELL, I WILL SAY HELLO TO BOB FOR YA..  ANYTHING YOU WANT 
+ME TO 
+SAY TO HIM??
+-MIKE
+_ Mail From: CJR        84-04-28 16:57:18
+You aren't going to give me
+write access? Just cuz Ziggy
+hates me? Hmmmmmm.........
+          -CJR 
+_ Mail From: Shell      84-04-28 17:25:44
+Hi can you validate me on your board?
+Shell
+_ Mail From: MJS        84-04-28 18:40:59
+WHAT'S WRONG WITH MTH#2??  IT IS ALWAYS BUSY!  OR IT NEVER RINGS AT ALL!
+???
+-MIKE
+_ Mail From: MJS        84-04-28 18:41:29
+SORRY, NEVER ANSWERS, NOT NEVER RINGS.
+_ Mail From: CJR        84-05-01 15:38:14
+WHAT HAVE I *EVER* DONE TO YOU?
+-C
+SORRY, NEVER ANSWERS, NOT NEVER RINGS.
+_ Mail From: CJR        84-05-01 15 Hmmmmmm.........
+          -CJR 
+_ Mail From: Shell      84-04-28 17:25:44
+Hi can you validate me on your board?
+Shell
+ a flower and
+shove it in her locker...do yer lockers have those
+cute little vents in them? Stick it in there....
+or is that a bit too bizarre?
+     ...Joe
+...do yer lockers have those
+cute little vents in them? Stick it in there....
+or is that 't have any money...
+     ...Joe
+_ Mail From: Breath     84-04-25 15:23:57
+Don't like the Mac, huh? (I'll resist my temptation to
+play "ha-ha-I-told-you-so") But seriously, what has
+it got against you? (?)
+  Hmm..well, perhaps you could buy CindeeT ALSO.  IDIOT!
+_ Mail From: MJS        84-04-20 18:12:39
+-MIKE
+_ Mail From: AEK        84-04-21 06:38:52
+To: Archon, Mjs
+The policies of the BBS are spelled out in message #216 on
+the "MBBS" board.  So far, I dont see any actions by either
+party that violate these policies.  Therefore no action
+will be taken.
+_ Mail From: MJS        84-04-22 00:29:32
+===========================
+HAVE A HAPPY EASTER!
+===========================
+()()()
+HOPE YOU NEVER EAT AN EGG THAT WAS CRACKED..
+_ Mail From: ziggy      84-04-20 12:05:44
+"WHAT'S GOING ON HERE?"    <--  PLEASE EXPLAIN?
+     ZIGGY
+32
+Bill,
+   Thanks for the nice board, I always enjoted reading it.
+-Dan
+RE?
+_ Mail From: BURGLAR    84-04-20 11:02:32
+Bill,
+   Thanks
+ f10 key interrupt
+@{
+) 
+J{
+\{
+ LOCAL 
+ STATUS$
+"hangup" 
+"Cant switch while answering call.":
+MIN
+:TERM
+MLINEFEED
+FALSE:MONITOR
+FALSE
+"": 
+ USINDEX
+ #
+,USINDEX:USINDEX
+g|
+MLOCAL
+TRUE:
+ "kybd:" 
+ AS #IN:
+ "scrn:" 
+ OUTPUT AS #TERM:
+"Local mode *ON*"
+||
+MSTATUS$
+"hangup"
+ USINDEX
+,USINDEX:USINDEX
+MLOCAL
+FALSE:
+ IN,TERM,
+:IN
+:TERM
+ }
+NLINEFEED
+TRUE:MONITOR
+TRUE:STATUS$
+"hangup"
+#}
+"Local mode *OFF*_ Mail From: Breath     84-05-01 18:51:20
+Hahaha....it's rather apparent that you got your modem
+only two days ago...
+  You asked about "Haha" on the Mthp board. I b'lieve
+that they are referring to Minnehaha park, site of
+the next Mthp. If you weren't a MECCie (and I suspect
+you weren't, being as MECC has been down for almost
+a year), then stay away from there. MECCies are....
+well...
+  And since you asked this too...I'm 16. How old are YOU?
+     ...Joe
+_ Mail From: denecke    84-05-01 19:32:24
+Hello:
+Now you have some mail.
+Eric.
+_ Mail From: ZIGGY      84-05-03 00:01:48
+I'VE MOVED MY BOARD TO 884-7951.  CALL IT THERE.
+AS FOR AGE, I'M 24.  HOW ABOUT YOU?
+     ZIGGY
+P.S.  LIZ??
+_ Mail From: TYPO       84-05-03 00:49:03
+OK, I'm writing to you ESJ. Now what do we talk about? My favorite
+subject is GamBit Timeshare, but since you're not a subscriber, what
+should I tell you? That you should join? OK, why don't you log on as
+a guest and meet me in the TALK PARLOUR sometime, and I'  Q        W 
+-MIKE
+_ Mail From: MJS        84-04-23 20:22:45
+G.A.G.B.A.T......HEH..
+I HAVE A BAD MEMORY, I WILL BE THE FIRST TO ADMIT THAT...
+G.A.G.B.A.T....HEH...  
+WELL, MIKE (IT IS MIKE ISN'T IT?)  I GOT TO THINKING.. WHERE HAVE I HEARD
+_ Mail From: MJS        84-04-23 20:27:19
+THATBEFORE??IDIDN'TKNOW..THEN,MARKCALLEDMETODAY,IWASN'THOME.ITHOUGHTWHYHECALLEDM
+CALLEDME.THENIREMEMBERHISCOMPUTERSETUPANDTHEPASSWORDIFORGOT!G.A.G.B.A.T!
+THATSTHEDAMNPASSWORDIFORGOT!IFIGUREDYOUOUT!YOUHAVETOBEWITHMARKINSOMEWAY
+YOURLITTLEGAMECOULDHAVELASTEDFORYEARS,MYMEMORYHASAMINDOFITSOWNANDITISVERYHARD
+FORMETOTHINKUPSUCHREMOTETHINGSWHILETRYING(ATTHEMOMENT).BUT,ITHOUGHTIHAD
+SEENITBEFORE...HEHHEHEHEH
+NOW, MIKE.  WHY DON'T YOU TELL ME A LITTLE ABOUT WHAT IS GOING 
+ON..
+_ Mail From: archon     84-04-24 16:40:35
+ Dear m
+_ Mail From: archon     84-04-24 16:45:11
+ Dear Mr. Ranger,
+I am informing you that not only has
+mjs been hacking on the merits 
+computer,but also Archon,Qwerty
+and GBS .
+I do know how_ Mail From: archon     84-04-29 16:08:50
+What have you been up to?
+I'm getting Ultima II this week so see if you can find time to
+come over and check it out.
+                              Later,
+                                Archon
+_ Mail From: archon     84-05-01 15:41:52
+What's up guys?
+Write more and more often!
+                 -Archon
+rchon
+_ Mail From:AVE BOUGHT AN APPLE...
+-M.I.K.E.
+_ Mail From: archon     84-04-26 18:37:04
+ How's it going guys?
+            -Archon
+(SORRY I DIDN'T SIGN THAT ONE.
+I RAPPED <CR> ONCE TO OFTEN.)
+   
+  ALSO -- NO, I'M PROBABLY NOT
+VERY LIBERATED AT ALL.  I THINK
+THE TERM "DOMESTICATED" WAS USED
+ONCE, BUT I WAS IN THE KITCHEN &
+DIDN'T HEAR TOO CLEARLY.
+   
+--DUX
+_ Mail From: DUX        84-04-23 20:53:59
+TYPO --
+   THE GAMBIT LINE'S BEEN BUSY 
+SEVERAL EVENINGS IN A ROW, FOR
+LONG PERIODS OF TIME.
+   GOOD NEWS, EH?
+--DUX
+_ Mail From: DUX        84-04-23 22:57:36
+XUD = EXUDE MUCH WIT, INDEED!
+NG PERIODS OF TIME.
+_ Mail From: eadgbe     84-05-01 21:47:17
+Howdy -- The tape will be delayed for just a day or so.  Our bass player
+(along with me, a founding member) found out I was compiling that tape and
+borrowed it to dup it for a friend of his.  He promised to return it 
+tomorrow (Wed.), so I'll pop 'er in the mail Thursday.  Keep the tape...
+on the condition that you give me an honest appraisal.  (Bearing in mind
+that we're all part-time musicians, and it's a part-time band, plus the
+fact that the QUALITY of the original recordings is never too good to
+begin with.)(Actually, it's not a bad tape, tho!) Also, bear heavily in
+mind that Side 2, the stuff by me, is ALL copywrited music (i.e. with the
+government), even though it's never been recorded (other than by me).  So
+it should be getting to you by Saturday or so.  I'll leave you a note here
+when I mail it.  (There's one song on the 10W40 side I put on there
+especially for you...its title is my former Ziggy codename...)  (G)
+_ Mail From: DS         84-0KID     KID       84-04-2810:31:10FFFFTF
+84-04-21?
+EJB     6821      84-04-2722:39:38TTFTTF
+84-04-22?
+KED     PETE      84-04-2121:28:00TFFFTF
+84-04-21?
+OFF     1234      84-04-2914:30:31TFFTTF
+84-04-29?
+FARKUS            84-04-2122:29:23TFFFTF
+84-04-21?
+GEN-BOY DEVO      84-04-2122:35:34TFFTTF
+84-04-21?
+MAX     2000      84-05-0215:41:42TFFTTF
+84-04-21?
+DAVID   ARTIST    84-04-2221:16:34TTFFTF
+84-04-22?
+ever,that you are not
+clever enough to catch us,nor do
+you have the authority to do 
+anything to us.
+So you can just find some other
+suckers!
+                 Ha ha,
+                    Archon
+_ Mail From: MJS        84-04-27 18:26:20
+OK, I WAS WRONG THERE ALSO...  WHAT'S THE JOKE?
+                    Archon
+_ Mail From: MJS        84-04-27 18:26:20
+OK, I WASI am informing you that not only has
+mjs been hacking on the merits 
+computer,but also Archon,Qwerty
+and GBS .
+I do know how picnic (while informing
+me that you couldn't play there, heh ..).  Hmm .. everything in GamBit
+always seems to be "coming".
+Ya know, I remember you were a ruggie, and I remember when you changed,
+and I forgot your (#$%&"#") codename.  But lemme tell ya, I do* remem-
+ber enough to know that you've changed.  Alot*, and for the better ..
+Catch ya lator.
+.  But lemme tell ys about
+$3.00 an hour, or something.  As good as MTS, and MTS got govt. grants,
+didn't it?  Yeah, you told me about the GamBit
+From: AEK       84-02-05
+ !"#$%&'()*+,-./1234567
+_   3 From: SCOT      84-04-29 15:37:43   # 221
+WHAT THE HELL ARE YOU GUYS TALKING ABOUT?
+(PLEASE EXCUSE THE FRENCH)
+**SCOT**
+/eor
+BREATH  NIGLER    84-05-0318:49:29TFFTTF
+84-04-23?
+SAMPSON SAMPASS   84-04-2309:06:44TTFTTF
+84-04-23?
+STEVEMR PHID      84-05-0121:02:48TFFTTT
+84-04-23?
+GLENN   BUCK      84-04-2312:52:59TTFTTT
+84-04-23?
+OOPS    IROH      84-04-2316:12:21TTFFTF
+84-04-18?
+TIM     QWERTYMAIL84-04-2316:51:23TTFFTF
+84-04-23?
+GUEST   JINGLE    84-04-2407:16:53TFFTTT
+84-04-14?
+FGFG              84-04-2914:40:45TTFFTF
+84-04-29?
+_ Mail From: Speedy     84-05-02 06:38:44
+  The really should cut the rate down a bit..  It
+is getting to be a big expense.
+  
+   Are you going to the MTHP on the 12th?
+It will be fun.. COMBAT FRISBEE!
+-Cathy
+_ Mail From: Speedy     84-05-03 06:40:16
+  Send me the details!  I would love to go and see
+10W40!  It might be tricky since that is the
+time of my graduation.. and my Open House
+is one weekend.  We'll see.  (It would be great!)
+   You are not too old!  But you are right.. the majority
+of the people at these thingies are 16-25.
+You are so crazy, no one would notice.
+  
+   Poor Bobsr.. He wrote me yelling about that. 
+"I MAY NEVER TALK TO YOU AGAIN"  Sigh.  I couldn't
+write to him because I had a whole audience
+watching me at school before I got around to
+writing him!  I can't stand writing to people when
+69 others are looking over your shoulder asking
+siwwie questions like "Is that a real person you are
+writing to?????"  "How does it know who to give it to???"
+"Wow.. that's NE_   2 From: SCOT      84-04-29 15:39:21   # 222
+OH,BUY THE WAY THAT WASN'T REALLY ME,THAT WAS NOEL CRAGG.
+/eor
+56789:
+_   3 From: SCOT      84-04-29 15:41:47   # 223
+SORRY ABOUT THAT LAST MESSAGE-HIS REAL LAST
+NAME IS CREGG AND HIS NUMBER IS 424-0197
+OH,WELL
+/eor
+_  10 From: SCOT      84-04-29 15:44:05   # 224
+TO:SPEEDY
+I'LL BET YOU ARE TIRED OF HEARING THIS,BUT...
+     <<<<CONGRATS!>>>>
+OH,BY THE WAY,WHY WERE YOU USING A MODEM AT 4 AM?????
+*SCOT*
+P.S. I BET YOU'RE SICK OF MY LETTERS-
+     I'LL STOP NOW.
+/eor
+_   3 From: WARLORD   84-04-29 16:48:40   # 225
+MECCIES USE COMPUTERS AT THE STRANGEST HOURS OF ANY GIVEN DAY.
+(KNOWN FACT AND LAW)
+-GORDY
+/eor
+_ Mail From: MJS        84-04-22 00:35:30
+HELLO?  
+ER (MUST HAVE TRUE DESCE
+FOR A GOOD PRICE, WRITE TO ME!
+TANX
+-MIKE
+IF YOU KNOW OF SOMEONE WHO WISHES TO SELL A SERIAL PRINTER (MUST HAVE TRUE DESCE
+FOR A GOOD PRICE, WRITE TO ME!
+TANX
+-MIKE
+YOU KNOW OF SOMEONE WHO WISHES TO SELL A SERIAL PRINTER (MUST HAVE TRUE DESCE
+FOR A GOOD PRICE, WRITE TO ME!
+TANX
+-MIKE
+UNDHERE,IHOPEYOUHAVEAGREAT
+EASTER.ISTILLCAN'TFIGUREOUTWHOYOUARE..GIVEMEASIGN!!
+-MIKE
+OUGHYOUALMOSTREALLYMESSEDTHINGSUPAROso i gave it a fake address
+. then it asks for my telephone number, so
+i just hung up. you know i don't want some
+f.b.i. agent nocking at my door. that 
+wouldn't happen i know but WHY THE FUCK
+DOES IT ASK 20 QUESTIONS IT NEVER USED TO
+ . well thats all i wanted to say so so-long
+***********    goon   ************
+***********  undlin  ************
+_ Mail From: myrth      84-03-28 15:54:59
+brian,
+    hows it going.
+two days ago i called gambit and gave them my 
+address and today i got literatuFORUM
+GAMBIT
+MBBS
+MTHP
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxMzq LOCN 
+ LOCN 
+ LOCN 
+(CMDLN$) 
+ PARM$
+"":
+,N
+ LOCN
+(CMDLN$) 
+(" ()-+[]`'.,/<>\|:;",
+(CMDLN$,LOCN,
+)) 
+ FALSE
+PN
+q  PARM$
+PARM$
+(CMDLN$,LOCN,
+fN
+q  LOCN 
+ LOCN 
+lN
+rN
+N0u:
+ ******** Error Processing Routines
+N2u
+9 
+ "Comm. Error.":
+N5u
+ "?"
+N:u
+2 
+5u :
+ oops, error
+!O\v
+2 
+:CLOSE 2,3,4,5:OPEN "kybd:" FOR INPUT AS #IN:OPEN "scrn:" FOR OUTPUT AS #TERM:BEEP:PRINT"Local mode *ON*"
+19945 STATUS$="hangup"
+19950 RETURN 2501
+19960 IF USINDEX>0 THEN PUT#4,USINDEX:USINDEX=0
+19965 LOCAL=FALSE:CLOSE IN,TERM,4,5:IN=1:TERM=1
+19970 LINEFEED=TRUE:MONITOR=TRUE:STATUS$="hangup"
+19975 BEEP:PRINT"Local mode *OFF*"
+19980 RETURN 2501
+19998 STOP
+19999 RESUME NEXT
+20000 ' ********** Error message in ER$ displayed **********
+20005 PRINT ER$
+20006 ET$=LEFT$(ER$,1):IF ET$="M" THEN 20011
+20
+#$'(*-035678:<=>ABCDEFGJKLMN
+_   1 From: drwho     84-04-23 02:35:56   # 138
+ 130
+/eor
+"#$%&'()+,-/0123456789:;<
+5-03 16:17:56
+Hmm ..
+especially for you...its title is my former Ziggy codename...)  (G)
+_ Mail From: DS         84-0ide 2, the stuff by me, is ALL copywrited music (i.e. with the
+government), even though it's never been recorded (other than by me).  So
+it should be getting to you by Saturday or so.  I'll leave you a note here
+when I mail it.  (There's one song on the 10W40 side I put on there
+especially for you...its title is my former Ziggy codename...)  (G)
+_ Mail From: DS         84-0amBit as (god - I noticed
+you always use a lower-case g).
+ BobSr
+_ Mail From: WARLORD    84-05-01 08:59:55
+HI AGAIN JOE,
+SEEMS THAT I AM STILL UNDER BROWN-OUT CONDITIONS HERE.
+LINE VOLTAGE TO MY APARTMENT IS AS LOW AS 82 VAC AND AS HIGH AS
+100 VAC.  REALLY SUCKS, LIGHTS DIM, ETC...
+ANYWAYS, ABOUT JEN, I AM GLAD THAT SHE FINALLY LET HER TRUE SELF
+BE KNOWN TO YOU.  WHO KNOWS HOW LONG SHE COULD HAVE KEPT HER TRUE
+SELF HIDDEN FROM YOU.  AH WELL, LIFE GOES ON, DOES IT NOT?
+HAVE YOUR SIGHTS SET ON A_   1 From: drwho     84-04-23 02:44:43   # 139
+     I must have been time skipping again since my last message  didn't quite ma
+/eor
+_  19 From: OOps      84-04-23 16:22:11   # 140
+I'll tell you what I want.....  I want my credit back!!!!!!!
+Your *^(% machine took my credit and wouldn't give it back.
+Here I was real nice like loggin in to Gambit.
+I had 1 credit left that means 5 minutes right?
+Not exactly I got 30 seconds.  I went to Intrigue and
+whamm Your credits are gone hangup.....
+I would like to sugest that for us poor people who want to
+use our last credit you install the program to log us off when
+we have a -1 credits lewe have a -1 credits left not 1 credit left.
+I mean 0 credits left.
+That really makes me mad.
+*Steve*
+Who cares If I am the first one to get a 0 on his credits.
+By the way I'm saving that $4 check for Scepter I figure if
+I send it in now I will probably use it before the game gets here.
+I was also planning on putting it in the bank with 5 1/4% interest
+I figure that if a programmer can do 5 lines a day and Scepter was 
+something like 5,000 it should take a few years to get it done.
+So by the time So by the time I should have maybe $10/71
+/eor
+ 0 credits left.
+That really makes me mad.
+*Steve*
+Who cares If I am the first one to get a 0 on his credits.
+By the way I'm saving that $4 check for Scepter I figure if
+I send it in now I will probably use it before the game gets here.
+I was also planning on putting it in the bank with 5 1/4% interest
+I figure that if a programmer can do 5 lines a day and Scepter was 
+something like 5,000 it should take a few years to get it done.
+So by the time _   4 From: Flash     84-04-23 22:33:38   # 141
+10:30 or so and GamBit appears to be crashed.
+Never get the "Type something:" prompt.
+Oh well...
+ /John
+/eor
+_   2 From: DUX       84-04-23 23:02:13   # 142
+23:05
+SEEMS TO STILL BE DOWN....
+/eor
+(*+,-./0123456789<=
+_   1 From: Speedy    84-04-24 06:34:18   # 143
+And still down..  Someone go wake GamBit up.
+/eor
+,-./01234569:;
+_   1 From: TYPO      84-04-24 09:04:16   # 144
+It's up now, kiddies!
+/eor
+ !#$%'()*+,-./01234569:;<
+_   1 From: DUX       84-04-24 11:29:34   # 145
+THANX, DAD!
+/eor
+ !#$%'()*+,-./01234569:;<=
+_   6 From: twm       84-04-24 11:59:50   # 146
+Gee, I  still  have something in the neighborhood of close to 60 credits in
+my account.  At any rate, I guess I'll have to go and buy another C64 with
+my next check, then I'll just have it sitting running VIP term 24 hours  a
+day since I have no intention of buying another disk drive (I may be made
+of money, but i'm not rich!) Then I can use GamBit a little more oftener.
+Anyways, Sheldon: GET A JOB!
+/eor
+ !"#$%&'()+,-./01234567
+_   4 From: Achilles  84-04-19 23:19:54   # 245
+Everything's within walking distance...
+(Sort of like, you can get anywhere in 10 minutes if
+  you drive fast enough.)
+ -B
+/eor
+_   3 From: ZIGGY     84-04-20 15:33:21   # 246
+IF MINICON IS GOING TO BECOME AN OFFICIAL MECCIE EVENT, WHAT SHOULD
+THE 'H' STAND FOR?
+     ZIGGY
+/eor
+_   1 From: DSF       84-04-21 21:53:29   # 247
+The great questions of the world posed before your very eyes ..
+/eor
+5678
+_   3 From: MORADIN   84-04-21 22:25:26   # 248
+It could stand for 'Hex' as, you can have a Hex cast on 
+you in AD&D..  Moo..  Just an Opinion..
+-Tim
+/eor
+_   1 From: DSF       84-04-22 10:35:18   # 249
+I haven't seen "Moo" in a millions years.  *sigh* .. moo.  I like that.
+/eor
+_   1 From: AEK       84-04-22 19:59:04   # 250
+Arf.
+/eor
+ !"#$%&()*+,-./012345678
+_   2 From: DSF       84-04-22 21:58:43   # 251
+I like that too .. heh.  (God, I can't believe it .. I'm actually
+using 1200 baud with only a few (1 or 2) glitches!!  Never before ..)
+/eor
+_   4 From: Achilles  84-04-22 23:07:38   # 252
+We went through that last year.  
+It could stand for 'Hologram', 'Heinlein', 
+or maybe 'Have lots of Blog.'
+ -B
+/eor
+_   2 From: awm       84-04-23 17:55:21   # 253
+  How about a HangaroundunderneaththeUofMcampus party?  or not.  stupid
+motion detectors.  anyway, let's have a stupid haha party.
+/eor
+_  17 From: HCA       84-04-23 21:58:10   # 254
+AEK--------------------------------------
+ARE YOU OUT THERE??????????????????????/?
+***********************^***^******^*^*^*
+WHY MUST I REENETER MY PASSWORD AND TERM.
+CHARACTERISTICS EVERYTIME I LOGON????????
+*****************************************
+WHY WON'T YOU LISTEN (SEE I GUESS)
+, OR WRITE ME **WHY** I MUST DO THIS???
+****************************************
+             HCA  __
+/eor
+_   4 From: Pnessutt  84-04-24 01:31:18   # 255
+"WHY?   BECAUSE WE DON'T WANT TO"
+...
+"LOUSE....."
+/eor
+3456789:
+_   1 From: AEK       84-04-24 05:07:04   # 256
+Go re-read MBBS #234.
+/eor
+!"#$%&'()*+,-./01234567
+_   1 From: twm       84-04-24 12:12:28   # 257
+Woof.  Blort.
+/eor
+!"#$%&'()*+,-./012345678
+_   5 From: SNORKY    84-04-27 00:44:56   # 258
+WOWNESS..
+BOO
+LAY-TER..  I AM JUST LOOKIN FOR A
+"PAR-TEE"
+-T
+/eor
+4567
+_  25 From: HCA       84-04-27 23:20:39   # 259
+****************************************
+**  ----++++ NEW USER GROUP ++++----  **
+** Metro Area Commodore Computer Club **
+**                                    **
+**     ##########################     **
+**     ##    Next Meeting :    ##     **
+**     ##  Southdale Hennepin  ##     **
+**     ##       Library        ##     **
+**     ##   Helen Young Room   ##     **
+**     ##      At 7:30 pm      ##     **
+**     ##########################     ****     ##########################     **
+**                                    **
+**    Call Steve Bowman (Voice) at    **
+**          --- 722-8334 ---          **
+**                                    **
+**             --- OR ---             **
+**  Call The Twin Cities Express Line **
+**          --- 778-0506 ---          **
+**            (Data - BBS)            **
+**         and page the SYSOP.        **
+**                                    **
+**             --- OR ---             **
+**  Send**  Send a letter to:   M.A.C.C.C     **
+**                        Box M       **
+/eor
+l Steve Bowman (Voice) at    **
+**          --- 722-8334 ---          **
+**                                    **
+**             --- OR ---             **
+**  Call The Twin Cities Express Line **
+**          --- 778-0506 ---          **
+**            (Data - BBS)            **
+**         and page the SYSOP.        **
+**                                    **
+**             --- OR ---             **
+**  Send_   3 From: HCA       84-04-27 23:21:48   # 260
+**                            Mendota, MN 55150 **
+**************************************************
+/eor
+_   2 From: HCA       84-04-27 23:24:07   # 261
+AEK:  Why am I not a defined user?
+/eor
+)*+,-./01234567:;
+_   7 From: Shell     84-04-24 16:58:07   # 147
+I don't want a job.
+By the way who was that masked man who writes a message at
+23:02 saying he got on at 23:05 and it was down?
+While we are on the topic of jobs.
+Who would like to hire a kid with a big mouth?
+My brother.......
+*Steve*
+/eor
+_   5 From: MJS       84-04-24 20:51:01   # 148
+FOR SCEPTER, WHY DON'T YOU PUT IN A REAL DAY TYPE CLOCK SYSTEM?
+EX: YOU COULD CHANGE THE ENCOUNTERS WITH THE DIFFERENT TIMES OF DAY..
+YOU MIGHT FIND A FARMER OUT IN THE FIELD DURING THE DAY, BUT NEVER
+AT NIGHT.. (UNLESS, YOU ARE NEAR A BAR..)
+OF COURSE, I WOULDN'T WANT TO BE IN THE "DARK ALLEY" AT NIGHT.. (HEH)
+/eor
+_   2 From: ZIGGY     84-04-28 01:12:05   # 262
+HOWARD:  DOES THAT REALLY BELONG ON THE MTHP BOARD, RUGGIE??
+    ZIGGY
+/eor
+_   2 From: Moradin   84-04-28 12:48:32   # 263
+Blahs..   Lets get an MTHP at 'HAHA' goin..    
+-Tim
+/eor
+/01236789
+_   2 From: Achilles  84-04-29 21:55:49   # 264
+Minnehaha Park, Saturday May 12th?
+ -B   (for Brevity)
+/eor
+01256789
+_   1 From: MANAHATH  84-04-30 12:40:46   # 265
+12TH SOUNDS GOOD AT THIS TIME.
+/eor
+#$%&'()*+,-./01456789
+                Short Help for the IBM-PC MBBS
+List of commands:
+BRIEF     BYE       CHAT      CLEAR     CLOCK     COUNT
+DAYFILE   DEFINE    END       HELP      LIST      MAIL
+QUIT      PAUSE     READ      SEND      SKIM      STATUS
+TOPIC     UNJOIN    USERS     VOTE      WRITE
+     Pressing the ESC key will erase the current line.  Pressing
+the S-key will stop the display.  Pressing the I-key will inter-
+rupt the display.
+                  Long Help for the IBM-PC MBBS
+        The following is a full list of commands:
+        BRIEF - Toggles brief mode.
+        BYE - Leave the system.
+        CHAT - Talk with the system operator.
+        CLEAR - Erase old mailbox messages.
+        CLOCK - Get the current time and date.
+        COUNT - Count the votes of users for/against the
+                current proposal.
+        DAYFILE - See who has been logging in lately.
+        DEFINE - Define new login parameters.
+        END - Leave the system.
+        HELP - O_   4 From: Moradin   84-04-30 15:58:01   # 266
+Sounds good to me..  The 12th is what, 2 weeks from Saturday?
+Wait..  Or, is that a week from Saturday?
+But, any day sounds good..  As long as there isnt snow..
+-Tim
+/eor
+_   3 From: cthulhu   84-04-30 17:54:05   # 267
+you've got the idea, bri..  next time leave out the question mark.
+(i refuse to plan these things this year, i did it last yeare)
+ (year)
+/eor
+btain this display.
+        LIST - List all available topics.
+        MAIL - Toggle mail mode.  In this mode the
+               READ and WRITE commands send to specific
+               individuals rather than to public topic
+               files.
+        QUIT - Leave the system.
+        PAUSE - Toggles pause mode.
+        READ <number> - Initiate reading of
+             a topic file starting at given message
+             number.  If you have no current topic, then
+             you will be prompted for it.  If you omit
+             the message number, then you will start reading
+             where you last left off.  This command also
+             reads your private messages if you are in
+             mail mode.
+        SEND <topic> - Write a message and send it to
+             the given topic.  If you omit the topic name,
+             then the current topic is selected.  This
+             command is used to send private messages
+             if you are in mail mode.
+        SKIM - Toggles skim mode.  Only the first two lines
+               of each message are displayed.
+        STATUS - Show your status bits for PAUSE, SKIM,.
+                 and BRIEF; and give the current
+                 selected topic name.
+        TOPIC <name> - Select a topic for reading
+              and writing.  If you dont specify
+              the name then you will be prompted
+              for it.
+        UNJOIN - Remove your name from the users list.
+        USERS - Display the names of all active users.
+        VOTE  - Place a vote for/against the current
+                proposal.
+        WRITE <topic> - Same as the SEND command (see above).
+        <number> - Entering just a number will cause the selected
+                   message to be printed.
+        While you are entering a message, you may edit it using
+the following special edit commands:
+        ^D       - Delete the previous line.
+        ^O or ^A - Abort the message.
+        ^P or ^L - Print the message for inspection.
+        Each message may be up to 80 characters wide and 25 lines long.
+        1200 baud users:  Please use 8 data bits, 1 stop bit, and
+                          no parity for best results.
+        If you have any questions, please direct them to AEK on
+the MBBS mail service.  Thank you!
+nspection.
+        Each message may be up to 80 characters long and 25 lines
+wide.
+        Coming soon:  MBBS-to-other-BBS network facility!
+ 72
+rename b:junkie
+save
+d_   5 From: AEK       83-08-22 01:45:56   # 1
+By popular demand, this topic has been created.  Its purpose
+is to organize social activities, weekend events, etc.
+(Face it, you've been sitting in that chair too long.. you
+have to get up and party a bit.)
+/eor
+_   2 From: mjb       84-04-30 18:45:54   # 268
+Twist my arm.... Okay, okay!! I'll go....
+Gee, this is almost as fun as MECC.  We should get a gamee
+/eor
+_   1 From: mjb       84-04-30 18:46:27   # 269
+of Diplomacy going.        -Mike
+/eor
+()*+,-./01456789:;<=
+_   2 From: ZIGGY     84-04-30 20:06:38   # 270
+THE 12TH IS FINE FOR ME.  LET'S GO FOR IT!!
+    ZIGGY
+/eor
+6789:;<=>
+_   1 From: ESJ       84-05-01 16:58:59   # 271
+QUE PASA?WHAT'S GOING ON?
+/eor
+ !"#$%&'()*-./012345678
+_   1 From: ESJ       84-05-01 17:00:15   # 272
+HAVE ANY GOOD NUMBERS TO CALL ON MO
+/eor
+&'()*-./0123456789
+_   1 From: ESJ       84-05-01 17:02:45   # 273
+DO YOU KNOW WHAT THIS NUMBER IS CALLED?
+/eor
+)*-./0123456789:
+_   4 From: ESJ       84-05-01 17:04:44   # 274
+IS ANYONE OUT THERE
+WHAT DOES 'HAHA'MEAN?
+I JUST GOT THE MODEM 2 DAYS AGO.
+IS ANYONE OUT THERE...
+/eor
+_   1 From: CPC       84-05-01 17:21:53   # 275
+I DON'T THINK THERE'S ANYBODY BACK THERE!
+/eor
+./0123456789:;<
+_   3 From: Achilles  84-05-01 17:52:13   # 276
+Okay, the 12th.    c/?/./
+(Now, that wasn't so painful..)
+ -B
+/eor
+:;<=
+_   2 From: ESJ       84-05-01 18:15:34   # 277
+HOW OLD ARE YOU...
+IS ANYONE OUT THERE?!!
+/eor
+0123456789:;<=>
+_   1 From: MANAHATH  84-05-01 19:47:02   # 278
+JUST NOD IF YOU CAN HEAR ME.
+/eor
+()*-./0123456789:;<=>?
+_   2 From: CLAUDE    84-05-01 20:43:42   # 279
+228
+250
+/eor
+ !"#$%&'()*-./0123456789:;<=>?@
+_   7 From: TYPO      84-04-25 00:41:50   # 149
+Who is this MJS? Here he is making SCEPTER suggestions and I've
+never even heard of him. Don't tell me he is one of the hordes
+that won't subscribe until SCEPTER is on-line! If that is the
+case, you don't know what you're missing MJS! Logging in as a 
+guest is pretty nice, but noting like logging in as a bona-fide
+subscriber. Don't believe me? Well just ask BREATH, SPEEDY, and
+SHELL!
+/eor
+_   1 From: DSF       84-04-25 14:38:46   # 150
+Heh .. Bob once again makes his sales pitch.  Not bad, Bob.
+/eor
+6789:;
+Georgia.  Mainly because once you move support austria captures
+your supply centers which means your army is gone and when your armies
+are gone your gone.
+That was my problem.  Of course if you get in exactly when the game starts
+you don't have these problems.
+*Steve*
+By the way I read your help file on Gambit about supply centers it says
+there are 36 I can only find 34.  Whats wrong here?
+Can somebody list them?
+/eor
+ why you don't go east thru Armenia and
+Georgia.  Mainly because once you mo_   3 From: TYPO      84-05-02 08:34:37   # 184
+Well, Shell, a message was posted to ANNOUNCE which corrected errors on
+the FI map. You ought to check it out and see just where the missing 
+supply centers.
+/eor
+Next check out adjacent areas to you to see if there are armies there.
+If there are attack them and try to support.
+If you do an attack and support you can sometimes get that guy.
+One thing that GamBit didn't really document well is the support command
+option To <where> I didn't figure it out til it was to late that you
+need that if the army you are supporting is moving.  If it isn't moving
+then you leave it out.
+I think that should be better described in the documentation.
+I was looking at my printI was looking at my print out of the Board command and I found some 
+errors in what was adjacent.  One of these was the Barents sea
+OMike maybe you could tell some of us what Scepter is like?
+*Steve*
+/eor
+eally document well is the support command
+option To <where> I didn't figure it out til it was to late that you
+need that if the army you are supporting is moving.  If it isn't moving
+then you leave it out.
+I think that should be better described in the documentation.
+I was looking at my print_   3 From: awm       84-04-25 15:13:36   # 151
+I am going to evaporate from gambit for a while... when I get a job, or
+when something comes up that I can't resist, I'll be back on.  (next week
+at the latest!)
+/eor
+_   2 From: Breath    84-04-25 15:27:19   # 152
+Heh, don't ask me what it's like. I don't remember...
+   ...Joe
+/eor
+:;<=
+_   1 From: CLAUDE    84-05-01 20:44:24   # 280
+200
+/eor
+ !"#$%&'()*-./0123456789:;<=>?@A
+_   1 From: Achilles  84-05-01 21:31:57   # 281
+Somebody lose these jerks..
+/eor
+-./0123456789:;<=>?@AB
+_   5 From: Shell     84-04-25 16:44:51   # 153
+Me either.  I pushed it to the back of my mind.
+Don't even mention it.  At least until I get more money
+saved up.  I only got $4.50 so far
+*Steve*
+By the way is that 10% commision still good?
+/eor
+_  25 From: MJS       84-04-25 19:39:37   # 154
+MICHEAL SCHOBERG, AT YOUR SERVICE.  (TO #149)
+ARE YOU SAYING MY SUGGESTIONS AREN'T ANY GOOD AND WON'T BE NOTED
+UNLESS I AM A SUBSCRIBER OF GAMBIT??
+I THOUGHT I WAS DOING YOU A FAVOR...
+I MAY SUBSCRI
+BE IN THE FUTURE BUT, IT WON'T BE TO GIVE YOU SUGGESTIONS!
+ONE REASON WHY I 
+DON'T BUY CREDITS NOW IS, I DON'T KNOW OF ANYTHING
+UP, YET, THAT I WANT TO 
+SPEND MY HARD EARNED MONEY ON..  I NEVER PLAYED
+INTRIGUE AND I ONLY HEAR RUMORS ON IT. (I AM NOT REALLY MICHAEL DIXON     84-04-2412:25:09FTFTTF
+84-04-24?
+COUATL  ZXCV      84-05-0317:16:40TTFFTF
+84-04-24?
+SHELL   IROH      84-05-0114:13:15TTFFTF
+84-04-24?
+JASON   JAZZ      84-04-2419:02:54FFFFTF
+84-04-24?
+TYGO              84-04-2421:21:05FFFFTF
+84-04-24?
+BUDDY   ATARI     84-04-2421:05:47TTFTTF
+84-04-24?
+TYGO              84-04-2421:21:05FFFFTF
+84-04-24?
+PASSWORDCAESAR    84-04-2501:58:36TTFTTF
+84-04-18?
+INTRIGUE AND I ONLY HEAR RUMORS ON IT. (I AM NOT REALLY SURE ON WHAT
+THE GAME IS ABOUT...)  WOULD YOU INVEST IN SOMETHING THAT YOU KNEW
+LITTLE OR NOTHING ABOUT?  EVERYDAY, I HEAR STORIES ABOUT PEOPLE LOOSING
+CREDITS LEFT AND RIGHT..  THAT DOESN'T SOUND TOO IMPRESSIVE..  SO, I THOUGHT
+THAT, AT LEAST WHEN SCEPTER CAME UP, IT COULD 
+HAVE SOME NEW FEATURES ABOUO
+IT THAT WILL ATTRACT EVEN A FGREATER NUMBER OF SUBSCRIBERS..   IF YOU
+OBJECT TO MY CONTRIBUTIONS TO TH
+IS BO
+ARD FOR THE ADVANCEMENT OF YOUR SOBJECT TO MY CONTRIBUTIONS TO TH
+IS BO
+ARD FOR THE ADVANCEMENT OF YOUR SYSTEM,
+I WILL STOP..  (I THOUGHT THAT WAS WHAT THIS BOARD WAS FOR??)
+I HAVEN'T SEEN MUCH ON THIS BOARD ABOUT GAMBIT.. NOW I FIND GUEST,GUEST
+HAS ALSO BEEN TERMINATED. (1ST TIME I GOT ON IT OVER A MONTH OR SO.
+AND I WANTED TO SEE WHAT ADVANCEMENTS YOU HAD MADE.)  I DON'T KNOW
+THE THRILL OF BEING A SUBSCRIBER AND FROM WHAT I READ ABOUT GAMBIT
+I DON'T REALLY KNOW WHY I SHOULD GO ALL OUT TO DO SO..  
+(HINT: USE THIS BOARD TO ADVERTIS_   1 From: Achilles  84-04-29 21:54:27   # 226
+Everything* you say is stupid.
+/eor
+"#$%&'()*+,-./0123456
+_   1 From: denecke   84-04-29 22:09:15   # 227
+santa barbra
+/eor
+ !"#$%&'()*+,-./01234567
+CODOA   SERENA    84-04-2507:08:02TTFFTF
+84-04-25?
+GEORGE  ANNA      84-04-2601:17:47TTFTTF
+84-04-26?
+DRUPA             84-04-2607:49:17TTFFTF
+84-04-26?
+STEVEN  KEN       84-04-2710:05:27TTFTTF
+84-04-17?
+WARLORD ETRWGKN   84-05-0309:57:01TTTFTF
+84-04-27?
+232323331234      84-04-2914:47:20TTFTTF
+84-04-29?
+TIN     KID       84-04-2810:22:49TFFTTF
+84-04-23?
+STAN              84-04-2810:40:38TTFTTF
+84-04-14?
+_   1 From: Flash     84-04-30 13:53:39   # 228
+MECCies like the nonpeak type scedule. 
+/eor
+'()*+,-./0123456
+_   6 From: Moradin   84-04-30 16:07:02   # 229
+Well, those Stupid MP's are gone now..  I think them finding out
+that Doug was gonna Fire them got them out of here fast.. 
+They all hopped on these buses, and left quite fast...
+Had to have stupid passes to get in and out of the city..
+Screw them anyway..   
+-Tim
+/eor
+JIM     HULK      84-04-2811:03:29TTFFTF
+84-04-28?
+CHUCK   WINNIT    84-04-3011:10:35TTFTTT
+84-04-30?
+SCOT    ARMADILLO 84-04-2915:22:57TFFFTF
+84-04-29?
+NOEL    TARDIS    84-04-2915:15:00TFFFTF
+84-04-29?
+GREG    WILLIAM   84-04-2916:17:05TTFTTT
+84-04-29?
+XKTOWN  PANAY     84-04-2917:05:07TTFTTF
+84-04-29?
+AEK     MAIL      84-10-0316:10:07TFFFTF
+84-05-01?
+CPC     TROY      84-05-0313:31:03TTFFTF
+84-05-01?
+(HINT: USE THIS BOARD TO ADVERTISE GAMBIT A LITTLE..  TELL US WHAT
+EXCITING THINGS YOU ARE DOING, ETC.  YOU WILL HAVE TO WIN MY SUBSCRIPTION!)
+IF I SEEM BLUNT, SORRY.  I DIDN'T EXPECT A NEGATIVE RESPONSE FROM MY
+CONTRIBUTION.
+-MIKE
+/eor
+ TIME I GOT ON IT OVER A MONTH OR SO.
+AND I WANTED TO SEE WHAT ADVANCEMENTS YOU HAD MADE.)  I DON'T KNOW
+THE THRILL OF BEING A SUBSCRIBER AND FROM WHAT I READ ABOUT GAMBIT
+I DON'T REALLY KNOW WHY I SHOULD GO ALL OUT TO DO SO..  
+(HINT: USE THIS BOARD TO ADVERTIS_  21 From: Breath    84-04-25 20:46:01   # 155
+Well Mike, Intrigue is a game where you are the prime
+minister of a major European power in Pre-WWI Europe.
+You get to form treaties, alliances, attack, defend,
+and do the things that prime ministers do. "Will
+you prevent war or provoke it?"  "Subscribe to GamBit
+today, and find out!"  The game really is alot of fun.
+(even tho I got creamed.) If you're waiting for Scepter,
+all I could tell you is, "you don't know what you're
+missing." Mike (and anyoneDIRTY   JBJ1      84-04-2918:11:37TTFFTF
+84-04-29?
+HOCKEY  SUPERMAN  84-04-2919:13:49TTFTTF
+84-04-10?
+TIGER   BYTES     84-05-0304:17:30TTFFTF
+84-05-03?
+BRENT   RIVER     84-04-2921:43:53TFFTTF
+84-04-29?
+CENTRAL ZONE      84-04-2923:05:27FTFTTF
+84-04-29?
+HOLDEN            84-05-0306:52:44FFFTTF
+84-05-03?
+NEW     BOBBY     84-04-3012:22:48TTFFTF
+84-04-14?
+GAF     COCORAINBO84-05-0201:35:11TTFTTF
+84-05-02?
+_   1 From: MANAHATH  84-05-03 17:47:43   # 185
+GEE, GAMBIT IS STARTING TO AHNG FROM THE MAIN MENU AGAIN...GAG
+/eor
+IJKNO
+_   7 From: NEW       84-10-03 17:23:48   # 186
+HAY ALL.....
+JUST FUCK OFF AND DIE!
+IBM COMPUTERS EAT SHIT
+THIS BOARD FUCKS COWS!
+-FROM-
+-THE BEAST-
+C/R
+/eor
+_   1 From: STILETTO  84-10-04 13:46:39   # 187
+MANAHATH: EVERYONE BUT YOU, RIGHT?
+/eor
+789:<>?@CDEFGHILMNO
+_   3 From: snorky    84-10-04 20:25:10   # 188
+Now Scepter is up and all are happy.  I think we
+need a 2 for 1 credit deal like badly* Bob.
+-snork
+/eor
+_   1 From: STILETTO  84-10-04 13:46:39   # 187
+MANAHATH: EVERYONE BUT YOU, RIGHT?
+/eor
+789:<>?@CDEFGHILMNO
+_   3 From: snorky    84-10-04 20:25:10   # 188
+Now Scepter is up and all are happy.  I think we
+need a 2 for 1 credit deal like badly* Bob.
+-snork
+/eor
+_   1 From: ESJ       84-04-30 18:04:43   # 230
+what is your name?
+/eor
+ !"#$%&'()*+,-./012345678
+_   5 From: mjb       84-04-30 19:01:59   # 231
+be thankful that the guards were there.  When my house
+got hit in Roseville, they didn't stay at night, and
+many people got robbed.  It's pretty hard to lock
+your door when it isn't there.
+             -Mike
+/eor
+ll twist your
+arm, get you to subscribe, and you won't have to leave those funny
+little messages here on MBBS: 'Won't somebody write to me?'
+ BOB SR (TYPO)
+_ Mail From: DUX        84-05-03 15:34:56
+HELLO,
+I READ YOUR NOTE ON THE MBBS BOARD
+ASKING FOR MAIL.
+SO, HERE'S SOME...
+HOW ARE YOU? IS ANYTHING EXCITING
+HAPPENING IN YOUR WORLD?
+TAKE CARE,
+-- DUX
+ARD
+ASKING
+should I tell you? That you should join? OK, why don't you log on as
+a guest and meet me in the TALK PARLOUR sometime, and I'e WalkAmerica. (50 cents
+a mile -- what a mistake.) Lesse now, back to basic
+math. 10 + 12.50 = 22.50.   20.00 - 22.50 = -2.50
+  Well Bob, it looks like I'm gonna be $2.50 poorer
+right soonly....
+  Yah! We finally got a new garage door. The old one was
+a piece of...excrement made out of fiberglas, many years
+old. It really looked tacky. Now we've got a new steel
+door. Rolls like a charm....but it's considerably darker
+in the garage now, because the old door let quite a bit
+of light in. With the neAustria-Hungary are in a rather dangerous position,
+because they are surrounded by potential enemies.
+Germany can get it from France, Austria-Hungary, and
+Russia. Austria can get fried by Italy and Turkey (ahem),
+perhaps Germany and Russia.
+  The thing that I like best about the game is that it
+isn't really a computer game, but rather a game played
+by people through the computer. You're matching wits
+against someone else, rather than a bunch of 1's and 0's.
+I think it's neet.
+  And it sher beats S  And it sher beats Scarfman.
+      ...Joe
+/eor
+ecause they are surrounded by potential enemies.
+Germany can get it from France, Austria-Hungary, and
+Russia. Austria can get fried by Italy and Turkey (ahem),
+perhaps Germany and Russia.
+  The thing that I like best about the game is that it
+isn't really a computer game, but rather a game played
+by people through the computer. You're matching wits
+against someone else, rather than a bunch of 1's and 0's.
+I think it's neet.
+  And it sher beats S_  17 From: Breath    84-05-01 22:20:38   # 282
+If it isn't too much trouble, I'd like to place a simple
+request:
+  Every day or two, some ruggie sees fit to sign on
+here, and leave several messages whose content is
+nothing more than a few obscure digits. It tends to
+make you a bit suspicious that it's the same person
+doing it over and over again. And again. So, I address
+this person: Please do us (or at least me) a service.
+Either quit leaving these pointless messages which
+do nothing but waste ddo nothing but waste disk space and time, or else
+be so courteous as to explain your behavior, and
+maybe even the significance of the numbers. I'm
+rather annoyed, and yet intrigued by this person's
+behavior. Are you trying to get attention, but lack
+the skills of written English to express your thoughts?
+Or are you always like this?
+    ...Joe
+/eor
+ain. So, I address
+this person: Please do us (or at least me) a service.
+Either quit leaving these pointless messages which
+do nothing but waste d_   1 From: WARLORD   84-05-03 10:13:35   # 283
+IS THERE ANYONE AT HOME???
+/eor
+"#$%&'()*+,-./012345679
+_   4 From: TYPO      84-05-03 12:49:04   # 284
+Yeah, Joe, these dipsticks with their numeral crap probably don't
+know how to spell 'words.' Either that, or they are so poor in 
+the basic skills that they would make themselves (himself) look
+like an utter IDIOT if normal message-writing were attempted. 
+/eor
+_ Mail From: SCOT       84-04-29 15:19:05
+FOR SALE:
+_ Mail From: SCOT       84-04-29 15:26:46
+FOR SALE:
+   1 SINCLAIR ZX-81 COMPUTER-$85.00
+   1 16K RAM PACK FOR ABOVE-$40.00
+       LEAVE MESSAGE IN SCOT'S MAILBOX,
+       OR CALL (612)424-5405
+      (NOT BEFORE 6PM ON WEEKDAYS,PLEASE)
+          THANK YOU!
+SSAGE IN SCOT'S MAILBOX,
+       OR CALL (612)42isplay.  Pressing the I-key will inter-
+rupt the display.
+                  Long Help for the IBM-PC MBBS
+        The fTYGO    NEWPASS   84-03-0213:14:49TTFTTF
+84-03-02?
+THOUGHTSHELP      84-03-0215:09:59TTFTTF
+84-03-02?
+CJR     CCCP      84-04-0122:30:41TTFTTF
+84-03-16?
+EADGBE  GL        84-03-3116:57:29TFFFTF
+84-03-02?
+_   2 From: ZIGGY     84-04-30 20:10:49   # 232
+SOCIETY IS GOING DOWN HILL WHEN THE HONEST PEOPLE ARE THE THEIVES.
+    ZIGGY
+/eor
+_   1 From: MANAHATH  84-04-30 22:14:08   # 233
+IF YOU LISTEN TO FOOLS, THE MOB RULES!
+/eor
++,-./0123456789:;
+_   1 From: vidix     84-05-01 01:41:22   # 182
+aufweidersein freunden
+/eor
+()*./2358;>@ABCEGHILMNOPQ
+_  15 From: DUX       84-04-28 21:12:10   # 174
+MIKE --
+IF YOU SUBSCRIBE TO GAMBIT YOU'LL
+GET GAMDOC (SYSTEM DOCUMENTATION),
+AS WELL AS DOCUMENTATION FOR A
+GAMES.  IF YOU DON'T GET IT RIGHT 
+AWAY, LEAVE MAIL FOR TYPO. I DID,
+& RECEIVED THE INTRIGUE DOC 2 
+DAYS LATER.
+ALSO -- INTRIGUE IS ACTUALLY A BIT
+MORE LIKE "DIPLOMACY." I LIKE
+THE TIMESHARE VERSION BETTER
+BECAUSE I NEVER COULD NEGOTIATE
+WELL FACE TO FACE WITH MY FRIENDS.
+THIS WAY, NO ONE HAS TO KNOW WHO
+I AM,     
+/eor
+_   1 From: Breath    84-05-03 16:07:38   # 285
+Perhaps. An UDDER IDIOT. Moo....
+/eor
+'()*+,-./012345679:;
+_   2 From: MANAHATH  84-05-03 17:50:55   # 286
+DO? LOOSE JERKS
+YOU LOOSE THEM!
+/eor
+()*+,-./012345679:;<
+_   1 From: mjb       84-05-03 18:19:15   # 287
+isnt this a mthp board?  I wanna MTHP
+/eor
+,-./012345679:;<=
+_   2 From: Shadow    84-10-03 17:10:27   # 288
+Wow.  Let's have an mthp.  Even though it's like 5 months later
+than the time this was last talked about on this board.
+/eor
+_   1 From: Achilles  84-10-03 20:06:45   # 289
+And 30 degrees colder..
+/eor
+ !"#$%&'()*+,-./02345678
+_   6 From: snorky    84-10-04 20:20:01   # 290
+Like set it up Awm.  Myself and BJL
+could prob make it for the 1st time.
+blahs, cept for the kinda one in Kato where
+I got to see Doug and Fran and Rahn-dur and
+such peoples.  
+-snork
+/eor
+_   5 From: DUX       84-04-28 21:13:02   # 175
+(OOPS!)
+... SO THEY DON'T KNOW MY
+IDIOSYNCRACIES, ETC.
+   
+TRY IT, YOU'LL LIKE IT!!!!!
+/eor
+_  21 From: Breath    84-04-28 22:39:34   # 176
+Mike,
+  There are 7 countries that you can be. They are:
+England, France, Germany, Russia, Turkey, Austria-Hungary
+and Italy. Each country has its pluses and minuses.
+For example, like DSF said, France has an advantage at
+the start of a game, because she can capture Spain and
+Portugal, and perhaps even Belgium. England has a
+defensive advantage because it is surrounded by water,
+but this is an offensive disadvantage. Germany and
+Austria-Hungary are i_   1 From: kristen   84-10-06 13:07:03   # 291
+users
+/eor
+ !"#$%&'()*+,-.012345678
+_   5 From: kristen   84-10-06 13:11:15   # 292
+to warlord
+why did you chose the name warlord?
+i am only 10 years old and just got a computer so i do not know very much about 
+write to kristen
+end
+/eor
+_   3 From: TWM       84-10-06 20:05:31   # 293
+BJL STILL EXISTS? WOW. WONDER IF HE EVER DID WHAT HE SAID HE WAS GONNA DO.
+--
+MTHP? WHERE? NO SWIMMING THIS TYME OF YEAR.
+/eor
+_   8 From: snorky    84-10-06 20:33:03   # 294
+Yea, Bjl still exists.  What did he say
+that he was going to do that want to know?
+We like are putting a d$d game on our vax.
+The one here in kato.  Should be fun doing it.
+Working on multi still.
+Like any messages you want conveyed?
+Who says you can't go swimming?
+-Snorks
+/eor
+_   1 From: ZIGGY     84-10-09 20:14:24   # 295
+IT LOOKS LIKE THE ONLY MTHP THAT WILL SOON EXIST WILL BE A MTHILLP.
+/eor
+78
+_   1 From: ZIGGY     84-10-09 20:14:24   # 295
+IT LOOKS LIKE THE ONLY MTHP THAT WILL SOON EXIST WILL BE A MTHILLP.
+/eor
+78
+_   8 From: snorky    84-10-06 20:33:03   # 294
+Yea, Bjl still exists.  What did he say
+that he was going to do that want to know?
+We like are putting a d$d game on our vax.
+The one here in kato.  Should be fun doing it.
+Working on multi still.
+Like any messages you want conveyed?
+Who says you can't go swimming?
+-Snorks
+/eor
+_   4 From: TYPO      84-05-03 12:49:04   # 284
+Yeah, Joe, these dipsticks with their numeral crap probably don't
+know how to spell 'words.' Either that, or they are so poor in 
+the basic skills that they would make themselves (himself) look
+like an utter IDIOT if normal message-writing were attempted. 
+/eor
+_   1 From: Breath    84-05-03 16:07:38   # 285
+Perhaps. An UDDER IDIOT. Moo....
+/eor
+'()*+,-./012345679:;
+_   2 From: MANAHATH  84-05-03 17:50:55   # 286
+DO? LOOSE JERKS
+YOU LOOSE THEM!
+/eor
+()*+,-./012345679:;<
+_   1 From: mjb       84-05-03 18:19:15   # 287
+isnt this a mthp board?  I wanna MTHP
+/eor
+,-./012345679:;<=
+_   2 From: ESJ       84-05-01 18:15:34   # 277
+HOW OLD ARE YOU...
+IS ANYONE OUT THERE?!!
+/eor
+0123456789:;<=>
+_   1 From: MANAHATH  84-05-01 19:47:02   # 278
+JUST NOD IF YOU CAN HEAR ME.
+/eor
+()*-./0123456789:;<=>?
+_   2 From: CLAUDE    84-05-01 20:43:42   # 279
+228
+250
+/eor
+ !"#$%&'()*-./0123456789:;<=>?@
+_   1 From: CLAUDE    84-05-01 20:44:24   # 280
+200
+/eor
+ !"#$%&'()*-./0123456789:;<=>?@A
+_   1 From: Achilles  84-05-01 21:31:57   # 281
+Somebody lose these jerks..
+/eor
+-./0123456789:;<=>?@AB
+copy b:forum.dat a:
+copy b:mbbs.dat a:
+copy b:mthp.dat a:
+copy b:@users.dat a:
+copy b:@totals.dat a:
+copy b:@errlog.dat a:
+erase a:*.mai
+copy b:*.mai a:
+autoexec
+*.mai a:
+autoexec
+lid time$Current time is $
+Enter new time: $Are you sure (Y/N)? $
+DIR
+RENAME
+REN
+ERASE
+DEL
+TYPE
+REM
+COPY
+PAUSE
+DATE
+TIME
+UYS. SHEEZ.
+"I am pissed off! I am pissed off!" WHY? GREG GAVE ME SOME MONEY SO I CAN GO.
+NOW ALL I HAVE TO DO IS PAY HIM BACK THURSDAY. SO GIMME A BREAK.
+ I can't even read my stupid screen-all it is is all the way over. I can't read 
+GADS. WHAT A HOTHEAD.
+                                                             <<ME>>
+_ Mail From: TWM        83-08-28 15:23:17
+YES I'M GOING TO THE FAIR, I'M GOJNG TO THE FAIR, I'M GOING TO THE FAIR, I'M GOI
+I WAS GONNA GO WITH GREG BECAUSE TODAY WAS THE ONLY _  17 From: Breath    84-05-01 22:20:38   # 282
+If it isn't too much trouble, I'd like to place a simple
+request:
+  Every day or two, some ruggie sees fit to sign on
+here, and leave several messages whose content is
+nothing more than a few obscure digits. It tends to
+make you a bit suspicious that it's the same person
+doing it over and over again. And again. So, I address
+this person: Please do us (or at least me) a service.
+Either quit leaving these pointless messages which
+do nothing but waste ddo nothing but waste disk space and time, or else
+be so courteous as to explain your behavior, and
+maybe even the significance of the numbers. I'm
+rather annoyed, and yet intrigued by this person's
+behavior. Are you trying to get attention, but lack
+the skills of written English to express your thoughts?
+Or are you always like this?
+    ...Joe
+/eor
+ain. So, I address
+this person: Please do us (or at least me) a service.
+Either quit leaving these pointless messages which
+do nothing but waste d_   1 From: Flash     83-09-10 19:56:23   # 116
+Yeah, I meant WarGames started the way others look at us...
+/eor
+@ABCDE
+_   1 From: awm       83-09-10 23:25:03   # 117
+well, the 18th sounds fine .. if i can find transportation.
+/eor
+ABCDEF
+_  13 From: Achilles  83-09-11 01:29:58   # 118
+That would bring the vote count to a 33.3/33.3/33.3
+tie, practically.  That sure accomplishes a lot..
+Who's actually doing any planning for this?
+It's a demonstrated fact that some things 10%
+!4)
+c!
+{q
+*k{
+cc
+K1
+c+
++{
+c)
+C{{
+(iS 
++3+
++!
+)a
+H@
+\@@
+X@D
+\@@
+\@@
+X@
+\D@@
+MARK              84-05-0114:34:31TTFTTF
+84-04-30?
+ESJ     SLIM      84-05-0118:31:45TFFTTF
+84-05-01?
+BEN     ROCK MASTE84-05-0120:21:25TTFFTF
+84-05-01?
+MJB     MIKEB     84-05-0318:10:28TTFTTF
+84-04-30?
+ATH     GARFIELD  84-04-3019:28:55TFFTTT
+84-04-30?
+ERTYUI            84-04-3019:53:39TFFTTF
+84-04-17?
+BRUCELEEMONEY     84-04-3020:14:46TTFFTF
+84-04-30?
+ZZZEMPTYNIGLER    84-05-0122:10:39FFFTTF
+84-05-01?
+DAN     CAPTAIN CR84-04-3021:12:52TTFFTF
+84-04-30?
+HELLO   DT789     84-04-3021:42:17TTFTTF
+84-04-16?
+BBS     HOSER     84-04-3023:26:00FTFTTF
+84-04-30?
+RANDALL SWTPCX12  84-05-0100:44:00TTFFTF
+84-05-01?
+FOURT   Y         84-05-0102:17:55FFFFTF
+84-05-01?
+CLAUDE  GUEST     84-05-0120:34:48FTFTTT
+84-05-01?
+ARRGH   ARRGH     84-05-0213:51:28TTFTTF
+84-05-01?
+Q       BOUT      84-05-0214:17:36TFFFTF
+84-04-24?
+_   4 From: MJS       84-04-30 23:20:44   # 234
+WHAT'S WRONG WITH MTH#2???  THAT'S ALSO ALWAYS BUSY! (MBBS ISN't
+MUCHETTER!)  I HAVE BEEN TRYING TO GET ON THAT SINCE LAST FRIDAY!
+GRR!  TODD, WHAT'S UP?
+-MIKE
+/eor
+_   1 From: TREK      84-05-01 12:08:33   # 235
+Just think. In fifty years we can look back and tell our grandkids how we made i
+/eor
+_   2 From: TREK      84-05-01 12:10:28   # 236
+(OOPS) made it thru the snowiest winter in Twin Cities history!
+Sort of makes you glad to be alive. Huh?
+/eor
+_   3 From: Shell     84-05-01 14:17:40   # 237
+Not really I rather have been in Florida this winter.
+Who's Scot?  Is he trying to learn to use the write command?
+*Steve*
+/eor
+_ Mail From: Speedy     84-05-01 05:44:41
+I am up in the clouds!  Although my teachers
+at school get on my case because I am blowing
+off the last semester and not doing as well as
+I usually do.  Bio!
+  See ya,
+          Cathy
+case because I am bzyx book!
+with anything.  Silly people.  
+  
+  I have to run off to school...!  See ya,
+Cathy
+p.s. I can't find my Fizoing to subscribe
+to GamBit?    Gotta run,
+                       Cathy
+ong time since I hav
+ heard from you.  Are you gAEK     MAIL      84-04-0218:33:09TFFFTF
+84-04-02?
+WOWBAGY CATS      84-03-0319:48:57FFFTTF
+84-03-03?
+ANDROPOVGINA      84-03-2922:51:19TTFFTF
+84-03-29?
+CRIS    FH        84-03-1215:48:49FFFFTF
+84-03-12?
+dating files .. it will be in C instead of Scepter.  There won't
+be as many DMs because the editing commands are dangerous to Gam-
+Bit, so only SYSOP-type people will be DMs.  I think that's a de-
+finate minus, but we'll see .. it still oughta be unbelievably
+great.
+But subscribe to GamBit right now, and get on from about 9:00-10:00 PM,
+and get on the Talk Parlour!  C'mon!
+-----
+Alan, could you put a ^f command in mail, to forward a message you
+might have in your mailbox?  You know what I mean frommight have in your mailbox?  You know what I mean from MTS, don't you?
+/eor
+because the editing commands are dangerous to Gam-
+Bit, so only SYSOP-type people will be DMs.  I think that's a de-
+finate minus, but we'll see .. it still oughta be unbelievably
+great.
+But subscribe to GamBit right now, and get on from about 9:00-10:00 PM,
+and get on the Talk Parlour!  C'mon!
+-----
+Alan, could you put a ^f command in mail, to forward a message you
+might have in your mailbox?  You know what I mean from_  20 From: Wowbaggy  84-05-01 16:15:41   # 238
+Yes.. life has returned to
+normal in St. Anthony Village.
+No more MP's.. no more raking
+glass and shingles off people's
+lawns.. atleast for me...
+  Any bets on what 
+NE suburb
+will get blown off the map
+next* time?
+  We'll for some reason, my
+line, my modem or something..
+I can't access mthb#2... Once
+again, I'll ask the question:
+Have there been any parity
+changes?  I can access Ziggy's
+.. that is the message that
+says 'THIS BOARD HAS MOVED' asays 'THIS BOARD HAS MOVED' and
+hangs up.. but I can't even get
+the little modem light to come
+on with the mthb#2... strange..
+lator all...
+/eor
+gles off people's
+lawns.. atleast for me...
+  Any bets on what 
+NE suburb
+will get blown off the map
+next* time?
+  We'll for some reason, my
+line, my modem or something..
+I can't access mthb#2... Once
+again, I'll ask the question:
+Have there been any parity
+changes?  I can access Ziggy's
+.. that is the message that
+says 'THIS BOARD HAS MOVED' aZZZZZEOFATARI     84-04-2421:05:47FFFTTF
+84-04-24?
+CLAUDE  GUEST     84-05-0120:34:48FTFTTT
+84-05-01?
+MECC    SAM       84-05-0121:59:25TTFTTF
+84-04-18?
+ZZZZZEOFMILLER    84-04-1816:46:41FFFTTF
+84-04-18?
+l,' I could do that for you and mail them to you. Just
+say the word and it's done honey.
+ POPS 
+_ Mail From: ZIGGY      84-04-29 13:07:02
+OOPS...  I GOT UP AT 1:30PM TODAY. I DON'T THINK I MADE THE 7:30
+DEADLINE.  SORRY, CATHY!
+   BILL
+_ Mail From: Achilles   84-04-29 15:01:18
+Um, since I was still unconscious at noon today...
+_ Mail From: WARLORD    84-04-29 16:35:01
+OK, I SHALL SEE IF YOU LEFT ANOTHER MESSAGE FOR ME.
+-GORDY
+_ Mail From: TYPO       84-04-29 18:02:43
+I'm desperate. _  22 From: MJS       84-04-27 18:50:54   # 166
+THANKS FOR THE INSIGHT ON INTRIGUE.  THAT REALLY CLEARS UP WHAT THE
+WHOLE GAME IS ABOUT AND HOW IT IS PLAYED.   
+----
+SCEPTER:  WELL, I DON'T KNOW HOW IT WILL BE ON GAMBIT BUT ON MECC IT WENT SOMETH
+ING LIKE THIS:  YOU CHOOSE A TYPE OF CHARACTER (FIGHTER/THIEF/ETC) AND WORK HIM 
+UP THROUGH KILLING MONSTERS, FINDING TREASURE, ETC.  THE THING THAT
+MADE SCEPTER "FUN" AND UNIQUE WAS:
+1)  IT HAD THE UNIQUE ABILITY TO SIMULATE AN ACTUAL AND BELIEVABLE
+WORLDWORLD THROUGH SENSABLE DISCRIPTIONS, MONSTERS, ETC..
+IT ALSO HAD (HAS) VERY GOOD COMMANDS WHICH MAKES YOUR CHARACTER ALMOST
+UNRESTRICTED IN HIS COMPUTER GENERATED WORLD.  THAT WAS A BIG PLUS
+WITH SCEPTER.
+ANOTHER HUGE PLUS WAS ITS MULTI-PLAYERNESS.  CHARACTERS (NOW PLACED
+IN THEIR OWN WORLD) WERE ABLE TO DO ALMOST ANYTHING WITH THE OTHER
+PLAYERS ON THE GAME AT THAT TIME.  THE ABILITY TO ORGANIZE GROUPS OF
+CHARACTERS TO EXPLORE DIFFERENT PLACES IN SCEPTER REALLY MADE IT
+COME TO LIFE.  SCEPTER WAS THEmissing." Mike (and anyone else who's waiting for
+Scepter), you don't know what you're missing. And even
+if you don't like Intrigue, there's still the talk
+parlor (always sheer ecstacy)(provided you aren't alone
+in there), and the mailbox (big deal, you say, because
+you can get it for free on a BBS. BUT, on a BBS you
+hafta wait for busy signals. GamBit's 7 ports make it
+virtually non-existent), and lots of interesting
+boards.
+  "GamBit -- Games and a Good Bit More"
+  Subscribe!!!!
+     ...Joe
+(H(Hey Bob, how'd I do? heh)
+/eor
+ waiting for
+Scepter), you don't know what you're missing. And even
+if you don't like Intrigue, there's still the talk
+parlor (always sheer ecstacy)(provided you aren't alone
+in there), and the mailbox (big deal, you say, because
+you can get it for free on a BBS. BUT, on a BBS you
+hafta wait for busy signals. GamBit's 7 ports make it
+virtually non-existent), and lots of interesting
+boards.
+  "GamBit -- Games and a Good Bit More"
+  Subscribe!!!!
+     ...Joe
+(H_ Mail From: archon     84-04-29 16:06:57
+When did you get on TCCCC?
+Hey,VIP terminal works great!! Proves false all those bad things
+I've heard about it. It even gives an 80 column display when on-line!
+Ultima II should be here either Tuesday or Wednesday,so plan on
+adventuring this weekend.
+Have you heard from Ranger yet? I haven't gotten any response.
+                                    Later,
+                                      Archon
+_ Mail From: archon     84-05-01 15:41:50
+What's up guys?
+Write more and more often!
+                 -Archon
+rchon
+_ Mail From: archon     84-05-01 15:41:50
+What's up gu things
+I've heard about it. It even gives an 80 column display when on-line!
+Ultima II should be here either Tuesday or Wednesday,so plan on
+adventuring this weekend.
+Have you heard from Ranger yet? I haven't gotten any response.
+                                    Later,
+                                      Archon
+_ Mail From: archon     84-05-01 15:41:50
+What's up gu_ Mail From: Pnessutt   84-05-03 01:22:05
+Hello?
+errors.
+05-02-1984 21:16:35 W:BBS4045 - Unknown Hayes response.
+05-02-10:23:07 M:BBS5022 - User eadgbe   logged in.
+05-03-1984 00:00:49 M:BBS5022 - User ZIGGY    logged in.
+05-02-1984 22:10:23 F:BBS20007 - Too many errors.
+05-02-1984 22:08:34 W:BBS4045 - Unknown Hayes response.
+05-02-1984 21:50:52 W:BBS4045 - Unknown Hayes response.
+05-02-1984 21:48:11 F:BBS20007 - Too many errors.
+05-02-1984 21:16:35 W:BBS4045 - Unknown Hayes response.
+05-02-1ship!  I can't imagine
+someone actually doing that, but it is possible with
+all the weirdos arund in the world.
+   I told him I already have my mind made up and
+will call NWB and Sperry tmrw to tell them.  He was
+disappointed, but wished me luck anyways.  It took
+me 1/2 hour to convince him that I wanted to stay
+with Honeywell..  "I guess I am a little biased
+here"  No kidding!  He growls at the mention of
+Honeywell.  Hehehe.. I love it.
+  
+    Talk to you soon (Hopefully)
+See ya pops,
+        _ Mail From: DUX        84-04-30 12:06:53
+OK -- WILL DO.
+DO YOU WANT HIM TO ASK ?S HERE,
+OR ON GAMBIT?
+-- DUX
+_ Mail From: Speedy     84-04-30 13:30:29
+You have mail today!
+DO YOU WANT HIM TO ASK ?S HERE,
+OR ON GAMBIT?
+-- DUX
+_ Mail Fror did a stupid)
+plus he could put forth those questions concerning the game that he has yhad
+trouble getting answered.
+tefatal:kill -- illegal access and gave me a $ prompt.
+Then it hung up the phone, and wouldn't answer.
+I am confused -- I thoughHACKER  HACKER    84-03-2322:47:35TFFFTF
+84-03-23?
+MARTIN  NEW       84-03-2401:06:51TTFTTF
+84-03-24?
+JOHN    8024      84-03-3122:45:06TTFFTF
+84-03-31?
+HUNTER  SAAB      84-03-2420:00:23TTFTTF
+84-03-24?
+_ Mail From: Speedy     84-05-03 06:43:41
+ Sniff..  Never talk to me?  Well at least let
+me explain! 
+    I got on MAIL to write tons of messages before
+I got off for a few days, and after about my 2nd letter,
+69 people came into the Math IMC and were watching
+over my shoulder asking stupid questions like  "WHO
+ARE YOU WRITING TO????"  "IS HE YOUR BOYFRIEND?????2
+"HOW DO YOU KNOW WHERE THE KEYS ARE???"  "WOW,
+THAT'S REALLY NEATO-KEEN!" 
+    I can't write personal, or any* kind of
+mail while people are watching me.  Of course I 
+wanted to send you something!  
+   I have to go to school, I hope you accept my
+apology Bob.. Sniff.  Now I feew bad.
+  Love,
+       Cathy
+_ Mail From: Speedy     84-05-03 13:21:48
+   Yes I was serious about 'man'ing the booth at
+the HamFest... If I am not taking someone's important
+spot that is.   It sounds like a lot of fun.  I go to the
+Hamfest each year.  It has been growing a lot in the
+past 2-3 years though.  Computers started to invade the
+place!!!   
+_ Mail From: Achilles   84-05-03 07:56:17
+If the Combat Frisbee gets out of hand, just pick up a 
+garbage can lid and..
+Amazing how access to a car cuts down on bike usage.
+(I biked about 1400 miles one year, then I got a car...)
+ -B
+_ Mail From: TYPO       84-05-03 12:43:07
+I'm an od softy. OK, all is forgiven. Talk to you soon.
+P.S. Were you serious when you said you wanted to 'man'
+GamBit's booth at the HAM RADIO/COMPUTER FESTIVAL? If so,
+I will make certain to get enough 'employee' badges (one
+for you).
+POPS
+_ Mail From: Breath     84-05-03 16:13:11
+Blah. I'm out of credits. Bob advanced me 25 last night,
+so I spent all but two in mail and talk. (was on talk
+for about 1 1/2 hours, until sometime betwixt midnight
+and 12:30). I may just send cash if mom is gonna be
+so tight about writing a stupid cheque. (have I ever
+complained to you about the way my mom bitches when I
+ask her to write a check for GamBit? Despite the fact
+that it's MY money that's being spent, I hafta argue
+with_   4 From: Breath    84-04-25 20:48:37   # 156
+Next point of interest:
+  What happened to the guest account? I can't get on there
+now! I'm told that computer withdrawal is nasty..
+<twitch twitch> aahhh!!!
+/eor
+_   3 From: AEK       84-04-25 20:55:22   # 157
+We are disabling the guest account during times when ALL ports
+are in use.  It's no fair for a paying subscriber to get a
+busy signal whilst a non-paying guest is on..
+/eor
+      Glad you forgave me,
+                          Cathy
+3 years though.  Computers started to invade the
+place!!!   
+. Sniff.  Now I feew bad.
+  Love,
+       Cathy
+_ Mail From: Speedy     84-05-03 13:21:48
+   Yes I was serious about 'man'ing the booth at
+the HamFest... If I am not taking someone's important
+spot that is.   It sounds like a lot of fun.  I go to the
+Hamfest each year.  It has been growing a lot in the
+past 2-3 years though.  Computers started to invade the
+place!!!   
+LA      DODGERS   84-03-2314:53:38TTFFTF
+84-03-23?
+SCHULER GUEST     84-04-0219:37:52TTFTTF
+84-04-02?
+GLYMPH  FRANK     84-03-2713:43:21FTFFTF
+84-03-27?
+GOMERGOM
+         84-03-2317:18:37FFFFTF
+84-03-23?
+_   9 From: Achilles  84-05-01 17:44:55   # 239
+(Parity ain't got nuthin' to do with whether or not you
+ get a carrier, man.)
+Ian Gillan, Ritchie Blackmore, Roger Glover, Jon Lord, and Ian Paice
+have gotten back together, re-forming Deep Purple.  They're
+currently making an album and a video, and a world tour is
+coming..
+Nice to see the old bands getting back together.
+ -B
+/eor
+_   3 From: MANAHATH  84-05-01 19:48:47   # 240
+I'LL VOTE TO HAVE COLUMBIA HEIGHTS CREAMED, BUT ONLY IF I GET TO
+DIE IN THE PROCESS.
+-DOUG
+/eor
+_   3 From: DUX       84-04-26 10:15:46   # 158
+BRAVO!!!
+I'VE NOTHING AGAINST GUESTS,
+BUT BUSY SIGNALS MAKE ME *SAD*!
+/eor
+_   2 From: Shell     84-04-26 16:27:15   # 159
+Hey Breath did you get kno
+cked off too?  I mean credit wise.
+*Steve*
+/eor
+_ Mail From: Breath     84-05-03 16:02:25
+NSP was a bit tardy in fixing it....but perhaps they
+considered St. Anthony/New Brighton to be a bigger
+headache than your* problems.
+  And the girl is (was)........................>
+one Lenny Ladderhead. She's such a nice girl. But
+alas....
+  Hmm...perhaps you should consider yourself lucky with
+only those two caps frying? Let's just hope that those
+two are the only thing wrong with it...
+  Oh lord. Mother is screaming for me to help her dry
+up the basement...
+    ...Joe
+are the only thing wrong with it...
+  Oh lord. Mother is screaming for me to help her dry
+up the basemhton to be a bigger
+headache than your* problems.
+  And the girl is (was)........................>
+one Lenny Ladderhead. She's such a nice girl. But
+alas....
+  Hmm...perhaps you should consider yourself lucky with
+only those two caps frying? Let's just hope that those
+two are the only thing wrong with it...
+  Oh lord. Mother is screaming for me to help her dry
+up the basem_   1 From: eadgbe    84-05-01 21:52:00   # 241
+...it's a DEAL!
+/eor
+!"#$%&'()*+,-./0123456789;<=
+_   4 From: CPC       84-05-02 00:45:18   # 242
+No, please.  Vote to have Friendly Fridley slide off the plate,
+along with Viking Chevrolet.
+...How about this tornado right
+Heeeeeeere!
+/eor
+ her for about a week before she'll write the damn
+thing. "Fuuuuuuuck you.")
+  Not to be a dipstick, but would you be so kind as
+to explain the following MECCism?  "Moo"
+      ...Joe
+_ Mail From: mjb        84-05-03 18:15:50
+Hi again.  I havent tried Gambit yet, whats it like?
+Whats been going on with you???  I'm working at Softlaw
+now, programming the C-64.
+     -Mike
+_ Mail From: Breath     84-05-03 18:54:22
+Oh, not writing to me ay? I see you were on just a few
+ago, and you didn't write to me! Waaaahhh!!!!!
+   ...___
+8:54:22
+Oh, not writing to me ay? I see you were on just a few
+ago, and you didn't writeas
+to explain the following MECCism?  "Moo"
+      ...Joe
+_ Mail From: mjb        84-05-03 18:15:50
+Hi again.  I havent tried Gambit yet, whats it like?
+Whats been going on with you???  I'm working at Softlaw
+now, programming the C-64.
+     -Mike
+_ Mail From: Breath     84-05-03 18:54:22
+Oh, not writing to me ay? I see you were on just a few
+ago, and you didn't write_   2 From: Achilles  84-05-03 07:51:11   # 243
+"U.S. out of Fridley!"
+"Fridley out of U.S.!"
+/eor
+*+,-./0134567
+_   1 From: MANAHATH  84-05-03 09:34:55   # 244
+COMRADE, GET LIFE.
+/eor
+ !"#$%&'()*+,-./01345678
+_  22 From: Shell     84-04-26 16:34:59   # 160
+Ok the thril off Gambit:  Well I was never on Mecc or anything like
+that so it took me a while to get used to Gambit.  But I can tell you 
+one thing it sure was worth it.
+Intrigue is a great game I played it for a few days until my credits
+went down the whole.  that was sort of my fault.  I wasted the things.
+I had gotten over 85 credits and when it came down to use Intrigue
+I had 20 left.  I spent the rest in talk parlour.
+But I enjoyed Intrigue whileBut I enjoyed Intrigue while I played it.  I also got creamed in the
+end by the infamous Cthulhu(sp?) but it was fun making treaties with
+Italy and trying to get England together.  It was one of the first
+games I had played that your actually got to go against other players.
+On a computer that is.  You couldn't do something like that on a board
+game although it did originate from that.  I would like to see the board
+game.  But it is a fun game.  One thing for sure Gambit doesn't act up
+like this boarlike this board.  Try the guest account.  but not during heavy peak time
+hours.  Like around 4 o'clock on.  I once got a busy signal then a few weeks
+ago.  You don't really have to subscribe now but one things for sure if
+Gambit has to wait for Scepter to be up they will rush it and it will have
+lots of bugs.  So if everybody subscribed today they might think thru a 
+little more.  Or then again it might not be up till august.
+So bob do me and Breath get commisions for recruiting people?
+Steve SheldonSteve Sheldon
+/eor
+e guest account.  but not during heavy peak time
+hours.  Like around 4 o'clock on.  I once got a busy signal then a few weeks
+ago.  You don't really have to subscribe now but one things for sure if
+Gambit has to wait for Scepter to be up they will rush it and it will have
+lots of bugs.  So if everybody subscribed today they might think thru a 
+little more.  Or then again it might not be up till august.
+So bob do me and Breath get commisions for recruiting people?
+Steve Sheldon_ Mail From: STEVE      84-02-17 14:46:08
+HELLO RUGRATS!!!!!!
+I HOPE THAT YOU HAVE A MARVERLOUS
+TIEMS ABUSEING THIS SYSTEM!!!!
+BUT IF YOU ARE A HACKER...GTH
+THIS SYSTEM NEEDS TO BE OPEN TO
+EVERYONE...STEVE
+FREIND
+_ Mail From: STEVE      84-02-17 15:20:31
+I'M SORRY FOR RUGGING OUT AND WRITEING THE LR
+TTER THAT IS ABOVE THIS
+I THOUGHT THAT IT WOULD GO TO POEPLE TRYIN TO GET ON WITHOUT A CODE
+SO PLEASE DON'T WRITE ANY DEROGITOR LETTERS IN RETURN....STEVE
+ THAT IT WOULD GO TO POEPLE TR"^P" 
+ P$
+"^L" 
+@3
+c,3
+ I4
+ MESLEN
+:P$
+(I4)
+": "
+BUF$(I4):
+V:
+a:
+ HALT 
+ I4
+c63
+c@3
+ P$
+"^D" 
+h3
+cJ3
+ MESLEN
+cT3MESLEN
+MESLEN
+ch3
+ P$
+"^A" 
+ P$
+"^O" 
+ dr3MESLEN
+:P$
+"Message Aborted.":
+V:
+Md
+3P$
+"Invalid editing option.":
+V:
+ MESLEN
+ TLIM
+MIN(
+,TLIM
+) :
+give more time to complete message.
+3BUF$(MESLEN)
+CMDLN$:
+ MESLEN 
+4 :
+ MESLEN
+MESLEN
+4I3
+SNDRET:SNDRET
+ I3 
+!/,
+0C
+$e
+6:
+*** VOTE commaBREATH  NIGLER    84-04-0217:04:54TFFTTF
+84-04-01?
+OUATL             84-03-3108:00:07TTFFTF
+84-03-31?
+FRED    QWERT     84-03-3110:48:48FFFTTF
+84-03-31?
+STUART  
+SHPA     84-03-3111:01:36TFFTTF
+84-03-31?
+STING   POLICE    84-03-3111:43:47TFFTTF
+84-03-31?
+THOMAS  TB$45     84-04-0322:04:25TFFTFT
+84-03-31?
+MJS     SCH       84-04-0318:27:34FTFTTF
+84-03-24?
+ROWSA   YOWSA     84-03-3112:53:39TFFTTF
+84-03-31?
+_ Mail From: Jeff       84-02-14 20:19:53
+  HI, IS YOUR REAL NAME HALVERSON?
+WELL SO IS MINE!
+DO YOU LIKE THE GamBit SYSTEM I THINK I SAW YOU ON IT ONCE!
+ MY NAME IS Jink!
+  BYE NOW!
+_ Mail From: Paul       84-02-15 21:23:20
+Hi you jerk!  Why did you sign
+in as HALVERSO?  Why not JEFF?
+Sincerely,
+<< THE HYDRA >>
+_ Mail From: TheHydra   84-02-17 18:22:11
+Please forward 
+ all letters to
+the name THEHYDRA... Somthing
+went haywire with my password.
+>>> The HYDRA <<<
+8:22:11
+Please for"ZZZEMPTY":
+ #
+,USINDEX:NLIST$(USINDEX)
+"ZZZEMPTY"
+:OLDDEX
+USINDEX:USINDEX
+:P$
+"You are no longer defined.":
+V:
+::
+*** clear your mail
+ USINDEX
+ P$
+"You have to define your name first.":
+V:
+9l
+;P$
+"Are you sure? ":NOCR
+TRUE:
+V:STATUS$
+"sure":
+rl
+;STATUS$
+"comm":P$
+(CMDLN$,
+):
+]:
+ P$
+"Y" 
+:TOPIC$
+""
+l$;
+$w
+l.;
+ DSK$
+USNAME$
+".mai"
+l8;
+0u
+lB;P$
+"File cleared.":
+lL;
+l`;:
+ *** toggle mail mode
+0mt;
+ TOPIC$
+"MAIL" 
+ TOPIC$
+"" :
+ I am pry gonna be using this BBS some
+during the next few weeks, and I want my codename.  I
+thought the password was rugout, but I guess not.  Oh,
+RUGOUT was me, too.  You can obliterate RUGOUT and this,
+CORUM, please.  And leave the password to ELRIC as 
+"RUGOUT".  'kay?  Bill wants me to be mean, so I will.
+                          --Franne Landers
+P.S.  Have you watched your soap opera lately?
+P.P.S. I am going to the Valli to get drunk.
+P.P.P.S. Fuckin' Helgen.
+P.P.P.P.S. More
+P.P.P.P.P.S. Poon on me bitch.
+P.P.P.P.P.P.S. I feel down.
+P.P.P.P.P.P.P.S. ^l
+P.P.P.P.P.P.P.P.S. Alright! yeah yeah!  ooh babeh ooh
+                   babeh!! yeah yeah!! dynamite!!!
+P.P.P.P.P.P.P.P.P.S. G'bye!!!   **SLAM**
+_ Mail From: MJS        84-03-11 18:37:05
+     GLAD TO SEE YOUR BBS IS UP AGAIN!!
+-MIKE
+P.P.P.S. G'bye!!!   **SLAM**
+_ Mail From: MJS        84-03atched your soap opera lately?
+P.P.S. I am going to the Valli to get drunk.
+P.P.P.S. Fuckin' Helgen.
+P.P.P.P.S. More
+P.P.P.PCOME TO LIFE.  SCEPTER WAS THE CLOSEST THING TO THE CONCEPT THAT D&D
+TRYS TO BRING OUT.  IT BEATS MOST D&D GAMES I HAVE BEEN IN BY FAR! 
+ANOTHER NICE FEATURE ABOUT SCEPTER WAS THE DMS.
+THEY WERE ABLE TO ADD PLOTS TO THE GAME (NOT THAT THE GAME ALREADY
+DIDN'T HAVE ONE BUT A NEW ONE ONCE IN A WHILE HELPED..)
+-MIKE
+/eor
+ WITH THE OTHER
+PLAYERS ON THE GAME AT THAT TIME.  THE ABILITY TO ORGANIZE GROUPS OF
+CHARACTERS TO EXPLORE DIFFERENT PLACES IN SCEPTER REALLY MADE IT
+COME TO LIFE.  SCEPTER WAS THE_  17 From: DSF       84-04-27 22:20:18   # 167
+You know a system is decent when the users start doing propaganda
+for it, for nothing .. not one sysop has said anything here for a
+while ..
+Well, Scepter will only be different in that it will only have 8
+ports instead of 25 (that's all that can be on GamBit at once!),
+it won't have any more "SAVING FILES .. PLEASE WAIT", because it
+will never have to save files again .. it will constantly be up-
+dating files .. it will be in C instead of Scepter.  Th_  11 From: Couatl    84-05-03 17:31:22   # 248
+EVERYTHING* you say is stupid.
+Everything you SAY is stupid.
+Everything <YOU> say is stupid.
+Everything you say is >> STUPID <<.
+I beleive I'vee said  all, no we can
+stop saying it!
+ Everything you say is stupid.
+            X    X
+           X    X
+ `       You say everything is stupid.
+M i feeling strange or wHAt?
+/eor
+_   1 From: MANAHATH  84-05-03 17:49:35   # 249
+NO, JUST EVERYTHING YOU SAY IS DUMB.
+/eor
++,-./013456789:<=>
+_   9 From: CPC       84-05-03 13:43:44   # 245
+Has anybody attended a high school clas reunion?  I am putting
+our 5 year reunion together and I need some feedback on them.
+I really want ours to be a good one.  My friends, what *makes a good
+class reunion? 
+If you didn't like it, was it becase you were such a shmuck during
+school that you couldn't care less about a reunion?
+Or if you did like it, was it because you were Mister Popularity?
+Thanks,
+-charlie
+/eor
+_  10 From: ZIGGY     84-05-03 17:14:14   # 246
+I'VE ATTENDED MY 5-YEAR REUNION.  WHAT MADE IT GREAT WAS THE PEOPLE.  THE
+CHANCE TO SEE ALL THE OLD GANG (AND OLD ENEMIES...) AND SEE WHAT HAPPENED
+TO EVERYONE.  WE HAD A BAD, AND PEOPLE DIDN'T DANCE--THEY TALKED!
+A NICE ICE BREAKER WERE THE 2 FREE KEGS AND THE MUNCHIES, BUT TALKING
+AND DRINKING (AFTER THE KEGS RAN OUT) IS WHAT EVERYONE DID.  ALSO, A NICE
+TOUCH WAS THE INFORMAL PARTY AFTER THE FORMAL PARTY.  EVERYONE DROVE OUT
+TO THE H.S. FOOTBALL FIELDTO THE H.S. FOOTBALL FIELD, AND CONTINUED THE PARTY THERE, AT THE
+TRADITIONAL SPOT.
+AH.. THE MEMORIES.
+    ZIGGY
+/eor
+ANCE TO SEE ALL THE OLD GANG (AND OLD ENEMIES...) AND SEE WHAT HAPPENED
+TO EVERYONE.  WE HAD A BAD, AND PEOPLE DIDN'T DANCE--THEY TALKED!
+A NICE ICE BREAKER WERE THE 2 FREE KEGS AND THE MUNCHIES, BUT TALKING
+AND DRINKING (AFTER THE KEGS RAN OUT) IS WHAT EVERYONE DID.  ALSO, A NICE
+TOUCH WAS THE INFORMAL PARTY AFTER THE FORMAL PARTY.  EVERYONE DROVE OUT
+TO THE H.S. FOOTBALL FIELD_   2 From: ZIGGY     84-05-03 17:14:43   # 247
+OOPS... C/BAD/BAND/ IN THE 3RD LINE ABOVE.
+   ZIGGY
+/eor
+13456789:<
+_   1 From: MANAHATH  84-04-26 17:58:35   # 161
+EVERYTHING EVERYONE KNOWS IS WRONG.
+/eor
+-./01234567;>?@ABF
+_  22 From: MJS       84-04-26 21:59:38   # 162
+I HAVE  A FEW QUESTIONS 
+ABOUT INTRIGUE.
+1) WHAT TYPE OF MULTI-USER FUNCTIONS DOES IT HAVE?  DOES THERE NEED TO
+BE MORE THAN ONE PLAYER ON IT TO BE PLAYABLE?  IS IT MORE FUN WITH
+A LARGER GROUP OF PEOPLE PLAYING AT ON
+CE?
+2)  HOW 
+HARD IS IT TO 
+LEARN?  WILL I BE SPENDING HALF MY CREDITS JUST
+TRYING TO FIGURE THE THING OUT?  CAN I WRITE FOR AN INSTRUCTION
+LIST BEFORE I SUBSCRIBE/START TO PLAY IT?
+3)  HOW MANY PEOPLE ARE USUALLY ON IT DURING PEAK HOUR3)  HOW MANY PEOPLE ARE USUALLY ON IT DURING PEAK HOURS?
+4) WAS IT LIKE EMPIRE WHICH WAS IMPOSSIBLE TO WIN AFTER ABOUT 4 WEEKS
+BECAUSE EVERYONE HAD ALREADY GAINED EVERY PLANET?
+--------
+I WISH GAMBIT WOULD ALLOW THE GUEST PORT TO BE OPEN FOR ALL FUNCTIONS
+AT ABOUT 4:00 AM  SO I COULD CHECK SOME OF THIS OUT BEFORE
+SENDING IN A CHECK..  AT 4:00 A.M. NOBODY WOULD REALLY WANT TO
+NOT BUY CREDITS BECAUSE THEY COULD GET ON FREE...  I KNOW I WOULDN'T
+STAY UP UNTIL 4 JUST TO GET ON GAMBIT OR ANYTHING (DAILY)STAY UP UNTIL 4 JUST TO GET ON GAMBIT OR ANYTHING (DAILY)
+ALSO, HOW CAN WE GET "WORLD" REPORTS ON INTRIGUE..  FIND OUT
+WHO IS WINNING, 
+NEAT THINGS LIKE THAT???
+ALSO, WHAT TYPE OF SYSTEM IS GAMBIT GOING TO BE (OR IS)?  IS IT A GAME
+SYSTEM OR WILL THEY HAVE OTHER THINGS ON THEIR LIKE WORD PROCESSING
+ETC..  WHAT DO THEY HAVE PLANNED AFTER SCEPTER?  
+-MIKE
+/eor
+LLY WANT TO
+NOT BUY CREDITS BECAUSE THEY COULD GET ON FREE...  I KNOW I WOULDN'T
+STAY UP UNTIL 4 JUST TO GET ON GAMBIT OR ANYTHING (DAILY)_   5 From: SNORKY    84-04-26 23:42:20   # 163
+WOWNESS...  KENT AND I CHECKED OUT GAMBIT FROM HIS
+TERMINAL NOW THAT THE PARITY DEAL IS FIXED..
+WE WERE IMPRESSED..
+-LAY-TER
+-T
+/eor
+_  13 From: grimace   84-04-27 06:16:14   # 164
+Mike, I'll try to answer your questions. First, Intrigue does not
+require any other player to be on line for you to play. Play is 
+like the Diplomacy board game. You prepare a set up orders for
+your forces using the Intrigue program. After all other players
+have done so, and at a scheduled time, Intrigue evaluates the
+moves, scores them and posts the results on a bulletin board.
+If you'd like to see how a couple of games went, read Intrigue1
+or Intriguor IntrigueX where x = 1 to 8. A map of the European continent
+used with the Intrigue game comes with the documentation sent to
+you when you subscribe. Once Europe has been conquered, everything
+recycles and you can start that particular game over again. Eight
+games can be in progress simultaneously.
+   During peak times, 6 to 8 people are usually on the system.
+/eor
+ scores them and posts the results on a bulletin board.
+If you'd like to see how a couple of games went, read Intrigue1
+or Intrigu_  19 From: Shell     84-04-27 10:59:46   # 165
+Yea Grimace is right.  Intrigue is not what you really call
+a multi-user game.  Although multiple users play it you can
+log on at any time even if one person is on and enter your commands.
+one of the really nice things is to sneak attack.  This is done only
+once so you can't fail in doing it.  the first time you get on the
+game you do a board command to find out where all the units are.
+save this to disk if possible to go back to it later.
+Next check oJAKE    PIZZA FACE84-03-3120:13:22TFFTTF
+84-03-31?
+DAN     PENCIL    84-03-3120:22:30TTFTTF
+84-03-31?
+MAC     MAC       84-04-0110:24:46TTFTTF
+84-04-01?
+CHARLI  CHARLI    84-03-2220:13:28TTFTTF
+84-03-22?
+R2D2    R2D2      84-04-0112:27:48TTFTTF
+84-03-16?
+FLASH   JUMP      84-03-3009:55:02FFFTTF
+84-02-26N
+|]
+YENDOR  GOLD      84-03-3119:21:26TTFTTF
+84-02-26?
+SHADOW  5323      84-03-3120:39:58TTFTTF
+84-03-31?
+TDS     MICKEY    84-04-0312:38:21FFTTTF
+84-03-18?
+ELRIC   VELCRO    84-03-3114:06:05TTFTTF
+84-03-31?
+ATWOOD  DUST      84-04-0119:21:51TTFTTT
+84-03-31?
+GEORGE  ZIGGY     84-04-0214:55:39TTTFTF
+84-04-02?
+KILROY  KILROY    84-04-0108:24:43TTFFTF
+84-04-01?
+RAMSEY  UFO       84-03-2020:35:19TTFTTF
+84-03-20?
+DENECKE ER4IC     84-04-0415:16:47TFTTTF
+84-04-02?
+VCB     IBM PCJR  84-04-0216:45:37TTFFTF
+84-03-31?
+LIBERTY JUSTICE   84-04-0110:14:48TFFTTF
+84-04-01?
+RINKLE  INDY      84-04-0212:01:49TTFTTF
+84-02-21?
+REDBARONREDBARON  84-03-1619:09:05TFFTTF
+84-03-13?
+DJW     CCEM      84-03-2619:26:52FFFFFF
+84-03-26?
+wZ
+BEREK   BEREK     84-03-2814:51:12TTFFTF
+84-02-17?
+*Z
+JEFF    433 J.H.  84-04-0215:28:51TFFTTF
+84-04-02?
+LARRY   QUIX      84-03-3119:03:17TFFFTT
+84-03-31?
+ACHILLESLTB       84-03-3113:56:38TTTTTF
+84-03-13?
+WIZ     AVATAR    84-04-0115:27:04TTFTTF
+84-03-31?
+BOBB    ROBERT    84-04-0121:39:55TFFFTT
+84-03-31?
+TONY    PSMK-CT   84-03-3117:07:42FFFFTF
+84-03-31?
+MORADIN TIM       84-04-0216:50:01TFFTTF
+84-03-31?
+COLLEEN RAINBOW   84-03-3117:50:32TFFFFT
+84-03-31?
+PUBLIC  R2D2      84-04-0112:23:03TTFFTF
+84-02-18?
+ROGER   GONZO     84-03-1218:04:34TFFFFF
+84-03-12?
+EXCEIVEREXC       84-04-0308:23:38TTFTTF
+84-02-20?
+_ Mail From: MORADIN    84-02-18 16:35:07
+Mike?   If this is you, this is
+Tim..  Bob's brother..  Its
+actually spelled Bilbo.
+-Tim
+ MORADIN    84-02-18 16:35:07
+Mike?   If this is you, this is
+Tim..  Bob's brother..  Its
+actually spelled Bilbo...
+Is there enough (or any) snow left for
+the MTHillP on the 25th?  I don't know
+if it will snow until then, but we
+can only hope.
+-Cath
+_ Mail From: MORADIN    84-02-18 16:32:28
+Hi Doug..   Finally got on here.
+Goin to the MTHP?   I should be tle loop routines here
+2520 IF LOCAL THEN ON COM(2) GOSUB 17500: COM(2) ON
+2530 DTIM=FNTIM
+2540 DCNT=1
+2600 '
+2650 DCNT=DCNT+1
+2660 IF DCNT < 5000 THEN 2800
+2670 DCNT=0
+2680 IF FNTIM-DTIM <= 15 THEN 2800
+2700 PRINT#1,STRING$(3,CHR$(24));
+2710 FOR I=1 TO 4000:NEXT
+2720 PRINT#1,"AT H"
+2730 FOR I=1 TO 4000:NEXT
+2740 IF NOT LOCAL THEN DUM$=INPUT$(LOC(IN),IN):PRINT DUM$;
+2750 PRINT"Requested precautionary hangup."
+2760 DTIM=FNTIM
+2800 '
+2990 IF NOT LOCAL THEN 2995
+2991 A$=INKEY$
+2992 IF A$="" T_   3 From: mjb       84-05-03 18:31:55   # 250
+Ziggy, I thought you went to an obedience school,
+how many memories could there be there?
+     -Mike
+/eor
+_   2 From: SPEEDY  84-06-28 20:34:33   # 251
+   Heh, where is everyone?!  Last message is from May?  
+Geez you guys are deadbeats.
+/eor

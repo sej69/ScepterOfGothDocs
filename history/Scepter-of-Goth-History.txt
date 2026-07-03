@@ -1,0 +1,115 @@
+Scepter of Goth, also spelled Sceptre of Goth, was an early multi-user text-based role-playing game, or MUD. Originally written by Alan E. Klietz, Scepter of Goth was one of the first commercial MUDs and the first commercial MUD in the United States. Although other settings were implemented with the software, it usually implemented a fantasy setting in the fictional city of "Boldhome". Scepter of Goth influenced many multiplayer games that came after it, particularly the Swords of Chaos and Mordor[1] series of MUDs, and can be seen as one of the ancestors of today's massively multiplayer online role-playing games (MMORPGs).
+
+
+Contents
+1	Commercial history
+1.1	InterPlay
+1.2	Influence on later systems
+2	Dunjon Masters (Dungeon Masters or DMs)
+2.1	Expectation of online DMs
+2.2	Attributes
+2.3	Handling resets
+3	User Experience
+3.1	Basic Mechanics and Commands
+3.2	Player vs. Player
+3.3	Worlds
+4	References
+
+Commercial history
+
+In 1978 Alan E. Klietz wrote a multi-player game called Scepter, and a later version called Milieu using Multi-Pascal (which Alan made to work on his own) on a CDC Cyber operated by the Minnesota Educational Computing Consortium,[2] which was used by high school students and some state colleges in Minnesota for educational purposes. Most CDC mainframes had only "128K words (60 bit words) of memory and 110/300 baud teletypes or modems." Playing on a faster connection, 2400 BPS or the rare 9600 BPS could give some advantages in game play. Scepter was inspired by the single-player computer games Colossal Cave Adventure and Zork, as well as non-computer RPGss such as Dungeons & Dragons.
+
+Klietz ported Milieu to an IBM XT in 1983, naming the new port Scepter of Goth. Richard Bartle's MUD1 was already running at Essex, but Klietz was unaware of this at the time. Scepter supported 10 to 16 simultaneous users, typically connecting in by modem, and ran on the QNX operating system (a Unix-like operating system). It was programmed in the C programming language, with nonportable QNX extensions for 8086/80286 memory segmentation.
+
+Scepter (as well as an unfinished advanced MUD by Klietz called Screenplay) was first owned and run by GamBit (of Minneapolis, Minnesota), founded by at least Klietz, Bob Alberti (Senior), and Bob Alberti (Junior). Scepter of Goth was handled as a franchising business: franchisees paid for the right to run the system in a certain area, and a system was provided to them. Franchisees then administered the system and collected fees from users. Users would then dial in to play; while a franchisee could accept calls from outside their local phone call area, the extra charges this imposed on users meant that users tended to use the franchisee that was local or at least closest to them. Each franchisee would set their rates; most charged a certain fee per hour (typically $2–$4 per hour), since only a limited number of users could play simultaneously.
+
+InterPlay
+
+GamBit's assets, including Scepter and Screenplay, were sold to InterPlay (of Fairfax, Virginia). InterPlay continued to sell franchises as well as maintaining its own nationwide chat system (ProtoCall). InterPlay's lead Scepter developer David A. Wheeler modified and maintained Scepter, adding a number of capabilities and fixing various bugs to improve its stability.
+
+As a result of this franchising business model, several Scepter of Goth systems ended up running in various locations, including at least ones in the following locations: Minneapolis, Minnesota; Austin, Texas; Chicago, Illinois; Ottawa, Canada; Fairfax, Virginia; West Valley City, Utah; and Bowie, Maryland. The system also included electronic mail, bulletin boards, a separate chat system, and some other facilities, but the game itself was the primary draw for its users. At a time when most Bulletin Board Systems (BBSs) only allowed one person to log in at a time, larger dial-in services had few interactive services, and Internet access was rare, Scepter was a startling new development to many. It was also accessible to anyone, not just those at one or two universities, so it was seen and used by a variety of people.
+
+Unfortunately, Interplay president Denny Flanders was charged and eventually convicted for tax evasion (for actions unrelated to the company), and was sentenced to jail. Although InterPlay could show that its revenue was increasing and when it would start turning a profit, the venture capitalists who had funded InterPlay were not willing to wait, and pulled their remaining funds. Once the funds were pulled, InterPlay immediately went bankrupt, and Scepter was no longer widely available.
+
+Influence on later systems
+
+Scepter influenced other work that followed after it. In particular:
+
+One of the later Sceptre of Goth licensees was a company started by Rob Denton, Matt Firor, Don Campbell, and others, which was slated to run in the Atlanta area. Because of financial problems at InterPlay, the system was never installed, prompting Denton, Firor, and Campbell to write their own text-based, multi-user online game named Tempest - later renamed Darkness Falls. Their company, Interesting Systems, eventually merged with another company to form Mythic Entertainment, and Darkness Falls became the codebase for Mythic's 2001 worldwide hit MMORPG, Dark Age of Camelot.
+Mark Peterson was "hooked on Scepter of Goth" in 1984, and after running out of money playing Scepter he wrote his own. His first MUD, The Realm of Angmar, was written in Pascal and began as a clone of Scepter of Goth, though soon he added his own ideas. This was ported to Unix, then to an Apple ][ in assembly language (renamed Angbar), rewritten in C on Xenix as Angmar. It was then rewritten to run on DOS to be compatible with the MajorBBS (and other BBSs of the time) and renamed Swords of Chaos, which for many years was a successful commercial MUD sold to various BBS operators until widespread Internet access eclipsed local BBS systems.
+Brett Vickers developed the noncommercial MUD Quest for Mordor, and specifically noted Scepter of Goth as his inspiration. Keegan states that "the authors of Mordor adapted ideas from Scepter of Goth for their publicly distributed (in 1993) mud server software." That MUD in turn spawned other MUDs such as Darbonne, Chalacyn Nights and Isengard. Brett Vickers eventually joined Arenanet, developers of the MMORPG Guild Wars.
+
+Tom Zelinski (InterPlay vice-president) and Susan Zelinski (another of InterPlay's employees) co-founded the company Simutronics with David Whatley. Simutronics went on to develop a number of multiplayer games. This includes various versions of GemStone, which was originally accessed through General Electric's internet service provider GEnie, later was accessible through AOL, Prodigy, and CompuServe, and eventually on Simutronics own systems.
+J. Todd Coleman was an assistant DM on the Austin-based installation of Scepter of Goth. In college, Todd teamed up with Josef Hall and James Nance to create ChaosMUD (a dikumud derivative), and the three of them subsequently founded both Wolfpack Studios, (the company that created Shadowbane and was acquired by Ubi Soft Entertainment in 2003) and KingsIsle Entertainment, the creators of the children's MMO Wizard101.
+
+Meridian 59, the first commercial, 3D massively multiplayer game, was inspired by Scepter of Goth.[3]
+Many MUDs and MMORPGs, commercial and noncommercial, are inspired by and use ideas from a variety of sources to develop their own work—including ideas from Scepter. In particular, Scepter helped demonstrate that it was possible to develop such multi-player games, and that there was a demand for them.
+
+Dunjon Masters (Dungeon Masters or DMs)
+
+Those few people who had the privileged status "Dunjon Master" (now more typically spelled as "Dungeon Master", and always abbreviated DM) could execute a set of special privileged commands that modified the game's status. DMs could create, modify attributes (including location), or remove rooms, objects, monsters (non-player characters), and players (collectively called "things"). These commands were typically used to create new or modified areas for the players to explore, so that the players (paying customers) would have a reason to keep returning.
+
+DM status was not earned through play, but had to be specially granted by the system's administrators. Typically the franchise owner, and a very few others, would have this status. DMs operated as referees, and the difference between a good and bad franchise often depended on the capabilities of the DMs.
+
+Expectation of online DMs
+
+The expectation (at least by InterPlay) was that at least one DM would be online most of the time while players were connected. DMs would be alerted of certain events, or do occasional spot-checks, and were expected to occasionally act in ways that would make the paying players' experience more fun. The DMs typically did not constantly monitor the system, but would be alerted when certain actions occurred. For example, rooms could be set so that DMs would be automatically notified when a player entered them. Other actions, such as making a wish, would also alert DMs (so the DM could determine how to respond to the wish). DMs could then perform a variety of actions. For example, they could make it appear that a monster could fully understand language and have the monster perform arbitrary actions. DMs could also create monsters and objects on the fly to create an interesting setting. DMs could essentially take control of monsters-making them do and say as the DM pleases. Many DMs were very benevolent and acclimated newbies to the MUD. Many DMs spent their time creating new worlds and monsters as well. If a DM had anticipated a complex action, the DM could execute a script of their own design on command.
+
+DMs' occasional actions made the game appear far more varied and "intelligent" than any software could manage by itself.
+
+Attributes
+
+Scepter was not fully programmable by the DMs, or even by the franchisees (who only received the executable files). Instead, rooms, monsters, players, and objects had a large set of attributes that could be set by DMs; these values influenced the underlying engine. On the positive side, this made it fairly easy for non-programmers to create situations as complex as the underlying software would permit. However, this also meant that many complicated scenarios could not be implemented by the system itself, but instead would have to be implemented by online DMs. This limitation was in part because of the limited computing power available at the time, and was one of the limitations removed by the never-completed ScreenPlay.
+
+The game did support a number of settable attributes that was extensive for a game of its time; combinations of attributes were used to achieve various useful effects. Monster attributes included block (tries to prevent player from leaving the room), follow (follows the player), guard (completely prevents player from picking up anything in the room), magic (cannot be harmed by non-magic weapons), spell casting (can cast spells), undead (can be turned), and rust (weakens player's primary weapon or armor). The object type had many different subtypes (such as door, key, armor, weapon, teleport device, money, chest, and so on), and each subtype had a set of attributes peculiar to that subtype. For example, a teleport device had the attribute for where it would teleport to, and (optionally) what room the user had to be in before it would work; this meant that players would need to decipher clues on where they had to go to use the device.
+
+All things had the attribute "description", the text shown when looking at the thing. Descriptions could be multivalued; a description beginning with the slash character "/" was followed by multiple descriptions, each separated by a slash. When a multivalued description was to be displayed, one of the values was randomly chosen. Multivalued descriptions were used to vary the descriptions so that they would not be so repetitive. This feature was also used to simulate examining an object: if there were 4 identical descriptions for an object, plus a different description that gave a clue, then a user might need to look at an object several times before obtaining the clue.
+
+Handling resets
+
+In any MUD, a major challenge is handling resets. In Scepter, when a player entered a room that was not in memory, the room would be loaded into memory and set as necessary, with any (live) monster stored in the room (a "permanent" monster) set to their maximum health. Once a player no longer was in a room, it would be eventually retired from memory and that status would be saved back to disk. "Permanent" monsters that were still alive were written back. If a DM directly placed a permanent monster in a room, and the monster died, it simply stayed dead without any automatic reset; if a DM wanted to revive the monster, the DM had to send a command to do it.
+
+Scepter was designed to allow easy displays of settings (for later reloading), so DMs would often simply store in a file the commands to reset a given area, and then load that file when they wished to reset an area. This was consistent with the notion that DMs were often online anyway; the goal was to simply make it easy for DMs to issue the commands to reset an area when the DM determined that was the right thing to do. Rooms could be set to periodically generate a random monster from a list (which would not be permanent), and monsters could be set to generate a set of treasures when killed, and these lists were separately maintained. Thus, a room in an "ice castle" might point to a list of different cold-related monsters, and killing the monster might produce one of a set of cold-related treasures.
+
+User Experience
+
+Basic Mechanics and Commands
+
+Scepter had Dungeons & Dragons-like role-playing, combat, character classes, and levels. The normal classes were cleric, fighter, lady (female only), magic-user, paladin, ranger, and thief; it also had the special classes assassin and barbarian, which could not be directly selected by players. As with other similar games, killing monsters or obtaining certain items gave a player "experience points", and a sufficient number of experience points would grant the player's character a higher level (which granted more hit points and power). Combat occurred blow-by-blow; if a player's "vitality" (also termed hit points) dropped below zero, they died; death would cause the character to lose one or two levels, and reappear at the standard starting point for the game. Vitality would slowly regenerate until it reached maximum vitality; the maximum vitality increased when a level was gained.
+
+Typical single-player adventure game text commands were accepted, such as "north" to go north, "get X" to get object X, "inventory" to show the list of current carried items, "drop X" to drop carried item X, and "attack X" to attack monster or player X. The command "follow X" would cause the player to follow player or monster X; this command was used to form groups of players.
+
+The game had a built-in system for magic. Casting a spell required a certain number of "magic points", which like vitality slowly regenerated up to a maximum number of magic points for the character. Some spells could only be cast by certain character classes, and a character could not cast a spell until they had "learned" it (from a scroll or another character). Casting a spell also required entering a chant (a text phrase); a DM might occasionally change a chant, making the spell unusable to everyone until the characters had figured out the new chant (typically by solving riddles in adventures). The most powerful spell (castable only by high-level mages) was "wish", which permanently cost one point of constitution and sent the wish's text to a DM to determine how to respond to it. DMs were obligated to maintain game balance, and Scepter's lack of programmability meant some wishes could not be exactly granted, but wishes to create a specially powerful weapon, or to create an extraordinary magical "home" for the player and/or his friends, could indeed be granted.
+
+Player vs. Player
+
+Scepter had several mechanisms to prevent powerful player characters from constantly killing significantly weaker player characters. Such killing was considered very undesirable because it would drive paying customers away; players would generally complain about "unfair" fights. Some rooms were set as being "safe rooms" (where players could not attack each other), including the locations where new players began. Some doors had attributes that limited the minimum and maximum levels of characters who could go through them. Scepter also had a mechanisms to penalize certain kinds of player-on-player killing. In earlier versions, player-killing was occasionally followed by creation of an unkillable monster called the "Revenant", who would attack the killer until the other player was also dead. In later versions, if a player with a much higher level killed another player's character, a "ghost" of the low-level character with power equal to the killer would appear and attack the killer; no experience points were granted for killing the ghost.
+
+In the original Scepter, there were no limit on player vs. player. When things got boring, there were roaming bands of death squads. In the early days, one such team brought all the forces they could to kill the highest level character in the game (sorry Tony). The usual tactic was to have everyone /follow a ranger, and have the ranger /follow the victim. Rangers were very hard to shake off. There was a /loose command to try to get the character following you off your trail, but a high enough level ranger would stay on your trail.
+
+Eventually, the game creator put in "piety points". Every player kill reduced that number, and piety points affected the chance of your character being resurrected on death. -10 was the lowest you could get, and there was still a chance of being resurrected.
+
+Worlds
+
+The typical setting used in Scepter of Goth was a fantasy setting involving the town of Boldhome and outlying areas. Adventurers would meet in Boldhome, buy or sell equipment, and set out to adventure. Dungeon Masters would occasionally create new areas in which to adventure, or modify those areas. One oft-used motif in many franchises was that the primary shop ("Sharkeys") was considered illegal by the Boldhome authorities, so it was constantly being closed by the Boldhome police and reopening somewhere else, requiring players to look for clues for its new location. (The typical notice said, "By Order of the Boldhome Police: This illegal establishment has been closed..."). Boldhome included a newspaper stand; the newspaper reported various things including obituaries (noteworthy deaths, including text by the player about his character's demise). Other important locations included the pawn and weapon shops, a combat arena, and training areas for each class.
+
+Before its closing, InterPlay worked with Margaret Weis and Tracy Hickman to create a Dragonlance-based environment, but this was never as popular as the Boldhome environment.
+
+Many areas were explicitly designed to require multi-character groups. Areas might be designed so that a set of different classes was required to succeed, or only a low-level character could get a key (while only a high-level character would succeed against a certain monster). This was often accomplished by inserting portals into the area; portals could be set to require specific class, or to require minimum and maximum levels. This encouraged the formation and sustainment of groups.
+
+Typical Scepter games involved a mixture of combat and puzzle-solving, with players talking with each other and working together so they could succeed. Puzzle-solving was considered an important part of Scepter games, and these puzzles were supported by several mechanisms. For example:
+
+One object type was the "portal", an object that you could "go" to (or "enter"). If its attribute "invisible" was set to true, the only way to know what to "enter" would be to examine clues from the room description (or from elsewhere).
+Teleport devices could be set to only work in a given room... and since there were many rooms, figuring out clues was necessary.
+Doors might be locked, requiring the acquisition of a key.
+The DMs could change the chant of one or more of the spells, and then set clues for determining what the new chant was; until the players could find the new chant, they could not use the spells.
+Scepter supported variant descriptions, so talking with monsters several times might occasionally yield up clues.
+
+In later versions of Scepter, players could "say" words to monsters (such as the bartender), and monsters could have certain responses set to occur based on the appearance of certain keywords in speech to them (including replying with speech or giving items). This simple mechanism made it possible to have complex puzzles and riddles with the limited computing capabilities of the day: riddles could be posed (such as in room descriptions, object descriptions, or by monsters), and the player would have to figure out what to say and who to say it to... possibly in a long chain.
+
+References
+ Bartle, Richard (2003). Link. New Riders. pp. 13. ISBN 0-13-101816-7. "...through bad luck, the first commercial virtual world did not have the impact that it might have had, although it did make enough of a mark to influence the design of some later codebases, in particular Mordor."
+ Bartle, Richard (2003). Link. New Riders. pp. 13. ISBN 0-13-101816-7. "Around the same time that Roy Trubshaw began work on what was to become MUD1, Alan Klietz wrote Sceptre of Goth on the CDC Cyber run by MECC (the Minnesota Educational Computer Consortium)."
+ Kirmse, Andrew. "Meridian 59". Andrew Kirmse's Web page. Archived from the original on 2006-09-16. Retrieved on 2010-05-02.
+A Classification of MUDs by Martin Keegan, Grandmaster Data Services Ltd, Cambridge, U.K.
+An Introduction to MUDs by Richard Woolcock

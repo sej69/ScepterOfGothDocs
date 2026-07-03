@@ -1,0 +1,31 @@
+This is the only known copy of the original 1984 GamBit QNX 1.14 source code.
+
+See \home\alan\_FLOPPY_5.25\ALAN_FLOPPY_CMDS.sh for how I extracted it
+from the original floppy disks.
+
+5.25 inch floppy disk images, 320 KB (40 sectors per side, 2 sides, 8 sectors)
+
+Converted to text using
+  strings -n 1 foo.img > foo.txt
+
+If too much binary junk, use
+  strings -n 2 foo.img > foo.txt
+
+
+Floppy Disk Images
+------------------
+
+DEVELOPMENTMAST - QNX .h files and  some GamBit general .h files (acct etc)
+
+SCEPTER - Scepter source code
+
+SYSDEVCHANGES - Combat space game and some GamBit general source (acct etc)
+
+SYSDEVPARTA - Combat space game and some GamBit general source (acct etc)
+
+SYSDEVPARTB - Talk program source code
+
+MBBS - Minnesota BBS Runtime disk (mainly forum discussions)
+
+EXCHTRANSFER - Exchange transfer floppy between home and office - scratch files
+   (Happens to contain an example of using mwrite)

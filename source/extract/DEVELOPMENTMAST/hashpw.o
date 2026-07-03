@@ -1,0 +1,46 @@
+_pc;
+	unsigned Exc_permit[2];
+	unsigned Exit_status;
+
+	unsigned Error_status;
+	unsigned My_tid;
+	unsigned Dads_tid;
+	char Break_count;
+	char My_tty;
+	unsigned Stack_base;
+	char Cmd_flags;
+	char My_priority;
+	unsigned Stdin;
+	unsigned Stdout;
+	unsigned Stderr;
+    unsigned Free_list;
+	unsigned End_of_free;
+	unsigned File_list;
+	unsigned Argc;
+	unsigned Argv;
+	unsigned Save;
+	unsigned Temp[10];
+	unsigned Reserved[10];
+	char Code_flags;
+	char User_num;
+	} ;
+
+struct int_stk_frame {
+	unsigned ds_reg;	/* TOP OF STACK */
+	unsigned es_reg;
+	unsigned di_reg;
+	unsigned si_reg;
+	unsigned dx_reg;
+	unsigned cx_reg;
+	unsigned bx_reg;
+	unsigned bp_reg;
+	unsigned ax_reg;
+	unsigned pc_reg;
+	unsigned cs_reg;
+	unsigned flags_reg;
+	} ;
+
+
+struct {
+	struct int_stk_frame isf;
+	uns

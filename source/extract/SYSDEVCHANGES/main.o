@@ -1,0 +1,37 @@
+->sh_bow_i = xn;
+
+	/* update time variables */
+	t -= t1;
+
+	if ((shptr->sh_thrust_timeleft -= t1) <= 0)  { /* if stopped accelerating */
+		shptr->sh_thrust_timeleft = 0;
+		shptr->sh_thrust = 0.0;
+	}
+
+	if ((shptr->sh_rotate_timeleft -= t1) <= 0) { /* if stopped rotating */
+		shptr->sh_rotate_timeleft = 0;
+		shptr->sh_rotate = 0.0;
+	}
+}
+
+
+
+rot(i)
+/* Rotate */
+word	i;
+{
+	register	struct	sh_ship		*shptr;
+    word		t1;
+	double		r_times_t, sin_r_times_t, cos_r_times_t;
+	double		xn;
+
+	shptr = &ship[i];
+
+	t1 = min(shptr->sh_rotate_timeleft, t);
+	sin_r_times_t = sin(r_times_t = shptr->sh_rotate * t1);
+
+	xn = (cos_r_times_t = cos(r_times_t)) * shptr->sh_bow_i
+		- sin_r_times_t * shptr->sh_bow_j;
+
+	shptr->sh_bow_j = sin_r_times_t * shptr->sh_bow_i + cos_r_times_t
+		* sh
