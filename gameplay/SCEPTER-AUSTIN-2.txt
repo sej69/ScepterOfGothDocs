@@ -1,0 +1,2291 @@
+A.R.T. Main Menu.
+
+Menu Command: where
+Name          Time on   tty Port    Act Indx Task
+Sahryx       12:22:00 pm  3 $term0  002-0041 Scepter       2400 baud
+Sauron        1:08:31 pm  4 $term1  002-0047 Scepter       2400 baud
+Alan          2:03:40 pm  5 $term2  002-0079 Main menu     2400 baud
+Ariadne       2:03:24 pm  8 $term5  002-0016 Scepter       2400 baud
+
+Menu Command: who ariadne
+Ariadne's real name is Anonymous.  Ariadne's interests are
+No one would believe those interests.
+Ariadne lives in Austin, TX.
+
+Menu Command: scepter
+
+Entering Port Haven, pop:60 and highly variable.
+ Ver:1.4, Mode: o (Run 7154)
+Enter your name (Alan)?
+Create new character (alan) Yes/no? no
+Returning to menu..
+
+A.R.T. Main Menu.
+
+Menu Command: scepter
+
+Thug's Port welcomes you - and your purse!
+ Ver:1.4, Mode: o (Run 7154)
+Enter your name (Alan)? old_one
+Create new character (old_one) Yes/no? n
+Returning to menu..
+
+A.R.T. Main Menu.
+
+Menu Command: scepter
+
+Port Haven welcomes you and your blood.
+ Ver:1.4, Mode: o (Run 7154)
+Enter your name (Alan)? Elrond
+Create new character (elrond) Yes/no? yes
+
+What guild do you wish to join?
+Your choices:
+
+Fighter or Ranger or Cleric or
+Paladin or Magic-User or Thief,
+or you could choose the role of Lady
+
+
+Class? f
+What attributes should your character begin with?
+
+(Strength,Intelligence,Dexterity,Piety,Constitution)
+
+For Example: 16,11,15,8,5.
+
+
+Make each one from between 5 and 18, and total them to 55
+(or less)
+
+Stats? 16,11,15,5,8
+Beware, a poor relationship with the Gods may be dangerous!
+Now choose your best weapon style, from:
+
+Sharp, Thrust, Blunt, or Pole.
+
+
+(Clerics, for religious reasons, may only use Blunt or Pole)
+
+Skill? s
+Choose your character's alignment.
+
+Those of LAWFUL alignment can neither attack,
+nor be attacked by, any other player character.
+
+Those of CHAOTIC alignment can both attack, and
+be attacked by, other players of CHAOTIC alignment.
+
+Thieves must be of CHAOTIC alignment to steal from
+other players. Only CHAOTIC players can be robbed.
+
+
+Alignment? c
+
+Notice:
+
+
+There is a fleeting quality to the world around you.
+
+The ways of power that once felt familiar and safe now seem elusive and
+taunting, and the very air seems heavy and ominous, as when the birds gather
+to fly south for the winter.
+
+
+### Please welcome Elrond, of the Fighter's Guild.
+You're in the Entrance Plaza.  New adventurer's can
+learn more about the game in the Adventurer's Guild.
+
+To enter the guildhall, type GO GUILD.
+
+Experienced adventurer's can go directly to Port Haven.
+
+You see Port Haven and the Adventurer's Guild.
+
+Action? $where
+Name          Time on   tty Port    Act Indx Task
+Sahryx       12:22:00 pm  3 $term0  002-0041 Scepter       2400 baud
+Sauron        1:08:31 pm  4 $term1  002-0047 Scepter       2400 baud
+Alan          2:03:40 pm  5 $term2  002-0079 Scepter       2400 baud
+Ariadne       2:03:24 pm  8 $term5  002-0016 Scepter       2400 baud
+? $send
+Send message to whom? ariadne
+Enter message to send? hello
+Message sent.
+?
+Moldwich# flashes, "howdy!"
+Psyche# flashes, "Good afternoon!"
+Psyche# flashes, "Are you new to ART?"
+Action? "hi!
+Not understood.
+
+Action? say hi!
+Hi! cannot be found.
+Missing quotation marks:  Send <who> "text"
+Action? say "hi!
+Elrond says, "hi!"
+No one else hears you.
+Action? where
+
+Name        Act-Indx S Lastcmd     Class
+Elrond      002-0079   where       Grunt
+Psyche      002-0016   say         Druidess
+Shadrioche  002-0041               Sorcerer
+Moldwich    002-0047               Marauder
+Action? flash mold "hi!
+Not understood.
+
+Action? send mo
+Melssage from Aridadne:  "In order to send to m e inside Scepter... type" SEN PSY "message""
+hi!
+Action? send psy "hi again.  It's been a long time since I've used this..
+Shadrioche# flashes, "hail and welcome Elrond !"
+Psyche# flashes, "Ariadne and Psyche are one and the same person you see!"
+Action? send sha "hi!
+Shadrioche: "Later"
+### Shadrioche has quit adventuring.
+### File update in 2 minutes.
+Sha cannot be found.
+Action? look
+Psyche# flashes, "AH!  Are you a former user returning?"
+You're in the Entrance Plaza.  New adventurer's can
+learn more about the game in the Adventurer's Guild.
+
+To enter the guildhall, type GO GUILD.
+
+Experienced adventurer's can go directly to Port Haven.
+
+You see Port Haven and the Adventurer's Guild.
+
+Action? send psy "uhm, no.. actually I wrote this."
+Action?
+Action?
+Psyche# flashes, "Ah!  AEK I take it?"
+Action? send psy "yep!"
+Action? look
+Psyche# flashes, "Pleased to meet you!  And thank you for many hours of fun!"
+You're in the Entrance Plaza.  New adventurer's can
+learn more about the game in the Adventurer's Guild.
+
+To enter the guildhall, type GO GUILD.
+
+Experienced adventurer's can go directly to Port Haven.
+
+You see Port Haven and the Adventurer's Guild.
+
+Action? send psy "you're welcome
+Action? go port
+You're standing in a beautiful white gazebo in the Town Square.
+Obvious exits are north, south, east and west.
+You see a helpful sign and an ornamental marble fountain.
+
+Action? read sign
+Psyche# flashes, "Do you want to remain incognito... or can I come pester you?"
+
+Maps of Port Haven are now available!  Either download them in GIF format,
+or for a paper copy send a SASE (Self-Addressed Stamped Envelope) to:
+
+  Port Haven Maps
+  7613 Islander Dr.
+  Austin, TX  78749
+
+Action? send psy "sure pester me.
+Player file updated.
+Files updated.
+Action? send "wow that file update was *fast*!
+Psyche# flashes, "Great!  You in Town Square?"
+Elrond: "wow that file update was *fast*!"
+Action?
+Action?
+Action?
+Action? where
+
+Name        Act-Indx S Lastcmd     Class
+Moldwich    002-0047               Marauder
+Psyche      002-0016               Druidess
+Elrond      002-0079   where       Grunt
+Action?
+Action? look
+You're standing in a beautiful white gazebo in the Town Square.
+Obvious exits are north, south, east and west.
+You see a helpful sign and an ornamental marble fountain.
+
+Action? send psy "yep
+Moldwich# flashes, "heh"
+Psyche# flashes, "heh.. the DeMons work really hard on improving things"
+Action? send psy "i remember when it used to take a full minute..
+Psyche# flashes, "And that's one of them"
+Psyche# flashes, "ok!"
+Action?
+Psyche# flashes, "Ack!"
+Action?
+Action? send psy "on a PC-XT!
+Moldwich's group just arrived.
+Moldwich says, "hey there!"
+Psyche says, "hullo!"
+Action? say "hi!
+Elrond says, "hi!"
+Action? follow psy
+Ok
+Action? look
+Psyche# flashes, "hehe.. how things have changed!"
+You're standing in a beautiful white gazebo in the Town Square.
+Obvious exits are north, south, east and west.
+You see a helpful sign and an ornamental marble fountain.
+
+Psyche and Moldwich are also here.
+
+Action? read sign
+Psyche says, "Care for a tour?"
+
+Maps of Port Haven are now available!  Either download them in GIF format,
+or for a paper copy send a SASE (Self-Addressed Stamped Envelope) to:
+
+  Port Haven Maps
+  7613 Islander Dr.
+  Austin, TX  78749
+
+Action? say "sure, lead on
+### Moldwich has quit adventuring.
+Elrond says, "sure, lead on"
+Action?
+Psyche says, "let"
+Action?
+Psyche says, "er.. wait for Moldy"
+Action?
+Action? look psy
+Psyche, the Mage, is wearing some misty desires (1).
+She is holding a rainbow wand (1).
+Action? where
+
+Name        Act-Indx S Lastcmd     Class
+Psyche      002-0016   look        Druidess
+Elrond      002-0079   where       Grunt
+Action? $where
+Name          Time on   tty Port    Act Indx Task
+Sauron        1:08:31 pm  4 $term1  002-0047 Scepter       2400 baud
+Alan          2:03:40 pm  5 $term2  002-0079 Scepter       2400 baud
+Ariadne       2:03:24 pm  8 $term5  002-0016 Scepter       2400 baud
+? $who ariadne
+Ariadne       2:03:24 pm  8 $term5  002-0016 Scepter       2400 baud
+?
+Psyche says, "hmmm.. he seems to be stuck in never never land"
+Action? $task
+92 Mar 15,  2:18:32 pm.
+? $?
+The current availble dollar commands are:
+
+$block  - Block incoming messages.
+$credit - Display credit balance.
+$time   - Display the time.
+$send   - Send message to user.
+$where  - Display where other users are located.
+? $credit
+Current credit balance: 104.35 cr.
+?
+### Please welcome Hokem_carr, of the Mage's Guild.
+Hokem_carr just arrived.
+Psyche says, "heheh"
+Action? where
+Psyche says, "Meet Saurry... "
+
+Name        Act-Indx S Lastcmd     Class
+Hokem_carr  002-0047               Apprentice
+Psyche      002-0016               Druidess
+Elrond      002-0079   where       Grunt
+Action? yell "howdy Mr. Dark Lord !
+Hokem_carr says, "hiya!  <bow>"
+Psyche says, "Gonna give Elrond a tour... care to come?"
+Elrond yells, "howdy Mr. Dark Lord !!"
+Action? i
+That abbreviation is not unique.
+Action? say "do I need a weap for protection?
+Hokem_carr says, "hullo hullo!"
+Elrond says, "do I need a weap for protection?"
+Action? Ir_o|`~k}QI
+S~?~?~?~?~?~?~?~Pt~?~?~?~?~~
+7QDe
+NO CARRIER
+
+A/
+CONNECT 2400
+
+Password:
+Improper login, try again.
+Username: alan
+Password:
+Login: alan, on account 002-0079, using tty3.
+2400 baud access.
+No account entries for alan.
+Welcome to the A.R.T. Menu. v2.3
+
+    Now appearing on ART...Dungeon!  The original adventure
+    in the dungeons of Zork. See the announce board in mail
+    for more information or just type 'dungeon' and enjoy!
+
+
+Name          Time on   tty Port    Act Indx Task
+Alan          2:20:29 pm  3 $term0  002-0079 Main menu     2400 baud
+Sauron        1:08:31 pm  4 $term1  002-0047 Scepter       2400 baud
+Ariadne       2:03:24 pm  8 $term5  002-0016 Scepter       2400 baud
+
+
+Type 'help' for help.
+
+
+The featured programs are:
+
+   Command      Program description
+   --------   --------------------------------------------
+   Adventure   The original adventure in Colossal Cave
+   Dungeon     The original dungeon of Zork
+   Intrigue    Dominate the world in Foreign Intrigue
+   Mail        The ART Post Office (boards and Email)
+   Mazewar     Hunt down other players in Mazewars
+   Scepter     The Scepter of Goth (multi-player adventure)
+   Sokoban     40 different levels of mazes to solve
+   Talk        The ART Discussion Parlour
+
+Or choose one of these commands:
+
+account     adventure   ansinews    block       brief
+bye         charge      clock       credit      download
+dungeon     exit        files       goodbye     help
+intrigue    list        logoff      mail        mazewar
+news        password    scepter     send        set-option
+sokoban     talk        upload      users       where
+who
+
+Type 'list' to list these commands.
+
+Menu Command: scepte
+Message frrom Ariadne:
+  "Welcome back!"
+
+Entering Port Haven, pop:60 and highly variable.
+ Ver:1.4, Mode: o (Run 7154)
+Enter your name (Alan)? Elrond
+
+Notice:
+
+
+There is a fleeting quality to the world around you.
+
+The ways of power that once felt familiar and safe now seem elusive and
+taunting, and the very air seems heavy and ominous, as when the birds gather
+to fly south for the winter.
+
+
+### Please welcome Elrond, of the Fighter's Guild.
+You're standing in a beautiful white gazebo in the Town Square.
+Obvious exits are north, south, east and west.
+You see a helpful sign and an ornamental marble fountain.
+
+Hokem_carr and Psyche are also here.
+
+Action? say "humm.. phone hung up
+Psyche says, "Net lag?"
+Hokem_carr says, "welcome back!"
+Elrond says, "humm.. phone hung up"
+Action? foll psy
+Psyche says, "Ahhh"
+Ok
+Action? say "must be those long distance lines :_)
+Elrond says, "must be those long distance lines :_)"
+Action?
+Psyche says, "Ok.. if you started with an 8 piety.. we should be able to grab what you need along our tour"
+Action? say "I set piety to 5, oops
+Psyche says, "prolly!"
+Psyche says, "Coming Saurry?"
+Hokem_carr says, "where're you callin from?"
+Elrond says, "I set piety to 5, oops"
+Action? say "Minnesota
+Hokem_carr says, "oopsy!"
+Elrond says, "Minnesota"
+Action?
+Psyche says, "Hmmm... in that case..."
+Psyche loses you!
+Action?
+Action?
+Action?
+Hokem_carr says, "whoa!"
+Action?
+Psyche says, "I'll be right back"
+Action?
+Psyche's group just went south.
+Action?
+Action?
+Action? look
+You're standing in a beautiful white gazebo in the Town Square.
+Obvious exits are north, south, east and west.
+You see a helpful sign and an ornamental marble fountain.
+
+Action? examine fountain
+The fountain is composed of statues, each representing a guild
+of Port Haven, gazing outward with heroic poses.
+
+Of course, the Guildmasters don't look that good, but this is poetic license.
+
+Action?
+Action? where
+
+Name        Act-Indx S Lastcmd     Class
+Elrond      002-0079   where       Grunt
+Hokem_carr  002-0047   parry       Apprentice
+Psyche      002-0016   go          Druidess
+Action? look
+You're standing in a beautiful white gazebo in the Town Square.
+Obvious exits are north, south, east and west.
+You see a helpful sign and an ornamental marble fountain.
+
+Action? ?
+Action? brief
+Do? look
+You're standing in a beautiful white gazebo in the Town Square.
+Obvious exits are north, south, east and west.
+You see a helpful sign and an ornamental marble fountain.
+
+Do? list
+The following is a list of all Scepter commands:
+
+accept      appeal      assist      attack      backstab
+bet         block       break       bribe       brief
+buy         cast        catalog     circle      climb
+clock       close       d           down        draw
+drink       drop        e           east        eat
+echo        end         enter       examine     exit
+experience  feint       file        follow      get
+go          health      help        hide        hint
+hit         hold        identify    information inventory
+kill        leave       list        lock        look
+lose        n           north       nusers      offer
+open        out         panic       parley      parry
+pawn        picklock    put         quit        read
+repair      return      rob         run         s
+save        say         search      sell        send
+smash       south       status      steal       strike
+suicide     take        talk        teach       thrust
+time        track       train       turn        u
+unlock      up          use         w           wager
+wear        west        where       who         wield
+yell
+
+Do? in
+Do? inf
+Elrond, the first level fighter
+You are aligned with the forces of chaos.
+with 8/8 Vitality pts, 14/14 Fatigue pts, and 2/2 Magic pts.
+Your armor class is ten.
+Str=16, Int=11, Dex=15, Pty=5, Con=8.
+Weapon skill: Sharp-10%, Thrust-0%, Blunt-0%, Pole-0%
+You need 512 more experience points to reach the next level.
+You have 30 shillings in cash.
+Your total inventory weighs 0 pounds.
+Do? inven
+Your inventory includes the following objects:
+Nothing.
+Do? wager
+Gambling is not allowed here.
+Do? turn
+Monster not found here.
+Do? time
+92 Mar 15,  2:23:04 pm
+Next update in 52 minutes.
+Do?
+Do? help
+
+
+Please choose one of the following topics:
+ Characters  Combat      Examples    Info        Movement
+ Objects     Spells      Lore        QUIT
+
+Select topic? info
+
+Info
+
+The  following  commands  are  all used to obtain  info
+about your character (EXPERIENCE, HEALTH,  INFORMATION,
+INVENTORY), objects (CATALOG, EXAMINE, LOOK,  IDENTIFY,
+READ, SEARCH) and monsters (EXAMINE, LOOK, IDENTIFY).
+
+Choose one of the following subtopics:
+ brief       catalog     clock       examine     experience
+ file        identify    information inventory   health
+ look        read        search      status
+ BACK        QUIT
+
+Select Info subtopic?
+
+Please choose one of the following topics:
+ Characters  Combat      Examples    Info        Movement
+ Objects     Spells      Lore        QUIT
+
+Select topic?
+You are leaving the help subsystem.
+?
+Do? id me
+You are not high enough level to cast the spell!
+Do? look me
+I don't see a "me" here.
+Do? look elro
+You see Elrond, the Fighter.
+Do?
+Do? where
+
+Elrond      002-0079   where       Grunt
+Hokem_carr  002-0047   parry       Apprentice
+Psyche      002-0016   talk        Druidess
+Do?
+Do?
+Do? e
+You're on the east side of Town Square.
+Obvious exits are north, south, east and west.
+Do? e
+You're at a bend in East Ferry.
+Obvious exits are south, east and west.
+Do? e
+You're at Basil Hill on the Mercantile.
+Obvious exits are north, west, up and down.
+Do? e
+There is no way to go in that direction.
+Do? n
+You're on the Mercantile.
+Obvious exits are south and west.
+Do? w
+You're by the Emporium.
+Obvious exits are east and west.
+You see the open shop door.
+
+Do? go door
+You're in the store.
+You see a advertising sign on the wall, the shopkeepers and the open shop door.
+
+Warthog grunts, "Are you buying or just looking?"
+Do? look
+You're in Pressed Rat and Warthog's Emporium,
+where they sell the finest goods available
+in any store. Pressed Rat has a particularly
+fine collection of dog's legs and feet.
+You see a advertising sign on the wall, the shopkeepers and the open shop door.
+
+Do? read sign
+The sign read:
+
+Many items for sale,
+best prices in town!
+
+(type 'catalog' for a list)
+Do? catalog
+Psyche# flashes, "Where'd you go?"
+Inventory of Items for Sale.
+To purchase, enter: Buy <item number>
+
+#  Type       Cost Weight Name
+1  Shield       15     2  A pair of bracers (1).
+2  Shield      100     7  A copper shield (1).
+3  Shield      250    15  An oval steel shield (1).
+4  Armor        10     5  A leather jerkin (1).
+5  Armor       250     7  Some leather armor (1).
+6  Armor      1000    12  Some light mail armor (2).
+7  Weapon        5     4  A wooden club.
+8  Weapon       55     2  A dagger.
+9  Weapon        8     4  A hatchet.
+10 Weapon       15     8  A pole axe.
+11 Weapon      150     5  A spear.
+12 Weapon      175     7  A bardiche.
+13 Weapon      180    10  A morningstar.
+14 Weapon      225     7  A shortsword.
+15 Weapon     1500    11  A halberd.
+16 Weapon     2000    11  A pike awl.
+17 Weapon     3000    15  A iron mace.
+18 Weapon     4000    12  A longsword.
+19 Device      200     7  A torch.
+20 Device     2000    15  A bronze lantern.
+Do? buy spear
+Item # out of bounds.
+Do? buy 11
+You don't have enough cash to buy that.
+Do? buy 8
+### Hokem_carr, the Mage, was just killed by a cutpurse.
+You don't have enough cash to buy that.
+Do? buy 9
+Psyche just arrived.
+Hokem_carr: "Yikes!"
+Psyche says, "Got you some stuff"
+"Here you are sir.  Thank you!
+Oh, be sure to take it with you as you leave!"
+Do? look
+Psyche dropped some padded armor (2).
+You're in Pressed Rat and Warthog's Emporium,
+where they sell the finest goods available
+in any store. Pressed Rat has a particularly
+fine collection of dog's legs and feet.
+You see a advertising sign on the wall, the shopkeepers and the open shop door.
+
+You see some padded armor (2) and a hatchet.
+
+Psyche is also here.
+
+Do? get hatchet
+Hokem_carr# flashes, "I seem to have purchased an agricultural estate, there!"
+Psyche dropped a wooden tower shield (1).
+Ok
+Do? get all
+Psyche dropped a stiletto.
+Psyche dropped a pike.
+Psyche says, "There ya go!"
+That object isn't here.
+Do? get stil,pike
+That is not a container.
+Do? get still
+Psyche says, "That should protect you a little!"
+That object isn't here.
+Do? get pike
+Ok
+Do? look
+Hokem_carr just arrived.
+You're in Pressed Rat and Warthog's Emporium,
+where they sell the finest goods available
+in any store. Pressed Rat has a particularly
+fine collection of dog's legs and feet.
+You see a advertising sign on the wall, the shopkeepers and the open shop door.
+
+You see a stiletto, a wooden tower shield (1) and some padded armor (2).
+
+Hokem_carr and Psyche are also here.
+
+Do? get stilet
+Hokem_carr says, "hullo!"
+Ok
+Do? get shiel
+Ok
+Do? get armor
+Ok
+Do? say "geez, who wrote this lame parser! (oops)
+Psyche says, "hi!  Nice death?"
+Hokem_carr says, "uh yeah!  lost one con!"
+Psyche says, "hehe"
+Elrond says, "geez, who wrote this lame parser! (oops)"
+Do? look
+Psyche says, "Ok.. I don't think you had the circle command in your set up"
+You're in Pressed Rat and Warthog's Emporium,
+where they sell the finest goods available
+in any store. Pressed Rat has a particularly
+fine collection of dog's legs and feet.
+You see a advertising sign on the wall, the shopkeepers and the open shop door.
+
+Hokem_carr and Psyche are also here.
+
+Do? wear armor
+Psyche says, "heheh"
+You put on your armor.
+Do? hold shield
+You ready your shield!
+Do? i
+That abbreviation is not unique.
+Do? inven
+Your inventory includes the following objects:
+   1) A hatchet
+   2) A pike
+   3) A stiletto
+   4) A wooden tower shield (1)
+   5) Some padded armor (2)
+Do? hold stil
+Psyche says, "Here... if you want to attack something.. circle it first.. that stops it from hitting you for 2-3 rounds"
+You ready your weapon!
+Do? hold pike
+You ready your weapon!
+Do? follo psy
+Ok
+Do?
+Do? info
+Psyche says, "Hey!  You look ready for business!"
+Elrond, the first level fighter
+You are aligned with the forces of chaos.
+with 8/8 Vitality pts, 14/14 Fatigue pts, and 2/2 Magic pts.
+Your armor class is seven.
+Str=16, Int=11, Dex=15, Pty=5, Con=8.
+Weapon skill: Sharp-10%, Thrust-0%, Blunt-0%, Pole-0%
+You need 512 more experience points to reach the next level.
+You have 22 shillings in cash.
+Your total inventory weighs 45 pounds.
+Do? look at elr
+Elrond, the Fighter, is wearing some padded armor (2).
+He is holding a pike and a wooden tower shield (1).
+Do? say "I'm ready
+Elrond says, "I'm ready"
+Do?
+Psyche's group just went to the shop door.
+You're by the Emporium.
+Psyche's group just went west.
+You're at Mercantile and the Processional.
+Do?
+Psyche's group just went south.
+You're passing the center of town.
+Your party encounters a peddler!
+Psyche's group just went south.
+You've been left behind!
+Psyche's group just arrived.
+Do? fol psy
+Psyche says, "Hmmm"
+Ok
+Do? say "it said I was left behind
+Psyche talks with the peddler.
+Your party encounters a peddler!
+Hokem_carr attacks peddler #2!
+Elrond says, "it said I was left behind"
+Do?
+Hokem_carr just killed peddler #2!
+Do?
+Do?
+Do? hit ped
+Psyche says, "Nah... not interested in hats today!"
+You killed the peddler!
+You find:
+   Some trinkets
+   A clay pipe
+   Some trinkets
+Do? get trink
+Psyche says, "you were!  I came back for you!"
+Ok
+Do? get pipe
+Hokem_carr says, "how about a fine basket??"
+Ok
+Do? get trink
+Hokem_carr picked up the basket.
+Ok
+Do? inven
+Psyche says, "<considers>"
+Your inventory includes the following objects:
+   1) A hatchet
+   2) A pike
+   3) A stiletto
+   4) A wooden tower shield (1)
+   5) Some padded armor (2)
+   6) Some trinkets
+   7) A clay pipe
+   8) Some trinkets
+Do? look at trink
+Psyche says, "Well MAYBE"
+You are holding some trinkets.
+Do? drop trink
+Your party encounters a pickpocket!
+The pickpocket attacks Psyche!
+Hokem_carr says, "thats as cheap as they come!"
+Hokem_carr attacks the pickpocket!
+Ok
+Do? hit pick
+Psyche says, "no.. er.. not at THAT price!  Heh!"
+Hokem_carr pulls out a stone axe!
+Psyche attacks the pickpocket!
+Psyche pulls out a silver-banded staff!
+Double damage!
+You killed the pickpocket!
+You find:
+   Some brass knuckles
+   Some trinkets
+Do?
+Hokem_carr says, "git dose knuckles!  good weapon!"
+Do? get knuck
+Psyche says, "Shall we proceed?"
+Ok
+Do? hold knuck
+You ready your weapon!
+Do? look at elro
+Elrond, the Fighter, is wearing some padded armor (2).
+He is holding some brass knuckles and a wooden tower shield (1).
+Do?
+Psyche says, "Hehe!"
+Psyche's group just went south.
+You're in view of the port on the Processional.
+Do? inven
+Your inventory includes the following objects:
+   1) A hatchet
+   2) A pike
+   3) A stiletto
+   4) A wooden tower shield (1)
+   5) Some padded armor (2)
+   6) A clay pipe
+   7) Some trinkets
+   8) Some brass knuckles
+Do? drop trinket
+Psyche's group just went south.
+You're where Crescent crosses the Processional.
+Ok
+Do?
+Do?
+Psyche's group just went south.
+You're on the Processional.
+Do?
+Your party encounters a paladin!
+Hokem_carr attacks Psyche!
+Do? look at paldin
+Hokem_carr says, "woops!"
+Psyche says, "This is the Paladin guild hall"
+I don't see a "paldin" here.
+Do? say "watch those abbreviations!
+The paladin attacks you!
+The paladin hits you for 14 fat!
+Hokem_carr attacks the paladin!
+Psyche attacks the paladin!
+The paladin flees from Psyche's attack!
+Elrond says, "watch those abbreviations!"
+Do?
+Hokem_carr says, "heh, thanks!"
+Do?
+Psyche says, "hehe.. I'm used to it!"
+Do? say "like I said.. a stupid* parser
+Psyche's group just went south.
+You're just north of the South Gate.
+Elrond says, "like I said.. a stupid* parser"
+Do?
+Psyche says, "Here's the guard house..."
+Do?
+Do?
+Do?
+Do? look
+You're just north of the Heroes' Gate.
+Obvious exits are north, south, east and west.
+You see the guardhouse.
+
+Hokem_carr and Psyche are also here.
+
+Do? look at guardhouse
+It's the guardhouse.
+Do? go guard
+Hokem_carr says, "thats where you git FREE WEAPONS!"
+Psyche says, "We are expecting an invasion any day now.. so it's been expanded"
+You're in the South Gate guardhouse.
+Obvious exits are west and out.
+You see a cherrywood desk and a stout wooden door.
+
+There is a guard here.
+
+Do?
+Psyche's group just arrived.
+Do? look at guard
+It's a guard, sixteenth to twentieth level.
+Do? say "ooh, that guard is nasty
+Psyche follows you!
+Elrond says, "ooh, that guard is nasty"
+Do?
+Do?
+Do? w
+You're in a wide training hall.
+Obvious exits are east and out.
+You see an open wooden door.
+
+There is a trainer here.
+
+Hokem_carr and Psyche are also here.
+
+You see some warriors sparring here.
+Do? train
+Psyche says, "Tell you what.. you wander.. and I'll gab!"
+Hokem_carr says, "biggun!"
+This is not the proper place for training!
+Do?
+Do? go door
+You're in the uniform issue room.
+You see an open wooden door.
+
+There is a guard here.
+
+Hokem_carr and Psyche are also here.
+
+"One size fits all!" proudly proclaims the guard.
+Do? catalog
+Nothing here to purchase.
+Do? talk guard
+the guard says, "I believe I have a greatsword that you might like."
+"Would you like to have it, M'Lord?"
+Yes/no? yes
+"Here you are M'Lord.  You have made a shrewd purchase!"
+Do? wield great
+But you aren't carrying that!
+Do? get great
+That object isn't here.
+Do? talk guard
+the guard says, "I believe I have a stiletto that you might like."
+"Would you like to have it, M'Lord?"
+Yes/no? yes
+"Here you are M'Lord.  You have made a shrewd purchase!"
+Do? look
+You're in the uniform issue room.  Large racks hold multitudes of padded
+armor, wooden tower shields, and several types of weapons.  A guard sits on
+a stool in the corner, cheerfully polishing a nick out of a tall greatsword.
+You see an open wooden door.
+
+There is a guard here.
+
+You see a stiletto, a greatsword and a stiletto.
+
+Hokem_carr and Psyche are also here.
+
+Do? get greatsword
+That object isn't here.
+Do? look
+You're in the uniform issue room.  Large racks hold multitudes of padded
+armor, wooden tower shields, and several types of weapons.  A guard sits on
+a stool in the corner, cheerfully polishing a nick out of a tall greatsword.
+You see an open wooden door.
+
+There is a guard here.
+
+You see a stiletto, a greatsword and a stiletto.
+
+Hokem_carr and Psyche are also here.
+
+Do? get greatsword
+Psyche says, "hehe.. you are collecting quite an arsenal!"
+That object isn't here.
+Do? get grea
+That object isn't here.
+Do? out
+Hokem_carr dropped a stone axe.
+There is no way to go in that direction.
+Do? look
+Hokem_carr picked up the stiletto.
+Hokem_carr pulls out a stiletto!
+You're in the uniform issue room.  Large racks hold multitudes of padded
+armor, wooden tower shields, and several types of weapons.  A guard sits on
+a stool in the corner, cheerfully polishing a nick out of a tall greatsword.
+You see an open wooden door.
+
+There is a guard here.
+
+You see a stone axe, a greatsword and a stiletto.
+
+Hokem_carr and Psyche are also here.
+
+Do? out
+There is no way to go in that direction.
+Do? go door
+Psyche says, "Yikes!  Watch where you wave that thing!"
+You're in a wide training hall.
+Obvious exits are east and out.
+You see an open wooden door.
+
+There is a trainer here.
+
+Hokem_carr and Psyche are also here.
+
+You see some warriors sparring here.
+Do? e
+You're in the South Gate guardhouse.
+Obvious exits are west and out.
+You see a cherrywood desk and a stout wooden door.
+
+There is a guard here.
+
+Hokem_carr and Psyche are also here.
+
+Do? go door
+Hokem_carr says, "woops!"
+You're in a barracks.
+Obvious exits are north and west.
+You see two long rows of cots.
+
+Hokem_carr and Psyche are also here.
+
+Do? examine cot
+It's two long rows of cots.
+Do? use cot
+But you aren't carrying that!
+Do? get cot
+You are not able to take that!
+Do? look cot
+It's two long rows of cots.
+Do? n
+You're in the South Gate guardhouse.
+Obvious exits are west and out.
+You see a cherrywood desk and a stout wooden door.
+
+There is a guard here.
+
+Hokem_carr and Psyche are also here.
+
+Do? go door
+Psyche says, "Try west"
+You're in a barracks.
+Obvious exits are north and west.
+You see two long rows of cots.
+
+Hokem_carr and Psyche are also here.
+
+Do? w
+You're in a small guardroom.
+Obvious exits are east and west.
+You see an open hardwood door and an open iron-bound door.
+
+Hokem_carr and Psyche are also here.
+
+Do? close iron
+Psyche says, "Ok.. go door"
+There is no "iron" here!
+Do? close door
+Ok
+Do? open door
+Ok
+Do? go door
+You're in a meeting room.
+You see an open hardwood door.
+
+Hokem_carr and Psyche are also here.
+
+The waves of guards filling this room push you through the door.
+Do?
+Do? inven
+Your inventory includes the following objects:
+   1) A hatchet
+   2) A pike
+   3) A stiletto
+   4) A wooden tower shield (1)
+   5) Some padded armor (2)
+   6) A clay pipe
+   7) Some brass knuckles
+Do? examine guard
+Psyche says, "See what happened?"
+I don't see a "guard" here.
+Do? look
+You're in a small guardroom crowded with chairs and tables and off-duty
+Guards.  There are several lively card games in progress, and two scarred
+veterns are telling war stories to a respectful crowd of wide-eyed recruits.
+Obvious exits are east and west.
+You see an open hardwood door and an open iron-bound door.
+
+Psyche and Hokem_carr are also here.
+
+Do? w
+You're in a quiet barracks.
+Obvious exits are east.
+You see two long rows of cots.
+
+Hokem_carr and Psyche are also here.
+
+Do? e
+You're in a small guardroom.
+Obvious exits are east and west.
+You see an open hardwood door and an open iron-bound door.
+
+Hokem_carr and Psyche are also here.
+
+Do? go door#2
+You're at the bottom of the tower.
+Obvious exits are up.
+You see an open iron-bound door.
+
+Hokem_carr and Psyche are also here.
+
+Do? up
+Psyche# flashes, "The DeMons have invented several new room traps"
+You're on the stairs of a tall stone tower.
+Obvious exits are up and down.
+Hokem_carr and Psyche are also here.
+
+Do? send fla "I wasnt sure what that was.. ah
+Psyche# flashes, "Some teleport.. others kill spells"
+Fla cannot be found.
+Do? send psy "I wasnt sure what that was, ah
+Do? send psy "naty!
+Psyche attacks Hokem_carr!
+Do? send psy "nasty!
+Psyche says, "Behave yourself there!"
+Psyche# flashes, "hehe!"
+Do? cast
+Hokem_carr says, "ack!"
+Say chant? iden
+You mispronounced the spell chant!
+Do? look
+Hokem_carr attacks Psyche!
+You're on the stairs of a tall stone tower.
+The stairway is uncomfortably dark, as there are
+no windows and no torches to light the way.
+Obvious exits are up and down.
+Hokem_carr and Psyche are also here.
+
+Do? d
+You're at the bottom of the tower.
+Obvious exits are up.
+You see an open iron-bound door.
+
+Hokem_carr and Psyche are also here.
+
+Do? u
+Psyche# flashes, "They can also summon creatures = in number to the size of the party"
+You're on the stairs of a tall stone tower.
+Obvious exits are up and down.
+Hokem_carr and Psyche are also here.
+
+Do? u
+You're at the top of a tower.
+Obvious exits are east and down.
+Hokem_carr and Psyche are also here.
+
+Do? d
+You're on the stairs of a tall stone tower.
+Obvious exits are up and down.
+Hokem_carr and Psyche are also here.
+
+Do? d
+You're at the bottom of the tower.
+Obvious exits are up.
+You see an open iron-bound door.
+
+Hokem_carr and Psyche are also here.
+
+Do? go door
+You're in a small guardroom.
+Obvious exits are east and west.
+You see an open hardwood door and an open iron-bound door.
+
+Hokem_carr and Psyche are also here.
+
+Do? w
+You're in a quiet barracks.
+Obvious exits are east.
+You see two long rows of cots.
+
+Hokem_carr and Psyche are also here.
+
+Do? e
+You're in a small guardroom.
+Obvious exits are east and west.
+You see an open hardwood door and an open iron-bound door.
+
+Hokem_carr and Psyche are also here.
+
+Do? e
+You're in a barracks.
+Obvious exits are north and west.
+You see two long rows of cots.
+
+Hokem_carr and Psyche are also here.
+
+Do? n
+You're in the South Gate guardhouse.
+Obvious exits are west and out.
+You see a cherrywood desk and a stout wooden door.
+
+There is a guard here.
+
+Hokem_carr and Psyche are also here.
+
+Do? out
+You're just north of the Heroes' Gate.
+Obvious exits are north, south, east and west.
+You see the guardhouse.
+
+Hokem_carr and Psyche are also here.
+
+Do? n
+You're on the Processional.
+Obvious exits are north and south.
+You see the Hall of Knights.
+
+Hokem_carr and Psyche are also here.
+
+Do? n
+You're at Crescent and the Processional.
+Obvious exits are north, south, east and west.
+Hokem_carr and Psyche are also here.
+
+Do? n
+You're in view of the port on the Processional.
+Obvious exits are north and south.
+Hokem_carr and Psyche are also here.
+
+Do? n
+Psyche casts a light spell on you!
+A light appears around you and begins to grow stronger!
+Your party encounters a cutpurse!
+Do? hit cut
+Hokem_carr says, "you look lit!"
+Psyche says, "Think that is new too"
+Hokem_carr attacks the cutpurse!
+Hokem_carr just killed the cutpurse!
+cut isn't here.
+Do? say "wager command? gambling? cool!
+Hokem_carr picked up 2 silver coins.
+Hokem_carr picked up the brass knuckles.
+Your party encounters a merchant!
+Hokem_carr pulls out some brass knuckles!
+Hokem_carr talks with the merchant.
+Hokem_carr picked up the leather jerkin.
+Hokem_carr puts on a leather jerkin (1).
+Your party encounters a watchdog!
+The watchdog attacks you!
+Psyche says, "For you anyway!"
+Hokem_carr talks with the merchant.
+Hokem_carr attacks the watchdog!
+Hokem_carr just killed the watchdog!
+Hokem_carr yells, "DIE!!"
+Psyche says, "hehe"
+Elrond says, "wager command? gambling? cool!"
+Do?
+Hokem_carr says, "yeah but you always lose unfortunately"
+Do? hit dog
+Psyche says, "hehe.. only in one or two places"
+dog isn't here.
+Do? look
+You're admiring the view of the port from
+the mid-point of the Processional.
+Obvious exits are north and south.
+There is a merchant here.
+
+You see some thick hides.
+
+Hokem_carr and Psyche are also here.
+
+Do? n
+The merchant attacks you!
+You're passing the center of town.
+Obvious exits are north, south, east and west.
+You see the Town Square.
+
+Hokem_carr and Psyche are also here.
+
+Do? n
+You're on the Processional.
+Obvious exits are north, south and east.
+Hokem_carr and Psyche are also here.
+
+Do? n
+Your party encounters a peddler!
+Do? talk pedd
+Hokem_carr attacks the peddler!
+Hokem_carr just killed the peddler!
+That non-player character is not here!
+Do? n
+You're outside of the Keep.
+Obvious exits are south, east and west.
+You see the Keep Gates.
+
+There are two Guards here.
+
+Hokem_carr and Psyche are also here.
+
+Do? go gates
+Hokem_carr says, "guess he won't be peddling much longer!"
+You're in the courtyard of the Keep.
+You see the open doors to the Keep and the Keep Gates.
+
+Hokem_carr and Psyche are also here.
+
+Do? go door
+Hokem_carr says, "although he had 3 fine hats..."
+Psyche says, "Nice inventory!"
+You're inside the keep.
+Obvious exits are north, east, west and out.
+You see a tapestry and some wooden benches.
+
+Hokem_carr and Psyche are also here.
+
+Do? look tapes
+Psyche says, "This is the Keep... and home of the Ladies Guild"
+The tapestry is finely woven, and intricately detailed.
+In fact, as you step closer and peer deeply into the
+scene, you can actually see a living microcosm!
+Do? listen
+Hokem_carr offers you a basket
+Enter "accept" to accept the offer.
+Psyche says, "Ladies are substantially different"
+Hokem_carr says, "quite!"
+Not understood.
+
+Do? accept
+Psyche says, "They charm monsters to do the fighting for them"
+Ok, you trade with him.
+Do? say "ladies is new too
+Elrond says, "ladies is new too"
+Do?
+Do?
+Do? look
+You're inside the keep, in a huge chamber that serves as a waiting
+room.  The stark wooden benches form a sharp contrast with the
+delicate tapestries hung on the wall, depicting bloody battle
+scenes and pagan rituals.
+Obvious exits are north, east, west and out.
+You see a tapestry and some wooden benches.
+
+Hokem_carr and Psyche are also here.
+
+Do? n
+Psyche says, "A nice class... very weak defensively.. awesome on the offensive"
+You're in the meeting hall.
+Obvious exits are south.
+Hokem_carr and Psyche are also here.
+
+Do? s
+You're inside the keep.
+Obvious exits are north, east, west and out.
+You see a tapestry and some wooden benches.
+
+Hokem_carr and Psyche are also here.
+
+Do? e
+You're between two flights of stairs.
+Obvious exits are west, up and down.
+You see a sputtering torch.
+
+Hokem_carr and Psyche are also here.
+
+Do? u
+You're at the top of the stairs.
+Obvious exits are south, west and down.
+Hokem_carr and Psyche are also here.
+
+Do? s
+You're on the southern quadrant of the upper level.
+Obvious exits are north and west.
+Hokem_carr and Psyche are also here.
+
+Do? w
+You're outside the office of the master wizard.
+Obvious exits are north and east.
+You see a locked magic flimsy door.
+
+Hokem_carr and Psyche are also here.
+
+Do? open door
+You can't;  it's locked!
+Do? break door
+Bang!  You fail to smash it open!
+Do?
+Hokem_carr says, "my personal favorite is a toss up between mages and thieves...mages progress very fast but thieves are exciting"
+Do? say "magic users are supposed to be the most powerful, at high levels
+Hokem_carr says, "ouch!"
+Hokem_carr smashes the magic flimsy door open!
+### Hokem_carr was just killed by a deadly trap!
+Psyche says, "I like Mages first... Ladies second.. then thieves"
+Hokem_carr: "ahh!"
+Elrond says, "magic users are supposed to be the most powerful, at high levels"
+Do? say "I always liked the Town Mayor best
+Psyche says, "hehe"
+Hokem_carr just arrived.
+Hokem_carr just went to the magic flimsy door.
+Elrond says, "I always liked the Town Mayor best"
+Do? go door
+Psyche says, "Well... having made 19th and then died a considerable number of times... they aren't really"
+You're in the high wizard's office.
+Obvious exits are out.
+You see a small stairway leading up.
+
+Psyche is also here.
+
+Do? [D
+Not understood.
+
+Do?
+Do? u
+There is no way to go in that direction.
+Do? go stair
+Psyche says, "hehhe.. you should meet ours!  He has interesting level titles!"
+You're in a tower.
+Obvious exits are down.
+You see a wide-angled view.
+
+Psyche and Hokem_carr are also here.
+
+Do? asy "do you ever have elections?
+Hokem_carr says, "HI!"
+Psyche says, "Nice view!"
+Hokem_carr says, "that trap hit me for 10 fat and 141 vit!"
+Not understood.
+
+Do? say "do you ever have elections?
+Psyche says, "I'm not surprised!"
+Elrond says, "do you ever have elections?"
+Do? look at ps
+Psyche says, "yup!"
+Psyche, the Mage, is wearing some misty desires (1).
+She is holding a silver-banded staff and a rainbow wand (1).
+Do? ident mage
+Hokem_carr says, "yeah!  I'm currently waiting for the cleric GM to open up!"
+You are not high enough level to cast the spell!
+Do? look
+Psyche says, "Prolly going to do one for the Guildmasters soon"
+You're in a tower high above the keep, where you can see over the
+wall of the city into the plains and swamps outside them.  This
+is where the wizard contemplates his duties, as a gentle breeze
+makes this perch quite comfortable.
+Obvious exits are down.
+You see a wide-angled view.
+
+Psyche and Hokem_carr are also here.
+
+Do? look view
+All of Port Haven is visible below you.  The Processional to
+the south leads to the wharfs, where ships come and go.  Far up the river,
+you can make out a large, dark structure.
+Do? say "nice view!  whats the large dark structure?
+Elrond says, "nice view!  whats the large dark structure?"
+Do?
+Psyche says, "The Mayor will probably be relected"
+Do?
+Do?
+Do?
+Psyche says, "The Keep of Renwith... vacant now.. but a handy place to get a shield"
+Do?
+Do?
+Hokem_carr says, "prolly so!  I hear the previous Mayor was a money-grubbing, drunkard lazy bum!"
+Do? say "the best kind!
+Psyche says, "hehe!"
+Elrond says, "the best kind!"
+Do?
+Do? d
+You're in the high wizard's office.
+Obvious exits are out.
+You see a small stairway leading up.
+
+Psyche is also here.
+
+Do?
+Do?
+Do? list
+Hokem_carr just arrived.
+Psyche says, "I was thinking of the invasion.. and how handy it is that Peter is the Mayor"
+The following is a list of all Scepter commands:
+
+accept      appeal      assist      attack      backstab
+bet         block       break       bribe       brief
+buy         cast        catalog     circle      climb
+clock       close       d           down        draw
+drink       drop        e           east        eat
+echo        end         enter       examine     exit
+experience  feint       file        follow      get
+go          health      help        hide        hint
+hit         hold        identify    information inventory
+kill        leave       list        lock        look
+lose        n           north       nusers      offer
+open        out         panic       parley      parry
+pawn        picklock    put         quit        read
+repair      return      rob         run         s
+save        say         search      sell        send
+smash       south       status      steal       strike
+suicide     take        talk        teach       thrust
+time        track       train       turn        u
+unlock      up          use         w           wager
+wear        west        where       who         wield
+yell
+
+DoHokem_carr says, "thats what he thought!  but then he got fired!"
+Hokem_carr follows you!
+? say "invasion, oh oh..
+Elrond says, "invasion, oh oh.."
+Do? nuser
+Hokem_carr says, "quite handy!"
+3 active user(s).
+Do? panic
+You fail to escape!
+Do? panic
+You fail to escape!
+Do? look
+You're lucky to be alive, considering the magical traps and
+wardings placed on the door to the high wizard's office.  Around
+you are the paraphenalia of wizardry, things that might bite back
+if you prodded them.
+Obvious exits are out.
+You see a small stairway leading up.
+
+Hokem_carr and Psyche are also here.
+
+Do? out
+Psyche says, "Yes.. there is some magic hating scum threatening to wipe out our city!"
+The magic flimsy door just slammed shut!
+You're outside the office of the master wizard.
+Obvious exits are north and east.
+You see a locked magic flimsy door.
+
+Psyche and Hokem_carr are also here.
+
+Do? list
+The following is a list of all Scepter commands:
+
+accept      appeal      assist      attack      backstab
+bet         block       break       bribe       brief
+buy         cast        catalog     circle      climb
+clock       close       d           down        draw
+drink       drop        e           east        eat
+echo        end         enter       examine     exit
+experience  feint       file        follow      get
+go          health      help        hide        hint
+hit         hold        identify    information inventory
+kill        leave       list        lock        look
+lose        n           north       nusers      offer
+open        out         panic       parley      parry
+pawn        picklock    put         quit        read
+repair      return      rob         run         s
+save        say         search      sell        send
+smash       south       status      steal       strike
+suicide     take        talk        teach       thrust
+time        track       train       turn        u
+unlock      up          use         w           wager
+wear        west        where       who         wield
+yell
+
+Do? say "in the original game, when the quest for the Scepter of Goth failed, everybody died!
+Elrond says, "in the original game, when the quest for the Scepter of Goth failed, everybody died!"
+Do?
+Do?
+Do?
+Do?
+Do?
+Do?
+Hokem_carr says, "didnt Swalkunseenpassunheard"
+Do? look
+Hokem_carr says, "sorry"
+Hokem_carr says, "didnt Satan used to guard the scepter of goth?"
+You're outside the office of the master wizard of Port Haven,
+serving directly under the baron. The shiny marble floors gleam
+from the sunlight streaming through the overhead vents, almost
+blinding you.
+Obvious exits are north and east.
+You see a locked magic flimsy door.
+
+Psyche and Hokem_carr are also here.
+
+Do? say "no, the god of chaos or something with a nordic name, don't want to piss off the fundies :)
+Psyche says, "uh oh!  I hope the penalty for not resisting the invasion successfully isn't as sever!"
+Psyche says, "er.. severe!"
+Psyche says, "those Sardaukan are HUGE!  <trembles in boots>"
+Elrond says, "no, the god of chaos or something with a nordic name, don't want to piss off the fundies :)"
+Do? look
+Hokem_carr says, "yup!  Hopefully sever won't be the correct word!"
+Psyche says, "hehe"
+You're outside the office of the master wizard of Port Haven,
+serving directly under the baron. The shiny marble floors gleam
+from the sunlight streaming through the overhead vents, almost
+blinding you.
+Obvious exits are north and east.
+You see a locked magic flimsy door.
+
+Psyche and Hokem_carr are also here.
+
+Do? n
+Hokem_carr says, "oh, right!"
+You're on the balcony.
+Obvious exits are south and east.
+You see an open magic iron-banded door.
+
+Hokem_carr and Psyche are also here.
+
+Do? e
+You're at the top of the stairs.
+Obvious exits are south, west and down.
+Psyche and Hokem_carr are also here.
+
+Do? d
+You're between two flights of stairs.
+Obvious exits are west, up and down.
+You see a sputtering torch.
+
+Hokem_carr and Psyche are also here.
+
+Do? w
+You're inside the keep.
+Obvious exits are north, east, west and out.
+You see a tapestry and some wooden benches.
+
+Psyche and Hokem_carr are also here.
+
+Do? out
+You're in the courtyard of the Keep.
+You see the open doors to the Keep and the Keep Gates.
+
+Hokem_carr and Psyche are also here.
+
+Do? go gate
+You're outside of the Keep.
+Obvious exits are south, east and west.
+You see the Keep Gates.
+
+There are two Guards here.
+
+Psyche and Hokem_carr are also here.
+
+Do? w
+You're on Overlook Road.
+Obvious exits are east and west.
+You see a modestly-sized gift shop.
+
+Hokem_carr and Psyche are also here.
+
+Do? w
+Your party encounters a guarddog!
+Hokem_carr attacks the guarddog!
+Psyche attacks the guarddog!
+Do? hit dog
+dog isn't here.
+Do? hit guard
+Psyche casts a fireball spell on the guarddog!
+Psyche just killed the guarddog!
+guard isn't here.
+Do? w
+You're next to the granaries on Overlook.
+Obvious exits are east and west.
+Psyche and Hokem_carr are also here.
+
+Do? w
+Psyche says, "Have a bone?"
+You're in the middle of Overlook.
+Obvious exits are east and west.
+Hokem_carr and Psyche are also here.
+
+Do? w
+Hokem_carr says, "oh man!"
+You're on Overlook Road.
+Obvious exits are south and east.
+Psyche and Hokem_carr are also here.
+
+Do? say "how do you get out of town?"
+### Please welcome Gandalf, of the Mage's Guild.
+Elrond says, "how do you get out of town?"
+Do?
+Your party encounters a paladin!
+Hokem_carr attacks the paladin!
+Do?
+Do? look pala
+### Please welcome Teslan, of the Thieve's Guild.
+Psyche says, "There are gates on the east and west sides.. you can't get out tho"
+It's a paladin, first to fifth level.
+It appears self-righteous!
+Do?
+Do?
+Do?
+Psyche says, "you are too little to be allowed to leave"
+Do?
+Do? say "yep, too inexperienced!
+Hokem_carr says, "punch punch!"
+### Hokem_carr, the Mage, was just killed by a paladin.
+Your light fades out!
+Psyche says, "hehe!"
+Elrond says, "yep, too inexperienced!"
+Do?
+Psyche says, "Ooops!"
+Psyche attacks the paladin!
+Do?
+Hokem_carr: "nooo problem!"
+Do?
+Do?
+Your party encounters a paladin!
+Paladin #2 attacks you!
+Paladin #2 fumbles!
+Do?
+Do? *edit
+Psyche attacks paladin #2!
+You have invoked a spell without the fluency in
+DeMon-babble required.  Invocation ignored.
+
+Do? say "hahahah  *edit
+Paladin #2 flees from Psyche's attack!
+Psyche attacks the paladin!
+Psyche just killed the paladin!
+Elrond says, "hahahah  *edit"
+Do?
+Psyche picked up ring mail.
+Your party encounters a cleric!
+Do?
+Do?
+Do?
+Do? hit cleric
+Psyche says, "hehehe!  I've seen that!"
+You hit it for 18 hit points!
+Do?
+Do? hit cleric
+You fumbled!
+You hit it for 0 hit points!
+Do? h
+That abbreviation is not unique.
+Do? hit cleric
+Not ready!  Wait 10 more seconds.
+Do? g
+That abbreviation is not unique.
+Do? g
+That abbreviation is not unique.
+Do? hit
+Not ready!  Wait 7 more seconds.
+Do? hti
+Not understood.
+
+Do? hit
+Not ready!  Wait 4 more seconds.
+Do? hit
+Not ready!  Wait 3 more seconds.
+Do? hit
+The cleric hits you for 2 fat!
+Punch!
+You hit it for 3 hit points!
+Do? hit
+Not ready!  Wait 2 more seconds.
+Do? hit
+Punch!
+You killed the cleric!
+You find:
+   A holy symbol
+Do? get symbol
+Ok
+Do? examine symbol
+Psyche says, "Nicely slain!"
+You are holding a holy symbol.
+Do? drop symbol
+Psyche casts a vigor spell on you!
+You now have 14 fatigue points.
+Ok
+Do? look
+You're passing among the homes of the pious citizens
+of Port Haven on Overlook Road. Just below you, to the southeast,
+are the rising tiers of the Clerics' Sanctuary.
+Obvious exits are south and east.
+You see a holy symbol, a holy symbol, a vial of pungent liquid,
+a bardiche and Hokem_carr's body.
+
+Psyche is also here.
+
+Do?
+### Teslan has quit adventuring.
+Do?
+Your party encounters a cleric!
+Do? examine liq
+Psyche offers you ring mail (2)
+Enter "accept" to accept the offer.
+Hokem_carr just arrived.
+Hokem_carr just went south.
+I don't see a "liq" here.
+Do? accept
+Hokem_carr just arrived.
+Hokem_carr says, "aha!"
+Psyche says, "Care for this instead?"
+Ok, you trade with her.
+Do? drop armor
+Psyche says, "hehe.. hi!"
+Ok
+Do? wear mail
+You put on your armor.
+Do? say "nice thanks
+Hokem_carr says, "hi!"
+Elrond says, "nice thanks"
+Do? look
+Your party encounters a guard!
+The cleric attacks you!
+You're passing among the homes of the pious citizens
+of Port Haven on Overlook Road. Just below you, to the southeast,
+are the rising tiers of the Clerics' Sanctuary.
+Obvious exits are south and east.
+There is a guard and a cleric here.
+
+You see some padded armor (2), a holy symbol, a holy symbol,
+a vial of pungent liquid, a bardiche and Hokem_carr's body.
+
+Hokem_carr and Psyche are also here.
+
+The cleric is attacking you!
+Do? circ cleric
+Hokem_carr attacks the cleric!
+Psyche casts a fireball spell on the cleric!
+Psyche just killed the cleric!
+The guard attacks you!
+cleric isn't here.
+Do? circ guard
+Hokem_carr attacks the guard!
+Psyche casts a fireball spell on the guard!
+Psyche just killed the guard!
+guard isn't here.
+Do? get vial
+Hokem_carr picked up the bardiche.
+Hokem_carr pulls out a bardiche!
+Ok
+Do? examine vial
+You are holding a vial of pungent liquid.
+Do? drink vial
+Gandalf just arrived.
+Ok
+You now have 8 vitality points.
+Do? look gand
+Psyche says, "heh.. 5 piety can be hard at low levels!"
+Hokem_carr attacks Gandalf!
+You see Gandalf, the Mage.
+Do? appeal
+Psyche says, "Hi Gandy!"
+Gandalf says, "greetings folks"
+Hokem_carr says, "hullo!"
+Sorry, the DM is not in right now.  Try again later.
+Do?
+Hokem_carr yells, "SPAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM!!!!!!!!!!"
+Do? look
+Hokem_carr says, "eek, pardon me"
+Your party encounters a guard!
+You're passing among the homes of the pious citizens
+of Port Haven on Overlook Road. Just below you, to the southeast,
+are the rising tiers of the Clerics' Sanctuary.
+Obvious exits are south and east.
+There is a guard here.
+
+You see a iron sword, a holy symbol, some padded armor (2),
+a holy symbol, a holy symbol and Hokem_carr's body.
+
+Gandalf, Hokem_carr and Psyche are also here.
+
+Do? say "yow
+Psyche talks with the guard.
+The guard attacks you!
+Hokem_carr attacks the guard!
+Elrond says, "yow"
+Do?
+Do? list
+The following is a list of all Scepter commands:
+
+accept      appeal      assist      attack      backstab
+bet         block       break       bribe       brief
+buy         cast        catalog     circle      climb
+clock       close       d           down        draw
+drink       drop        e           east        eat
+echo        end         enter       examine     exit
+experience  feint       file        follow      get
+go          health      help        hide        hint
+hit         hold        identify    information inventory
+kill        leave       list        lock        look
+lose        n           north       nusers      offer
+open        out         panic       parley      parry
+pawn        picklock    put         quit        read
+repair      return      rob         run         s
+save        say         search      sell        send
+smash       south       status      steal       strike
+suicide     take        talk        teach       thrust
+time        track       train       turn        u
+unlock      up          use         w           wager
+wear        west        where       who         wield
+yell
+
+DoPsyche says, "hmmm?"
+?
+Gandalf attacks the guard!
+Hokem_carr just killed the guard!
+Hokem_carr says, "iron?"
+Hokem_carr says, "anyone?"
+Your party encounters a guard!
+The guard attacks you!
+The guard fumbles!
+Hokem_carr attacks the guard!
+Psyche says, "No thanks!"
+Do?
+Gandalf attacks the guard!
+Your party encounters a paladin!
+Do? inven
+Psyche attacks the paladin!
+Your inventory includes the following objects:
+   1) Ring mail (2)
+   2) A basket
+   3) A hatchet
+   4) A pike
+   5) A stiletto
+   6) A wooden tower shield (1)
+   7) A clay pipe
+   8) Some brass knuckles
+   9) A vial of pungent liquid
+Do? drop vial
+Psyche just killed the paladin!
+Hokem_carr just killed the guard!
+Your party encounters two paladins!
+Paladin #2 attacks you!
+Hokem_carr picked up the parchment scroll.
+Ok
+Do?
+Psyche attacks paladin #2!
+Psyche just killed paladin #2!
+Hokem_carr casts a vigor spell on you!
+You now have 14 fatigue points.
+Hokem_carr attacks the paladin!
+Do?
+Do? hit
+Hokem_carr just killed the paladin!
+Specify target, please!
+Do? hit pala
+pala isn't here.
+Do? look
+You're passing among the homes of the pious citizens
+of Port Haven on Overlook Road. Just below you, to the southeast,
+are the rising tiers of the Clerics' Sanctuary.
+Obvious exits are south and east.
+You see a vial of pungent liquid, a iron sword, a holy symbol,
+an iron shield (1), a iron sword, an iron shield (1),
+a iron sword, a holy symbol, some padded armor (2),
+a holy symbol, a holy symbol and Hokem_carr's body.
+
+Gandalf, Hokem_carr and Psyche are also here.
+
+Do? s
+Psyche says, "You learned VIGOR?"
+You're at Bakker and Overlook.
+Obvious exits are north, east and west.
+Psyche is also here.
+
+Do?
+Do? n
+Psyche says, "hehe"
+You're on Overlook Road.
+Obvious exits are south and east.
+There is a guard here.
+
+You see a vial of pungent liquid, a iron sword, a holy symbol,
+an iron shield (1), a iron sword, an iron shield (1),
+a iron sword, a holy symbol, some padded armor (2),
+a holy symbol, a holy symbol and Hokem_carr's body.
+
+Psyche, Gandalf and Hokem_carr are also here.
+
+Hokem_carr is attacking the guard!
+Do? say "silly thing should say 'you see 4 iron swords' not iron sword, iron sword, iron sword ...
+Your party encounters an acolyte!
+Psyche says, "A bit fast?"
+Hokem_carr just killed the guard!
+Hokem_carr attacks the acolyte!
+Hokem_carr just killed the acolyte!
+Hokem_carr follows you!
+Hokem_carr says, "pardon!"
+Hokem_carr yells, "SPAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM!!!!!!!!!!"
+Your party encounters two acolytes!
+Psyche says, "Stop that!"
+Hokem_carr says, "ugh, silly macro"
+Psyche casts a fireball spell on acolyte #2!
+Psyche just killed acolyte #2!
+Psyche casts a fireball spell on the acolyte!
+Psyche just killed the acolyte!
+Elrond says, "silly thing should say 'you see 4 iron swords' not iron sword, iron sword, iron sword ..."
+Do?
+Your party encounters a maiden!
+Hokem_carr says, "we're workin on dat I think!"
+Your party encounters a maiden!
+Do?
+Do? hit maiden
+An unknown force grips your mind, and stays your blow against the maiden.
+Do?
+Hokem_carr attacks maiden #2!
+Do?
+Do?
+Do? talk maiden
+Hokem_carr pulls out a bardiche!
+Maiden #2 starts talking about the weather.
+Do? talk maiden
+Psyche says, "oops!"
+Maiden #1 attacks you!
+Maiden #2 offers you some bread, but you decline.
+Do? list
+Gandalf says, "this version only aggregates monsters, never has on objects"
+Your party encounters a paladin!
+Maiden #1 hits you for 2 fat!
+The following is a list of all Scepter commands:
+
+accept      appeal      assist      attack      backstab
+bet         block       break       bribe       brief
+buy         cast        catalog     circle      climb
+clock       close       d           down        draw
+drink       drop        e           east        eat
+echo        end         enter       examine     exit
+experience  feint       file        follow      get
+go          health      help        hide        hint
+hit         hold        identify    information inventory
+kill        leave       list        lock        look
+lose        n           north       nusers      offer
+open        out         panic       parley      parry
+pawn        picklock    put         quit        read
+repair      return      rob         run         s
+save        say         search      sell        send
+smash       south       status      steal       strike
+suicide     take        talk        teach       thrust
+time        track       train       turn        u
+unlock      up          use         w           wager
+wear        west        where       who         wield
+yell
+
+DoPsyche says, "Don't they call the guards?"
+Hokem_carr attacks the paladin!
+?
+Hokem_carr just killed the paladin!
+Double damage!
+Maiden #1 hits you for 6 fat!
+Do? rob maiden
+Your party encounters a goodwife!
+Maiden #2 attacks you!
+Maiden #2 hits you for 2 fat!
+Only thieves can steal things.
+Do?
+Psyche casts a vigor spell on you!
+You now have 14 fatigue points.
+Hokem_carr attacks the goodwife!
+Do? say "violence against women, tsk tsk.  how come they dont call the guards?
+Hokem_carr picked up the iron sword.
+Gandalf talks with maiden #2.
+Hokem_carr picked up the iron sword.
+Hokem_carr picked up the iron sword.
+Hokem_carr just killed the goodwife!
+Hokem_carr picked up the magic dagger.
+Hokem_carr pulls out a magic dagger (+1)!
+Hokem_carr offers you a magic dagger (+1)
+Enter "accept" to accept the offer.
+Psyche talks with maiden #1.
+Hokem_carr# flashes, "use that!  its good!!"
+Your party encounters two guards!
+Psyche casts a fireball spell on guard #2!
+Psyche just killed guard #2!
+Elrond says, "violence against women, tsk tsk.  how come they dont call the guards?"
+Do?
+Maiden #2 hits you for 2 fat!
+Hokem_carr offers you a magic dagger (+1)
+Enter "accept" to accept the offer.
+Psyche casts a fireball spell on the guard!
+Psyche just killed the guard!
+Do? accept
+Maiden #1 hits you for 2 fat!
+Psyche says, "i thought they did!"
+Ok, you trade with him.
+Do?
+Maiden #2 hits you for 2 fat!
+Do?
+Do? hit maiden
+Maiden #1 hits you for 2 fat!
+An unknown force grips your mind, and stays your blow against the maiden.
+Do?
+Do?
+Do?
+Do?
+Do?
+Do?
+Your party encounters two clerics!
+Psyche casts a vigor spell on you!
+You now have 14 fatigue points.
+Do?
+Do? look
+You're passing among the homes of the pious citizens
+of Port Haven on Overlook Road. Just below you, to the southeast,
+are the rising tiers of the Clerics' Sanctuary.
+Obvious exits are south and east.
+There are two clerics and two maidens here.
+
+You see a comb, a prayer book, a small mirror,
+a vial of pungent liquid, a holy symbol, an iron shield (1),
+an iron shield (1), a holy symbol, some padded armor (2),
+a holy symbol, a holy symbol and Hokem_carr's body.
+
+Psyche, Gandalf and Hokem_carr are also here.
+
+Maiden #2 is attacking you!
+Maiden #1 is attacking you!
+Do?
+Gandalf says, "well, noone has attacked them yet..."
+Double damage!
+Maiden #1 hits you for 6 fat!
+Psyche says, "Ahhh"
+Do? say "i'm getting beat upb+m4iy~/
+
+Psyche casts a vigor spell on you!
+You now have 14 fatigue points.
+Cleric #2 attacks you!
+Cleric #1 attacks you!
+Maiden #2 hits you for 2 fat!
+Gandalf says, "slow typing strikes again..."
+Psyche casts a fireball spell on cleric #2!
+Psyche just killed cleric #2!
+Your party encounters two clerics!
+Cleric #3 attacks you!
+Double damage!
+Cleric #3 hits you for 6 fat!
+Maiden #2 hits you for 2 fat!
+Maiden #1 hits you for 2 fat!
+Hokem_carr attacks cleric #3!
+Elrond says, "i'm getting beat up"
+Do?
+Psyche attacks cleric #3!
+Psyche just killed cleric #3!
+Gandalf makes an offer to maiden #2.
+Hokem_carr casts a vigor spell on you!
+You now have 9 fatigue points.
+Do? s
+Cleric #1 hits you for 9 fat, and 2 vit!
+Maiden #2 hits you for 2 vit!
+Maiden #1 hits you for 2 vit!
+Hokem_carr is attacking you!
+Hokem_carr misses you!
+Maiden #1 follows you!
+You're at Bakker and Overlook.
+Obvious exits are north, east and west.
+There is a maiden here.
+
+Hokem_carr and Psyche are also here.
+
+The maiden is attacking you!
+Do? s
+Hokem_carr says, "eek!"
+There is no way to go in that direction.
+Do? eQ-|LUZ|v>H2Auu*>
+
+Hokem_carr attacks the maiden!
+The maiden hits you for 1 fat, and 1 vit!
+Not understood.
+
+Do? e
+The maiden follows you!
+You're at the end of the Pilgrim's Way, on Bakker Street.
+Obvious exits are east, west and down.
+You see a huge domed temple.
+
+There is a maiden here.
+
+Psyche and Hokem_carr are also here.
+
+The maiden is attacking you!
+Do?
+Psyche says, "ouch?"
+Do?
+Your party encounters a cleric!
+The maiden hits you for 2 vit!
+You're almost dead!  Run, fool, run!
+Psyche says, "Follow?"
+Hokem_carr attacks the cleric!
+Psyche casts a fireball spell on the cleric!
+Psyche just killed the cleric!
+Hokem_carr pulls out a bardiche!
+Do? panic
+Arrgghh!! You run like crazy!
+You're walking along Bakker Street.
+Obvious exits are east and west.
+Do?
+Do?
+Do?
+Do?
+Do? look
+You're walking along Bakker Street. To the west can be heard the
+sound of a voice raised in song, praising our faith and heritage.
+Obvious exits are east and west.
+Do?
+You encounter an acolyte!
+Do? w
+You're at the end of the Pilgrim's Way, on Bakker Street.
+Obvious exits are east, west and down.
+You see a huge domed temple.
+
+There is a paladin and a maiden here.
+
+You see a wooden tower shield (1).
+
+Gandalf, Psyche and Hokem_carr are also here.
+
+Do? i
+Your party encounters two maidens!
+The paladin attacks you!
+The paladin hits you for 1 fat, and 8 vit!
+### Elrond, the Fighter, was just slain by a paladin.
+Hokem_carr says, "oh no!"
+Constitution roll failed.
+Everything goes dark...  You feel yourself floating away into
+space.  After what seems like an eternity, you hear a faint
+voice!  As you come to your senses, you find...
+You're standing before a locked gate. An old man,
+seated inside the gate, looks in a large book and
+solemnly shakes his head. He looks at you and
+points downward .
+                .
+               ...
+                .
+
+Obvious exits are down.
+You see the pearly gates.
+
+The Acolyte gives you a small bag of money and bids you go
+on your way.
+
+Player file updated.
+Do?
+Psyche# flashes, "oops!"
+Do?
+Do? send "yow!
+Elrond: "yow!"
+Do? look
+You're standing before a locked gate. An old man,
+seated inside the gate, looks in a large book and
+solemnly shakes his head. He looks at you and
+points downward .
+                .
+               ...
+                .
+
+Obvious exits are down.
+You see the pearly gates.
+
+Do? d
+You're in the Re-entrance Plaza. Adventurer's
+(of low enough level) can re-equip themselves
+by TALKing to the shopkeepers, and revisit
+the Adventurer's Guild if they wish.
+
+Experienced adventurer's can return directly to Port Haven.
+
+
+You see the Armory, the Shield Shoppe, the Weapon Shoppe,
+the Adventurer's Guild and Port Haven.
+
+Do? inven
+Your inventory includes the following objects:
+Nothing.
+Do?invenPsyche# flashes, "Perhaps an 8 piety would be in order?"
+Hokem_carr# flashes, "didnt feel too good?"
+Your inventory includes the following objects:
+Nothing.
+Do?
+Gandalf# flashes, "the townsfolk don't seem to care for you, what's your piety?"
+Do?
+Do? send gand "5
+Do?Do?
+Do? send "well, I gotta go.  It's fun to see Scepter again!  Bye!
+Elrond: "well, I gotta go.  It's fun to see Scepter again!  Bye!"
+Do? quit
+Are you sure? ye
+Hokem_carr# flashes, "BYE!!"
+### Elrond has quit adventuring.
+Player file updated.
+Returning to menu..
+
+A.R.T. Main Menu.
+
+Menu Command: lsit
+"lsit" is not a command; type 'list' for a list.
+
+Menu Command: list
+
+The featured programs are:
+
+   Command      Program description
+   --------   --------------------------------------------
+   Adventure   The original adventure in Colossal Cave
+   Dungeon     The original dungeon of Zork
+   Intrigue    Dominate the world in Foreign Intrigue
+   Mail        The ART Post Office (boards and Email)
+   Mazewar     Hunt down other players in Mazewars
+   Scepter     The Scepter of Goth (multi-player adventure)
+   Sokoban     40 different levels of mazes to solve
+   Talk        The ART Discussion Parlour
+
+Or choose one of these commands:
+
+account     adventure   ansinews    block       brief
+bye         charge      clock       credit      download
+dungeon     exit        files       goodbye     help
+intrigue    list        logoff      mail        mazewar
+news        password    scepter     send        set-option
+sokoban     talk        upload      users       where
+who
+
+Menu Command:
+Message from Ariadne:  "Bye!"
+quit
+"quit" is not a command; type 'list' for a list.
+
+Menu Command: logoff
+
+Goodbye, come again!
+Logged in at   2:20:29 pm, 92 Mar 15.
+Logged off at  2:57:10 pm, 92 Mar 15.
+On system 36 minutes. 37 credits used.
+Account balance= 67 cr.
+Tw)kwLv
+NO CARRIER
