@@ -17,7 +17,7 @@ Scepter became a [major historical influence](https://muds.fandom.com/wiki/Scept
 
 - The correct name is "Scepter of Goth", not "Sceptre of Goth"
 
-- Scepter was renamed "Milieu" for a short time on the MECC Timeshare System in 1981. (Some histories incorrectly state that Milieu was a precessor of Scepter.)
+- Scepter was renamed "Milieu" for a short time on the MECC Timeshare System in 1981. (Some histories incorrectly state that Milieu was a predecessor of Scepter.)
 
 - Scepter was commercialized in 1983 by GamBit Multisystems.
 
