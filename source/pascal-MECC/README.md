@@ -31,7 +31,7 @@ The MTS mainframe could support concurrent access by roughly 400 students, locat
 
 The Multi subsystem was created by the IT staff at MECC to conserve memory use in order to run the Oregon Trail game, which was the #1 app at the time. Under the Multi subsystem, an app could read keyboard input from a single I/O port (shared stdin). Each input was prefixed with a numerical identifier for the terminal number that it came from. The app sent its output to a single shared stdout using the same prefix.  Although the design made intercommunication theoretically possible, the Oregon Trail game never used it. The game simply echoed the output back to the same prefix. 
 
-Students quickly figured out that it was possible to communicate with each other using connecting the prefixes. Using Multi, they created the first 'talk' programs. The most popular talk program was called **MultiTalk**. This was followed by a space combat game, **Combat** (logajan).
+Students quickly figured out that it was possible to communicate with each other by connecting the prefixes. Using Multi, they created the first 'talk' programs. The most popular talk program was called **MultiTalk**. This was followed by a space combat game, **Combat** (logajan).
 
 ## Memory Constraints
 

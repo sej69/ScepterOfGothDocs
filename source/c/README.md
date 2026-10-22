@@ -22,6 +22,6 @@ Upon start, the front end process launched the back end process, which immediate
 
 The raw floppy diskette images do not contain the front end source code, unfortunately.
 
-The back end appears to be mostly intact. It contains the most interesting code historically, including almost all of the game mechanics.
+The back end contains the most interesting code historically, including much of the game mechanics.
 
-It should be possible to interpolate the missing code for the front end using the original code from the Pascal version.  The original C version was mostly a manual transpilation of the Pascal version, adapted for QNX. (Later changes to the C version were mostly focused on the back end, where the game logic was located.)
+It should be possible to interpolate much of the missing code using the original code from the Pascal version.  The original C version was mostly a manual transpilation of the Pascal version, adapted for QNX. (Later changes to the C version were mostly focused on the back end, where the game logic was located.)
