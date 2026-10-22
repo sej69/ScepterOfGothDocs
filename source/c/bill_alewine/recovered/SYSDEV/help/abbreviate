@@ -1,0 +1,14 @@
+
+     You  can  abbreviate  the  names  of  all  topics   and
+subtopics on  the  command  line.  For example, you can type
+the command "he intr key" instead of "help intro keyboard". 
+Any  word  can  be  abbreviated  as  long  as  it  is  still
+distinguishable from other words.
+
+	There are two special abbreviations for BACK and QUIT:
+
+    BACK - You can just hit a carriage return.  This does the
+           same thing as typing "BACK".
+
+    QUIT - You can type a control-C character.  This stops the
+           help directory and returns you to the main menu.

@@ -1,0 +1,9 @@
+/*	boot - boot up the system.
+*/
+
+main()
+{
+	asm("		abs jmp		0,0ffffh");  /* boot! */
+}
+
+

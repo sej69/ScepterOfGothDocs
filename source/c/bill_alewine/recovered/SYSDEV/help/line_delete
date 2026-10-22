@@ -1,0 +1,6 @@
+
+     The line_delete key will completely erase the line that
+you are  typing.  Use this key to "start-over" if you make a
+bad mistake on a line.  The line_delete key is defined as  a
+control-U,  and you can change this key to something else if
+you wish.

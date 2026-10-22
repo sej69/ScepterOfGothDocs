@@ -1,0 +1,8 @@
+create /help/mcreate
+end /help/mend
+list /help/mlist
+modify /help/mmodify
+receive /help/mreceive
+show /help/mshow
+
+     The modval utility allows you to modify the validation file.

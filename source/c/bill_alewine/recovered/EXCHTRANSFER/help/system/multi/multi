@@ -1,0 +1,8 @@
+Prereqs /help/system/multi/prereqs
+Procedures /help/system/multi/procedures
+Global_vars /help/system/multi/global_vars
+Library /help/system/multi/library
+
+     This help section describes how you can write your own
+multi-user programs.
+

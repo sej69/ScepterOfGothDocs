@@ -1,0 +1,70 @@
+path	kind	bytes	extents	notes
+back/primitive/parse.c	text	2318	1	attr=01 stamp=173f47c26f
+back/primitive/promptuser.c	text	1773	1	attr=01 stamp=171c487846
+back/primitive/desc.c	text	2120	1	attr=01 stamp=171b481977
+back/primitive/matchdelete.c	text	8005	1	attr=01 stamp=173f47eb75
+back/primitive/find.c	text	7435	1	attr=01 stamp=1732481505
+back/primitive/ran.c	text	260	1	attr=01 stamp=173f471976
+back/primitive/validusr.c	text	426	1	attr=01 stamp=173f472276
+back/primitive/num.c	text	1439	1	attr=01 stamp=173148c0a5
+back/primitive/global.c	text	112	1	attr=01 stamp=173f47d374
+back/primitive/timesubs.c	text	972	1	attr=01 stamp=1711483ca4
+back/back_segment.c	text	1638	1	attr=01 stamp=172b4838a5
+back/gen_interface.c	text	1549	1	attr=01 stamp=170548475a
+back/list	text	667	1	attr=01 stamp=1732486811
+back/gen_interface	binary	3189	1	attr=09 stamp=1f0548825a
+back/back_map	text	6925	1	attr=01 stamp=173e4853a1
+back/back_list	text	667	1	attr=01 stamp=171c48b11e
+back/info/display.c	text	8830	2	attr=01 stamp=173b485964
+back/info/display2.c	text	4896	1	attr=01 stamp=170f48ef82
+back/attack/printdmg.c	text	940	1	attr=01 stamp=170f489a9d
+back/attack/hitsharmor.c	text	1525	2	attr=01 stamp=172f4802a4
+back/attack/protectnpc.c	text	2124	1	attr=01 stamp=1707484953
+back/attack/shareexp.c	text	1046	1	attr=01 stamp=170448b003
+back/attack/maketreasure.c	text	1886	1	attr=01 stamp=171b487890
+back/attack/hitplayer.c	text	4828	1	attr=01 stamp=173248ed02
+back/attack/hitmonster.c	text	4608	2	attr=01 stamp=172348ff7e
+back/attack/attack.c	text	5056	1	attr=01 stamp=173b48d74d
+back/dummy/dummy.c	text	122	1	attr=01 stamp=170548f056
+back/user/logoff.c	text	1631	1	attr=01 stamp=173b48b74f
+back/user/kill.c	text	455	1	attr=01 stamp=173b48a74f
+back/user/savechar.c	text	372	1	attr=01 stamp=173b48f14f
+back/user/whydie.c	text	2501	1	attr=01 stamp=1732484a05
+back/user/dead.c	text	3331	2	attr=01 stamp=173b481050
+back/file/userfile.c	text	8726	2	attr=01 stamp=173e48c89e
+back/file/roomfile.c	text	9683	1	attr=01 stamp=173248bc0f
+back/file/update.c	text	5101	1	attr=01 stamp=173b489b4e
+back/file/elist.c	text	3205	2	attr=01 stamp=173b48294e
+back/file/test.c	text	2048	1	attr=01 stamp=172e48ec01
+random_file/random_read.c	text	3049	1	attr=01 stamp=1705485065
+random_file/random_write.c	text	11724	1	attr=01 stamp=173f470277
+random_file/random_create.c	text	1156	1	attr=01 stamp=173f470877
+random_file/random_open.c	text	3432	1	attr=01 stamp=173f471a77
+random_file/random_edit.c	text	2837	1	attr=01 stamp=173f473477
+random_file/DIRECTORYMAP	text	1059	1	attr=01 stamp=173f475277
+random_file/random_compact.c	text	2279	1	attr=01 stamp=173f477777
+random_file/random_close.c	text	1459	1	attr=01 stamp=173f478377
+random_file/random_msgs.c	text	3927	1	attr=01 stamp=173f479b77
+random_file/list	text	176	1	attr=01 stamp=171f4892a5
+random_file/random_file.c	text	4978	1	attr=01 stamp=173f47c077
+random_file/link_msgs	text	74	1	attr=09 stamp=1f3f47cc77
+random_file/random_cache.c	text	5354	2	attr=01 stamp=172f48088c
+random_file/link_msgs_list	text	120	1	attr=01 stamp=173f47ee77
+random_file/random_file.h	text	4007	1	attr=01 stamp=173f47f877
+random_file/random_msgs.h	text	3169	1	attr=01 stamp=173f470178
+random_file/random_edit	binary	12541	1	attr=09 stamp=1f3f471978
+random_file/old_cache.c	text	4109	1	attr=01 stamp=172c481b0e
+data/elist.new	binary	17408	1	attr=01 stamp=173b48e378
+data/elist.old	binary	21690	1	attr=01 stamp=173b48e46c
+data/elist.base	text	15750	1	attr=01 stamp=173a482420
+_deleted/data/edunjon	text	0	0	attr=01 stamp=172e48db13 DELETED entry; block 594: prev=2795677320, expected 0; block 594: bad extent (used=0, blocks=164167681)
+_deleted/data/edunjon~2	text	0	1	attr=01 stamp=172e48da12 DELETED entry
+_deleted/data/edescrp_bak2	text	2048	1	attr=01 stamp=171c48c82c DELETED entry
+_unallocated/fragments/blk182-182.txt	text	391		FREE SPACE: raw text fragment
+_unallocated/fragments/blk233-236.txt	text	1650		FREE SPACE: raw text fragment
+_unallocated/fragments/blk378-378.txt	text	496		FREE SPACE: raw text fragment
+_unallocated/fragments/blk380-382.txt	text	1520		FREE SPACE: raw text fragment
+_unallocated/fragments/blk393-394.txt	text	992		FREE SPACE: raw text fragment
+_unallocated/fragments/blk521-556.txt	text	4197		FREE SPACE: raw text fragment
+_unallocated/fragments/blk558-629.txt	text	10251		FREE SPACE: raw text fragment
+_unallocated/fragments/blk635-640.txt	text	964		FREE SPACE: raw text fragment

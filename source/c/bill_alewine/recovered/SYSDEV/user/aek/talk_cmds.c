@@ -1,0 +1,117 @@
+/*		talk_cmds - talk commands.
+		83/12/02.	A. E. Klietz.
+
+*/
+#include "aekdef.h"
+#include "multidef.h"
+#include "talkextern.h"
+
+
+do_command(command)
+char	*command;
+/* procedure talk_cmds - main command execution routine. */
+{
+	reset_parse();
+	switch (user->us_entry) {
+
+case US_ENTERNAME:  getname(command);
+					break;
+
+case US_CMD:		do_cmd(command);
+					break;
+
+default:			errlog("No such command, %d.\n",user->us_entry);
+					break;
+	}
+}	
+
+
+
+getname(command)
+/* getname - read name, test for uniqueness, and log in user. */
+If command is zero, then set name to user_data_ptr name. */
+{
+	char		name[12], lowername[12];
+
+	if (command[0] == '\0')
+		strcpy_star_from_at(name,
+			@&user_data_ptr[genuser[My_port].gn_ttynum].gl_username);
+	else
+		name = upper_parse(command, name);
+	name[12] = '\0';
+	strcpy(lowername, name);
+	string_tolower(lowername);
+	for (i=0; i < MAX_PORTS; i++)
+		if (equal(lowername, user_array[i].us_lowername)) {
+			mwrite(My_mask, "Duplicate name, try again.\nEnter your name? ");
+			return(0);
+		}
+	strcpy(genuser[My_port].gn_name, name);
+	strcpy(user->us_lowername, lowername);
+	user->us_entry = US_CMD;
+	user->us_echo = TRUE;
+	user->tablenum = 0; /* main floor */
+	mwrite(All_mask,"### %s just arrived in the %s on port #%d.  ",
+		name, table_list[0], My_port); 
+	mwrite(All_mask,"(%03u-%04u)\n", genuser[My_port].gn_usernum,
+		genuser[My_port].gn_userindex));
+ 	mwrite(My_mask,"Welcome to GamBit Talk.  Type '/help' for help.\n");
+}
+
+
+int	match_user(name)
+/* procedure match_user - return the port # matching the given name.
+returns -1 if not found, -2 if not unique.  In both cases an error message
+is returned to the user. */
+char	*name;
+{
+	int		count = 0, found = 0;
+
+	if (name[0] == '\0') {
+		mwrite(My_mask,"Missing name of user.\n");
+		return(-1);
+	}
+
+    for (i=0; i<MAX_PORTS; i++)
+		if (subset(name, user_array[i].us_lowername)) {
+			found = i;
+			count++; 
+		}
+
+	if (count == 0) {	
+		mwrite(My_mask,"%s - no such user.\n",name);
+		return(-1);
+	}
+
+	if (count == 1)
+		return(found);
+
+	mwrite(My_mask, "name is not unique.\n");	
+	return(-2);
+}
+
+
+int match_table(name)
+/* procedure match_table - return table # matching given table.  
+return -1 if table not found.  Search public tables for subsets of
+name.  Seach private tables for full name. */
+char	*name;
+{
+	register	i;
+    
+	if (name[0] == '\0') {
+		mwrite(My_mask, "Missing name of table.\n");
+		return(-1);
+	}
+
+	for (i=0; i < TABLE_LIST_LEN; i++)
+		if (table_list[i].tb_public) {
+			if (subset(name, table_list[i].tb_name)
+				return(i);
+		}
+		else
+			if (equal(name, table_list[i].tb_name)
+				return(i);
+
+	mwrite(My_mask, "%s - no such table name.\n",name);
+}

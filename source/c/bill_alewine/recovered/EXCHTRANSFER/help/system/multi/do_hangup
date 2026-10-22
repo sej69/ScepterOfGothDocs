@@ -1,0 +1,4 @@
+Example /help/system/multi/hang_example
+
+     This  procedure  is  called  when  a  user hangs up the
+phone. You place any hangup processing you need here.

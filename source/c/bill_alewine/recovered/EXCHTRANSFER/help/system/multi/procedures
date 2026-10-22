@@ -1,0 +1,12 @@
+do_login /help/system/multi/do_login
+do_input /help/system/multi/do_input
+do_initialize /help/system/multi/do_initialize
+do_hangup /help/system/multi/do_hangup
+
+Global_vars /help/system/multi/global_vars
+
+
+     To make a multi-user program, you need only write a few
+procedures and link them into GamBit's multi-user library.
+
+     The procedures you need to write are listed below. 

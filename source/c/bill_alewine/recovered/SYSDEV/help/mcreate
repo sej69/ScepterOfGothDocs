@@ -1,0 +1,9 @@
+
+     The  'create'  command  allows  you to make new entries
+into the validation file.  After you enter this command  the
+program will ask you a series of questions, asking for:
+
+          Codename, password, account, terminal data,
+          initial credits, age, credit rating,
+          charge flag, name, address, phone number,
+          and interests.

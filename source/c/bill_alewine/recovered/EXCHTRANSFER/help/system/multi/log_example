@@ -1,0 +1,21 @@
+
+/*          do_login - handle log in of user.
+
+            84/11/14.  A. B. Hacker.
+*/
+
+do_login(name, userindex)
+char   *name;   /* String with user's codename */
+int    userindex;  
+{
+
+     mwrite(My_mask, "Welcome to Multi-user Food Tasting\n");
+     mwrite(My_mask, "Version 22.6.9.\n");
+
+     mwrite(All_mask, "### Please welcome %s, from %d.\n",
+        name, userindex);
+
+     mwrite(My_mask, "Name a food you like to eat?");
+
+     return;
+}

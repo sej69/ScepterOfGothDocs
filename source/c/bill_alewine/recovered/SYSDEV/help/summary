@@ -1,0 +1,18 @@
+
+     Here is quick summary of all the special keys that the
+GBMS system recognizes:
+
+     BACKSPACE or DEL  - delete the previous character.
+
+     Control-C         - return you to the "top" level
+                         of a program.
+
+     Control-S         - pause the display.
+
+     Control-Q         - resume the display.
+
+     Control-U         - erase the current line.
+
+     Control-F, 0      - recall the previous line.
+
+     Control-F, 9      - recall and execute the previous line.

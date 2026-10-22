@@ -1,0 +1,49 @@
+/*		Display_journal - display journal to file *fp*.
+		83/11/27.	A. E. Klietz
+
+*/
+
+#include <stdio.h>
+#include "aekdef.h"
+#include "jourdef.h"
+#include "appdef.h"
+
+static char *ap_list[] = {
+	"",
+	"Menu",
+	"Scepter",
+	"Talk",
+	"Mail",
+	"Diplomacy",
+	"<system>",
+};
+
+static char *entry_list[] = {
+	"Login   ",
+	"Logout  ",
+	"Newapp  ",
+	"CRASH   ",
+	"Writeval",
+	"Credit  ",
+};
+
+
+show_journal(fp, journal_record)
+FILE	*fp;
+struct	jr_journal_record	*journal_record;
+{
+
+	if (journal_record->jr_checkbyte != JR_CHECKBYTE)
+		tfprintf(fp,"\007WARNING - checkbyte mismatch.\n");
+	tfprintf(fp,"%11s, %11s  ",dateconv(journal_record->jr_bindate),
+		timeconv(journal_record->jr_bindate));
+	tfprintf(fp,"%s ",entry_list[journal_record->jr_entry]);
+	tfprintf(fp,"%4d cr.  ",journal_record->jr_credits);
+	tfprintf(fp,
+		(journal_record->jr_entry == CREDIT_ENTRY ? "%04u " : "%4d "),
+		journal_record->jr_ttynum);
+	tfprintf(fp,"%s",ap_list[journal_record->jr_apnum]);
+	if (journal_record->jr_entry == CREDIT_ENTRY)
+		tfprintf(fp," Thank You!");
+	tfprintf(fp,"\n");
+}

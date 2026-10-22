@@ -1,0 +1,183 @@
+/*		Acct_subs - Accounting subroutines.
+		83/10/20.	A. E. Klietz.
+
+*/
+#define MSGBUFLEN	512
+#include "aekdef.h"
+#include <stdio.h>
+#include "globdef.h"
+#include "validef.h"
+#include "ac_msgs.h"
+#include "appdef.h"
+#include "jourdef.h"
+
+extern	struct gl_system_datum *system_data_ptr;    /* pointer to global system data. */
+extern	struct gl_user_datum   *user_data_ptr;      /* pointer to global user data. */
+
+
+do_globmsg(tid, global_seg_addr)
+/* Procedure do_globmsg - process a req for global segment address. */
+unsigned	tid;
+unsigned	global_seg_addr;
+{
+	struct ac_globmsg_reply  globmsg_reply;
+
+	globmsg_reply.ac_global_seg_addr = global_seg_addr;
+	globmsg_reply.ac_user_data_ptr   = user_data_ptr;
+	globmsg_reply.ac_system_data_ptr = system_data_ptr;
+	acct_reply(tid, &globmsg_reply, sizeof(globmsg_reply));
+}
+
+
+do_logoutmsg(tid, msg_buf)
+/* Procedure do_logoutmsg - write a logout journal entry, and zero the
+	user's global page table. */
+unsigned	tid;
+char		msg_buf[];
+{
+	struct  ac_logoutmsg		logoutmsg;
+	struct	ac_logoutmsg_reply  logoutmsg_reply;
+	struct	va_user_record		user_record;
+	struct	gl_user_datum		*user_ptr;
+	byte	ttynum;
+	byte	*zeroptr, *bound;                      
+	unsigned	userindex, credits_left, credit_diff;
+
+	copy(&logoutmsg, msg_buf, sizeof(logoutmsg));
+	ttynum = logoutmsg.ac_ttynum;
+	if (ttynum == 0 || (@&user_data_ptr[ttynum].gl_userindex == 0))	
+		/* bad logout request. */
+		logoutmsg_reply.ac_logout_success = FALSE;
+	else { /* process logout */
+		user_ptr = &user_data_ptr[ttynum];
+    	logoutmsg_reply.ac_logout_success = TRUE;
+
+		userindex = @&user_ptr->gl_userindex;
+		if (valid_read(userindex, &user_record) <= 0)
+			error("fatal:acct - bad logout validuz read.\n");
+
+		credits_left = credit_update(ttynum, -1);
+			
+		credit_diff = @&user_ptr->gl_startcredits -
+			user_record.va_creditbalance;
+
+		write_journal(LOGOUT_ENTRY, ttynum, 0);
+        if (!user_record.va_nocharge) /* dont debit free accounts */
+			user_record.va_creditbalance = credits_left - credit_diff;
+		user_record.va_lastlogin[0] = @&user_ptr->gl_logintime[0];
+		user_record.va_lastlogin[1] = @&user_ptr->gl_logintime[1];
+		user_record.va_ttyoptions = @&user_ptr->gl_ttyoptions;
+		user_record.va_backspace  = @&user_ptr->gl_backspace;
+		user_record.va_linedel    = @&user_ptr->gl_linedel;
+
+		if (valid_write(userindex, &user_record) <= 0)
+			error("fatal:acct - bad logout validuz write.\n");			
+
+
+		/* zero out the user's data area. */
+		zeroptr = (byte *) &user_data_ptr[ttynum]; /* point to user's area. */		
+		bound = zeroptr + sizeof(struct gl_user_datum);
+		for (; zeroptr < bound; zeroptr++)		
+			@zeroptr = 0;
+	} /* else */
+    acct_reply(tid, &logoutmsg_reply, sizeof(logoutmsg_reply));
+}
+
+
+do_loginmsg(tid, msg_buf)
+/* Procedure do_loginmsg - verify login un and pw.  Set up user data area. */
+unsigned	tid;
+char		msg_buf[];
+{
+	struct	ac_loginmsg			loginmsg;
+	struct	ac_loginmsg_reply 	loginmsg_reply;
+	struct	va_user_record		user_record;
+	struct	gl_user_datum		*user_ptr;
+	byte	ttynum;
+	unsigned	userindex, bindate[2];
+    char    hashpw[12];
+
+	copy(&loginmsg, msg_buf, sizeof(loginmsg));
+	ttynum = loginmsg.ac_ttynum;
+	if (ttynum == 0 || (userindex = valid_hash(loginmsg.ac_username)) == 0)
+		/* bad login request */
+		loginmsg_reply.ac_login_success = 0;
+		/* 0 = code for improper login. */
+	else  /* process login */
+		if (valid_read(userindex, &user_record) == 0)
+			loginmsg_reply.ac_login_success = 3;	/* bad login record. */	
+    	else
+			if (user_record.va_closed)
+				loginmsg_reply.ac_login_success = 4; /* account closed. */
+			else
+				if (user_record.va_creditbalance <= 0)
+					loginmsg_reply.ac_login_success = 2; /* no credits left. */
+				else {
+					hashpassword(loginmsg.ac_userpw, hashpw);
+					if (!equal(hashpw, user_record.va_hashpw))
+						loginmsg_reply.ac_login_success = 0;  /* bad password. */
+					else {
+/* login complete */
+
+						loginmsg_reply.ac_login_success =
+							user_record.va_creditbalance <= 40 ? 5 : 1;
+						get_date(bindate);
+						user_ptr = &user_data_ptr[ttynum];
+						strcpy_at_from_star(user_ptr->gl_username, 
+							loginmsg.ac_username);
+						@&user_ptr->gl_useracct =
+							user_record.va_useracct;
+						@&user_ptr->gl_userindex = userindex;
+						@&user_ptr->gl_logintime[0] = bindate[0];
+						@&user_ptr->gl_logintime[1] = bindate[1];
+						@&user_ptr->gl_last_creditupdate[0] = bindate[0];
+						@&user_ptr->gl_last_creditupdate[1] = (bindate[1]/60) * 60;
+						@&user_ptr->gl_binarylastcr[0] = bindate[0];
+						@&user_ptr->gl_binarylastcr[1] = bindate[1];
+	        			@&user_ptr->gl_creditbalance = 
+							user_record.va_creditbalance;
+						strcpy_at_from_star(user_ptr->gl_ttyname,
+						loginmsg.ac_ttyname);
+						@&user_ptr->gl_ttyoptions = user_record.va_ttyoptions;
+						@&user_ptr->gl_backspace = user_record.va_backspace;
+						@&user_ptr->gl_linedel   = user_record.va_linedel;
+						@&user_ptr->gl_apnum = AP_LOGIN;
+						@&user_ptr->gl_startcredits = 
+							user_record.va_creditbalance;
+						@&user_ptr->gl_minute_remainder = 0;
+						write_journal(LOGIN_ENTRY, ttynum, 0);
+						@&user_ptr->gl_creditbalance -= 1; /* login fee */
+					}
+				} /* else */
+	acct_reply(tid, &loginmsg_reply, sizeof(loginmsg_reply));
+}
+
+
+
+do_constmsg(tid, msg_buf, sysnam, sysloc)
+/* procedure constmsg - system constants. */
+unsigned	tid;
+char		msg_buf[], *sysnam, *sysloc;
+{
+	struct	ac_constmsg			constmsg;
+	struct	ac_constmsg_reply	constmsg_reply;
+
+	copy(&constmsg, msg_buf, sizeof(constmsg));
+	strcpy(constmsg_reply.ac_sysnam, sysnam);
+	strcpy(constmsg_reply.ac_sysloc, sysloc);
+	reply(tid, &constmsg_reply, sizeof(constmsg_reply));
+}
+
+
+
+acct_reply(tid, reply_msg, size_reply_msg)
+/* Procedure acct_reply - reply to an accounting request. */
+unsigned	tid;
+struct ac_generic_reply		*reply_msg;
+int			size_reply_msg;
+{
+	if (size_reply_msg <= 0 || size_reply_msg > MSGBUFLEN)
+		tprintf("warn:acct - reply buffer size bad. size=%d.\n",size_reply_msg);
+	reply_msg->ac_checkword = AC_CHECKWORD;
+	reply(tid, reply_msg, size_reply_msg);
+}

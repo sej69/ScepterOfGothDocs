@@ -1,0 +1,10 @@
+
+     The 'show' command lists all information about a given user.
+The format of this command is:
+
+          show <codename>
+
+     For example, to show all information on a user named 'joe'
+you would type
+
+          show joe

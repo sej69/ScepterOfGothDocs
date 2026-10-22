@@ -7,6 +7,7 @@
 *.c text eol=lf
 *.h text eol=lf
 *.y text eol=lf
+*.py text eol=lf
 
 *.pas text eol=crlf
 *.PAS text eol=crlf
@@ -20,6 +21,8 @@
 *.o binary
 *.img binary
 *.tar binary
+
+*.tsv text eol=lf
 
 Makefile* text eol=lf
 

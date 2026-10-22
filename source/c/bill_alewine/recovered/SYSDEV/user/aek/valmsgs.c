@@ -1,0 +1,125 @@
+/*		valmsgs - request operations on validation file to accounting.
+		83/11/22.  A. E. Klietz.
+
+
+
+		interlock_validfile(flag)   TRUE to lock, FALSE to unlock.
+
+		read_valid(userindex, &user_record) read data to user_record
+				returns 0 if bad index.
+
+		write_valid(userindex, &user_record) write user_record to file
+				returns 0 if bad write.
+
+		str_skip(count, string) skip forward *count* strings in a multiple
+				string array.
+
+*/
+#include <stdio.h>
+#include "aekdef.h"
+#include "globdef.h"
+#include "validef.h"
+#include "ac_msgs.h"
+
+extern char		My_tty;
+
+extern struct	gl_user_datum	*user_data_ptr;
+	
+
+interlock_validfile(flag)
+/* procedure interlock_validfile - halt the accounting administrator if TRUE,
+   restart the administrator if FALSE */
+int		flag;
+{ 
+	static	boolean		prevflag;
+	struct	ac_intlockmsg		intlockmsg;
+	struct	ac_intlockmsg_reply	intlockmsg_reply;
+
+
+	if (flag == prevflag)
+		error("fatal:ilock - lock flag did not change!\n");
+
+	if (!flag) {
+		signal(ACCOUNTING_PORT); /* wake up accounting */
+		prevflag = flag;
+		breakable(); /* restore interrupts */
+	}
+	else { /* put accounting to sleep */
+
+	unbreakable(); /* disable interrupts */
+	intlockmsg.ac_checkword = AC_CHECKWORD;
+	intlockmsg.ac_msgnum	= INTLOCKMSG;
+		
+	if (send(detach(ACCOUNTING_PORT), &intlockmsg, &intlockmsg_reply,
+		sizeof(intlockmsg)) <= 0)
+			error("fatal:ilock - unable to send to acct admin.\n");
+	prevflag = flag;
+    }
+}
+	
+
+
+
+read_valid(userindex, user_record)
+unsigned	userindex;
+struct		va_user_record	*user_record;
+{ 
+	struct	ac_readmsg		readmsg;
+	struct	ac_readmsg_reply	readmsg_reply;
+
+	readmsg.ac_checkword = AC_CHECKWORD;
+	readmsg.ac_msgnum	= READMSG;
+	readmsg.ac_ttynum   = My_tty;
+	readmsg.ac_userindex = userindex;
+
+	if (send(detach(ACCOUNTING_PORT), &readmsg, &readmsg_reply,
+		sizeof(readmsg)) <= 0)
+			error("fatal:vread - unable to send to acct admin.\n");
+	
+	if (readmsg_reply.ac_readmsg_success == 0)
+		error("Bad validuz read.\n");
+	else
+		copy(user_record, &readmsg_reply.ac_user_record, 
+			sizeof(struct va_user_record));
+}
+	
+
+write_valid(userindex, user_record)
+unsigned	userindex;
+struct		va_user_record	*user_record;
+{ 
+	struct	ac_writemsg		writemsg;
+	struct	ac_writemsg_reply	writemsg_reply;
+
+	writemsg.ac_checkword = AC_CHECKWORD;
+	writemsg.ac_msgnum	= WRITEMSG;
+	writemsg.ac_ttynum  = My_tty;
+	writemsg.ac_apnum	= @&user_data_ptr[My_tty].gl_apnum;
+    user_record->va_userindex = userindex;
+		
+	copy(&writemsg.ac_user_record, user_record,
+		sizeof(struct va_user_record));
+
+	if (send(detach(ACCOUNTING_PORT), &writemsg, &writemsg_reply,
+		sizeof(writemsg)) <= 0)
+			error("fatal:vwrite - unable to send to acct admin.\n");
+	
+	if (writemsg_reply.ac_writemsg_success == 0)
+		error("Bad validuz write.\n");
+}
+
+
+
+char *str_skip(count, string)
+/* procedure str_skip - skip 'count' strings forward in a list of strings. */
+int		count;
+char	*string;
+{
+	register   i;
+
+	for (i=1; i<=count; i++) 
+		while (*string++ != '\0')
+			;
+
+	return(string);
+}

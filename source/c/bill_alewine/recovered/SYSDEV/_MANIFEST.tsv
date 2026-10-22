@@ -1,0 +1,276 @@
+path	kind	bytes	extents	notes
+cmds/cc	text	295	1	attr=09 stamp=1f3339e468
+cmds/cco	text	178	1	attr=08 stamp=1f273afd7e
+cmds/linkobj	text	84	1	attr=09 stamp=1f3339b668
+cmds/ed.macros	text	2529	1	attr=01 stamp=173339dd97
+cmds/ls	binary	1032	1	attr=09 stamp=1f0938398d
+cmds/frel	binary	376	1	attr=09 stamp=1f09383c8d
+cmds/p	binary	624	1	attr=09 stamp=1f0938408d
+cmds/if	binary	1010	1	attr=09 stamp=1f0938448d
+cmds/locate	binary	2662	1	attr=09 stamp=1f0938498d
+cmds/size	binary	1244	1	attr=09 stamp=1f09384d8d
+cmds/copy	binary	1431	1	attr=09 stamp=1f0938528d
+cmds/ed	binary	23513	1	attr=09 stamp=1f2b38009a
+cmds/files	binary	2523	1	attr=09 stamp=1f0938688d
+cmds/task	binary	3278	1	attr=09 stamp=1f3138dc41
+cmds/cat	binary	623	1	attr=09 stamp=1f0938718d
+cmds/link	binary	6594	1	attr=09 stamp=1f283afb09
+cmds/asm	binary	23689	1	attr=09 stamp=1f0938af8e
+cmds/cc1	binary	31666	1	attr=09 stamp=1f0938c48e
+cmds/cc2	binary	24767	1	attr=09 stamp=1f373a1aa4
+cmds/chattr	binary	2343	1	attr=08 stamp=1f1e386918
+cmds/date	binary	1549	1	attr=09 stamp=1f0938e18e
+cmds/diff	binary	8224	1	attr=09 stamp=1f0938ea8e
+cmds/sort	binary	2418	1	attr=09 stamp=1f0938ef8e
+cmds/stty	binary	4300	1	attr=09 stamp=1f0938f68e
+cmds/drel	binary	909	1	attr=09 stamp=1f0938fa8e
+cmds/dump	binary	938	1	attr=09 stamp=1f0938ff8e
+cmds/eo	binary	2494	1	attr=09 stamp=1f0938048f
+cmds/ws	binary	5280	1	attr=09 stamp=1f09380c8f
+cmds/backup	binary	3930	1	attr=09 stamp=1f0938128f
+cmds/expl	binary	2965	1	attr=09 stamp=1f1238b49e
+cmds/led	binary	9016	1	attr=09 stamp=1f0938208f
+cmds/led.init	binary	10	1	attr=01 stamp=170938248f
+cmds/list	binary	5697	1	attr=09 stamp=1f09382d8f
+cmds/prt.init	text	85	1	attr=01 stamp=170938318f
+cmds/sh	binary	11193	2	attr=09 stamp=1f263cfd1b
+cmds/patch	binary	874	1	attr=09 stamp=1f09383e8f
+cmds/pwd	binary	727	1	attr=09 stamp=1f0938438f
+cmds/mkdir	binary	440	1	attr=09 stamp=1f0938478f
+cmds/query	binary	648	1	attr=09 stamp=1f09384b8f
+cmds/search	binary	832	1	attr=00 stamp=1f09384f8f
+cmds/slice	binary	541	1	attr=00 stamp=1f0938548f
+cmds/split	binary	971	1	attr=09 stamp=1f0938588f
+cmds/talk	binary	8512	1	attr=09 stamp=1f1338dd2b
+cmds/clock	binary	2078	1	attr=09 stamp=1f0938688f
+cmds/dinit	binary	1959	1	attr=00 stamp=1f09386d8f
+cmds/dcheck	binary	1402	1	attr=00 stamp=1f0938718f
+cmds/dcopy	binary	2790	1	attr=00 stamp=1f0938778f
+cmds/ddump	binary	988	1	attr=00 stamp=1f09387c8f
+cmds/dos	binary	6353	1	attr=00 stamp=1f0938858f
+cmds/mount	binary	5589	1	attr=00 stamp=1f2b381597
+cmds/zap	binary	770	1	attr=09 stamp=1f0938908f
+cmds/fdformat	binary	2961	1	attr=00 stamp=1f3138319e
+cmds/timer	binary	1817	1	attr=09 stamp=1f1e388509
+cmds/box.macros	text	907	1	attr=01 stamp=171e38341d
+cmds/french.macros	text	641	1	attr=01 stamp=171e38451d
+cmds/who	binary	1155	1	attr=09 stamp=1f3138cc41
+cmds/qnxsh	binary	7065	1	attr=09 stamp=1f273ae885
+cmds/casm	text	112	1	attr=01 stamp=1f383a9019
+_deleted/cmds/statements	text	0	0	attr=09 stamp=1f353c124b DELETED entry; block 1164: prev=3354609288, expected 0; block 1164: bad extent (used=4279262859, blocks=126488647)
+lib/directory	text	1624	1	attr=01 stamp=17293aca9b
+lib/stdio.h	text	203	1	attr=01 stamp=1709387a8d
+lib/entry.o	binary	760	1	attr=01 stamp=1709387e8d
+lib/share.o	binary	478	1	attr=01 stamp=170938828d
+lib/getchar.o	binary	212	1	attr=01 stamp=170938868d
+lib/printf.o	binary	194	1	attr=01 stamp=1709388a8d
+lib/fprintf.o	binary	3248	1	attr=01 stamp=1709388f8d
+lib/bound_chk.o	binary	77	1	attr=01 stamp=170938938d
+lib/pushdouble.o	binary	141	1	attr=01 stamp=170938978d
+lib/abs.o	binary	154	1	attr=01 stamp=1709389b8d
+lib/alloc_seg.o	binary	199	1	attr=01 stamp=170938a08d
+lib/atof.o	binary	370	1	attr=01 stamp=170938a48d
+lib/atoh.o	binary	233	1	attr=01 stamp=170938a88d
+lib/atoi.o	binary	160	1	attr=01 stamp=170938ac8d
+lib/atol.o	binary	196	1	attr=01 stamp=170938b18d
+lib/cd.o	binary	173	1	attr=01 stamp=170938b58d
+lib/char_waiting.o	binary	165	1	attr=01 stamp=170938b98d
+lib/concat.o	binary	109	1	attr=01 stamp=170938bd8d
+lib/copy.o	binary	138	1	attr=01 stamp=170938c18d
+lib/create.o	binary	626	1	attr=01 stamp=170938c58d
+lib/envsav.o	binary	432	1	attr=01 stamp=170938ca8d
+lib/equal.o	binary	94	1	attr=01 stamp=170938ce8d
+lib/exc_handler.o	binary	226	1	attr=01 stamp=170938d38d
+lib/ffuns.o	binary	232	1	attr=01 stamp=170938d78d
+lib/fgetline.o	binary	182	1	attr=01 stamp=170938db8d
+lib/fgets.o	binary	199	1	attr=01 stamp=170938df8d
+lib/fgetstr.o	binary	205	1	attr=01 stamp=170938e38d
+lib/fmatch.o	binary	358	1	attr=01 stamp=170938e88d
+lib/fork.o	binary	242	1	attr=01 stamp=170938ec8d
+lib/fputs.o	binary	148	1	attr=01 stamp=170938f08d
+lib/fscanf.o	binary	2644	1	attr=01 stamp=170938f68d
+lib/fseek.o	binary	360	1	attr=01 stamp=17273a1b79
+lib/get_attr.o	binary	752	1	attr=01 stamp=17273a2979
+lib/io.o	binary	116	1	attr=01 stamp=170938038e
+lib/isfuns.o	binary	447	1	attr=01 stamp=170938078e
+lib/ker1.o	binary	228	1	attr=01 stamp=17273a3179
+lib/ker2.o	binary	76	1	attr=01 stamp=170938108e
+lib/ker3.o	binary	324	1	attr=01 stamp=170938148e
+lib/nargs.o	binary	46	1	attr=01 stamp=170938188e
+lib/rand.o	binary	141	1	attr=01 stamp=1709381c8e
+lib/read_blk.o	binary	288	1	attr=01 stamp=170938208e
+lib/sscanf.o	binary	2596	1	attr=01 stamp=170938268e
+lib/substring.o	binary	126	1	attr=01 stamp=1709382a8e
+lib/tfscanf.o	binary	1657	1	attr=01 stamp=170938308e
+lib/timer.o	binary	374	1	attr=01 stamp=170938348e
+lib/truncate.o	binary	64	1	attr=01 stamp=170938388e
+lib/tsprintf.o	binary	826	1	attr=01 stamp=1709383d8e
+lib/tsscanf.o	binary	1661	1	attr=01 stamp=170938428e
+lib/math.h	text	450	1	attr=01 stamp=170938468e
+lib/io.h	text	1812	1	attr=01 stamp=1709384b8e
+lib/dev.h	text	1460	1	attr=01 stamp=170938508e
+lib/fsys.h	text	3573	1	attr=01 stamp=170938568e
+lib/task.h	text	5742	1	attr=01 stamp=1709385e8e
+lib/task_msgs.h	text	1716	1	attr=01 stamp=170938638e
+lib/ed.h	text	3261	1	attr=01 stamp=170938698e
+mathlib/directory	text	317	1	attr=01 stamp=1709386c8e
+mathlib/math0.o	binary	221	1	attr=01 stamp=170938708e
+mathlib/math1.o	binary	121	1	attr=01 stamp=170938748e
+mathlib/math2.o	binary	319	1	attr=01 stamp=170938778e
+mathlib/math3.o	binary	143	1	attr=01 stamp=1709387b8e
+mathlib/math4.o	binary	558	1	attr=01 stamp=1709387f8e
+mathlib/math5.o	binary	317	1	attr=01 stamp=170938838e
+mathlib/math6.o	binary	309	1	attr=01 stamp=170938878e
+mathlib/math7.o	binary	241	1	attr=01 stamp=1709388a8e
+mathlib/math8.o	binary	156	1	attr=01 stamp=1709388e8e
+mathlib/math_err.o	binary	215	1	attr=01 stamp=170938928e
+mathlib/rnd.o	binary	207	1	attr=01 stamp=170938968e
+config/pass	text	122	1	attr=01 stamp=17123a7816
+config/valid	text	223	1	attr=00 stamp=17053add36
+user/aek/aekdef.h	text	571	2	attr=01 stamp=17313b016c
+user/aek/termdef.h	text	875	1	attr=01 stamp=173d3bf953
+user/aek/monitor.c	text	10963	2	attr=01 stamp=17253c2381
+user/aek/test.c	text	2406	2	attr=01 stamp=17293c3923
+user/aek/sh.c	text	7041	2	attr=01 stamp=17353cbb79
+user/aek/kill_all_tasks.c	text	1119	1	attr=01 stamp=17193b3238
+user/aek/help.c	text	5223	2	attr=01 stamp=17193bce4d
+user/aek/time.c	text	3960	2	attr=01 stamp=17253cc28c
+user/aek/iosubs.c	text	5005	2	attr=01 stamp=17273ce886
+user/aek/statements	binary	10950	2	attr=09 stamp=1f353c107d
+user/aek/acct_subs2.c	text	5246	3	attr=01 stamp=17343c372a
+user/aek/menu.c	text	13290	3	attr=01 stamp=17343c7031
+user/aek/modval.c	text	12947	2	attr=01 stamp=17353ce368
+user/aek/set_glob.c	text	1639	1	attr=01 stamp=173d3b9759
+user/aek/stringsubs.c	text	1375	1	attr=01 stamp=17093c9e99
+user/aek/hanoi.c	text	2688	1	attr=01 stamp=17103adb1d
+user/aek/hanoi	binary	1843	1	attr=09 stamp=1f103a431f
+user/aek/control.c	text	7476	2	attr=01 stamp=17353c3338
+user/aek/validef.h	text	1841	2	attr=01 stamp=17343c0527
+_deleted/user/aek/filelist	text	0	1	attr=01 stamp=17353cbd7e DELETED entry
+user/aek/globdef.h	text	1752	2	attr=01 stamp=17373bd778
+user/aek/accounting.c	text	5447	1	attr=01 stamp=17363b0d39
+user/aek/show_journal.c	text	1052	1	attr=01 stamp=17093c023d
+user/aek/xtra_strcpy.c	text	344	1	attr=01 stamp=17293a8d96
+user/aek/valmsgs.c	text	2969	1	attr=01 stamp=17373b5d47
+user/aek/ac_msgs.h	text	2871	2	attr=01 stamp=17373b5631
+user/aek/validsubs.c	text	8659	2	attr=01 stamp=17353c1b7c
+user/aek/hashpw.c	text	210	1	attr=01 stamp=172d3ae18a
+user/aek/acct_subs.c	text	6021	2	attr=01 stamp=17363b242e
+user/aek/angry	text	1089	1	attr=01 stamp=17283c7049
+user/aek/statements.c	text	4117	1	attr=01 stamp=17373b7757
+user/aek/talk_cmds.c	text	2655	1	attr=01 stamp=17093c188c
+user/aek/boot.c	text	89	1	attr=01 stamp=17373b895b
+_deleted/user/aek/temp.c	text	0	1	attr=01 stamp=17353cde7e DELETED entry
+user/aek/test	binary	3458	1	attr=09 stamp=1f353c8953
+user/aek/appdef.h	text	185	1	attr=01 stamp=17363b9f28
+user/aek/whog.c	text	1221	1	attr=01 stamp=170d3b3018
+user/aek/callbrk.c	text	1124	1	attr=01 stamp=170c3b6a2e
+user/aek/sendap.c	text	1679	1	attr=01 stamp=17073c054c
+user/aek/credit_update.c	text	2676	2	attr=01 stamp=172a3b0024
+user/aek/jourdef.h	text	676	1	attr=01 stamp=17373bd025
+user/aek/val_init.c	text	118	1	attr=01 stamp=17353c8d20
+_deleted/user/aek/dammit	text	0	1	attr=09 stamp=1f353cd17e DELETED entry
+user/aek/val_init	binary	323	1	attr=09 stamp=1f353cc220
+_deleted/user/aek/dammit.c	text	0	0	attr=01 stamp=17353ce554 DELETED entry; block 933: prev=1958742786, expected 0; block 933: bad extent (used=3364610257, blocks=3771850962)
+_deleted/user/aek/dammit~2	binary	2252	1	attr=09 stamp=1f353ce154 DELETED entry; block 1272: prev=1050, expected 0
+_deleted/user/aek/mapfile	binary	928	1	attr=01 stamp=17353c553a DELETED entry; block 814: prev=858, expected 0
+_deleted/user/aek/validsubs.o	text	0	1	attr=01 stamp=17353cca7e DELETED entry
+user/lib/directory	text	767	2	attr=01 stamp=17373bb12a
+user/lib/time.o	binary	1427	2	attr=01 stamp=17253c178d
+user/lib/iosubs.o	binary	2033	1	attr=01 stamp=17273c9e87
+user/lib/stringsubs.o	binary	564	1	attr=01 stamp=17093cdc99
+user/lib/help.o	binary	2166	2	attr=01 stamp=17193b604e
+user/lib/xtra_strcpy.o	binary	295	1	attr=01 stamp=173b3ae315
+user/lib/acct_subs.o	binary	1864	2	attr=01 stamp=17343cc535
+user/lib/hashpw.o	binary	141	1	attr=01 stamp=173b3ac915
+user/lib/validsubs.o	binary	3472	2	attr=01 stamp=17353c8d7c
+user/lib/set_glob.o	binary	673	1	attr=01 stamp=173d3b0f5a
+user/lib/credit_update.o	binary	699	1	attr=01 stamp=172a3b5227
+user/lib/sendap.o	binary	950	1	attr=01 stamp=17093c6a3a
+user/lib/acct_subs2.o	binary	1727	1	attr=01 stamp=17343cd22a
+user/lib/callbrk.o	binary	663	1	attr=01 stamp=170c3b202f
+user/lib/kill_all_tasks.o	binary	670	1	attr=01 stamp=17193b6f38
+user/lib/valmsgs.o	binary	1077	1	attr=01 stamp=17343c6435
+user/lib/show_journal.o	binary	712	1	attr=01 stamp=17093ca93e
+_deleted/user/lib/validsicopy	binary	2288	1	attr=01 stamp=17353ce94c DELETED entry; block 1163: prev=1050, expected 0
+sys/gtalk	binary	21863	5	attr=09 stamp=1f253c7061
+sys/io	binary	12455	2	attr=09 stamp=1f253c6b61
+help/help	text	162	1	attr=01 stamp=172f3a1703
+help/keyboard	text	290	1	attr=01 stamp=172c3ba81b
+help/internal	text	193	1	attr=00 stamp=172c3b691b
+help/learn	text	529	1	attr=01 stamp=170e3bd922
+help/rates	text	360	1	attr=01 stamp=170e3bdc19
+help/intro	text	284	1	attr=01 stamp=172c3b831b
+help/features	text	925	1	attr=01 stamp=17133abaa2
+help/credits	text	599	1	attr=01 stamp=170e3b5d22
+help/break	text	277	1	attr=01 stamp=17183a6821
+help/pause	text	216	1	attr=01 stamp=172c3bf31c
+help/line_delete	text	255	1	attr=01 stamp=172c3bc91b
+help/redo	text	194	1	attr=01 stamp=172c3b231d
+help/summary	text	494	1	attr=01 stamp=172c3b5c1d
+help/login	text	301	1	attr=01 stamp=17333b7b51
+help/menu	text	292	1	attr=01 stamp=172c3b9a1c
+help/choices	text	676	1	attr=01 stamp=172c3bf01a
+help/bye	text	201	1	attr=01 stamp=17143a3407
+help/credit	text	130	1	attr=01 stamp=17143a6607
+help/list	text	90	1	attr=01 stamp=172c3bde1b
+help/talk	text	129	1	attr=01 stamp=172c3b6c1d
+help/news	text	224	1	attr=01 stamp=172c3be61c
+help/tasks	text	192	1	attr=01 stamp=172c3b921d
+help/size	text	184	1	attr=01 stamp=172c3b4e1d
+help/who	text	121	1	attr=01 stamp=172c3bbe1d
+help/type_ahead	text	181	1	attr=01 stamp=172c3baa1d
+help/shortcuts	text	337	1	attr=01 stamp=172c3b411d
+help/hparams	text	503	2	attr=01 stamp=172c3b591b
+help/abbreviate	text	563	2	attr=01 stamp=172c3bb51a
+help/help_files	text	721	1	attr=01 stamp=17183ae819
+help/basic_rates	text	476	1	attr=01 stamp=170e3b471b
+help/discounts	text	412	1	attr=01 stamp=170e3b7622
+help/intro_cost	text	621	1	attr=01 stamp=170e3b2922
+help/modval	text	181	1	attr=01 stamp=17163ba31d
+help/mcreate	text	358	1	attr=01 stamp=172c3b271c
+help/mend	text	59	1	attr=01 stamp=17163bfe1e
+help/mlist	text	72	1	attr=01 stamp=172c3ba81c
+help/mmodify	text	654	1	attr=01 stamp=172c3bbf1c
+help/mshow	text	225	1	attr=01 stamp=17163bbc20
+_deleted/err/talk	text	0	1	attr=01 stamp=17253c956d DELETED entry
+_unallocated/fragments/blk639-639.txt	text	260		FREE SPACE: raw text fragment
+_unallocated/fragments/blk657-658.txt	text	680		FREE SPACE: raw text fragment
+_unallocated/fragments/blk689-691.txt	text	274		FREE SPACE: raw text fragment
+_unallocated/fragments/blk702-704.txt	text	434		FREE SPACE: raw text fragment
+_unallocated/fragments/blk707-709.txt	text	1488		FREE SPACE: raw text fragment
+_unallocated/fragments/blk711-713.txt	text	591		FREE SPACE: raw text fragment
+_unallocated/fragments/blk717-719.txt	text	1219		FREE SPACE: raw text fragment
+_unallocated/fragments/blk729-730.txt	text	248		FREE SPACE: raw text fragment
+_unallocated/fragments/blk747-749.txt	text	787		FREE SPACE: raw text fragment
+_unallocated/fragments/blk771-772.txt	text	1024		FREE SPACE: raw text fragment
+_unallocated/fragments/blk783-785.txt	text	770		FREE SPACE: raw text fragment
+_unallocated/fragments/blk790-791.txt	text	512		FREE SPACE: raw text fragment
+_unallocated/fragments/blk800-801.txt	text	992		FREE SPACE: raw text fragment
+_unallocated/fragments/blk816-818.txt	text	844		FREE SPACE: raw text fragment
+_unallocated/fragments/blk847-848.txt	text	588		FREE SPACE: raw text fragment
+_unallocated/fragments/blk859-862.txt	text	815		FREE SPACE: raw text fragment
+_unallocated/fragments/blk872-879.txt	text	3056		FREE SPACE: raw text fragment
+_unallocated/fragments/blk885-889.txt	text	949		FREE SPACE: raw text fragment
+_unallocated/fragments/blk896-899.txt	text	522		FREE SPACE: raw text fragment
+_unallocated/fragments/blk904-906.txt	text	444		FREE SPACE: raw text fragment
+_unallocated/fragments/blk908-908.txt	text	496		FREE SPACE: raw text fragment
+_unallocated/fragments/blk937-940.txt	text	636		FREE SPACE: raw text fragment
+_unallocated/fragments/blk959-960.txt	text	941		FREE SPACE: raw text fragment
+_unallocated/fragments/blk965-966.txt	text	263		FREE SPACE: raw text fragment
+_unallocated/fragments/blk973-973.txt	text	109		FREE SPACE: raw text fragment
+_unallocated/fragments/blk1043-1046.txt	text	476		FREE SPACE: raw text fragment
+_unallocated/fragments/blk1092-1098.txt	text	880		FREE SPACE: raw text fragment
+_unallocated/fragments/blk1100-1104.txt	text	1313		FREE SPACE: raw text fragment
+_unallocated/fragments/blk1109-1110.txt	text	188		FREE SPACE: raw text fragment
+_unallocated/fragments/blk1115-1116.txt	text	1024		FREE SPACE: raw text fragment
+_unallocated/fragments/blk1135-1136.txt	text	272		FREE SPACE: raw text fragment
+_unallocated/fragments/blk1139-1140.txt	text	190		FREE SPACE: raw text fragment
+_unallocated/fragments/blk1150-1150.txt	text	244		FREE SPACE: raw text fragment
+_unallocated/fragments/blk1169-1176.txt	text	1047		FREE SPACE: raw text fragment
+_unallocated/fragments/blk1206-1211.txt	text	568		FREE SPACE: raw text fragment
+_unallocated/fragments/blk1214-1216.txt	text	543		FREE SPACE: raw text fragment
+_unallocated/fragments/blk1220-1222.txt	text	1520		FREE SPACE: raw text fragment
+_unallocated/fragments/blk1235-1241.txt	text	1637		FREE SPACE: raw text fragment
+_unallocated/fragments/blk1271-1271.txt	text	497		FREE SPACE: raw text fragment
+_unallocated/fragments/blk1277-1280.txt	text	1144		FREE SPACE: raw text fragment

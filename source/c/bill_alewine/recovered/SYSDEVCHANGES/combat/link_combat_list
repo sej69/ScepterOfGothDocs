@@ -1,0 +1,6 @@
+combat.o
+main.o
+command.o
+subs.o
+display.o
+update.o

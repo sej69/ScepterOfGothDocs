@@ -1,0 +1,25 @@
+/*		jourdef.h - journal file layout.
+		83/11/03.	A. E. Klietz.
+
+	This file defines the format of a record in the journal file.
+(/jou/journal).
+
+	This file depends on aekdef.h.
+
+*/
+
+#define	JR_CHECKBYTE	0x4e
+
+enum JR_ENTRYTYPE {LOGIN_ENTRY, LOGOUT_ENTRY, NEWAP_ENTRY,
+		 CRASH_ENTRY, WRITEVAL_ENTRY, CREDIT_ENTRY, MAX_ENTRY};
+
+
+struct	jr_journal_record {
+	byte		jr_checkbyte; 			/* checkbyte */
+	byte		jr_entry;				/* journal entry number */
+	unsigned	jr_bindate[2];			/* date/time of entry. */
+	unsigned	jr_ttynum;			    /* tty used (or userindex ) */
+	int			jr_credits;				/* credit balance. */
+	byte		jr_apnum;     			/* applcation code number. */
+	byte        jr_dummy;
+};

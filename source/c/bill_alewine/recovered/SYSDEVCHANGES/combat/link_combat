@@ -1,0 +1,2 @@
+linkobjs x=link_combat_list c=/sys/combat
+patch /sys/combat +c

@@ -1,3 +1,23 @@
+source/raw-floppies
+
+This is a copy of the original C QNX 1.14 source code saved on 5-1/4" floppy disk images in QNX file system format (circa 1983-84).  I doubt anything can read the format today, but it should be possible for some kind soul to extract the code snippets from the 512-byte block images and stitch them together to recreate a facsimile of it (painstaking but do-able).
+
+The QNX 1.14 version is the last and most feature-complete version. See Doug Wheeler's [History of Scepter](https://dwheeler.com/scepter-of-goth/scepter-of-goth.html) for details.
+
+------------------------------------------------------------------------------
+
+source/c
+
+Attempts at reconstruction of the GamBit C Scepter source code from
+the QNX floppy disks.
+
+source/pascal-MECC
+
+OCR scan of the original Pascal source code from the
+MECC Timeshare System (1983)
+
+---------------------------------------------------------------
+
 fake_milieu
   https://github.com/shelches/milieu
 	Fake Pascal 6000 source ported to VAX Pascal
@@ -16,18 +36,3 @@ combat_logajan
   https://github.com/shelches/combat
 	Combat source (written in Fortran by Logajan)
 
-------------------------------------------------------------------------------
-
-source/raw-floppies
-
-This is a copy of the original C QNX 1.14 source code saved on 5-1/4" floppy disk images in QNX file system format (circa 1983-84).  I doubt anything can read the format today, but it should be possible for some kind soul to extract the code snippets from the 512-byte block images and stitch them together to recreate a facsimile of it (painstaking but do-able).
-
-The QNX 1.14 version is the last and most feature-complete version. See Doug Wheeler's [History of Scepter](https://dwheeler.com/scepter-of-goth/scepter-of-goth.html) for details.
-
-------------------------------------------------------------------------------
-
-History of Scepter. Not entirely accurate (e.g., it mixes up Milieu and Scepter)
-
-https://dwheeler.com/scepter-of-goth/scepter-of-goth.html
-
-------------------------------------------------------------------------------

@@ -1,0 +1,9 @@
+
+     extern  int   My_port;
+
+     This integer is the port number of the user currently	
+being processed.
+
+     A "port number" is assigned to each user, starting with
+zero.  You can use this number as an index into an array of
+data.

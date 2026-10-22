@@ -1,0 +1,60 @@
+/*		set_glob - set global user and system pointers.
+		83/10/30.	A. E. Klietz.
+
+	This library routine obtains the global user and system pointers
+from the accounting administrator.  They are returned in the
+variables user_data_ptr and system_data_ptr.   It also sets the
+extra segment pointer to point to the global data tables.
+
+*/
+
+#include <stdio.h>
+#include <dev.h>
+#include "aekdef.h"
+#include "globdef.h"
+#include "ac_msgs.h"
+
+extern  struct	gl_system_datum		*system_data_ptr;
+extern	struct	gl_user_datum		*user_data_ptr;
+extern  byte    My_tty;
+
+
+set_glob()
+{
+	struct	ac_globmsg			globmsg;
+	struct	ac_globmsg_reply	globmsg_reply;
+	struct		dev_entry	buffer;
+
+	globmsg.ac_checkword = AC_CHECKWORD;
+	globmsg.ac_msgnum	 = GLOBMSG;
+
+	if (send(detach(ACCOUNTING_PORT), &globmsg, &globmsg_reply,
+			sizeof(globmsg)) <= 0)
+		error("fatal:get_glob - unable to send to accounting admin.\n");
+
+	if (globmsg_reply.ac_checkword != AC_CHECKWORD)
+		error("fatal:get_glob - bad ac_checkword.\n");
+
+	set_extra_seg(globmsg_reply.ac_global_seg_addr);
+
+	system_data_ptr = globmsg_reply.ac_system_data_ptr;
+	user_data_ptr	= globmsg_reply.ac_user_data_ptr;
+
+
+
+/*  set_term_config - set terminal configuration based on 
+gl_ttyoptions, gl_backspace, and gl_linedel. */
+
+	get_attr(stdin, &buffer);
+
+	if (@&user_data_ptr[My_tty].gl_userindex == 0)
+		return(0); /* dont change tty settings */
+
+	buffer.tty_options = @&user_data_ptr[My_tty].gl_ttyoptions;
+	if (buffer.tty_type == DEV_ASCII) /* if dial up port */
+		buffer.tty_RUBOUT = @&user_data_ptr[My_tty].gl_backspace;
+	buffer.tty_CANCEL = @&user_data_ptr[My_tty].gl_linedel;
+	set_attr(stdin, &buffer);
+
+
+}

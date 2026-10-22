@@ -1,0 +1,11 @@
+
+     You may specify the topics you wish to read directly on
+the help command.  For example, to  read  information  about
+using  the  keyboard, you can type "help intro keyboard" all
+on a single line.
+
+     If you leave off the word  'help',  then  the  computer
+will  begin  scanning  for  subtopic  names starting at your
+current location  within  in  the  topic  directory.     For
+example,  if  you  are in the 'intro' topic already, you can
+learn about the pause key by typing "keyboard pause".  

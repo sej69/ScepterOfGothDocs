@@ -1,0 +1,17 @@
+
+     extern  unsigned int   All_mask;
+
+     This is an integer bitmask that has a bit set for every
+active user in the program.
+
+     For example, if ports 1 and 3 are active, then All_mask
+would contain 0A hex, or 10 decimal.  The binary representation
+is:
+
+     3          2         1
+     10987654321098765432109876543210
+     --------------------------------
+     00000000000000000000000000010010
+
+     (This assumes a 32 bit integer.  A machine with 16 bit integers,
+like the IBM PC, would have a maximum of 16 users in the bit mask.)

@@ -1,0 +1,20 @@
+
+/*         do_hangup - Handle hangup processing.
+
+           84/11/14.   A. B. Codesmith
+*/
+
+extern   unsigned int  All_mask;
+extern   int           My_port;
+
+do_hangup()
+{
+     extern int number_users;
+
+     mwrite(All_mask, "### The guy on port %d just hung up!\n",
+         My_port);
+
+     number_users = number_users - 1;
+
+     return;
+}

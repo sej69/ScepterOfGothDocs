@@ -1,0 +1,19 @@
+path	kind	bytes	extents	notes
+help/system/multi/multi	text	237	1	attr=01 stamp=171d4b037f
+help/system/multi/do_initialize	text	185	1	attr=01 stamp=171d4b087f
+help/system/multi/init_example	text	324	1	attr=01 stamp=171d4b0e7f
+help/system/multi/do_input	text	329	1	attr=01 stamp=171d4b147f
+help/system/multi/global_vars	text	207	1	attr=01 stamp=171d4b1a7f
+help/system/multi/All_mask	text	541	1	attr=01 stamp=171d4b207f
+help/system/multi/My_mask	text	547	1	attr=01 stamp=171d4b257f
+help/system/multi/My_port	text	235	1	attr=01 stamp=171d4b2b7f
+help/system/multi/inp_example	text	914	1	attr=01 stamp=171d4b317f
+help/system/multi/do_login	text	334	1	attr=01 stamp=171d4b377f
+help/system/multi/log_example	text	450	1	attr=01 stamp=171d4b3e7f
+help/system/multi/procedures	text	384	1	attr=01 stamp=171d4b457f
+help/system/multi/prereqs	text	588	1	attr=01 stamp=171d4b4b7f
+help/system/multi/library	text	185	1	attr=01 stamp=171d4b527f
+help/system/multi/do_hangup	text	156	1	attr=01 stamp=171d4b587f
+help/system/multi/hang_example	text	343	1	attr=01 stamp=171d4b5f7f
+help/system/multi/mwrite	text	390	1	attr=01 stamp=171d4b657f
+help/system/multi/logout	text	210	1	attr=01 stamp=171d4b6c7f

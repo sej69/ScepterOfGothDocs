@@ -1,0 +1,70 @@
+path	kind	bytes	extents	notes
+combat/main.c	text	5046	1	attr=01 stamp=171a45cc52
+combat/combat.c	text	3411	2	attr=01 stamp=171a45b352
+combat/display.c	text	3228	2	attr=01 stamp=171a45c852
+combat/update.c	text	7129	2	attr=01 stamp=171a45f652
+combat/subs.c	text	6684	3	attr=01 stamp=171a45ee52
+combat/command.c	text	5924	2	attr=01 stamp=171a45c052
+combat/combatdef.h	text	651	1	attr=01 stamp=171a45f952
+combat/shipdef.h	text	1139	1	attr=01 stamp=171a45fd52
+combat/main.o	binary	2565	1	attr=01 stamp=1712456a4e
+combat/combat.o	binary	1746	1	attr=01 stamp=171245734e
+combat/subs.o	binary	1642	1	attr=01 stamp=171245ba4e
+combat/command.o	binary	3782	2	attr=01 stamp=171245c54e
+combat/link_combat	text	63	1	attr=09 stamp=1f1245cd4e
+combat/link_combat_list	text	52	1	attr=01 stamp=171245d34e
+combat/update.o	binary	2768	1	attr=01 stamp=171245dc4e
+combat/display.o	binary	2287	2	attr=01 stamp=171245e54e
+combat/displau.c	text	3177	1	attr=01 stamp=1712459051
+combat/shoot.c	text	5254	1	attr=01 stamp=171a45d752
+combat/test.c	text	477	1	attr=01 stamp=171445d646
+combat/blah.c	text	80	1	attr=01 stamp=171445dc46
+combat/set.c	text	3819	1	attr=01 stamp=171a45d252
+combat/show.c	text	3284	1	attr=01 stamp=171a45e252
+_deleted/newupdate.c	text	0	1	attr=01 stamp=1711454a8a DELETED entry
+_unallocated/files/blk160	text	843	1	FREE SPACE: unlisted extent chain at block 160
+_unallocated/files/startup	text	361	1	FREE SPACE: unlisted extent chain at block 162
+_unallocated/files/tty_lastcr.c	text	449	1	FREE SPACE: unlisted extent chain at block 164
+_unallocated/files/set_glob	text	1708	1	FREE SPACE: unlisted extent chain at block 170
+_unallocated/files/Display_journal	text	1159	1	FREE SPACE: unlisted extent chain at block 174
+_unallocated/files/stringsubs	text	1380	1	FREE SPACE: unlisted extent chain at block 177
+_unallocated/files/time	text	3960	1	FREE SPACE: unlisted extent chain at block 180
+_unallocated/files/blk189	text	118	1	FREE SPACE: unlisted extent chain at block 189
+_unallocated/files/ac_msgs.h	text	2871	1	FREE SPACE: unlisted extent chain at block 190
+_unallocated/files/aekdef	text	571	1	FREE SPACE: unlisted extent chain at block 196
+_unallocated/files/Applist	text	185	1	FREE SPACE: unlisted extent chain at block 198
+_unallocated/files/jourdef.h	text	676	1	FREE SPACE: unlisted extent chain at block 199
+_unallocated/files/termdef	text	772	1	FREE SPACE: unlisted extent chain at block 201
+_unallocated/files/validef.h	text	1841	1	FREE SPACE: unlisted extent chain at block 203
+_unallocated/files/valmsgs	text	2989	1	FREE SPACE: unlisted extent chain at block 207
+_unallocated/files/xtra_strcpy	text	344	1	FREE SPACE: unlisted extent chain at block 213
+_unallocated/files/dollar.h	text	107	1	FREE SPACE: unlisted extent chain at block 214
+_unallocated/files/blk310	text	112	1	FREE SPACE: unlisted extent chain at block 310
+_unallocated/files/blk311	text	173	1	FREE SPACE: unlisted extent chain at block 311
+_unallocated/files/blk312	text	316	1	FREE SPACE: unlisted extent chain at block 312
+_unallocated/files/talkdef	text	1315	1	FREE SPACE: unlisted extent chain at block 357
+_unallocated/files/modval	text	12948	1	FREE SPACE: unlisted extent chain at block 392
+_unallocated/files/monitor	text	10427	1	FREE SPACE: unlisted extent chain at block 461
+_unallocated/files/blk508	text	72	1	FREE SPACE: unlisted extent chain at block 508
+_unallocated/files/sh	text	7107	1	FREE SPACE: unlisted extent chain at block 531
+_unallocated/files/Mail	text	4196	1	FREE SPACE: unlisted extent chain at block 567
+_unallocated/files/whog	text	1236	1	FREE SPACE: unlisted extent chain at block 594
+_unallocated/files/blk610	text	793	1	FREE SPACE: unlisted extent chain at block 610
+_unallocated/files/Validsubs	text	8669	1	FREE SPACE: unlisted extent chain at block 618
+_unallocated/fragments/blk107-109.txt	text	1520		FREE SPACE: raw text fragment
+_unallocated/fragments/blk117-121.txt	text	2512		FREE SPACE: raw text fragment
+_unallocated/fragments/blk156-159.txt	text	2048		FREE SPACE: raw text fragment
+_unallocated/fragments/blk163-163.txt	text	98		FREE SPACE: raw text fragment
+_unallocated/fragments/blk165-169.txt	text	1047		FREE SPACE: raw text fragment
+_unallocated/fragments/blk188-188.txt	text	81		FREE SPACE: raw text fragment
+_unallocated/fragments/blk215-309.txt	text	22634		FREE SPACE: raw text fragment
+_unallocated/fragments/blk313-356.txt	text	8860		FREE SPACE: raw text fragment
+_unallocated/fragments/blk360-391.txt	text	14419		FREE SPACE: raw text fragment
+_unallocated/fragments/blk418-460.txt	text	8525		FREE SPACE: raw text fragment
+_unallocated/fragments/blk482-507.txt	text	4558		FREE SPACE: raw text fragment
+_unallocated/fragments/blk509-530.txt	text	3892		FREE SPACE: raw text fragment
+_unallocated/fragments/blk545-566.txt	text	4347		FREE SPACE: raw text fragment
+_unallocated/fragments/blk576-593.txt	text	2701		FREE SPACE: raw text fragment
+_unallocated/fragments/blk597-609.txt	text	4564		FREE SPACE: raw text fragment
+_unallocated/fragments/blk612-617.txt	text	2083		FREE SPACE: raw text fragment
+_unallocated/fragments/blk635-640.txt	text	790		FREE SPACE: raw text fragment

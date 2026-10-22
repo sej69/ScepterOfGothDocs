@@ -1,0 +1,16 @@
+
+     extern  unsigned int   My_mask;
+
+     This is an integer bitmask that has a single bit set
+for the user currently being processed.
+
+     For example, if port 9 is the current user, then My_mask
+would be 100 hex, or 512 decimal.  The binary representation is:
+
+     3          2         1
+     10987654321098765432109876543210
+     --------------------------------
+     00000000000000000000001000000000
+
+     (This assumes a 32 bit integer.  A machine with 16 bit integers,
+like the IBM PC, would have a maximum of 16 users in the bit mask.)

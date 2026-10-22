@@ -1,0 +1,27 @@
+account  /help/maccount
+age /help/mage
+charge  /help/mcharge
+codename /help/mcodename
+control_h /help/mcontrol_h
+credit /help/mcredit
+echo /help/mecho
+edel /help/medel
+linedel /help/mlinedel
+mailaddr /help/mmailaddr
+open /help/mopen
+password /help/mpassword
+rating /help/mrating
+state_res /help/state_res
+
+     The 'modify' command allows  you  to  alter  any  given
+aspect of  a  particular user's account.  The format of this
+command is
+
+            modify <username> <item>
+
+     For example, to change the password  of  a  user  named
+'joe' you would type:
+
+            modify joe password
+
+     The <item> parameter can be any one of the following.

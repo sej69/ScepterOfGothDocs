@@ -1,0 +1,36 @@
+RFM comes in two parts:
+
+  /std/random_file.o is a set of subroutines that are linked into the
+parent program. 
+
+  /std/random_msgs is a child program that handles the actual file i/o.
+It is implemented with shared code space.
+
+link_msgs - link together the /std/random_msgs program.
+
+random_cache.c - handles cache mechanism
+
+random_close - closes RFM file and flushes cache.
+
+random_compact - compacts RFM file by removing holes.
+
+random_create - creates a new RFM file with empty root block.
+
+random_edit - a test program in /sys/random_edit that can do crude
+              editing functions on a RFM file.  It is used to debug
+              RFM and can also be used as an off-line editor for
+              Scepter files.  (/data/scepter/edescrp).
+
+random_file - a series of subs linked into the parent program
+
+random_msgs.c - main program 
+
+random_open - open an RFM file and check consistency
+
+random_read - read data from an RFM file
+
+random_write - write data to an RFM file
+
+
+See the file random_msgs.h for information on the calling sequence to
+RFM

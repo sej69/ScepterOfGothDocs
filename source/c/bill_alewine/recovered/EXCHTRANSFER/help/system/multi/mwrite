@@ -1,0 +1,13 @@
+
+     The mwrite() procedure will send text to all users 
+with a matching bitmask.
+
+          mwrite(mask, text)
+
+              mask = unsigned bitmask.
+              text = text to send.  Up to 256 characters.
+                     Ending with a zero byte.
+
+     The   mwrite()  procedure  handles  all  the  necessary
+buffering  and  routing  to  get  the  text  to  the  user's
+terminal.

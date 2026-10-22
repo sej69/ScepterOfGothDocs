@@ -1,0 +1,8 @@
+
+     The logout() procedure will log the specified user
+out of the program.
+
+          logout(port)
+
+               port = The port number of the user to be
+                      logged out.  Usually My_port.
