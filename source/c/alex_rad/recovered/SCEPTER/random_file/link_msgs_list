@@ -1,0 +1,8 @@
+random_create.o
+random_open.o
+random_msgs.o
+random_read.o
+random_write.o
+random_close.o
+random_compact.o
+random_cache.o

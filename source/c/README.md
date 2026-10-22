@@ -6,6 +6,9 @@ This folder contains reconstructions of the C source code based on the QNX 1.14 
 
 - `scott_johnson` -- Work by Scott Johnson
 - `bill_alewine` -- Work by Bill Alewine
+- `alex_rad` -- Work by Alex Rad
+
+Thank you!
 
 ## Front End and Back End
 

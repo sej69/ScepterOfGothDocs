@@ -1,0 +1,37 @@
+
+/*       do_input - Example of handling input to a 
+                    multi-user program.
+
+         84/11/14.  A. B. Programmer
+*/
+
+
+/* First, we declare the global variables. */
+
+extern  unsigned int  My_mask;
+extern  unsigned int  All_mask;
+extern  int           My_port;
+
+
+do_input(buffer)
+char   *buffer;   /* String buffer containing the input text. */
+{
+    
+     if (equal(buffer, "fruit"))
+         mwrite(My_mask, "Yummy, I like Oranges especially!\n");
+     else
+     if (equal(buffer, "ice cream"))
+         mwrite(My_mask, "Mmmmm, Try chocolate!\n");
+     else
+     if (equal(buffer, "brocolli))
+         mwrite(My_mask, "Yuk!\n");
+     else
+         mwrite(My_mask, "I've never heard of %s before!\n", buffer);
+
+     mwrite(All_mask, "Hey everybody!  The guy on port %d likes to eat %s!\n",
+         My_port, buffer);
+
+     mwrite(My_mask, "Tell me another food you like to eat?");
+
+     return;
+}

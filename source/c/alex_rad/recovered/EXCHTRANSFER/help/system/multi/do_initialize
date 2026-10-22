@@ -1,0 +1,5 @@
+Example /help/system/multi/init_example
+
+     This procedure is called when your program is first 
+initialized.  Any start-up procedures that you need to call
+should be placed in here.

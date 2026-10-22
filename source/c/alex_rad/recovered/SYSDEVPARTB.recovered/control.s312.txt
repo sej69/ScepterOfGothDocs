@@ -1,0 +1,1 @@
+     The control-C key is used to return you to the "top" levelof a program.  When you press this key, the computer will inter-rupt whatever it is doing and return you to the top level of theprogram.  It is also useful for interrupting output that you donot wish to read.

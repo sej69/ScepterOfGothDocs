@@ -1,0 +1,1 @@
+/*		xtra_strcpy - Extra string copy routines.		83/10/20.	A. E. Klietz.*/strcpy_at_from_star(s, t) /* copy *t to @s. */char	*s, *t;{	while (@s++ = *t++)		;}strcpy_star_from_at(s, t) /* copy @t to *s. */char	*s, *t;{	while (*s++ = @t++)		;}strcpy_at_from_at(s, t) /* copy @t to @s. */char	*s, *t;{	while (@s++ = @t++)		;}

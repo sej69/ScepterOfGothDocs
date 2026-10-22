@@ -1,0 +1,106 @@
+                Short Help for the IBM-PC MBBS
+
+List of commands:
+
+BRIEF     BYE       CHAT      CLEAR     CLOCK     COUNT
+DAYFILE   DEFINE    END       HELP      LIST      MAIL
+QUIT      PAUSE     READ      SEND      SKIM      STATUS
+TOPIC     UNJOIN    USERS     VOTE      WRITE
+
+
+     Pressing the ESC key will erase the current line.  Pressing
+the S-key will stop the display.  Pressing the I-key will inter-
+rupt the display.
+
+
+                  Long Help for the IBM-PC MBBS
+
+        The following is a full list of commands:
+
+        BRIEF - Toggles brief mode.
+
+        BYE - Leave the system.
+
+        CHAT - Talk with the system operator.
+
+        CLEAR - Erase old mailbox messages.
+
+        CLOCK - Get the current time and date.
+
+        COUNT - Count the votes of users for/against the
+                current proposal.
+
+        DAYFILE - See who has been logging in lately.
+
+        DEFINE - Define new login parameters.
+
+        END - Leave the system.
+
+        HELP - Obtain this display.
+
+        LIST - List all available topics.
+
+        MAIL - Toggle mail mode.  In this mode the
+               READ and WRITE commands send to specific
+               individuals rather than to public topic
+               files.
+
+        QUIT - Leave the system.
+
+        PAUSE - Toggles pause mode.
+
+        READ <number> - Initiate reading of
+             a topic file starting at given message
+             number.  If you have no current topic, then
+             you will be prompted for it.  If you omit
+             the message number, then you will start reading
+             where you last left off.  This command also
+             reads your private messages if you are in
+             mail mode.
+
+        SEND <topic> - Write a message and send it to
+             the given topic.  If you omit the topic name,
+             then the current topic is selected.  This
+             command is used to send private messages
+             if you are in mail mode.
+
+        SKIM - Toggles skim mode.  Only the first two lines
+               of each message are displayed.
+
+        STATUS - Show your status bits for PAUSE, SKIM,.
+                 and BRIEF; and give the current
+                 selected topic name.
+
+        TOPIC <name> - Select a topic for reading
+              and writing.  If you dont specify
+              the name then you will be prompted
+              for it.
+
+        UNJOIN - Remove your name from the users list.
+
+        USERS - Display the names of all active users.
+
+        VOTE  - Place a vote for/against the current
+                proposal.
+
+        WRITE <topic> - Same as the SEND command (see above).
+
+        <number> - Entering just a number will cause the selected
+                   message to be printed.
+
+
+        While you are entering a message, you may edit it using
+the following special edit commands:
+
+        ^D       - Delete the previous line.
+        ^O or ^A - Abort the message.
+        ^P or ^L - Print the message for inspection.
+
+        Each message may be up to 80 characters wide and 25 lines long.
+
+        1200 baud users:  Please use 8 data bits, 1 stop bit, and
+                          no parity for best results.
+
+        If you have any questions, please direct them to AEK on
+the MBBS mail service.  Thank you!
+

@@ -1,0 +1,33 @@
+/*		termdef - List of site dependent terminal definitions.
+		83/09/25.	A. E. Klietz.
+
+*/
+
+#define	IDLE	0x0004
+#define MONITOR_PORT 23
+
+struct termlist_type {
+	boolean enabled; /* false = logically turn off device. */
+	boolean zzzzzz;  /* fill */
+	unsigned taskid; /* id of task owning terminal. */
+	unsigned ttynum; /* device number. */
+	unsigned iobase; /* base addr for rs-232 devices. */
+	char	*name;	 /* name of device. */
+}	termlist[] = {
+	
+/* enabled  zzzzzz       tid  tty  iobase name  */
+/* ------   ------       ---  ---  ------ ----  */
+                       
+   TRUE  + (TRUE << 8),  IDLE, 2,   0,    "$con1",
+   TRUE  + (TRUE << 8),  IDLE, 3,   0,    "$mdm",
+   TRUE  + (TRUE << 8),  IDLE, 4,   0,    "$term1",
+   TRUE  + (TRUE << 8),  IDLE, 5,   0,    "$term2",
+   TRUE  + (TRUE << 8),  IDLE, 6,   0,    "$term3",
+   TRUE  + (TRUE << 8),  IDLE, 7,   0,    "$term4",
+   TRUE  + (TRUE << 8),  IDLE, 8,   0,    "$term5",   
+   TRUE  + (TRUE << 8),  IDLE, 9,   0,    "$term6",
+   TRUE  + (TRUE << 8),  IDLE, 10,  0,    "$term7", 
+};
+
+#define TERMLIST_LEN (sizeof(termlist) / sizeof(struct termlist_type))
+#define MONSLEEP_SECS 5

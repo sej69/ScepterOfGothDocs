@@ -1,0 +1,1 @@
+stype Parsing \"#1.c\"...? cc1 <#1.c >/tmp/#%.istype Generating Code...? cc2 </tmp/#%.i >#1.afrel /tmp/#%.i

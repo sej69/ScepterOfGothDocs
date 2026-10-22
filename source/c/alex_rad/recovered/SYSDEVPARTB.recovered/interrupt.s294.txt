@@ -1,0 +1,1 @@
+interrupt    /help/breakline_delete  /help/line_deletepause        /help/pauseredo         /help/redosummary      /help/summarytype_ahead   /help/type_ahead     Certain  keys  on  your  keyboard  are used for specialfunctions under GBMS.  You should become familiar with theiruse.

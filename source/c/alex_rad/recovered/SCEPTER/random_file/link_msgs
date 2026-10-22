@@ -1,0 +1,2 @@
+linkobjs x=link_msgs_list c=/std/random_msgs
+patch /std/random_msgs +s +c

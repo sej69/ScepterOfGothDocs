@@ -1,0 +1,10 @@
+Example /help/system/multi/inp_example
+
+     Procedure do_input() is called each time a user enters some
+text.  
+
+          do_input(buffer)
+
+              buffer = text string entered by the user, ending with
+                       a zero byte.  Up to 256 characters.
+                       The carriage return is not included.

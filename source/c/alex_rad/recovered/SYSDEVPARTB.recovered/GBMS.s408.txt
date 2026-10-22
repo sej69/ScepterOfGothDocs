@@ -1,0 +1,1 @@
+     To log in to GBMS you need a remote terminal with aphone attachment.  GBMS talks over the phone line at 300baud (30 characters per second).  You should set yourterminal to no parity, 8 data bits, and 1 stop bit.      NOTE: You must use no parity.  Even parity, or oddparity will not work.

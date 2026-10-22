@@ -1,0 +1,1 @@
+internal     /help/internalintro        /help/intromenu         /help/menurates        /help/rates     If you are a new user, type "intro" and press return.

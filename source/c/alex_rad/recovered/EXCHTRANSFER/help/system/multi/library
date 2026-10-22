@@ -1,0 +1,5 @@
+mwrite /help/system/multi/mwrite
+logout /help/system/multi/logout
+
+     GamBit  supplies  a  library  of multi-user subroutines
+that you can call while running your multi-user program.

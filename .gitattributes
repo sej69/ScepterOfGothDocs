@@ -24,6 +24,8 @@
 
 *.tsv text eol=lf
 
+*.MAI text eol=crlf
+
 Makefile* text eol=lf
 
 .gitattributes text eol=lf

@@ -1,0 +1,1 @@
+aek	dorian	255	1000	Alan E. Klietz    communications, Multiprogramming.bob	translatee	255	1001	Robert Alberti	none.john	sparkle	255	1002	John Pritchard    none.marc	secret	254	9001	marc who?    none.

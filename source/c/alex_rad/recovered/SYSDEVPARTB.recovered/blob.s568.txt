@@ -1,0 +1,1 @@
+#include <stdio.h>int   blah[256];main(){	FILE *fp;	fp = fopen("/val/valindx", "wv");	fput(blah, 512, fp);}

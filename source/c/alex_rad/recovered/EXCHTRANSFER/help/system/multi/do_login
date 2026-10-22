@@ -1,0 +1,10 @@
+Example /help/system/multi/log_example
+
+     Procedure  do_login is called when a new user logs into
+your program.  You  should  place  any  user-specific  login
+initialization here.
+
+          do_login(name, userindex)
+
+              name      = String containing the codename of the user
+              userindex = Userindex number 

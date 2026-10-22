@@ -1,0 +1,17 @@
+
+/*        do_initialize - Example of multi-user initalization
+                          procedure.
+
+          84/11/14.   A. B. Programmer
+
+*/
+
+
+do_initialize()
+{
+     extern int number_users;   /* Number of active users */
+
+     number_users = 0;          /* Start with zero users. */
+ 
+     /* All done initializing */
+}

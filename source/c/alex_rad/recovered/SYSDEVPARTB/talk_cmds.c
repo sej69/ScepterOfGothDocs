@@ -1,0 +1,76 @@
+/*		credit_update - update a user's credit status.
+		83/11/03.  A. E. Klietz.
+
+*/
+
+
+#include <stdio.h>
+#include "aekdef.h"
+#include "appdef.h"
+#include "globdef.h"
+
+extern struct  gl_user_datum	*user_data_ptr;
+extern struct  gl_system_datum	*system_data_ptr;
+
+#asm "seg 2" /* force into constant area */
+static	int		rate_list[] = {   /* minutes per credit */
+32767,   /* login is free */
+6,       /* menu.      6 min/cr = 10 cr/hour */
+3,       /* scepter.   3 min/cr = 20 cr/hour */
+5,       /* talk.      5 min/cr = 12 cr/hour */
+4,       /* mail.      4 min/cr = 15 cr/hour */
+4,       /* diplomacy. 4 min/cr = 15 cr/hour */
+32767};  /* system is free */
+
+
+
+int	credit_update(ttynum, newapnum)
+/* procedure credit_update - update a user's credit balance, and
+return the balance.  ttynum = tty of user.  newapnum = new application
+number for carrying_over fractional credits.  <= 0 if same task.		
+*/
+
+int		ttynum, newapnum;
+{
+	int		credits_left;
+	unsigned remainder, rate, minutes, olddate[2], bindate[2], credits_used;
+	extern	unsigned	mindiff();
+	struct	gl_user_datum	*user_ptr;
+	
+	if (newapnum < -1 || newapnum >= AP_MAXNUM)
+		error("fatal:credit - bad app number.\n");
+
+	user_ptr = &user_data_ptr[ttynum];
+	olddate[0] = @&user_ptr->gl_last_creditupdate[0];
+	olddate[1] = @&user_ptr->gl_last_creditupdate[1];
+	get_date(bindate);
+	bindate[1] = (bindate[1] / 60) * 60; /* truncate to nearest minute */
+	minutes = mindiff(olddate, bindate);
+	minutes = minutes + @&user_ptr->gl_minute_remainder;
+	rate = rate_list[@&user_ptr->gl_apnum] + /* give nonpeak time bonus */
+		(@&system_data_ptr->gl_peakflag ? 0 : 1);
+		rate++;  /* give bonus rate for nonpeak time */
+	credits_left = @&user_ptr->gl_creditbalance;
+	credits_used = minutes / rate; /* Integer division truncates */
+                     
+    remainder = minutes % rate;           
+	{ /* tack fractional credit onto next application. */	
+        int newrate;
+		
+		 if (newapnum <= 0) /* if same application as before */
+			newrate = rate;
+		 else		
+			newrate = rate_list[newapnum] + /* give nonpeak bonus */
+				(@&system_data_ptr->gl_peakflag ? 0 : 1);
+
+/* Change remaining minutes to new app rate, rounding off. */  
+                                              
+ 		 @&user_ptr->gl_minute_remainder = (remainder * newrate + rate/2) / rate;
+	}                                               
+
+	if (credits_used > 32767 || credits_left - (int) credits_used < 0)
+		credits_left = 0;
+	else
+		credits_left = credits_left - (int) credits_used;
+
+	@&user_ptr->gl_creditbalance = credits_left

@@ -1,0 +1,1 @@
+bye   /help/byecredit /help/creditlist /help/listnews /help/newstalk /help/talktasks /help/taskswho /help/who     The GamBit Menu is the starting point for using GBMS.  All other games and applications can be  accessed  from  themenu by typing a simple command and pressing return.

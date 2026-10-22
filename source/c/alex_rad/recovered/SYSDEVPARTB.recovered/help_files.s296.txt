@@ -1,0 +1,1 @@
+help_files   /help/help_files     This is internal documentation used by members  of  thepartnership of  GamBit Multi Systems.  Normal users will notbe allowed to read  this documentation.

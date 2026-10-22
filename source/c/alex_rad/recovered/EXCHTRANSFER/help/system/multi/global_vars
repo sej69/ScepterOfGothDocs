@@ -1,0 +1,6 @@
+All_mask /help/system/multi/All_mask
+My_mask /help/system/multi/My_mask
+My_port /help/system/multi/My_port
+
+     There are a few global variables that are available for
+you to access within your procedures.
