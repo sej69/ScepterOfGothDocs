@@ -5,7 +5,7 @@
 - `c` - Reconstructions of the GamBit C source code
 - `incl` - GamBit C header files
 - `lo` - Lo transpiler for ScreenPlay
-- `pascal` - MECC mainframe source code, written in CDC Pascal 6000
+- `pascal-MECC` - MECC mainframe source code, written in CDC Pascal 6000
 - `raw-floppies` - Images of the raw QNX 1.14 floppy disks containing the GamBit C source code
 
 ## Reconstruction of the GamBit C source code
