@@ -1,0 +1,61 @@
+_directory.ud_name[i][0] != '\0') {
+			found = TRUE;
+			mwrite(My_mask, "  %s\n", user_directory.ud_name[i]);
+		}
+
+	return(found);
+}
+
+
+word	set_numentries(userindex, n)
+/* Return new num of entries.  n=-1 erase,  n=-2 query */
+unsigned	userindex;
+word		n;
+{
+	struct	ud_user_directory	user_directory;
+	register	i;
+
+	if (random_read(eperson, userindex << 3, &user_directory,
+			sizeof(user_directory)) < sizeof(user_directory)) {
+		mwrite(My_mask, "No such ui.\n");
+		return(-1);
+	}
+
+	if (n == -2)
+		return(user_directory.ud_maxentries);
+
+	if (n == -1) {
+		for (i=0; i < MAX_ENTRIES; ++i)
+			if (user_directory.ud_name[i][0] != '\0')
+				random_write(eperson, i + (userindex << 3) + 1, 0, 0);
+		random_write(eperson, userindex << 3, 0, 0);
+		mwrite(My_mask, "All records for ui=%d erased.\n", userindex);
+		return(-1);
+	}
+
+	n = max(0, min(n, MAX_ENTRIES));	
+
+	user_directory.ud_maxentries = n;
+	if (random_write(eperson, userindex << 3, &user_directory,
+		sizeof(user_directory)) < sizeof(user_directory)) 
+			crash(desc(707));
+	
+	return(n);
+}
+ies);
+
+	if (n == -1) {
+		for (i=0; i < MAX_ENTRIES; ++i)
+			if (user_directory.ud_name[i][0] != '\0')
+				random_write(eperson, i + (userindex << 3) + 1, 0, 0);
+		random_write(eperson, userindex << 3, 0, 0);
+		mwrite(My_mask, "All records for ui=%d erased.\n", userindex);
+		return(-1);
+	}
+
+	n = max(0, min(n, MAX_ENTRIES));	
+
+	user_directory.ud_maxentries = n;
+	if (random_write(eperson, userindex << 3, &user_directory,
+		sizeof(user_directory)) < sizeof(user_directory)) 
+			

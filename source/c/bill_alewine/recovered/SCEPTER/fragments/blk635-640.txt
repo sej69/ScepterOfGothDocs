@@ -1,0 +1,32 @@
+door,%suYPtablstairs,%s down)uu-$~=door,rickety %s )
+Pv"v-F=door,secret %sHF.!)
+ F=door,secret %sHF.!)
+ !)
+ Ddswo>PJdE=
+duct,small duct off to the right>P>
+P>>#2>xpanel,shiny panelWall,Great %s>(0><A=tunnel,dark tunnel>=grate,rusted grate>T>Pleaner>`*Wall,Grea>>>",
+A'0hhhA
+store,%sh/+sign, %s$
+& ' ,iii*Wall,Great %sBi
+dCute_Little_BunnyO!'xiVipiidais,raised %si>,door,golden %si
+acolyte"'p
+#'<iiiU+planks,rotting %sjA
+trail,narrow %s through the mucktrail,narrow %s through the mucky|upliuplink,transmat uplink
+|downdownlin
+store,%sh/+sign, %s$
+& ' ,iii*Wall,Great %sBi
+dCute_Little_BunnyO!'xiVipiidais,raised %si>,door%key,%sN"'0@dVdbd
+
+paperboyvdSpapers
+
+paperboyS`pappapers
+
+paperboyfS`pappapers:
+
+paperboyTS`papp')8'0xx&x*Wall,Great %s:xI +)view,interesting %s*(9'Pxdx*Wall,Great %s)+:'0txxxa+Keller,%s Ave. heading uphill to the eastxWall,Great %s,S*;'xx*Wall,beginning of the Great %s+F<'04yy(yY$+TBridge,%sJyRy
+2Guardhy
+2Guard
+2Guardzr
+2Guard>
+ q>p> >
+ >`

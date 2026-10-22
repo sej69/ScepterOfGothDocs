@@ -1,0 +1,37 @@
+ches()
+{
+	register	struct	cp_cache_pointer	*cache_pointer, *tmp_cache_pointer;
+	register	i;
+	word		j;
+	struct rf_random_file	*filedesc;
+
+	for (j=0; j < MAXFILES; ++j) {
+		filedesc = &filelist[j];
+		if (filedesc->rf_fp == 0 || filedesc->rf_maxcachesize == 0)
+			continue;
+	
+		for (i=0; i < CACHESIZE; ++i) { /* for each cache slot */
+			if ((cache_pointer = filedesc->rf_cachetbl[i]) == NULL_CACHE_POINTER)
+				continue;
+
+			do {
+				tmp_cache_pointer = cache_pointer->cp_next;
+				free(cache_pointer->cp_data);
+				free(cache_pointer);
+				cache_pointer = tmp_cache_pointer;
+    	    } while (cache_pointer != NULL_CACHE_POINTER);
+		}   	
+	}
+}
+j < MAXFILES; ++j) {
+		filedesc = &filelist[j];
+		if (filedesc->rf_fp == 0 || filedesc->rf_maxcachesize == 0)
+			continue;
+	
+		for (i=0; i < CACHESIZE; ++i) { /* for each cache slot */
+			if ((cache_pointer = filedesc->rf_cachetbl[i]) == NULL_CACHE_POINTER)
+				continue;
+
+			do {
+				tmp_cache_pointer = cache_pointer->cp_next;
+				free(cache_poin

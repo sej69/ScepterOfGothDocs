@@ -1,0 +1,142 @@
+ 1,Humfrey, the first level Fighter, was slain N yesterday.
+I am sorry, I have experienced the wrath of a billy-goat. Sayonara!
+edunjonng %sv0*t	..='@/->'@.00?'1//@'@jl~lY?Courthouse,Boldhome %sD20A' 	
+'@\uuSd\2 20202Afjord, %s to the south2 X2 ||A4view, fantastic %s2 2 2@||Q
+dux2~uorY2@2 2@2 2@(`2222p2]2@2 2 2 2 ['p(dccc2door,%s to the back roomdA6sign,%s on the wall>d<dmerchant- 'L'@Jd^dtddpads,football padsdaSmithy,Ruth's %s'dd22gateway,arena %s
+'
+0 %s
+'
+0rena %s
+'0
+P large information signQ`'0SPRa'0_YNGuild,Mages %s looming over the road$Qb'0Q#c' rer#=body,magicuser's %sBKZ(0EJ[( M\(@NL](@3M^(@AKF2U(@GEV(@FHW(6hPhbha=creek,Wanaky %s|hY-H=pond,%s in the woodsIGX(@HDY(@A?P(0}~E(pondpond,%s hidden by the treesB@Q(0CAR(0DBS(0ICT(Y<,N=distance,mountains in the %s=F<024A(hhY),&6=woods,edge of the %s2E1B(@hhY),&{$t$twoods,%s to the south457C(31D(0hiY),&v$t$twoods,%s to the southeast3>E(.iHiY),+=woods,%s to the east_7s~',lFlEspath,hidden path'pZltl~lAstairsldoor,door to the back room'plllQshelves,empty shelvesmQbeef,rotting beef'`	D$'`=%'p<&'p+tome,ancient %sG''p(' *Odoor,%sdoordoor,%sbx|xA{hovehovel,rude %sJL['0_McK\' acGold,%s St. heading eastLN]' MZO^' JN_'0dy,Azbard's %s_yuckJN?:<K(0=;L(0><M(05?=N(@>O(0'4NbcVae' UWf'0XVg' WYh'0^Xi' <fy'pfnznAjgateway,gateway to the transmat platformiz'qnnYlplatform,transmat platforme{'pBonnojgate,gate to the platform"obriefcase,diplomats briefcaseXoY)security-officerom}|'loooA'sign,information signoYjplatform,transmat platformlty}' platformlty}'Fy_
+
+x!Road-warrioraffb
+starstar-tridentlt;2
+ena,Fighters' %sBDS'b222[Nj'@ee}gate,spiked iron %s\Zk'0eeEpath,narrow %s][l'0^\m'0YE]n' n'  are vulnerable!
+Ok
+%s feints at you!
+%s falls back!4l'P0JAtunnel,dark tunnel'@{'(P`zA'tunnel,old tunnel[Fgreen-slimeB	ouzoid|'0{'aGilleys,Gilleys bar and grills,Gilleys bar and grill{'(PA'=tun<<(/0/=(01-.>(/00.?(@00/-@(@lof tritonZxx}s1L`o' ngggA`	road,%s leading out of towngA_path,%s following the rivera_p'0bU`q' acr'@bLs'@s'@H"1'0!2'0
+U313B'@ m4ma*+Creek,Wanaky %sN2C' FmZmpmI3wall,ivy-covered %smE4path,faint %s by the wall35D'@64E'mme-+5Creek,Wanaky %s, obscured by thick foliage5F'@5F'@a222p22'`'P'`'@'`'P'P#ena,Fighters' %sBDS'^2@2Afjord, %s to the north2 2@2 [2@2 2@2@20
+{' ' is the buildingz? is the building_2 2 222'p}}}YZ2 22 22@A''(''@^xaP>P>
+K`
+$=door,small doorway>ACpassage,service passage6
+0uXsutransporter,supply transporterrK-pikepikeg>Pz ](#|drawdrawer> ]h#|drawdrawergun,gun,stun gunB>K0>0> XrC>ksi siq>FPxA
+hole,dark murky hole*Wall,Great %sr
+;OJ)p&A3-=ttapetapestry,%s@A2-<&=tapestry,%s:K)@NhK>${=door,secret %s among the designsI{=Altar,%s 
+PPriestCBp=key,golden %s:L)`:M)P;N)p0 	bodybody,Smasher's %sJtK;=door,secret %s among the designs2,>=door,golden %sSFnPriestt2club,wooden %s2B!BddaggerZ2club,wooden %s0Thugb06'0*yBBQ'0p}}Ealley,narrow %s past a shopCAAR' }}Y:+Arena,Fighters' %sBDS'0}}~A;+view,%s of Boldhome on one side~Y:+Arena,%s to the other1ECT'.~B~Y:+Arena,Fighters' %s^DU'@X~l~Y:+Arena,Fighters' %s:+Arena,Fighters' %sY:+Arena,Fighters' %sikeY:+><p	1@)00A0J,=gate,%s to a tunnel20A)B)F`p248J
+door,cell %s23=door,cell %s2gategateway,arena %sA1Jgategate,%s to a tunnelC)22~=door,cell %sD)"<22doordoor,cell %s&)pO,{on Jbarrel,empty %sFPB
+BddaggerjtB
+dm)AYaf=window,%s
+}dEbarrbarrels,%s$0}d=crates,%sJZ2R=door,back %st2
+ddoordoor,%s to the shopY KmerchantCl=key,%sC
+,O,F"ztxPass,Nobility %sDA)$"2kdoordoor,%s<AYa=window,small %swindow,small %s>
+7F( zxx!.,]enteWall,this end of the Great %s638G(@97H( 8:I(@;9J( buildingw~'lp'
+<0qo'
+;~~Etrail,small hidden trailpr'0~~A'shack,small brick shackq'
+~!dbuilding,to the north a great building a great buildingW%pimpW	$pimpdaggerD\B#l!le,dark murky hole'My102Y	=Doors, Metallic %s		0pH^
+Bugbear		0`h~
+Bugbear		0pa	Doors, Open Metallic %s
+Bugbear6'2L*Wall,Great %s(%>r>->>#>tA$=building,large buildingt$tdoor,heavy %s to the bar$)v"xR	OQ^)pJdAR`H$tstairs,curved set of %sN_)0~
+doordoor,%s`)C~buckbucket,mop %s$|mopmop,wet %sa)p*RE=	door,%s2BS!}=apparatus,%s\t-d=cauldron,steaming %s	2~bubbbeaker,bubbling %s`
+<wizardC)wandwand,crystal %sNb)d
+AJ->xsign,warning %s6@*QE{=door,%sZ
+P@R}<}$tdoor,%s inscribed with runes>xsign,warning %s*QE{=door,%s
+
+P@R}<}$tdoor,%s inscribed with runes{
+2shield,small shield{yD,d(4JR_
+PGuardh_
+PGuard'J|d|x|C'~=sign,war'`aa(a<aE*<crazy,%s way outPaK8door,cell %svaadgardian-level-twoaC		help#'@aaaEalley,%s alongside the buildingaYMille, Green %s''p bbbEHcurtain6bKdFenceN'pFenceN'pcurtainh}KdFenceN'pA<<<<<7L'ppyyE>door,trap%s?M'pyyyy?door,back %sy*;door,barred %s at the back of the room
+z](>barbarian@N'p8zz*z%<door,trap%sNz[ VzZZJudgejz"dGavel,Judge's %s0O'pz~zzz=door,back %szY@Bench,Judge's %szGUFbailiff?P'`zzA>curtain,veiling %s"<A>curtain,veiling %sxugly-bum,*Wall,Gr>hC@xtunnel,small tunnelAZ=blower,large blower>#4=desk,large oak desk.@Zxkey,master key to tritonH2>x=panel,shiny panel>P\v(f=door,doorway
+=motor,large motor>C=
+key,tool box keyCbox,tool box>p>p"' 0<
+
+paperboyVS`pappaperspaperboy>~Sw"d	u0p :Af	cavecave,cave entrancee	v0pPja=bones,many chewed-up %si	d	w0`Ah	wentcemetery,%sg	x0pg	y0`*>j	A>|gategates,%su'(@'}gargoylev'@C,_('K
+2A'iA>[gategatesP dm	0 I	=Elevator, %s
+	6=Door, Heavy, Wooden %s		0 	0pf
+$C2F
+8=Chest, Wooden %sRC	'6=Cards, Deck of %s|
+Centaur		0 A	NxDoor, Wooden %s		00tabltable,small %s
+	_Zharlot,%s-$~=door,rickety %s*P'(bbbA"ddsword,sword stuck on a block of stone
+ccAdpink-tutu*cBcA	fountain,sparkling %sVc% N>egateway,main gateway of triton' xccc2^gate,%s to Boldhome ParkcaOrchard, %s Rd. heading south'pdcc2J	door,heavy %sd"d<Kbartender6dC%key,%sN"'0@dVdbd
+
+paperboyvdSpapers
+
+paperboyS`pappapers
+
+paperboyfS`pappapers:
+
+paperboyTS`papp')8'0xx&x*Wall,Great %s:xI +)view,interesting %s*(9'Pxdx*Wall,Great %s)+:'0txxxa+Keller,%s Ave. heading uphill to the eastxWall,Great %s,S*;'xx*Wall,beginning of the Great %s+F<'04yy(yY$+TBridge,%sJyRy
+2Guardhy
+2Guard
+2Guardzr
+2Guard>
+ q>p> >
+ >`p> 3innInn,Red Lantern %s to the west!>: 
+8JA=Door, wooden %sdI
+xxElevator, %s:p:p}C}2J
+oin tchest, wooden %sC	'6CardCards, Deck of %s}
+Centaurown)4F=cot,rumpled %s`lC2
+=door,%s  :Y=doors, metallic %s]'pathpath, strange little %s:`:`:p6~=scroll,rumpled %s skin97H( 0tvlT)pFc`cnc%E@fdoor,trap%sccAb=fire,cook%scQ=-f=filth,%s in the cornersFGU) cc%D@=door,trap%sEV)cd
+dE=hole,little %s8d*=door,secret %sEW)0X)@Su'`itiiTtunnel,secret tunneliiYgateway,main gateway of tritoniiA>sign,information signj jYkentrance,diplomats entrance4jYfoffice,customs office of tritonev'VjjjjAgdoorway,doorway to the inner officejAjdesk,customs deskfw'jjjAdeskj2hrvaultfx'pJkjkkgems,Shining gems0kYxmap,great map of triton`k dguardx=map,great map of triton$p dguard$~=door,rickety %s )
+{{-F=door,secreNG'xrr*;door,cell %s;H'@rrrA0Jgate,%s to a tunnelrrKcell,%ss-9cell,%s holding a vicious thugI'2sLsjsEhole,recently collapsed %ss-8door,cell %s;J'sssE9hole,small %s under the rubblessKrubble,pile of %st*door,splintered %s:8=K'.tHt\tQ=stairs,rickety %svttA:cell,collapsed %st*7cell,and seemingly empty %scell,collapsed %s~*7cell,and seemingly empty %scollapsed %s*7cell,and seemingly empty %srubble,pMj0") 8mtabltable,small %s
+B Kdshield,wooden %s0R Earmoarmor,leather armorRb0=
+bin,trash %s|-
+-Ea}at %window,%s#),=cask,%s of wineC2({=crate,%s of snacks22barrel,%s of ale,8--EaBtxwindow,%sR-J	V$t$tdoor,heavy %s$)b|C=chair,%sA{=stairs,flight of %s
+tableK=scroll,old %s%)N
+*=bureau,old %sDC+key,key,%sh=bed,%s&)
+p=bed,%s&)
+p@h'pyyAtunnel,dark tunnelsm'
+(0yyentrance,secret entrance{s'
+
+0z'yyzAshop,little shop
+z2z2'sign,warning signLz`z2Egrate,sewer gratezzA'|hole,fence with a hole in it.' zzzF9XspiderzzK!Qking-hoboz
+
+xugly-bumg-hoboL
+
+xugly-bumF9Xspider\hK!Qking-hobo~
+
+xugly-bum'$3'@R#%4'
+ &$'5'0oo*Wall,Great %s%6'oo*Wall,Great %s(%7'oo*Wall,Great %sWall,Great %sRobber&$'5'0'<ZktkA~+fotunnel,Dark tunnel{'t'0'kkQ
+,Qblap'|'0'xssQn	0#p	0pL"!}:=implements, various %s of torturebh@
+	orc~@
+
+	orc@
+	orcC	
+cockCocktail, Molotov %s
+	orccroscrossbow*\W@0
+
+	orcJ^d4=sword, short %sr@
+cat-bear		0 		0AdoordoorDdsw@60Ex$plate, small metallic %s, embedded in the floord@oxxDoor, Steel %s		0P		0@0
+&A	wellwell@~jarsjars, broken %s		0 />( xxdoorway,shimmering doorway>(0(=doorway,shimmering doorway.1<janitor><0>8R
+(~door,small doorway>8or,small doorway>8shield,strapped %sf+&6'b|*o'++&5;)--(,&<)- F,*,=)K */>)
+.?)
+E|pathpath,trace of the %s./)'bf|fE*hollow,%s beneath a fallen oak*'ffA	portal,magic %sJ+'( fffA+sign,%sg*gYInn,Red Lantern %s to the westDgaGreenview,%s to the east-,'`gzgADhovel,rude %s-'gggYwall,park %sgabrush,thick %s beside ita=brush,thick %s beside it=brush,thick %s beside itOgrep5 Ogre_C>2`2U(K,,billy-goat>pn_!#^ZMauraderp>}>pAsttransmat,transmat device8>guardian6[+9=
+key,golden chest key>PNhA=	platform,transmat platformg'0u9c<T=chest,golden chestZ#0u
+2@=	armor,Armor of Goodness
+Z$0u
+2V=
+shield,Shield of Valor8Z"0uK2
+2>=sword,Sword of Truthf[<2carpistical6.'
+i
+i.i*Wall,Great %sBiEpath,faint %s winding east! S/'@0'0H"1'!2'@2'@!2'@shiny$1'6)&(7)K'8)KE)xpond,large %s through the trees*(9)H-.:)<0JlE=hollow,%s beneath a fallen treeA)boatboat,small %s on the pondWall,Great %s@{{*Wall,Great %s%%ybodywu'(@:J		00JdAdoordoor		00	0pl2JcheschestCcCthouTutu, Ballerina's %sc2Gold, %s piecesJ!Shadow		0 			0 &2odoordoorasts a %s spell on you!
+(0le damage!
+Vital wound!
+Jumbles!
+????{tz'
+#@
+l l&2agargoylemyus'
+ vt'@wu'(@v'@>`>`.k	l	z0#Ak	path,cobblestone %s*barrbarrelsa=residue,lots of gooey ectoplasmic %s6*>i	A>[gategatesj	n	z0# j	m	z0#>XlQ=rags,piles of %sE?cointower,%s high overheadl	}0#@k	~02@Eo	^=
+crack,%s in the cobblestoneack,%s in the cobblestonek	~02@Eo	^=
+crack,%s in the cobblestoneghostra	p0
+>Y_=Boldhome,town of %s in the distancetn
+@merchantnmfarmern@merchant`	p0
+ 08b	)hillhill&farmer|
+farmer|q
+farmerq.l@merchantdl8@merchantNX
+farmern
+farmerc	a	r0`xY9=farmers, %s at the foot of the hilld	b	s0`g	c	s0`U:x=bones,dried %sQ;e	Arockrocks;e	Arockrocks;e	Arockrocks>`>2 >8>0>A'armocrack,small crack in the tunnel'armocrack,small crack in the tunnelll,R		0
+0		0`Q	T=	Stairs, %s, going down		00&@Q	|}0Stairs, %s, going up			0 	0@Xrd2@o=Door, Steel %sdagger:BBddagger|2$L	0p@4E2squisquirrelV]I7squirrel		00		00b|idoordoor0S=Jars, Ancient %s and bowlsA2Bstatstatueidoordoorclubclub,wooden %s>HB
+B^daggdaggerbtmtabltable,smaih)
+p4uNu\u-@doordoor,trap%svuAx stairs,flight of %s
+)uuu
+=

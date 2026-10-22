@@ -1,0 +1,14 @@
+);
+	dumusr->us_rmcode = w(usr->us_rmcode);
+	writeplayer(dumusr, dumusr->us_name, 
+		(index = genuser[usr->us_trm].gn_userindex));
+	dumusr = alloc(sizeof(struct us_user));
+	dumusr->us_checkword = CHECKWORD;
+	readplayer(dumusr, usr->us_name, index);
+	usr->us_weight = dumusr->us_weight;
+	usr->us_objecttail = dumusr->us_objecttail;
+	zero(dumusr, sizeof(struct us_user));
+	free(dumusr);
+}
+0(!
+:

@@ -1,0 +1,17 @@
+= object->ob_next;
+		} while (object != NULL);
+	}
+}
+write(My_mask, desc(832));
+		/* Monster can cast spells.\n */
+	if (mon->mo_nokill)
+		mwrite(My_mask, desc(839));
+		/* Monster should not be killed.\n */
+	if (mon->mo_mparley >0)
+		mwrite(My_mask, desc(833), pn(mon->mo_mparley));
+	mwrite(My_mask, "Treasure type: %s.\n", pn(mon->mo_whichobj));
+
+	if ((object = monster->mo_objecttail) != NULL) 	{
+		mwrite(My_mask, "\nObjects carried:\n");
+		do {
+			mwrite(My_mask, "  %s\n", printobj(object, FAL
